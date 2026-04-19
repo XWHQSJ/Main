@@ -4,7 +4,6 @@ build/
 out/
 bin/
 *.class
-*.jar
 *.war
 *.ear
 
@@ -24,11 +23,11 @@ bin/
 mvnw
 mvnw.cmd
 
-# Gradle
+# Gradle build cache (keep wrapper checked in)
 .gradle/
-gradle/
-gradlew
-gradlew.bat
+
+# SQLite state DB
+*.db
 
 # Logs
 *.log
