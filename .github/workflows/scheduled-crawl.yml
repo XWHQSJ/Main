@@ -1,0 +1,115 @@
+name: Scheduled Crawl
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # Daily at 02:00 UTC — Hacker News
+    - cron: '0 3 * * 1'   # Weekly Monday 03:00 UTC — Zhihu best-effort
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'Target to crawl: hackernews or zhihu'
+        required: false
+        default: 'hackernews'
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-hackernews:
+    if: >-
+      github.event_name == 'workflow_dispatch' && github.event.inputs.target == 'hackernews' ||
+      github.event_name == 'schedule' && github.event.schedule == '0 2 * * *'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Build
+        run: ./gradlew build -x test
+
+      - name: Crawl Hacker News top stories
+        run: |
+          mkdir -p data
+          ./gradlew run --args="hackernews --output data/hn-$(date +%Y-%m-%d).json --format json --limit 30"
+
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data: Hacker News top stories $(date +%Y-%m-%d)"
+          file_pattern: 'data/*.json'
+
+  crawl-zhihu:
+    if: >-
+      github.event_name == 'workflow_dispatch' && github.event.inputs.target == 'zhihu' ||
+      github.event_name == 'schedule' && github.event.schedule == '0 3 * * 1'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Build
+        run: ./gradlew build -x test
+
+      - name: Crawl Zhihu (best effort)
+        id: zhihu_crawl
+        continue-on-error: true
+        run: |
+          mkdir -p data
+          DATE=$(date +%Y-%m-%d)
+          OUTPUT="data/zhihu-${DATE}.json"
+
+          # Attempt the crawl — Zhihu may block with JS rendering requirements
+          if ./gradlew run --args="zhihu --url https://www.zhihu.com/explore/recommendations --output ${OUTPUT} --format json --rate 3000" 2>&1; then
+            # Check if output has actual content
+            if [ -f "${OUTPUT}" ] && [ -s "${OUTPUT}" ]; then
+              ITEMS=$(python3 -c "import json; print(len(json.load(open('${OUTPUT}'))))" 2>/dev/null || echo "0")
+              if [ "${ITEMS}" -gt 0 ]; then
+                echo "status=success" >> "$GITHUB_OUTPUT"
+                echo "Zhihu crawl succeeded: ${ITEMS} items"
+              else
+                echo "status=blocked" >> "$GITHUB_OUTPUT"
+                echo "Zhihu returned empty results (likely JS-rendered page)"
+              fi
+            else
+              echo "status=blocked" >> "$GITHUB_OUTPUT"
+              echo "No output file or empty output"
+            fi
+          else
+            echo "status=blocked" >> "$GITHUB_OUTPUT"
+            echo "Zhihu crawl command failed"
+          fi
+
+      - name: Write placeholder if blocked
+        if: steps.zhihu_crawl.outputs.status == 'blocked' || steps.zhihu_crawl.outcome == 'failure'
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          cat > "data/zhihu-${DATE}.json" << EOF
+          {
+            "status": "blocked",
+            "date": "${DATE}",
+            "note": "Zhihu requires JavaScript rendering. Scraper is best-effort for SSR pages.",
+            "http_status": "likely 200 but JS-rendered content not parseable by jsoup"
+          }
+          EOF
+
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data: Zhihu crawl attempt $(date +%Y-%m-%d)"
+          file_pattern: 'data/*.json'
