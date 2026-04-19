@@ -1,0 +1,15 @@
+services:
+  crawler:
+    build: .
+    volumes:
+      - ./out:/out
+    command:
+      - zhihu
+      - --url
+      - https://www.zhihu.com/explore/recommendations
+      - --output
+      - /out/output.json
+      - --format
+      - json
+      - --rate
+      - "2000"
