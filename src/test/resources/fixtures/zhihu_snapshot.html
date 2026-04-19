@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<!--
+  Fixture: Zhihu question page snapshot.
+  Captured: 2024-06-15 (synthetic, based on known Zhihu SSR patterns).
+  Purpose: Test ZhihuScraper CSS selectors against realistic markup.
+  Note: This is a representative HTML structure, not a verbatim copy.
+-->
+<head>
+    <meta charset="UTF-8">
+    <title>如何看待 2024 年 Java 生态的发展？ - 知乎</title>
+</head>
+<body>
+<div id="root">
+    <div class="App">
+        <header class="AppHeader"></header>
+        <main class="App-main">
+            <div class="QuestionPage">
+                <div class="QuestionHeader">
+                    <h1 class="QuestionHeader-title">如何看待 2024 年 Java 生态的发展？</h1>
+                    <div class="QuestionHeader-detail">
+                        <div class="QuestionRichText">
+                            <span class="RichText">Java 21 已正式发布，虚拟线程、模式匹配等特性逐步成熟。Spring Boot 3.x 全面拥抱 Jakarta EE。GraalVM 原生编译也在改善启动速度。大家怎么看 Java 在云原生和 AI 时代的前景？</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="QuestionAnswer-list">
+                    <div class="AnswerItem">
+                        <div class="RichContent">
+                            <div class="RichContent-inner">
+                                <span class="RichText">虚拟线程是 Java 近十年最大的变化。Project Loom 让 Java 在高并发场景下不再需要响应式编程的复杂性，直接用同步代码就能达到异步的性能。Spring Boot 3.2 已经原生支持虚拟线程。</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="AnswerItem">
+                        <div class="RichContent">
+                            <div class="RichContent-inner">
+                                <span class="RichText">GraalVM 原生编译确实解决了 Java 冷启动慢的问题。Quarkus 和 Micronaut 在这方面走得更远。但说实话，对于大部分企业应用，JIT 编译后的 HotSpot 性能已经足够好了。</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="AnswerItem">
+                        <div class="RichContent">
+                            <div class="RichContent-inner">
+                                <span class="RichText">模式匹配让 Java 的表达能力大幅提升。sealed class + switch pattern matching 写出来的代码已经很接近函数式语言的感觉了。record 也让值对象的定义变得简洁。</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</div>
+</body>
+</html>
