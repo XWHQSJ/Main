@@ -1,0 +1,151 @@
+[ {
+  "title" : "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+  "description" : "Link: https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf | Score: 48 | Comments: 23 | By: Eridanus2",
+  "url" : "https://news.ycombinator.com/item?id=47822805",
+  "answers" : [ ]
+}, {
+  "title" : "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
+  "description" : "Link: https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339 | Score: 121 | Comments: 88 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=47793161",
+  "answers" : [ ]
+}, {
+  "title" : "NIST scientists create 'any wavelength' lasers",
+  "description" : "Link: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits | Score: 314 | Comments: 135 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=47819453",
+  "answers" : [ ]
+}, {
+  "title" : "What are skiplists good for?",
+  "description" : "Link: https://antithesis.com/blog/2026/skiptrees/ | Score: 88 | Comments: 21 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=47806021",
+  "answers" : [ ]
+}, {
+  "title" : "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+  "description" : "Link: https://tokens.billchambers.me/leaderboard | Score: 521 | Comments: 512 | By: anabranch",
+  "url" : "https://news.ycombinator.com/item?id=47816960",
+  "answers" : [ ]
+}, {
+  "title" : "College instructor turns to typewriters to curb AI-written work",
+  "description" : "Link: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ | Score: 286 | Comments: 281 | By: gnabgib",
+  "url" : "https://news.ycombinator.com/item?id=47818485",
+  "answers" : [ ]
+}, {
+  "title" : "The electromechanical angle computer inside the B-52 bomber's star tracker",
+  "description" : "Link: https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html | Score: 337 | Comments: 91 | By: NelsonMinar",
+  "url" : "https://news.ycombinator.com/item?id=47817132",
+  "answers" : [ ]
+}, {
+  "title" : "The world in which IPv6 was a good design",
+  "description" : "Link: https://apenwarr.ca/log/20170810 | Score: 66 | Comments: 14 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=47821429",
+  "answers" : [ ]
+}, {
+  "title" : "Updating Gun Rocket through 10 years of Unity Engine",
+  "description" : "Link: https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine | Score: 86 | Comments: 33 | By: tyleo",
+  "url" : "https://news.ycombinator.com/item?id=47791771",
+  "answers" : [ ]
+}, {
+  "title" : "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
+  "description" : "Link: https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/ | Score: 24 | Comments: 2 | By: PaulHoule",
+  "url" : "https://news.ycombinator.com/item?id=47797987",
+  "answers" : [ ]
+}, {
+  "title" : "Why Japan has such good railways",
+  "description" : "Link: https://worksinprogress.co/issue/why-japan-has-such-good-railways/ | Score: 418 | Comments: 389 | By: RickJWagner",
+  "url" : "https://news.ycombinator.com/item?id=47815395",
+  "answers" : [ ]
+}, {
+  "title" : "Keep Pushing: We Get 10 More Days to Reform Section 702",
+  "description" : "Link: https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702 | Score: 67 | Comments: 6 | By: nobody9999",
+  "url" : "https://news.ycombinator.com/item?id=47822356",
+  "answers" : [ ]
+}, {
+  "title" : "It's cool to care (2025)",
+  "description" : "Link: https://alexwlchan.net/2025/cool-to-care/ | Score: 12 | Comments: 7 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=47779372",
+  "answers" : [ ]
+}, {
+  "title" : "State of Kdenlive",
+  "description" : "Link: https://kdenlive.org/news/2026/state-2026/ | Score: 404 | Comments: 123 | By: f_r_d",
+  "url" : "https://news.ycombinator.com/item?id=47815118",
+  "answers" : [ ]
+}, {
+  "title" : "Modern Common Lisp with FSet",
+  "description" : "Link: https://fset.common-lisp.dev/Modern-CL/Top_html/index.html | Score: 160 | Comments: 19 | By: larve",
+  "url" : "https://news.ycombinator.com/item?id=47779659",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+  "description" : "Score: 9 | Comments: 3 | By: modelcroissant",
+  "url" : "https://news.ycombinator.com/item?id=47822940",
+  "answers" : [ "I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy.<p>I’m focused on helping SMEs sort out the messy back-office parts of the business: spreadsheet glue, brittle internal workflows, poor reporting, awkward integrations, backend&#x2F;platform problems, and AI workflows that need to do real work rather than just look good in a demo.<p>I’m not really interested in becoming a generic agency. I’d rather work with businesses that already feel operational pain and need someone technical to help untangle it properly.<p>For those of you who’ve made this jump:<p>* how did you get your first real project?\n* what kind of outreach actually worked?\n* did your first few clients come from network, content, cold outreach, partnerships, subcontracting, or somewhere else?<p>Also, if anyone knows SMEs or operators dealing with this sort of mess, I’d be glad to chat.<p>As a gesture of goodwill, I’m offering the first 5 clients 10 hours free to help get an initial project moving.<p>You can find me over at https:&#x2F;&#x2F;crescita.cc" ]
+}, {
+  "title" : "Metatextual Literacy",
+  "description" : "Link: https://www.jenn.site/metatextual-literacy/ | Score: 34 | Comments: 3 | By: dado3212",
+  "url" : "https://news.ycombinator.com/item?id=47783890",
+  "answers" : [ ]
+}, {
+  "title" : "Migrating from DigitalOcean to Hetzner",
+  "description" : "Link: https://isayeter.com/posts/digitalocean-to-hetzner-migration/ | Score: 786 | Comments: 396 | By: yusufusta",
+  "url" : "https://news.ycombinator.com/item?id=47815774",
+  "answers" : [ ]
+}, {
+  "title" : "Optimizing Ruby Path Methods",
+  "description" : "Link: https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html | Score: 103 | Comments: 37 | By: weaksauce",
+  "url" : "https://news.ycombinator.com/item?id=47819369",
+  "answers" : [ ]
+}, {
+  "title" : "SI Units for Request Rate (2024)",
+  "description" : "Link: https://entropicthoughts.com/si-units-for-request-rate | Score: 72 | Comments: 48 | By: fanf2",
+  "url" : "https://news.ycombinator.com/item?id=47790337",
+  "answers" : [ ]
+}, {
+  "title" : "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+  "description" : "Link: https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/ | Score: 86 | Comments: 33 | By: agambrahma",
+  "url" : "https://news.ycombinator.com/item?id=47820195",
+  "answers" : [ ]
+}, {
+  "title" : "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
+  "description" : "Link: https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/ | Score: 27 | Comments: 12 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=47794299",
+  "answers" : [ ]
+}, {
+  "title" : "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
+  "description" : "Link: https://www.sumida-aquarium.com/special/sokanzu/en/2026/ | Score: 217 | Comments: 11 | By: Lwrless",
+  "url" : "https://news.ycombinator.com/item?id=47784395",
+  "answers" : [ ]
+}, {
+  "title" : "Thoughts and feelings around Claude Design",
+  "description" : "Link: https://samhenri.gold/blog/20260418-claude-design/ | Score: 313 | Comments: 197 | By: cdrnsf",
+  "url" : "https://news.ycombinator.com/item?id=47818700",
+  "answers" : [ ]
+}, {
+  "title" : "Bypassing the kernel for 56ns cross-language IPC",
+  "description" : "Link: https://github.com/riyaneel/Tachyon/tree/main/docs/adr | Score: 43 | Comments: 22 | By: riyaneel",
+  "url" : "https://news.ycombinator.com/item?id=47796496",
+  "answers" : [ ]
+}, {
+  "title" : "My first impressions on ROCm and Strix Halo",
+  "description" : "Link: https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/ | Score: 47 | Comments: 36 | By: random_",
+  "url" : "https://news.ycombinator.com/item?id=47819823",
+  "answers" : [ ]
+}, {
+  "title" : "William Cecil's Succession Plan",
+  "description" : "Link: https://www.historytoday.com/archive/history-matters/william-cecils-succession-plan | Score: 6 | Comments: 0 | By: Petiver",
+  "url" : "https://news.ycombinator.com/item?id=47767975",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+  "description" : "Link: https://github.com/drasimwagan/mdv | Score: 117 | Comments: 43 | By: drasim",
+  "url" : "https://news.ycombinator.com/item?id=47816629",
+  "answers" : [ ]
+}, {
+  "title" : "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
+  "description" : "Link: https://www.sciencedaily.com/releases/2026/04/260414075641.htm | Score: 107 | Comments: 38 | By: t-3",
+  "url" : "https://news.ycombinator.com/item?id=47784250",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;ece3.73308\" rel=\"nofollow\">https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;ece3.73308</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;13&#x2F;science&#x2F;harvester-cone-ants-cleaning.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;13&#x2F;science&#x2F;harvester-cone-an...</a> &#x2F; <a href=\"https:&#x2F;&#x2F;archive.md&#x2F;VEaPW\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;VEaPW</a>" ]
+}, {
+  "title" : "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+  "description" : "Link: https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/ | Score: 181 | Comments: 79 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=47820531",
+  "answers" : [ ]
+} ]
