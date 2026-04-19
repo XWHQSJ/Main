@@ -35,7 +35,7 @@ dependencies {
 
     // Logging
     implementation("org.slf4j:slf4j-api:2.0.12")
-    implementation("ch.qos.logback:logback-classic:1.5.3")
+    implementation("ch.qos.logback:logback-classic:1.5.32")
 
     // SQLite state store
     implementation("org.xerial:sqlite-jdbc:3.45.2.0")
