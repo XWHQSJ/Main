@@ -1,6 +1,7 @@
 plugins {
     java
     application
+    id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
 group = "com.xwhqsj"
@@ -69,4 +70,13 @@ tasks.withType<JavaCompile> {
 
 tasks.named<JavaExec>("run") {
     standardInput = System.`in`
+}
+
+tasks.withType<com.github.jengelman.gradle.plugins.shadow.tasks.ShadowJar> {
+    archiveBaseName.set("zhihu-crawler")
+    archiveClassifier.set("all")
+    mergeServiceFiles()
+    manifest {
+        attributes["Main-Class"] = "com.xwhqsj.crawler.App"
+    }
 }
