@@ -6,9 +6,8 @@ import com.xwhqsj.crawler.output.CsvWriter;
 import com.xwhqsj.crawler.output.JsonWriter;
 import com.xwhqsj.crawler.output.OutputWriter;
 import com.xwhqsj.crawler.output.TextWriter;
-import com.xwhqsj.crawler.parse.DoubanScraper;
+import com.xwhqsj.crawler.parse.HackerNewsScraper;
 import com.xwhqsj.crawler.parse.Scraper;
-import com.xwhqsj.crawler.parse.WeiboScraper;
 import com.xwhqsj.crawler.parse.ZhihuScraper;
 import com.xwhqsj.crawler.robots.RobotsHandler;
 import com.xwhqsj.crawler.state.SqliteStateStore;
@@ -38,7 +37,7 @@ import java.util.concurrent.TimeUnit;
         mixinStandardHelpOptions = true,
         version = "1.0.0",
         description = "Web crawler for Chinese Q&A and social platforms",
-        subcommands = {App.ZhihuCommand.class}
+        subcommands = {App.ZhihuCommand.class, App.HackerNewsCommand.class}
 )
 public class App implements Runnable {
 
@@ -138,6 +137,55 @@ public class App implements Runnable {
 
             } catch (Exception e) {
                 log.error("Crawl failed", e);
+            }
+        }
+
+        private OutputWriter selectWriter(String fmt) {
+            return switch (fmt.toLowerCase()) {
+                case "json" -> new JsonWriter();
+                case "csv" -> new CsvWriter();
+                default -> new TextWriter();
+            };
+        }
+    }
+
+    @Command(name = "hackernews", description = "Fetch top stories from Hacker News (guaranteed-working JSON API)")
+    static class HackerNewsCommand implements Runnable {
+
+        @Option(names = {"--output", "-o"}, defaultValue = "hn_output.json",
+                description = "Output file path (default: hn_output.json)")
+        private String output;
+
+        @Option(names = {"--format", "-f"}, defaultValue = "json",
+                description = "Output format: text, json, csv (default: json)")
+        private String format;
+
+        @Option(names = {"--limit", "-n"}, defaultValue = "10",
+                description = "Number of top stories to fetch (default: 10, max: 500)")
+        private int limit;
+
+        @Override
+        public void run() {
+            log.info("Starting Hacker News fetch: limit={}, format={}", limit, format);
+
+            var fetcher = new HttpFetcher();
+            Scraper scraper = new HackerNewsScraper(limit);
+
+            List<Question> stories = scraper.scrape("https://news.ycombinator.com", fetcher);
+
+            if (stories.isEmpty()) {
+                log.warn("No stories fetched from Hacker News.");
+                return;
+            }
+
+            log.info("Fetched {} stories from Hacker News", stories.size());
+
+            try {
+                OutputWriter writer = selectWriter(format);
+                writer.write(stories, output);
+                log.info("Done. Output written to: {}", output);
+            } catch (Exception e) {
+                log.error("Failed to write output", e);
             }
         }
 
