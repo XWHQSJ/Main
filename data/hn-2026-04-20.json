@@ -1,0 +1,151 @@
+[ {
+  "title" : "Vercel April 2026 security incident",
+  "description" : "Link: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/ | Score: 622 | Comments: 351 | By: colesantiago",
+  "url" : "https://news.ycombinator.com/item?id=47824463",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-incident\" rel=\"nofollow\">https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-in...</a>" ]
+}, {
+  "title" : "A Brief History of Fish Sauce",
+  "description" : "Link: https://www.legalnomads.com/fish-sauce/ | Score: 127 | Comments: 55 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=47822734",
+  "answers" : [ ]
+}, {
+  "title" : "The Bromine Chokepoint",
+  "description" : "Link: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/ | Score: 177 | Comments: 84 | By: crescit_eundo",
+  "url" : "https://news.ycombinator.com/item?id=47826100",
+  "answers" : [ ]
+}, {
+  "title" : "Stop trying to engineer your way out of listening to people",
+  "description" : "Link: https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/ | Score: 91 | Comments: 23 | By: walterbell",
+  "url" : "https://news.ycombinator.com/item?id=47827259",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+  "description" : "Link: https://github.com/shivampkumar/trellis-mac | Score: 116 | Comments: 20 | By: shivampkumar",
+  "url" : "https://news.ycombinator.com/item?id=47828896",
+  "answers" : [ "I ported Microsoft&#x27;s TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, nvdiffrast, and custom sparse convolution kernels:  none of which work on Mac.<p>I replaced the CUDA-specific ops with pure-PyTorch alternatives: a gather-scatter sparse 3D convolution, SDPA attention for sparse transformers, and a Python-based mesh extraction replacing CUDA hashmap operations. Total changes are a few hundred lines across 9 files.<p>Generates ~400K vertex meshes from single photos in about 3.5 minutes on M4 Pro (24GB). Not as fast as H100 (where it takes seconds), but it works offline with no cloud dependency.<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;shivampkumar&#x2F;trellis-mac\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;shivampkumar&#x2F;trellis-mac</a>" ]
+}, {
+  "title" : "Sudo for Windows",
+  "description" : "Link: https://github.com/microsoft/sudo | Score: 35 | Comments: 14 | By: luispa",
+  "url" : "https://news.ycombinator.com/item?id=47828853",
+  "answers" : [ ]
+}, {
+  "title" : "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+  "description" : "Link: https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/ | Score: 165 | Comments: 144 | By: Brajeshwar",
+  "url" : "https://news.ycombinator.com/item?id=47825160",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Token Counter, now with model comparisons",
+  "description" : "Link: https://simonwillison.net/2026/Apr/20/claude-token-counts/ | Score: 25 | Comments: 7 | By: twapi",
+  "url" : "https://news.ycombinator.com/item?id=47829178",
+  "answers" : [ ]
+}, {
+  "title" : "Mechanical Keyboard Sounds – A listening Museum",
+  "description" : "Link: https://sheets.works/data-viz/keyboard-sounds | Score: 65 | Comments: 26 | By: akashwadhwani35",
+  "url" : "https://news.ycombinator.com/item?id=47780743",
+  "answers" : [ ]
+}, {
+  "title" : "Swiss AI Initiative (2023)",
+  "description" : "Link: https://www.swiss-ai.org | Score: 35 | Comments: 13 | By: doener",
+  "url" : "https://news.ycombinator.com/item?id=47828444",
+  "answers" : [ ]
+}, {
+  "title" : "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+  "description" : "Link: https://simonwillison.net/2026/Apr/18/opus-system-prompt/ | Score: 253 | Comments: 149 | By: pretext",
+  "url" : "https://news.ycombinator.com/item?id=47823270",
+  "answers" : [ ]
+}, {
+  "title" : "2,100 Swiss municipalities showing which provider handles their official email",
+  "description" : "Link: https://mxmap.ch/ | Score: 99 | Comments: 31 | By: doener",
+  "url" : "https://news.ycombinator.com/item?id=47828420",
+  "answers" : [ "Related ongoing thread: <i>Swiss authorities want to reduce dependency on Microsoft</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47827383\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47827383</a>" ]
+}, {
+  "title" : "A Common MVP Evolution: Service to System Integration to Product (2017)",
+  "description" : "Link: https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/ | Score: 8 | Comments: 1 | By: skmurphy",
+  "url" : "https://news.ycombinator.com/item?id=47810109",
+  "answers" : [ ]
+}, {
+  "title" : "Scientific datasets are riddled with copy-paste errors",
+  "description" : "Link: https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/ | Score: 59 | Comments: 9 | By: jruohonen",
+  "url" : "https://news.ycombinator.com/item?id=47826834",
+  "answers" : [ ]
+}, {
+  "title" : "Prove you are a robot: CAPTCHAs for agents",
+  "description" : "Link: https://browser-use.com/posts/prove-you-are-a-robot | Score: 74 | Comments: 36 | By: lukasec",
+  "url" : "https://news.ycombinator.com/item?id=47781950",
+  "answers" : [ ]
+}, {
+  "title" : "The RAM shortage could last years",
+  "description" : "Link: https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years | Score: 234 | Comments: 258 | By: omer_k",
+  "url" : "https://news.ycombinator.com/item?id=47822414",
+  "answers" : [ ]
+}, {
+  "title" : "Recovering Windows Live Writer Files",
+  "description" : "Link: https://benovermyer.com/blog/2026/04/recovering-windows-live-writer-files/ | Score: 17 | Comments: 5 | By: bovermyer",
+  "url" : "https://news.ycombinator.com/item?id=47766185",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: A lightweight way to make agents talk without paying for API usage",
+  "description" : "Link: https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/ | Score: 19 | Comments: 5 | By: juanpabloaj",
+  "url" : "https://news.ycombinator.com/item?id=47828968",
+  "answers" : [ ]
+}, {
+  "title" : "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+  "description" : "Link: https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html | Score: 6 | Comments: 0 | By: pseudolus",
+  "url" : "https://news.ycombinator.com/item?id=47804178",
+  "answers" : [ ]
+}, {
+  "title" : "Archive of BYTE magazine, starting with issue #1 in 1975",
+  "description" : "Link: https://archive.org/details/byte-magazine-1975-09 | Score: 553 | Comments: 145 | By: DamnInteresting",
+  "url" : "https://news.ycombinator.com/item?id=47806096",
+  "answers" : [ ]
+}, {
+  "title" : "I wrote a CHIP-8 emulator in my own programming language",
+  "description" : "Link: https://github.com/navid-m/chip8emu | Score: 58 | Comments: 13 | By: pizza_man",
+  "url" : "https://news.ycombinator.com/item?id=47826852",
+  "answers" : [ ]
+}, {
+  "title" : "Six Levels of Dark Mode (2024)",
+  "description" : "Link: https://cssence.com/2024/six-levels-of-dark-mode/ | Score: 62 | Comments: 26 | By: Akcium",
+  "url" : "https://news.ycombinator.com/item?id=47826502",
+  "answers" : [ ]
+}, {
+  "title" : "The seven programming ur-languages (2022)",
+  "description" : "Link: https://madhadron.com/programming/seven_ur_languages.html | Score: 312 | Comments: 118 | By: helloplanets",
+  "url" : "https://news.ycombinator.com/item?id=47822486",
+  "answers" : [ ]
+}, {
+  "title" : "Interesting Map Geometry and Mathematics",
+  "description" : "Link: https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/ | Score: 17 | Comments: 0 | By: Hooke",
+  "url" : "https://news.ycombinator.com/item?id=47813597",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: A working reference implementation of context engineering",
+  "description" : "Link: https://github.com/outcomeops/context-engineering | Score: 38 | Comments: 11 | By: linsys",
+  "url" : "https://news.ycombinator.com/item?id=47808956",
+  "answers" : [ "I&#x27;ve been presenting at local meetups about Context Engineering, RAG, Skills, etc.. I even have a vbrownbag coming up on LinkedIn about this topic so I figured I would make a basic example that uses bedrock so I can use it in my talks or vbrownbags. Hopefully it&#x27;s useful." ]
+}, {
+  "title" : "Contra Benn Jordan, data center (and all) sub-audible infrasound issues are fake",
+  "description" : "Link: https://blog.andymasley.com/p/contra-benn-jordan-data-center-and | Score: 5 | Comments: 2 | By: logicprog",
+  "url" : "https://news.ycombinator.com/item?id=47829757",
+  "answers" : [ ]
+}, {
+  "title" : "Nanopass Framework: Clean Compiler Creation Language",
+  "description" : "Link: https://nanopass.org/ | Score: 126 | Comments: 28 | By: NordStreamYacht",
+  "url" : "https://news.ycombinator.com/item?id=47777715",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Faceoff – A terminal UI for following NHL games",
+  "description" : "Link: https://www.vincentgregoire.com/faceoff/ | Score: 107 | Comments: 35 | By: vcf",
+  "url" : "https://news.ycombinator.com/item?id=47826104",
+  "answers" : [ "Faceoff is a TUI app written in Python to follow live NHL games and browse standings and stats. I got the inspiration from Playball, a similar TUI app for MLB games that was featured on HN.<p>The app was mostly vibe-coded with Claude Code, but not one-shot. I added features and fixed bugs by using it, as I spent way too much time in the terminal over the last few months.<p>Try it out with `uvx faceoff` (requires uv)." ]
+}, {
+  "title" : "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+  "description" : "Link: https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf | Score: 169 | Comments: 69 | By: Eridanus2",
+  "url" : "https://news.ycombinator.com/item?id=47822805",
+  "answers" : [ ]
+}, {
+  "title" : "PopOS Linux: Creating a Bootable Backup USB With Encryption",
+  "description" : "Link: https://hajo.me/blog/2026/02/16/popos-linux-creating-bootable-backup-USB-with-encryption/ | Score: 13 | Comments: 1 | By: fxtentacle",
+  "url" : "https://news.ycombinator.com/item?id=47805223",
+  "answers" : [ ]
+} ]
