@@ -1,0 +1,6 @@
+{
+  "status": "blocked",
+  "date": "2026-04-20",
+  "note": "Zhihu requires JavaScript rendering. Scraper is best-effort for SSR pages.",
+  "http_status": "likely 200 but JS-rendered content not parseable by jsoup"
+}
