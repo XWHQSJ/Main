@@ -1,0 +1,151 @@
+[ {
+  "title" : "John Ternus to become Apple CEO",
+  "description" : "Link: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/ | Score: 1432 | Comments: 719 | By: schappim",
+  "url" : "https://news.ycombinator.com/item?id=47840219",
+  "answers" : [ ]
+}, {
+  "title" : "How to make a fast dynamic language interpreter",
+  "description" : "Link: https://zef-lang.dev/implementation | Score: 94 | Comments: 11 | By: pizlonator",
+  "url" : "https://news.ycombinator.com/item?id=47843194",
+  "answers" : [ ]
+}, {
+  "title" : "Jujutsu megamerges for fun and profit",
+  "description" : "Link: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit | Score: 181 | Comments: 63 | By: icorbrey",
+  "url" : "https://news.ycombinator.com/item?id=47841129",
+  "answers" : [ ]
+}, {
+  "title" : "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+  "description" : "Link: https://qwen.ai/blog?id=qwen3.6-max-preview | Score: 574 | Comments: 303 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=47834565",
+  "answers" : [ ]
+}, {
+  "title" : "Kimi vendor verifier – verify accuracy of inference providers",
+  "description" : "Link: https://www.kimi.com/blog/kimi-vendor-verifier | Score: 202 | Comments: 17 | By: Alifatisk",
+  "url" : "https://news.ycombinator.com/item?id=47838703",
+  "answers" : [ ]
+}, {
+  "title" : "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+  "description" : "Link: https://prismml.com/news/ternary-bonsai | Score: 96 | Comments: 21 | By: nnx",
+  "url" : "https://news.ycombinator.com/item?id=47812749",
+  "answers" : [ ]
+}, {
+  "title" : "How a subsea cable is repaired",
+  "description" : "Link: https://www.onesteppower.com/post/subsea-cable-repair | Score: 19 | Comments: 3 | By: slicktux",
+  "url" : "https://news.ycombinator.com/item?id=47797457",
+  "answers" : [ ]
+}, {
+  "title" : "A Roblox cheat and one AI tool brought down Vercel's platform",
+  "description" : "Link: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform | Score: 4 | Comments: 0 | By: bishwasbh",
+  "url" : "https://news.ycombinator.com/item?id=47844431",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+  "description" : "Link: https://mediator.ai/ | Score: 5 | Comments: 0 | By: sanity",
+  "url" : "https://news.ycombinator.com/item?id=47835411",
+  "answers" : [ "Eight years ago, my then-fiancée and I decided to get a prenup, so we hired a local mediator. The meetings were useful, but I felt there was no systematic process to produce a final agreement. So I started to think about this problem, and after a bit of research, I discovered the Nash bargaining solution.<p>Yet if John Nash had solved negotiation in the 1950s, why did it seem like nobody was using it today? The issue was that Nash&#x27;s solution required that each party to the negotiation provide a &quot;utility function&quot;, which could take a set of deal terms and produce a utility number. But even experts have trouble producing such functions for non-trivial negotiations.<p>A few years passed and LLMs appeared, and about a year ago I realized that while LLMs aren’t good at directly producing utility estimates, they are good at doing comparisons, and this can be used to estimate utilities of draft agreements.<p>This is the basis for Mediator.ai, which I soft-launched over the weekend. Be interviewed by an LLM to capture your preferences and then invite the other party or parties to do the same. These preferences are then used as the fitness function for a genetic algorithm to find an agreement all parties are likely to agree to.<p>An article with more technical detail: <a href=\"https:&#x2F;&#x2F;mediator.ai&#x2F;blog&#x2F;ai-negotiation-nash-bargaining&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mediator.ai&#x2F;blog&#x2F;ai-negotiation-nash-bargaining&#x2F;</a>" ]
+}, {
+  "title" : "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+  "description" : "Link: https://github.com/gizmo64k/soulplayer-c64 | Score: 96 | Comments: 24 | By: adunk",
+  "url" : "https://news.ycombinator.com/item?id=47839645",
+  "answers" : [ ]
+}, {
+  "title" : "Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper",
+  "description" : "Link: https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html | Score: 53 | Comments: 5 | By: caycep",
+  "url" : "https://news.ycombinator.com/item?id=47811668",
+  "answers" : [ ]
+}, {
+  "title" : "ggsql: A Grammar of Graphics for SQL",
+  "description" : "Link: https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/ | Score: 381 | Comments: 76 | By: thomasp85",
+  "url" : "https://news.ycombinator.com/item?id=47833558",
+  "answers" : [ ]
+}, {
+  "title" : "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+  "description" : "Link: https://words.filippo.io/128-bits/ | Score: 173 | Comments: 69 | By: hasheddan",
+  "url" : "https://news.ycombinator.com/item?id=47836784",
+  "answers" : [ ]
+}, {
+  "title" : "All phones sold in the EU to have replaceable batteries from 2027",
+  "description" : "Link: https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/ | Score: 1069 | Comments: 888 | By: ramonga",
+  "url" : "https://news.ycombinator.com/item?id=47834195",
+  "answers" : [ ]
+}, {
+  "title" : "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+  "description" : "Link: https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/ | Score: 173 | Comments: 77 | By: axbyte",
+  "url" : "https://news.ycombinator.com/item?id=47831742",
+  "answers" : [ ]
+}, {
+  "title" : "Air Is Full of DNA",
+  "description" : "Link: https://www.nature.com/articles/d41586-026-01099-2 | Score: 32 | Comments: 5 | By: howrude",
+  "url" : "https://news.ycombinator.com/item?id=47819738",
+  "answers" : [ ]
+}, {
+  "title" : "Year of the IPv6 Overlay Network",
+  "description" : "Link: https://www.defined.net/blog/year-of-the-ipv6-overlay-network/ | Score: 29 | Comments: 6 | By: stock_toaster",
+  "url" : "https://news.ycombinator.com/item?id=47809338",
+  "answers" : [ ]
+}, {
+  "title" : "Modern Rendering Culling Techniques",
+  "description" : "Link: https://krupitskas.com/posts/modern_culling_techniques/ | Score: 110 | Comments: 20 | By: krupitskas",
+  "url" : "https://news.ycombinator.com/item?id=47822549",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+  "description" : "Link: https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/ | Score: 223 | Comments: 105 | By: jlark77777",
+  "url" : "https://news.ycombinator.com/item?id=47840980",
+  "answers" : [ ]
+}, {
+  "title" : "Kefir C17/C23 Compiler",
+  "description" : "Link: https://sr.ht/~jprotopopov/kefir/ | Score: 136 | Comments: 8 | By: conductor",
+  "url" : "https://news.ycombinator.com/item?id=47811154",
+  "answers" : [ ]
+}, {
+  "title" : "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+  "description" : "Link: https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/ | Score: 269 | Comments: 125 | By: Someone",
+  "url" : "https://news.ycombinator.com/item?id=47832248",
+  "answers" : [ ]
+}, {
+  "title" : "WebUSB Extension for Firefox",
+  "description" : "Link: https://github.com/ArcaneNibble/awawausb | Score: 219 | Comments: 191 | By: tuananh",
+  "url" : "https://news.ycombinator.com/item?id=47832969",
+  "answers" : [ ]
+}, {
+  "title" : "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
+  "description" : "Link: https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html | Score: 56 | Comments: 5 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=47789291",
+  "answers" : [ ]
+}, {
+  "title" : "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+  "description" : "Link: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/ | Score: 325 | Comments: 315 | By: FiddlerClamp",
+  "url" : "https://news.ycombinator.com/item?id=47835928",
+  "answers" : [ ]
+}, {
+  "title" : "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
+  "description" : "Link: https://mastodon.social/@jdm_/116429380667467307 | Score: 203 | Comments: 109 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=47826839",
+  "answers" : [ ]
+}, {
+  "title" : "Atlassian enables default data collection to train AI",
+  "description" : "Link: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8 | Score: 530 | Comments: 122 | By: kevcampb",
+  "url" : "https://news.ycombinator.com/item?id=47833247",
+  "answers" : [ ]
+}, {
+  "title" : "Real-Time Visualization of Human Finger Joint Cavitation (2015)",
+  "description" : "Link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119470 | Score: 11 | Comments: 3 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=47823777",
+  "answers" : [ ]
+}, {
+  "title" : "F-35 is built for the wrong war",
+  "description" : "Link: https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/ | Score: 232 | Comments: 473 | By: anjel",
+  "url" : "https://news.ycombinator.com/item?id=47839835",
+  "answers" : [ ]
+}, {
+  "title" : "Bloom (YC P26) Is Hiring",
+  "description" : "Link: https://www.ycombinator.com/companies/trybloom/jobs | Score: 1 | Comments: 0 | By: RayFitzgerald",
+  "url" : "https://news.ycombinator.com/item?id=47837176",
+  "answers" : [ ]
+}, {
+  "title" : "Writing string.h functions using string instructions in asm x86-64 (2025)",
+  "description" : "Link: https://pmasschelier.github.io/x86_64_strings/ | Score: 57 | Comments: 6 | By: thaisstein",
+  "url" : "https://news.ycombinator.com/item?id=47807609",
+  "answers" : [ ]
+} ]
