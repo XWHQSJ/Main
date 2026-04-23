@@ -38,7 +38,7 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:1.5.3")
 
     // SQLite state store
-    implementation("org.xerial:sqlite-jdbc:3.45.2.0")
+    implementation("org.xerial:sqlite-jdbc:3.53.0.0")
 
     // robots.txt parsing
     implementation("com.github.crawler-commons:crawler-commons:1.4")
