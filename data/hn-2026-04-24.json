@@ -1,0 +1,151 @@
+[ {
+  "title" : "DeepSeek v4",
+  "description" : "Link: https://api-docs.deepseek.com/ | Score: 277 | Comments: 89 | By: impact_sy",
+  "url" : "https://news.ycombinator.com/item?id=47884971",
+  "answers" : [ ]
+}, {
+  "title" : "Why I Write (1946)",
+  "description" : "Link: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/ | Score: 81 | Comments: 17 | By: RyanShook",
+  "url" : "https://news.ycombinator.com/item?id=47884768",
+  "answers" : [ ]
+}, {
+  "title" : "GPT-5.5",
+  "description" : "Link: https://openai.com/index/introducing-gpt-5-5/ | Score: 1207 | Comments: 819 | By: rd",
+  "url" : "https://news.ycombinator.com/item?id=47879092",
+  "answers" : [ ]
+}, {
+  "title" : "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+  "description" : "Link: https://socket.dev/blog/bitwarden-cli-compromised | Score: 697 | Comments: 342 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=47876043",
+  "answers" : [ ]
+}, {
+  "title" : "A quick look at Mythos run on Firefox: too much hype?",
+  "description" : "Link: https://xark.es/b/mythos-firefox-150 | Score: 18 | Comments: 3 | By: leonidasv",
+  "url" : "https://news.ycombinator.com/item?id=47885042",
+  "answers" : [ ]
+}, {
+  "title" : "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+  "description" : "Link: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade | Score: 90 | Comments: 150 | By: nkrisc",
+  "url" : "https://news.ycombinator.com/item?id=47882645",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.justice.gov&#x2F;usao-sdny&#x2F;pr&#x2F;us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.justice.gov&#x2F;usao-sdny&#x2F;pr&#x2F;us-soldier-charged-usin...</a>" ]
+}, {
+  "title" : "Meta tells staff it will cut 10% of jobs",
+  "description" : "Link: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency | Score: 496 | Comments: 466 | By: Vaslo",
+  "url" : "https://news.ycombinator.com/item?id=47879986",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;04&#x2F;23&#x2F;meta-job-cuts-10-percent-8000-employees&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;04&#x2F;23&#x2F;meta-job-cuts-10-percent-8...</a>" ]
+}, {
+  "title" : "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
+  "description" : "Link: https://github.com/refactoringhq/tolaria | Score: 143 | Comments: 47 | By: lucaronin",
+  "url" : "https://news.ycombinator.com/item?id=47882697",
+  "answers" : [ "Hey there! I am Luca, I write <a href=\"https:&#x2F;&#x2F;refactoring.fm&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;refactoring.fm&#x2F;</a> and I built Tolaria for myself to manage my own knowledge base (10K notes, 300+ articles written in over 6 years of newslettering) and work well with AI.<p>Tolaria is offline-first, file-based, has first-class support for git, and has strong opinions about how you should organize notes (types, relationships, etc).<p>Let me know your thoughts!" ]
+}, {
+  "title" : "MeshCore development team splits over trademark dispute and AI-generated code",
+  "description" : "Link: https://blog.meshcore.io/2026/04/23/the-split | Score: 184 | Comments: 101 | By: wielebny",
+  "url" : "https://news.ycombinator.com/item?id=47878117",
+  "answers" : [ ]
+}, {
+  "title" : "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+  "description" : "Link: https://www.nature.com/articles/s41467-026-71264-8 | Score: 18 | Comments: 0 | By: scubakid",
+  "url" : "https://news.ycombinator.com/item?id=47885377",
+  "answers" : [ ]
+}, {
+  "title" : "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+  "description" : "Link: https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/ | Score: 98 | Comments: 4 | By: mji",
+  "url" : "https://news.ycombinator.com/item?id=47881786",
+  "answers" : [ ]
+}, {
+  "title" : "Using the internet like it's 1999",
+  "description" : "Link: https://joshblais.com/blog/using-the-internet-like-its-1999/ | Score: 122 | Comments: 76 | By: joshuablais",
+  "url" : "https://news.ycombinator.com/item?id=47881198",
+  "answers" : [ ]
+}, {
+  "title" : "Your hex editor should color-code bytes",
+  "description" : "Link: https://simonomi.dev/blog/color-code-your-bytes/ | Score: 536 | Comments: 149 | By: tobr",
+  "url" : "https://news.ycombinator.com/item?id=47846688",
+  "answers" : [ ]
+}, {
+  "title" : "An update on recent Claude Code quality reports",
+  "description" : "Link: https://www.anthropic.com/engineering/april-23-postmortem | Score: 616 | Comments: 483 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=47878905",
+  "answers" : [ ]
+}, {
+  "title" : "UK Biobank health data keeps ending up on GitHub",
+  "description" : "Link: https://biobank.rocher.lc | Score: 97 | Comments: 25 | By: Cynddl",
+  "url" : "https://news.ycombinator.com/item?id=47875843",
+  "answers" : [ "I&#x27;m a researcher studying privacy, and I started tracking the DMCA notices that UK Biobank sends to GitHub. I tracked 110 notices filed so far, targeting 197 code repositories by 170 developers across the world.<p>The exposure of Biobank data on GitHub is the latest in a long series of governance challenges for UK Biobank. \n(My colleague and I have an editorial in the BMJ about this: <a href=\"http:&#x2F;&#x2F;bmj.com&#x2F;cgi&#x2F;content&#x2F;full&#x2F;bmj.s660?ijkey=dEot4dJZGZGXeG1&amp;keytype=ref\" rel=\"nofollow\">http:&#x2F;&#x2F;bmj.com&#x2F;cgi&#x2F;content&#x2F;full&#x2F;bmj.s660?ijkey=dEot4dJZGZGXe...</a>). The latest is today, with information of all half a million members listed for sale on Alibaba.<p>Looking at the takedown notices, we often see specific files being targeted rather than entire repositories (possibly to justify the copyright infringement as required for a takedown notice, not a copyright expert; although it is clear that they only use DMCA notices as a last resort, for GitHub users they cannot identify, and who were likely not given access in the first place). A quarter of the files are genetic&#x2F;genomics. Tabular data account for another large share and could contain phenotype or health records." ]
+}, {
+  "title" : "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+  "description" : "Link: https://github.com/Infisical/agent-vault | Score: 93 | Comments: 31 | By: dangtony98",
+  "url" : "https://news.ycombinator.com/item?id=47865822",
+  "answers" : [ "Hey HN! Today we&#x27;re launching Agent Vault - an open source HTTP credential proxy and vault for AI agents. Repo is at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;Infisical&#x2F;agent-vault\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Infisical&#x2F;agent-vault</a>, and there&#x27;s an in-depth description at <a href=\"https:&#x2F;&#x2F;infisical.com&#x2F;blog&#x2F;agent-vault-the-open-source-credential-proxy-and-vault-for-agents\">https:&#x2F;&#x2F;infisical.com&#x2F;blog&#x2F;agent-vault-the-open-source-crede...</a>.<p>We built Agent Vault in response to a question that been plaguing the industry: How do we give agents secure access to services without them reading any secrets?<p>Most teams building agents have run into this exact problem: They build an agent or agentic system and come to realize at some point that it needs credentials in order to access any services. The issue is that agents, unlike traditional workloads, are non-deterministic, highly-prone to prompt injection, and thus can easily be manipulated to leaking the credentials that they need to operate. This is the problem of credential exfiltration (not to be confused with data exfiltration).<p>In response to this, some teams we&#x27;ve seen have implemented basic guardrails and security controls to mitigate this risk in their agentic environments including using short-lived access tokens. The more advanced teams have started to converge toward a pattern: credential brokering, the idea being to separate agents from their credentials through some form of egress proxy. In this model, the agent makes a request to a proxy that attaches a credential onto it and brokers it through to the target service. This proxy approach is actually used in Anthropic&#x27;s Managed Agents architecture blog with it being that &quot;the harness is never made aware of the credentials.&quot; We&#x27;ve seen similar credential brokering schemes come out from Vercel and in Cloudflare&#x27;s latest Outbound Workers.<p>Seeing all this made us think: What if we could create a portable credential brokering service plugged seamlessly into agents&#x27; existing workflows in an interface agnostic way, meaning that agents could continue to work with APIs, CLIs, SDKs, MCPs without interference and get the security of credential brokering.<p>This led to Agent Vault - an open source HTTP credential proxy and vault that we&#x27;re building for AI agents. You can deploy this as a dedicated service and set up your agent&#x27;s environment to proxy requests through it. Note that in a full deployment, you do need to lock down the network so that all outbound traffic is forced through Agent Vault<p>The Agent Vault (AV) implementation has a few interesting design decisions:<p>- Local Forward Proxy: AV chooses an interface agnostic approach to credential brokering by following a MITM architecture using HTTPS_PROXY as an environment variable set in the agent&#x27;s environment to redirect traffic through it; this also means that it runs its own CA whose certificate must be configured on the client&#x27;s trust store.<p>- MITM architecture: Since AV terminates TLS in order to do credential brokering its able to inspect traffic and apply rules to it before establishing a new TLS connection upstream. This makes it a great to be able to extend AV to incorporate firewall-like features to be applied at this proxy layer.<p>- Portable: AV itself is a single Go binary that bundles a server and the CLI; it can be deployed as a Docker container as well. In practice, this means that you can self-host AV on your own infrastructure and it should work more universally than provider specific approaches like that of Vercel and Cloudflare.<p>While the preliminary design of Agent Vault is a bit clunky to work with and we’d wished to have more time to smoothen the developer experience around it, particularly around the configuration setup for agents to start proxying requests through it, we figured it would be best to open source the technology and work with the community to make gradual improvements for it to work seamlessly across all agentic use cases since each has its own nuances.<p>All in all, we believe credential brokering is the right next step for how secrets management should be done for agents and would love to hear your views, questions, feedback!" ]
+}, {
+  "title" : "My phone replaced a brass plug",
+  "description" : "Link: https://drobinin.com/posts/my-phone-replaced-a-brass-plug/ | Score: 103 | Comments: 17 | By: valzevul",
+  "url" : "https://news.ycombinator.com/item?id=47877715",
+  "answers" : [ ]
+}, {
+  "title" : "Astronomers find the edge of the Milky Way",
+  "description" : "Link: https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/ | Score: 103 | Comments: 21 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=47879239",
+  "answers" : [ ]
+}, {
+  "title" : "Incident with multple GitHub services",
+  "description" : "Link: https://www.githubstatus.com/incidents/myrbk7jvvs6p | Score: 228 | Comments: 113 | By: bwannasek",
+  "url" : "https://news.ycombinator.com/item?id=47877644",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+  "description" : "Link: https://github.com/russellromney/honker | Score: 241 | Comments: 60 | By: russellthehippo",
+  "url" : "https://news.ycombinator.com/item?id=47874647",
+  "answers" : [ ]
+}, {
+  "title" : "A programmable watch you can actually wear",
+  "description" : "Link: https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682 | Score: 156 | Comments: 78 | By: sarusso",
+  "url" : "https://news.ycombinator.com/item?id=47846307",
+  "answers" : [ ]
+}, {
+  "title" : "Used La Marzocco machines are coveted by cafe owners and collectors",
+  "description" : "Link: https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html | Score: 53 | Comments: 86 | By: mitchbob",
+  "url" : "https://news.ycombinator.com/item?id=47844085",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;afj75\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;afj75</a>" ]
+}, {
+  "title" : "Alberta startup sells no-tech tractors for half price",
+  "description" : "Link: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/ | Score: 2164 | Comments: 740 | By: Kaibeezy",
+  "url" : "https://news.ycombinator.com/item?id=47865868",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+  "description" : "Link: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro | Score: 119 | Comments: 10 | By: cmrdporcupine",
+  "url" : "https://news.ycombinator.com/item?id=47885014",
+  "answers" : [ ]
+}, {
+  "title" : "I spent years trying to make CSS states predictable",
+  "description" : "Link: https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/ | Score: 57 | Comments: 26 | By: tenphi",
+  "url" : "https://news.ycombinator.com/item?id=47875025",
+  "answers" : [ ]
+}, {
+  "title" : "French government agency confirms breach as hacker offers to sell data",
+  "description" : "Link: https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/ | Score: 367 | Comments: 123 | By: robtherobber",
+  "url" : "https://news.ycombinator.com/item?id=47877366",
+  "answers" : [ ]
+}, {
+  "title" : "Writing a C Compiler, in Zig (2025)",
+  "description" : "Link: https://ar-ms.me/thoughts/c-compiler-1-zig/ | Score: 146 | Comments: 41 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=47873694",
+  "answers" : [ ]
+}, {
+  "title" : "I am building a cloud",
+  "description" : "Link: https://crawshaw.io/blog/building-a-cloud | Score: 1036 | Comments: 514 | By: bumbledraven",
+  "url" : "https://news.ycombinator.com/item?id=47872324",
+  "answers" : [ ]
+}, {
+  "title" : "Advanced Packaging Limits Come into Focus",
+  "description" : "Link: https://semiengineering.com/advanced-packaging-limits-come-into-focus/ | Score: 34 | Comments: 5 | By: PaulHoule",
+  "url" : "https://news.ycombinator.com/item?id=47849628",
+  "answers" : [ ]
+}, {
+  "title" : "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+  "description" : "Link: https://www.bbc.com/news/articles/c9d4zgnqpqeo | Score: 191 | Comments: 158 | By: codezero",
+  "url" : "https://news.ycombinator.com/item?id=47880189",
+  "answers" : [ ]
+} ]
