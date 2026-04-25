@@ -1,0 +1,151 @@
+[ {
+  "title" : "Google plans to invest up to $40B in Anthropic",
+  "description" : "Link: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic | Score: 437 | Comments: 460 | By: elffjs",
+  "url" : "https://news.ycombinator.com/item?id=47892074",
+  "answers" : [ ]
+}, {
+  "title" : "Paraloid B-72",
+  "description" : "Link: https://en.wikipedia.org/wiki/Paraloid_B-72 | Score: 89 | Comments: 20 | By: Ariarule",
+  "url" : "https://news.ycombinator.com/item?id=47858939",
+  "answers" : [ ]
+}, {
+  "title" : "Humpback whales are forming super-groups",
+  "description" : "Link: https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas | Score: 52 | Comments: 17 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=47858294",
+  "answers" : [ ]
+}, {
+  "title" : "My audio interface has SSH enabled by default",
+  "description" : "Link: https://hhh.hn/rodecaster-duo-fw/ | Score: 193 | Comments: 53 | By: hhh",
+  "url" : "https://news.ycombinator.com/item?id=47894747",
+  "answers" : [ ]
+}, {
+  "title" : "Iliad fragment found in Roman-era mummy",
+  "description" : "Link: https://www.thehistoryblog.com/archives/75877 | Score: 146 | Comments: 42 | By: wise_blood",
+  "url" : "https://news.ycombinator.com/item?id=47864056",
+  "answers" : [ ]
+}, {
+  "title" : "Sabotaging projects by overthinking, scope creep, and structural diffing",
+  "description" : "Link: https://kevinlynagh.com/newsletter/2026_04_overthinking/ | Score: 381 | Comments: 96 | By: alcazar",
+  "url" : "https://news.ycombinator.com/item?id=47890799",
+  "answers" : [ ]
+}, {
+  "title" : "Replace IBM Quantum back end with /dev/urandom",
+  "description" : "Link: https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md | Score: 61 | Comments: 7 | By: pigeons",
+  "url" : "https://news.ycombinator.com/item?id=47897647",
+  "answers" : [ ]
+}, {
+  "title" : "Education must go beyond the mere production of words",
+  "description" : "Link: https://www.ncregister.com/commentaries/schnell-repairing-the-ruins | Score: 37 | Comments: 7 | By: signor_bosco",
+  "url" : "https://news.ycombinator.com/item?id=47897349",
+  "answers" : [ ]
+}, {
+  "title" : "The Classic American Diner",
+  "description" : "Link: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/ | Score: 188 | Comments: 116 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=47894435",
+  "answers" : [ ]
+}, {
+  "title" : "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+  "description" : "Link: https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/ | Score: 19 | Comments: 3 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=47897681",
+  "answers" : [ ]
+}, {
+  "title" : "There Will Be a Scientific Theory of Deep Learning",
+  "description" : "Link: https://arxiv.org/abs/2604.21691 | Score: 176 | Comments: 68 | By: jamie-simon",
+  "url" : "https://news.ycombinator.com/item?id=47893779",
+  "answers" : [ ]
+}, {
+  "title" : "Work with the garage door up (2024)",
+  "description" : "Link: https://notes.andymatuschak.org/Work_with_the_garage_door_up | Score: 140 | Comments: 104 | By: jxmorris12",
+  "url" : "https://news.ycombinator.com/item?id=47851613",
+  "answers" : [ ]
+}, {
+  "title" : "Firefox Has Integrated Brave's Adblock Engine",
+  "description" : "Link: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/ | Score: 71 | Comments: 28 | By: nreece",
+  "url" : "https://news.ycombinator.com/item?id=47897891",
+  "answers" : [ ]
+}, {
+  "title" : "A disabled kea parrot is the alpha male of his circus",
+  "description" : "Link: https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9 | Score: 5 | Comments: 0 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=47872418",
+  "answers" : [ ]
+}, {
+  "title" : "Reverse-engineering infrared-based electronic shelf labels",
+  "description" : "Link: https://www.furrtek.org/?a=esl | Score: 10 | Comments: 1 | By: pabs3",
+  "url" : "https://news.ycombinator.com/item?id=47858982",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I've built a nice home server OS",
+  "description" : "Link: https://lightwhale.asklandd.dk/ | Score: 87 | Comments: 36 | By: Zta77",
+  "url" : "https://news.ycombinator.com/item?id=47896163",
+  "answers" : [ "ohai!<p>I&#x27;ve released Lightwhale 3, which is possibly the easiest way to self-host Docker containers.<p>It&#x27;s a free, immutable Linux system purpose-built to live-boot straight into a working Docker Engine, thereby shortcutting the need for installation, configuration, and maintenance.  Its simple design makes it easy to learn, and its low memory footprint should make it especially attractive during these times of RAMageddon.<p>If this has piqued your interest, do check it out, along with its easy-to-follow Getting Started guide.<p>In any event,\nhave a nice day! =)" ]
+}, {
+  "title" : "How to be anti-social – a guide to incoherent and isolating social experiences",
+  "description" : "Link: https://nate.leaflet.pub/3mk4xkaxobc2p | Score: 328 | Comments: 307 | By: calcifer",
+  "url" : "https://news.ycombinator.com/item?id=47888372",
+  "answers" : [ ]
+}, {
+  "title" : "Email could have been X.400 times better",
+  "description" : "Link: https://buttondown.com/blog/x400-vs-smtp-email | Score: 148 | Comments: 141 | By: maguay",
+  "url" : "https://news.ycombinator.com/item?id=47873323",
+  "answers" : [ ]
+}, {
+  "title" : "MacBook Neo and how the iPad should be",
+  "description" : "Link: https://craigmod.com/essays/ipad_neo/ | Score: 231 | Comments: 130 | By: jen729w",
+  "url" : "https://news.ycombinator.com/item?id=47872306",
+  "answers" : [ ]
+}, {
+  "title" : "The Overtom Chess Computer Museum",
+  "description" : "Link: https://tluif.home.xs4all.nl/chescom/Engindex.html | Score: 24 | Comments: 3 | By: semyonsh",
+  "url" : "https://news.ycombinator.com/item?id=47860911",
+  "answers" : [ ]
+}, {
+  "title" : "(Blender) Cosmology with Geometry Nodes",
+  "description" : "Link: https://www.blender.org/user-stories/cosmology-with-geometry-nodes/ | Score: 14 | Comments: 0 | By: shankysingh",
+  "url" : "https://news.ycombinator.com/item?id=47897706",
+  "answers" : [ ]
+}, {
+  "title" : "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+  "description" : "Link: https://gigazine.net/gsc_news/en/20260424-filco-diatec/ | Score: 106 | Comments: 38 | By: gslin",
+  "url" : "https://news.ycombinator.com/item?id=47892236",
+  "answers" : [ ]
+}, {
+  "title" : "You don't want long-lived keys",
+  "description" : "Link: https://argemma.com/blog/long-lived-keys/ | Score: 36 | Comments: 19 | By: kkl",
+  "url" : "https://news.ycombinator.com/item?id=47851377",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek v4",
+  "description" : "Link: https://api-docs.deepseek.com/news/news260424 | Score: 1855 | Comments: 1437 | By: impact_sy",
+  "url" : "https://news.ycombinator.com/item?id=47884971",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main&#x2F;DeepSeek_V4.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main...</a>" ]
+}, {
+  "title" : "I'm done making desktop applications (2009)",
+  "description" : "Link: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/ | Score: 154 | Comments: 176 | By: claxo",
+  "url" : "https://news.ycombinator.com/item?id=47891801",
+  "answers" : [ ]
+}, {
+  "title" : "I cancelled Claude: Token issues, declining quality, and poor support",
+  "description" : "Link: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/ | Score: 824 | Comments: 489 | By: y42",
+  "url" : "https://news.ycombinator.com/item?id=47892019",
+  "answers" : [ ]
+}, {
+  "title" : "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
+  "description" : "Link: https://github.com/manankharwar/fusioncore | Score: 14 | Comments: 6 | By: kharwarm",
+  "url" : "https://news.ycombinator.com/item?id=47896670",
+  "answers" : [ ]
+}, {
+  "title" : "CC-Canary: Detect early signs of regressions in Claude Code",
+  "description" : "Link: https://github.com/delta-hq/cc-canary | Score: 51 | Comments: 24 | By: tejpalv",
+  "url" : "https://news.ycombinator.com/item?id=47893620",
+  "answers" : [ ]
+}, {
+  "title" : "SDL Now Supports DOS",
+  "description" : "Link: https://github.com/libsdl-org/SDL/pull/15377 | Score: 240 | Comments: 93 | By: Jayschwa",
+  "url" : "https://news.ycombinator.com/item?id=47892291",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+  "description" : "Link: https://github.com/browser-use/browser-harness | Score: 92 | Comments: 45 | By: gregpr07",
+  "url" : "https://news.ycombinator.com/item?id=47890841",
+  "answers" : [ "Hey HN,<p>We got tired of browser frameworks restricting the LLM, so we removed the framework and gave the LLM maximum freedom to do whatever it&#x27;s trained on. We gave the harness the ability to self correct and add new tools if the LLM wants (is pre-trained on) that.<p>Our Browser Use library is tens of thousands of lines of deterministic heuristics wrapping Chrome (CDP websocket). Element extractors, click helpers, target managemenet (SUPER painful), watchdogs (crash handling, file downloads, alerts), cross origin iframes (if you want to click on an element you have to switch the target first, very anoying), etc.<p>Watchdogs specifically are extremely painful but required. If Chrome triggers for example a native file popup the agent is just completely stuck. So the two solutions are to:\n1. code those heuristics and edge cases away 1 by 1 and prevent them\n2. give LLM a tool to handle the edge case<p>As you can imagine - there are crazy amounts of heuristics like this so you eventually end up with A LOT of tools if you try to go for #2. So you have to make compromises and just code those heuristics away.<p>BUT if the LLM just &quot;knows&quot; CDP well enough to switch the targets when it encounters a cross origin iframe, dismiss the alert when it appears, write its own click helpers, or upload function, you suddenly don&#x27;t have to worry about any of those edge cases.<p>Turns out LLMs know CDP pretty well these days. So we bitter pilled the harness. The concepts that should survive are:\n- something that holds and keeps CDP websocket alive (deamon)\n- extremely basic tools (helpers.py)\n- skill.md that explains how to use it<p>The new paradigm? SKILL.md + a few python helpers that need to have the ability to change on the fly.<p>One cool example:\nWe forgot to implement upload_file function. Then mid-task the agent wants to upload a file so it grepped helpers.py, saw nothing, wrote the function itself using raw DOM.setFileInputFiles (which we only noticed that later in a git diff). This was a relly magical moment of how powerful LLMs have become.<p>Compared to other approaches (Playwright MCP, browser use CLI, agent-browser, chrome devtools MCP): all of them wrap Chrome in a set of predefined functions for the LLM. The worst failure mode is silent. The LLM&#x27;s click() returns fine so the LLM thinks it clicked, but on this particular site nothing actually happened. It moves on with a broken model of the world. Browser Harness gives the LLM maximum freedom and perfect context for HOW the tools actually work.<p>Here are a few crazy examples of what browser harness can do:\n- plays stockfish <a href=\"https:&#x2F;&#x2F;x.com&#x2F;shawn_pana&#x2F;status&#x2F;2046457374467379347\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;shawn_pana&#x2F;status&#x2F;2046457374467379347</a>\n- sets a world record in tetris <a href=\"https:&#x2F;&#x2F;x.com&#x2F;shawn_pana&#x2F;status&#x2F;2047120626994012442\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;shawn_pana&#x2F;status&#x2F;2047120626994012442</a>\n- figures out how to draw a heart with js <a href=\"https:&#x2F;&#x2F;x.com&#x2F;mamagnus00&#x2F;status&#x2F;2046486159992480198?s=20\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;mamagnus00&#x2F;status&#x2F;2046486159992480198?s=20</a><p>You can super easily install it by telling claude code:\n`Set up <a href=\"https:&#x2F;&#x2F;github.com&#x2F;browser-use&#x2F;browser-harness\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;browser-use&#x2F;browser-harness</a> for me.`<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;browser-use&#x2F;browser-harness\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;browser-use&#x2F;browser-harness</a><p>What would you call this new paradigm? A dialect?" ]
+} ]
