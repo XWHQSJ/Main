@@ -1,0 +1,151 @@
+[ {
+  "title" : "Where the goblins came from",
+  "description" : "Link: https://openai.com/index/where-the-goblins-came-from/ | Score: 260 | Comments: 115 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=47957688",
+  "answers" : [ ]
+}, {
+  "title" : "Craig Venter has died",
+  "description" : "Link: https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79 | Score: 163 | Comments: 32 | By: rdl",
+  "url" : "https://news.ycombinator.com/item?id=47957101",
+  "answers" : [ ]
+}, {
+  "title" : "Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
+  "description" : "Link: https://github.com/cauchy221/Alignment-Whack-a-Mole-Code | Score: 65 | Comments: 27 | By: reconnecting",
+  "url" : "https://news.ycombinator.com/item?id=47957627",
+  "answers" : [ ]
+}, {
+  "title" : "Zed 1.0",
+  "description" : "Link: https://zed.dev/blog/zed-1-0 | Score: 1680 | Comments: 541 | By: salkahfi",
+  "url" : "https://news.ycombinator.com/item?id=47949027",
+  "answers" : [ ]
+}, {
+  "title" : "Functional Programmers need to take a look at Zig",
+  "description" : "Link: https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html | Score: 44 | Comments: 26 | By: xngbuilds",
+  "url" : "https://news.ycombinator.com/item?id=47957624",
+  "answers" : [ ]
+}, {
+  "title" : "The Zig project's rationale for their firm anti-AI contribution policy",
+  "description" : "Link: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ | Score: 84 | Comments: 21 | By: lumpa",
+  "url" : "https://news.ycombinator.com/item?id=47957294",
+  "answers" : [ ]
+}, {
+  "title" : "Copy Fail",
+  "description" : "Link: https://copy.fail/ | Score: 766 | Comments: 305 | By: unsnap_biceps",
+  "url" : "https://news.ycombinator.com/item?id=47952181",
+  "answers" : [ ]
+}, {
+  "title" : "Biology is a Burrito: A text- and visual-based journey through a living cell",
+  "description" : "Link: https://burrito.bio/essays/biology-is-a-burrito | Score: 42 | Comments: 5 | By: the-mitr",
+  "url" : "https://news.ycombinator.com/item?id=47957714",
+  "answers" : [ ]
+}, {
+  "title" : "Noctua releases official 3D CAD models for its cooling fans",
+  "description" : "Link: https://www.noctua.at/en/3d-cad-models | Score: 46 | Comments: 7 | By: embedding-shape",
+  "url" : "https://news.ycombinator.com/item?id=47927627",
+  "answers" : [ ]
+}, {
+  "title" : "Cursor Camp",
+  "description" : "Link: https://neal.fun/cursor-camp/ | Score: 797 | Comments: 132 | By: bpierre",
+  "url" : "https://news.ycombinator.com/item?id=47949939",
+  "answers" : [ ]
+}, {
+  "title" : "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+  "description" : "Link: https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/ | Score: 36 | Comments: 76 | By: Jblx2",
+  "url" : "https://news.ycombinator.com/item?id=47956781",
+  "answers" : [ ]
+}, {
+  "title" : "FastCGI: 30 years old and still the better protocol for reverse proxies",
+  "description" : "Link: https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies | Score: 296 | Comments: 69 | By: agwa",
+  "url" : "https://news.ycombinator.com/item?id=47950510",
+  "answers" : [ ]
+}, {
+  "title" : "OpenTrafficMap",
+  "description" : "Link: https://opentrafficmap.org/ | Score: 190 | Comments: 41 | By: moooo99",
+  "url" : "https://news.ycombinator.com/item?id=47953541",
+  "answers" : [ ]
+}, {
+  "title" : "Creating a Color Palette from an Image",
+  "description" : "Link: https://amandahinton.com/blog/creating-a-color-palette-from-an-image | Score: 41 | Comments: 5 | By: evakhoury",
+  "url" : "https://news.ycombinator.com/item?id=47936610",
+  "answers" : [ ]
+}, {
+  "title" : "Consequences of passing too few register parameters to a C function",
+  "description" : "Link: https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271 | Score: 42 | Comments: 20 | By: aragonite",
+  "url" : "https://news.ycombinator.com/item?id=47930003",
+  "answers" : [ ]
+}, {
+  "title" : "HERMES.md in commit messages causes requests to route to extra usage billing",
+  "description" : "Link: https://github.com/anthropics/claude-code/issues/53262 | Score: 1059 | Comments: 452 | By: homebrewer",
+  "url" : "https://news.ycombinator.com/item?id=47952722",
+  "answers" : [ ]
+}, {
+  "title" : "Mike: open-source legal AI",
+  "description" : "Link: https://mikeoss.com/ | Score: 51 | Comments: 13 | By: noleary",
+  "url" : "https://news.ycombinator.com/item?id=47956739",
+  "answers" : [ ]
+}, {
+  "title" : "Why I still reach for Lisp and Scheme instead of Haskell",
+  "description" : "Link: https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html | Score: 191 | Comments: 87 | By: jjba23",
+  "url" : "https://news.ycombinator.com/item?id=47945707",
+  "answers" : [ ]
+}, {
+  "title" : "Laws of UX",
+  "description" : "Link: https://lawsofux.com/ | Score: 231 | Comments: 34 | By: bobbiechen",
+  "url" : "https://news.ycombinator.com/item?id=47951137",
+  "answers" : [ ]
+}, {
+  "title" : "A Grounded Conceptual Model for Ownership Types in Rust",
+  "description" : "Link: https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/ | Score: 22 | Comments: 0 | By: tkhattra",
+  "url" : "https://news.ycombinator.com/item?id=47957116",
+  "answers" : [ ]
+}, {
+  "title" : "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+  "description" : "Link: https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer | Score: 1 | Comments: 0 | By: shivsak",
+  "url" : "https://news.ycombinator.com/item?id=47955226",
+  "answers" : [ ]
+}, {
+  "title" : "An open-source stethoscope that costs between $2.5 and $5 to produce",
+  "description" : "Link: https://github.com/GliaX/Stethoscope | Score: 231 | Comments: 94 | By: 0x54MUR41",
+  "url" : "https://news.ycombinator.com/item?id=47949204",
+  "answers" : [ ]
+}, {
+  "title" : "London to Calcutta by Bus",
+  "description" : "Link: https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html | Score: 10 | Comments: 0 | By: CGMthrowaway",
+  "url" : "https://news.ycombinator.com/item?id=47941931",
+  "answers" : [ ]
+}, {
+  "title" : "DRAM Crunch: Lessons for System Design",
+  "description" : "Link: https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/ | Score: 45 | Comments: 3 | By: giuliomagnifico",
+  "url" : "https://news.ycombinator.com/item?id=47933359",
+  "answers" : [ ]
+}, {
+  "title" : "Monad Tutorials Timeline",
+  "description" : "Link: https://wiki.haskell.org/Monad_tutorials_timeline | Score: 3 | Comments: 1 | By: brudgers",
+  "url" : "https://news.ycombinator.com/item?id=47958106",
+  "answers" : [ ]
+}, {
+  "title" : "Vera: a programming language designed for machines to write",
+  "description" : "Link: https://github.com/aallan/vera | Score: 73 | Comments: 60 | By: unignorant",
+  "url" : "https://news.ycombinator.com/item?id=47955118",
+  "answers" : [ ]
+}, {
+  "title" : "We need a federation of forges",
+  "description" : "Link: https://blog.tangled.org/federation/ | Score: 545 | Comments: 340 | By: icy",
+  "url" : "https://news.ycombinator.com/item?id=47948603",
+  "answers" : [ ]
+}, {
+  "title" : "Ramp's Sheets AI Exfiltrates Financials",
+  "description" : "Link: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials | Score: 124 | Comments: 38 | By: takira",
+  "url" : "https://news.ycombinator.com/item?id=47951786",
+  "answers" : [ ]
+}, {
+  "title" : "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+  "description" : "Link: https://jivx.com/kyoto-bloom | Score: 308 | Comments: 87 | By: momentmaker",
+  "url" : "https://news.ycombinator.com/item?id=47953275",
+  "answers" : [ ]
+}, {
+  "title" : "I accidentally made law enforcement shut down their fake honeypot",
+  "description" : "Link: https://lina.sh/blog/ddos-honeypot | Score: 87 | Comments: 36 | By: fishgoesblub",
+  "url" : "https://news.ycombinator.com/item?id=47954638",
+  "answers" : [ ]
+} ]
