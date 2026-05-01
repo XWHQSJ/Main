@@ -1,0 +1,151 @@
+[ {
+  "title" : "How Mark Klein told the EFF about Room 641A [book excerpt]",
+  "description" : "Link: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ | Score: 508 | Comments: 168 | By: the-mitr",
+  "url" : "https://news.ycombinator.com/item?id=47965060",
+  "answers" : [ ]
+}, {
+  "title" : "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+  "description" : "Link: https://www.openwall.com/lists/oss-security/2026/04/30/10 | Score: 435 | Comments: 333 | By: ori_b",
+  "url" : "https://news.ycombinator.com/item?id=47965108",
+  "answers" : [ "Recent: <i>Copy Fail</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181</a> - April 2026 (466 comments)" ]
+}, {
+  "title" : "Opus 4.7 knows the real Kelsey",
+  "description" : "Link: https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously | Score: 249 | Comments: 136 | By: ilamont",
+  "url" : "https://news.ycombinator.com/item?id=47951295",
+  "answers" : [ ]
+}, {
+  "title" : "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+  "description" : "Link: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ | Score: 359 | Comments: 123 | By: j12y",
+  "url" : "https://news.ycombinator.com/item?id=47964617",
+  "answers" : [ ]
+}, {
+  "title" : "Can I disable all data collection from my vehicle?",
+  "description" : "Link: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle | Score: 570 | Comments: 222 | By: Cider9986",
+  "url" : "https://news.ycombinator.com/item?id=47967786",
+  "answers" : [ ]
+}, {
+  "title" : "I Got Sick of Remembering Port Numbers",
+  "description" : "Link: https://gregraiz.com/blog/local-vibe/ | Score: 47 | Comments: 32 | By: graiz",
+  "url" : "https://news.ycombinator.com/item?id=47939246",
+  "answers" : [ ]
+}, {
+  "title" : "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+  "description" : "Link: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/ | Score: 72 | Comments: 20 | By: zikani_03",
+  "url" : "https://news.ycombinator.com/item?id=47969288",
+  "answers" : [ ]
+}, {
+  "title" : "Maladaptive Frugality",
+  "description" : "Link: https://herbertlui.net/maladaptive-frugality/ | Score: 56 | Comments: 42 | By: herbertl",
+  "url" : "https://news.ycombinator.com/item?id=47942863",
+  "answers" : [ ]
+}, {
+  "title" : "I built a Game Boy emulator in F#",
+  "description" : "Link: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/ | Score: 245 | Comments: 52 | By: elvis70",
+  "url" : "https://news.ycombinator.com/item?id=47965503",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+  "description" : "Link: https://twitter.com/theo/status/2049645973350363168 | Score: 1054 | Comments: 585 | By: elmean",
+  "url" : "https://news.ycombinator.com/item?id=47963204",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168</a>" ]
+}, {
+  "title" : "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+  "description" : "Link: https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica | Score: 10 | Comments: 4 | By: oldnetguy",
+  "url" : "https://news.ycombinator.com/item?id=47948152",
+  "answers" : [ ]
+}, {
+  "title" : "How an oil refinery works",
+  "description" : "Link: https://www.construction-physics.com/p/how-an-oil-refinery-works | Score: 373 | Comments: 115 | By: chmaynard",
+  "url" : "https://news.ycombinator.com/item?id=47962548",
+  "answers" : [ ]
+}, {
+  "title" : "Vercel’s pricing page",
+  "description" : "Link: https://theupsellgame.com/ | Score: 163 | Comments: 45 | By: bartoindahouse",
+  "url" : "https://news.ycombinator.com/item?id=47967508",
+  "answers" : [ ]
+}, {
+  "title" : "Reverse Engineering SimTower",
+  "description" : "Link: https://phulin.me/blog/simtower | Score: 166 | Comments: 29 | By: patrickhulin",
+  "url" : "https://news.ycombinator.com/item?id=47937814",
+  "answers" : [ "This is the story of building <a href=\"https:&#x2F;&#x2F;towers.world\" rel=\"nofollow\">https:&#x2F;&#x2F;towers.world</a>, a ~perfect, tick-for-tick reproduction of 1993 game SimTower.<p>I spent weeks reverse-engineering the original EXE and writing up a detailed spec of how the simulation actually works under the hood — population flow, elevator AI, the whole star-rating system. The specs are all on GitHub if you want to read them: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;phulin&#x2F;tower-together&#x2F;tree&#x2F;main&#x2F;specs\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;phulin&#x2F;tower-together&#x2F;tree&#x2F;main&#x2F;specs</a><p>It&#x27;s also collaborative. Multiple players can connect to the same tower, the simulation keeps running as long as anyone&#x27;s connected, and build actions sync across clients in real time.<p>Because I rebuilt the UI, I could add features like shift-click to build grids of rooms - instead of painstakingly clicking to build rows of offices and hotels, shift-click allows a 10-floor grid to be built all at once.<p>The game runs on Cloudflare Durable Objects, one of my favorite web primitives.<p>Everything is open source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;phulin&#x2F;tower-together\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;phulin&#x2F;tower-together</a>" ]
+}, {
+  "title" : "New mechanical panoramic film camera from Jeff Bridges",
+  "description" : "Link: https://wideluxx.com | Score: 113 | Comments: 53 | By: armadsen",
+  "url" : "https://news.ycombinator.com/item?id=47937033",
+  "answers" : [ ]
+}, {
+  "title" : "You can beat the binary search",
+  "description" : "Link: https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/ | Score: 284 | Comments: 130 | By: vok",
+  "url" : "https://news.ycombinator.com/item?id=47924912",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Winpodx – run Windows apps on Linux as native windows",
+  "description" : "Link: https://github.com/kernalix7/winpodx | Score: 53 | Comments: 26 | By: kernalix7",
+  "url" : "https://news.ycombinator.com/item?id=47970690",
+  "answers" : [ ]
+}, {
+  "title" : "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+  "description" : "Link: https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html | Score: 63 | Comments: 10 | By: wglb",
+  "url" : "https://news.ycombinator.com/item?id=47968982",
+  "answers" : [ ]
+}, {
+  "title" : "Belgium stops decommissioning nuclear power plants",
+  "description" : "Link: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/ | Score: 783 | Comments: 759 | By: mpweiher",
+  "url" : "https://news.ycombinator.com/item?id=47961319",
+  "answers" : [ ]
+}, {
+  "title" : "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
+  "description" : "Link: https://honker.dev/ | Score: 195 | Comments: 52 | By: ferriswil",
+  "url" : "https://news.ycombinator.com/item?id=47963316",
+  "answers" : [ ]
+}, {
+  "title" : "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+  "description" : "Link: https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/ | Score: 6 | Comments: 0 | By: giuliomagnifico",
+  "url" : "https://news.ycombinator.com/item?id=47946899",
+  "answers" : [ ]
+}, {
+  "title" : "OpenWarp",
+  "description" : "Link: https://openwarp.zerx.dev | Score: 55 | Comments: 56 | By: zero-lab",
+  "url" : "https://news.ycombinator.com/item?id=47970622",
+  "answers" : [ ]
+}, {
+  "title" : "Full-Text Search with DuckDB",
+  "description" : "Link: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html | Score: 109 | Comments: 27 | By: ethagnawl",
+  "url" : "https://news.ycombinator.com/item?id=47966254",
+  "answers" : [ ]
+}, {
+  "title" : "I aggregated 28 US Government auction sites into one search",
+  "description" : "Link: https://bidprowl.com | Score: 270 | Comments: 75 | By: scarsam",
+  "url" : "https://news.ycombinator.com/item?id=47961378",
+  "answers" : [ ]
+}, {
+  "title" : "10Gb/s Ethernet: what I did to get it working in my home",
+  "description" : "Link: https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did | Score: 175 | Comments: 124 | By: gpjt",
+  "url" : "https://news.ycombinator.com/item?id=47947944",
+  "answers" : [ ]
+}, {
+  "title" : "Does Postgres Scale?",
+  "description" : "Link: https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres | Score: 109 | Comments: 54 | By: KraftyOne",
+  "url" : "https://news.ycombinator.com/item?id=47966625",
+  "answers" : [ ]
+}, {
+  "title" : "The Hearts of the Super Nintendo",
+  "description" : "Link: https://fabiensanglard.net/snes_hearts/ | Score: 17 | Comments: 2 | By: droppedasbaby",
+  "url" : "https://news.ycombinator.com/item?id=47970578",
+  "answers" : [ ]
+}, {
+  "title" : "The Church Rock Uranium Mill Spill",
+  "description" : "Link: https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill | Score: 77 | Comments: 5 | By: Sir_Twist",
+  "url" : "https://news.ycombinator.com/item?id=47939158",
+  "answers" : [ ]
+}, {
+  "title" : "Follow-up to Carrot disclosure: Forgejo",
+  "description" : "Link: https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html | Score: 57 | Comments: 8 | By: homebrewer",
+  "url" : "https://news.ycombinator.com/item?id=47967069",
+  "answers" : [ ]
+}, {
+  "title" : "Spain's parliament will act against massive IP blockages by LaLiga",
+  "description" : "Link: https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/ | Score: 444 | Comments: 181 | By: akyuu",
+  "url" : "https://news.ycombinator.com/item?id=47964034",
+  "answers" : [ ]
+} ]
