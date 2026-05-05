@@ -1,0 +1,151 @@
+[ {
+  "title" : "What I'm Hearing About Cognitive Debt (So Far)",
+  "description" : "Link: https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/ | Score: 113 | Comments: 50 | By: raphaelcosta",
+  "url" : "https://news.ycombinator.com/item?id=48017298",
+  "answers" : [ ]
+}, {
+  "title" : "Bun is being ported from Zig to Rust",
+  "description" : "Link: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5 | Score: 305 | Comments: 206 | By: SergeAx",
+  "url" : "https://news.ycombinator.com/item?id=48016880",
+  "answers" : [ ]
+}, {
+  "title" : "CVE-2026-31431: Copy Fail vs. rootless containers",
+  "description" : "Link: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/ | Score: 33 | Comments: 10 | By: averi",
+  "url" : "https://news.ycombinator.com/item?id=48017813",
+  "answers" : [ ]
+}, {
+  "title" : "Train Your Own LLM from Scratch",
+  "description" : "Link: https://github.com/angelos-p/llm-from-scratch | Score: 15 | Comments: 1 | By: kristianpaul",
+  "url" : "https://news.ycombinator.com/item?id=48017948",
+  "answers" : [ ]
+}, {
+  "title" : "How OpenAI delivers low-latency voice AI at scale",
+  "description" : "Link: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ | Score: 340 | Comments: 110 | By: Sean-Der",
+  "url" : "https://news.ycombinator.com/item?id=48013919",
+  "answers" : [ ]
+}, {
+  "title" : "About 10% of AMC movie showings sell zero tickets. This site finds them",
+  "description" : "Link: https://walzr.com/empty-screenings | Score: 16 | Comments: 3 | By: MrBuddyCasino",
+  "url" : "https://news.ycombinator.com/item?id=48018066",
+  "answers" : [ ]
+}, {
+  "title" : "Pulitzer Prize Winner in International Reporting",
+  "description" : "Link: https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated | Score: 48 | Comments: 2 | By: jay_kyburz",
+  "url" : "https://news.ycombinator.com/item?id=48017399",
+  "answers" : [ ]
+}, {
+  "title" : "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+  "description" : "Link: https://nobodyaskedforthis.lol/posts/connected-car/ | Score: 29 | Comments: 15 | By: cadito",
+  "url" : "https://news.ycombinator.com/item?id=48017251",
+  "answers" : [ ]
+}, {
+  "title" : "Agent Skills",
+  "description" : "Link: https://addyosmani.com/blog/agent-skills/ | Score: 182 | Comments: 72 | By: BOOSTERHIDROGEN",
+  "url" : "https://news.ycombinator.com/item?id=48015397",
+  "answers" : [ ]
+}, {
+  "title" : "When Networking Doesn't Work",
+  "description" : "Link: https://www.os2museum.com/wp/when-networking-doesnt-work/ | Score: 32 | Comments: 4 | By: kencausey",
+  "url" : "https://news.ycombinator.com/item?id=48014868",
+  "answers" : [ ]
+}, {
+  "title" : "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+  "description" : "Link: https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup | Score: 187 | Comments: 79 | By: bearsyankees",
+  "url" : "https://news.ycombinator.com/item?id=48012162",
+  "answers" : [ ]
+}, {
+  "title" : "Gaps in national food production, worldwide",
+  "description" : "Link: https://www.nature.com/articles/s43016-025-01173-4 | Score: 19 | Comments: 3 | By: simonebrunozzi",
+  "url" : "https://news.ycombinator.com/item?id=48008104",
+  "answers" : [ ]
+}, {
+  "title" : "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+  "description" : "Link: https://www.nber.org/papers/w35117 | Score: 250 | Comments: 229 | By: littlexsparkee",
+  "url" : "https://news.ycombinator.com/item?id=48009983",
+  "answers" : [ ]
+}, {
+  "title" : "Testing macOS on the Apple Network Server 2.0 ROMs",
+  "description" : "Link: http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html | Score: 73 | Comments: 13 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=47998158",
+  "answers" : [ ]
+}, {
+  "title" : "Redis array: short story of a long development process",
+  "description" : "Link: https://antirez.com/news/164 | Score: 257 | Comments: 83 | By: antirez",
+  "url" : "https://news.ycombinator.com/item?id=48009172",
+  "answers" : [ ]
+}, {
+  "title" : "pgxbackup: Continuity Support for pgBackRest",
+  "description" : "Link: https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/ | Score: 18 | Comments: 1 | By: Wingy",
+  "url" : "https://news.ycombinator.com/item?id=47988439",
+  "answers" : [ ]
+}, {
+  "title" : "Talking to strangers at the gym",
+  "description" : "Link: https://thienantran.com/talking-to-35-strangers-at-the-gym/ | Score: 1259 | Comments: 591 | By: thitran",
+  "url" : "https://news.ycombinator.com/item?id=48007438",
+  "answers" : [ ]
+}, {
+  "title" : "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+  "description" : "Link: https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/ | Score: 153 | Comments: 111 | By: Brajeshwar",
+  "url" : "https://news.ycombinator.com/item?id=48009840",
+  "answers" : [ ]
+}, {
+  "title" : "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+  "description" : "Link: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730 | Score: 475 | Comments: 165 | By: cft",
+  "url" : "https://news.ycombinator.com/item?id=48012735",
+  "answers" : [ ]
+}, {
+  "title" : "Y Combinator's Stake in OpenAI (0.6%)",
+  "description" : "Link: https://daringfireball.net/2026/05/y_combinators_stake_in_openai | Score: 207 | Comments: 18 | By: gyomu",
+  "url" : "https://news.ycombinator.com/item?id=48016534",
+  "answers" : [ ]
+}, {
+  "title" : "I am worried about Bun",
+  "description" : "Link: https://wwj.dev/posts/i-am-worried-about-bun/ | Score: 447 | Comments: 298 | By: remote-dev",
+  "url" : "https://news.ycombinator.com/item?id=48011184",
+  "answers" : [ ]
+}, {
+  "title" : "Formatting a 25M-line codebase overnight",
+  "description" : "Link: https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story | Score: 143 | Comments: 73 | By: r00k",
+  "url" : "https://news.ycombinator.com/item?id=48014325",
+  "answers" : [ ]
+}, {
+  "title" : "How Monero’s proof of work works",
+  "description" : "Link: https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works | Score: 259 | Comments: 187 | By: alcazar",
+  "url" : "https://news.ycombinator.com/item?id=48009020",
+  "answers" : [ ]
+}, {
+  "title" : "PyInfra 3.8.0",
+  "description" : "Link: https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0 | Score: 244 | Comments: 86 | By: wowi42",
+  "url" : "https://news.ycombinator.com/item?id=48008083",
+  "answers" : [ ]
+}, {
+  "title" : "Pomiferous: The most extensive apples (pommes) database",
+  "description" : "Link: https://pomiferous.com/ | Score: 112 | Comments: 45 | By: Ariarule",
+  "url" : "https://news.ycombinator.com/item?id=48009441",
+  "answers" : [ ]
+}, {
+  "title" : "GameStop makes $55.5B takeover offer for eBay",
+  "description" : "Link: https://www.bbc.co.uk/news/articles/cn0p8yled1do | Score: 659 | Comments: 631 | By: n1b0m",
+  "url" : "https://news.ycombinator.com/item?id=48006402",
+  "answers" : [ ]
+}, {
+  "title" : "Transformers Are Inherently Succinct (2025)",
+  "description" : "Link: https://arxiv.org/abs/2510.19315 | Score: 43 | Comments: 6 | By: bearseascape",
+  "url" : "https://news.ycombinator.com/item?id=48014197",
+  "answers" : [ ]
+}, {
+  "title" : "UK Fuel Price Intelligence – Market analytics from reporting stations",
+  "description" : "Link: https://www.fuelinsight.co.uk | Score: 169 | Comments: 78 | By: theazureguy",
+  "url" : "https://news.ycombinator.com/item?id=48009747",
+  "answers" : [ ]
+}, {
+  "title" : "Sierra Raises $950M at $15B Valuation",
+  "description" : "Link: https://sierra.ai/blog/better-customer-experiences-built-on-sierra | Score: 100 | Comments: 125 | By: doppp",
+  "url" : "https://news.ycombinator.com/item?id=48010266",
+  "answers" : [ ]
+}, {
+  "title" : "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+  "description" : "Link: https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/ | Score: 461 | Comments: 153 | By: ZeidJ",
+  "url" : "https://news.ycombinator.com/item?id=48011689",
+  "answers" : [ ]
+} ]
