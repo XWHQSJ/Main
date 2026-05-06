@@ -1,0 +1,151 @@
+[ {
+  "title" : "Agents can now create Cloudflare accounts, buy domains, and deploy",
+  "description" : "Link: https://blog.cloudflare.com/agents-stripe-projects/ | Score: 121 | Comments: 50 | By: rolph",
+  "url" : "https://news.ycombinator.com/item?id=48031684",
+  "answers" : [ ]
+}, {
+  "title" : "StarFighter 16-Inch",
+  "description" : "Link: https://us.starlabs.systems/pages/starfighter | Score: 153 | Comments: 81 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=48031261",
+  "answers" : [ ]
+}, {
+  "title" : ".de TLD offline due to DNSSEC?",
+  "description" : "Link: https://dnssec-analyzer.verisignlabs.com/nic.de | Score: 582 | Comments: 290 | By: warpspin",
+  "url" : "https://news.ycombinator.com/item?id=48027897",
+  "answers" : [ ]
+}, {
+  "title" : "Telus Uses AI to Alter Call-Agent Accents",
+  "description" : "Link: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 | Score: 87 | Comments: 52 | By: debo_",
+  "url" : "https://news.ycombinator.com/item?id=48031109",
+  "answers" : [ ]
+}, {
+  "title" : "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+  "description" : "Link: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/ | Score: 510 | Comments: 228 | By: amrrs",
+  "url" : "https://news.ycombinator.com/item?id=48024540",
+  "answers" : [ ]
+}, {
+  "title" : "Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping",
+  "description" : "Link: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now | Score: 17 | Comments: 7 | By: neilfrndes",
+  "url" : "https://news.ycombinator.com/item?id=48031867",
+  "answers" : [ ]
+}, {
+  "title" : "Write some software, give it away for free",
+  "description" : "Link: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026 | Score: 193 | Comments: 131 | By: nohell",
+  "url" : "https://news.ycombinator.com/item?id=48028842",
+  "answers" : [ ]
+}, {
+  "title" : "YouTube, your RSS feeds are broken",
+  "description" : "Link: https://openrss.org/blog/youtube-your-feeds-are-broken | Score: 38 | Comments: 12 | By: veeti",
+  "url" : "https://news.ycombinator.com/item?id=48030964",
+  "answers" : [ ]
+}, {
+  "title" : "Three Inverse Laws of AI",
+  "description" : "Link: https://susam.net/inverse-laws-of-robotics.html | Score: 398 | Comments: 269 | By: blenderob",
+  "url" : "https://news.ycombinator.com/item?id=48023861",
+  "answers" : [ ]
+}, {
+  "title" : "Computer Use is 45x more expensive than structured APIs",
+  "description" : "Link: https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/ | Score: 357 | Comments: 211 | By: palashawas",
+  "url" : "https://news.ycombinator.com/item?id=48024859",
+  "answers" : [ ]
+}, {
+  "title" : "Ombudsman column: The Pentagon is trying to silence me",
+  "description" : "Link: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html | Score: 93 | Comments: 9 | By: petethomas",
+  "url" : "https://news.ycombinator.com/item?id=48031769",
+  "answers" : [ ]
+}, {
+  "title" : "EEVblog: The 555 Timer is 55 years old [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=6JhK8iCQuqI | Score: 260 | Comments: 64 | By: brudgers",
+  "url" : "https://news.ycombinator.com/item?id=48024129",
+  "answers" : [ ]
+}, {
+  "title" : "Why most product tours get skipped",
+  "description" : "Link: https://productonboarding.com/articles/why-product-tours-get-skipped | Score: 109 | Comments: 94 | By: pancomplex",
+  "url" : "https://news.ycombinator.com/item?id=48028546",
+  "answers" : [ ]
+}, {
+  "title" : "Wiki Builder: Skill to Build LLM Knowledge Bases",
+  "description" : "Link: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin | Score: 33 | Comments: 2 | By: omarsar",
+  "url" : "https://news.ycombinator.com/item?id=47997915",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+  "description" : "Link: https://paletteinspiration.com/ | Score: 139 | Comments: 53 | By: ouli",
+  "url" : "https://news.ycombinator.com/item?id=48026342",
+  "answers" : [ "I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).\nWhy I built it: every color palette generator I tried converged on the same five muted pastels. Painters spent centuries figuring out color and we mostly ignore that body of work when picking colors for digital design.\nPlease share your feedback on the Color Harmony Explorer - drag the wheel to any color and it shows which hues master painters historically paired with it (not only standard complementary, analogous, triadic, etc.) It is solely based on co-occurrence across thousands of real paintings. Not algorithmic color theory rules - actual empirical pairings.<p>No signup, no paywall, no email capture. Just curious what people think." ]
+}, {
+  "title" : "Google Chrome silently installs a 4 GB AI model on your device without consent",
+  "description" : "Link: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ | Score: 1343 | Comments: 896 | By: john-doe",
+  "url" : "https://news.ycombinator.com/item?id=48019219",
+  "answers" : [ ]
+}, {
+  "title" : "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+  "description" : "Link: https://twitter.com/brian_armstrong/status/2051616759145185723 | Score: 319 | Comments: 465 | By: adrianmsmith",
+  "url" : "https://news.ycombinator.com/item?id=48021368",
+  "answers" : [ ]
+}, {
+  "title" : "Feds Fine Durham Energy Efficiency Co $722M",
+  "description" : "Link: https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/ | Score: 12 | Comments: 7 | By: ChuckMcM",
+  "url" : "https://news.ycombinator.com/item?id=48004992",
+  "answers" : [ ]
+}, {
+  "title" : "I'm scared about biological computing",
+  "description" : "Link: https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing | Score: 175 | Comments: 148 | By: kuberwastaken",
+  "url" : "https://news.ycombinator.com/item?id=48024358",
+  "answers" : [ ]
+}, {
+  "title" : "Agents for financial services and insurance",
+  "description" : "Link: https://www.anthropic.com/news/finance-agents | Score: 220 | Comments: 168 | By: louiereederson",
+  "url" : "https://news.ycombinator.com/item?id=48023533",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Airbyte Agents – context for agents across multiple data sources",
+  "description" : "Score: 107 | Comments: 28 | By: mtricot",
+  "url" : "https://news.ycombinator.com/item?id=48023496",
+  "answers" : [ "I’m Michel, co-founder and CEO of Airbyte (<a href=\"https:&#x2F;&#x2F;airbyte.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;airbyte.com&#x2F;</a>). We’ve spent the last six years building data connectors. Today we&#x27;re launching Airbyte Agents (<a href=\"https:&#x2F;&#x2F;docs.airbyte.com&#x2F;ai-agents&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.airbyte.com&#x2F;ai-agents&#x2F;</a>), a unified data layer for agents to discover information and take action across operational systems.<p>Here’s a quick walkthrough: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=ZosDytyf1fg\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=ZosDytyf1fg</a><p>As agents move into real workflows, they need access to more tools (e.g. Slack, Salesforce, Linear). That means a ton of API plumbing: authentication, pagination, filters, handling schema, and matching entities across systems.<p>Most MCPs don’t fix this. They’re thin wrappers over APIs, so agents inherit their weak primitives and still get it wrong most of the time, especially when working across tools.<p>An even deeper issue is that APIs assume you already know what to query (think endpoints, Object IDs, fields), whereas agents usually start one step earlier: they need first to discover what matters before they can even start reasoning.<p>So we built Airbyte Agents to be a context layer between your Agents and all of your data. The core of this is something we call Context Store: a data index optimized for agentic search, populated by our replication connectors. All that work on data connectors the last six years comes in handy here!<p>This gives agents a structured way to discover data, while still allowing them to read and write directly to the upstream system when needed.<p>What got us working on this was an insane trace from an agent we were migrating to our new SDK. It was supposed to answer &quot;which customers are at risk of leaving this quarter?&quot; The trace had 47 steps. Most were API calls. The agent first had to find a bunch of accounts, then map them to the right customers, then look for tickets, bla bla... and when the Agent finally responded, the answer sounded ok, but was wrong. Not only that, it was excruciatingly slow. So we had to do something about it.<p>That 47-step agent is one example of a question where Airbyte Agents does particularly well. Other examples: - “Show me all enterprise deals closing this month with open support tickets.&quot; - “Find every support ticket that doesn’t have a Github issue opened”<p>Some of these might sound simple, but the quality of the answer changes dramatically when the agent doesn’t have to assemble all that context at runtime.<p>Once we had an early version of the product, I spent a weekend building a benchmark harness to see if it worked. Also for fun, I like writing benchmarks :). I compared calling the Airbyte Agent MCP vs calling a bunch of vendor MCPs directly. I tested retrieval, and search.<p>For the sake of simplicity, I used token consumption as a unit of measure. I think that’s a good proxy for how well agents are working. A failing agent (like the one that took 47 steps), will churn through lots of tokens while getting nowhere, while a successful one will get straight to the point.<p>Here&#x27;s what I found when measuring: for Gong, it used up to 80% fewer tokens than their own MCP, for Zendesk up to 90% fewer, for Linear up to 75%, and for Salesforce up to 16% (Salesforce’s own SOQL does a good job here).<p>Of course there is the usual obvious bias: we are the builders of what we are benchmarking. So we made the test harness public: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;airbytehq&#x2F;airbyte-agents-benchmarks\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;airbytehq&#x2F;airbyte-agents-benchmarks</a>. Feel free to poke at it, and please tell us what you find if you do!<p>It&#x27;s still early and some parts are rough, but we wanted to share this with the community asap. We&#x27;d love to hear from people building agents:\n- Are you indexing data ahead of time, or letting the agent call APIs live?\n- How are you matching entities across systems?<p>Would also love to hear any thoughts, comments, or ideas of how we could make this better, and if there are obvious things we’re missing. For now, we’re excited to keep building!" ]
+}, {
+  "title" : "Make some art with your phone sensors",
+  "description" : "Link: https://tautme.github.io/phone-sensors/sensor-etch.html | Score: 6 | Comments: 1 | By: adm4",
+  "url" : "https://news.ycombinator.com/item?id=48003549",
+  "answers" : [ ]
+}, {
+  "title" : "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+  "description" : "Link: https://arxiv.org/abs/2604.26752 | Score: 129 | Comments: 27 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48026021",
+  "answers" : [ ]
+}, {
+  "title" : "Should I run plain Docker Compose in production in 2026?",
+  "description" : "Link: https://distr.sh/blog/running-docker-in-production/ | Score: 380 | Comments: 267 | By: pmig",
+  "url" : "https://news.ycombinator.com/item?id=47962032",
+  "answers" : [ ]
+}, {
+  "title" : "When everyone has AI and the company still learns nothing",
+  "description" : "Link: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ | Score: 338 | Comments: 227 | By: youngbrioche",
+  "url" : "https://news.ycombinator.com/item?id=48020063",
+  "answers" : [ ]
+}, {
+  "title" : "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
+  "description" : "Link: https://mohibulsblog.netlify.app/java/100daysofjava/graph/ | Score: 42 | Comments: 14 | By: celurian92",
+  "url" : "https://news.ycombinator.com/item?id=47996740",
+  "answers" : [ ]
+}, {
+  "title" : "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+  "description" : "Link: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php | Score: 303 | Comments: 362 | By: littlexsparkee",
+  "url" : "https://news.ycombinator.com/item?id=48026349",
+  "answers" : [ ]
+}, {
+  "title" : "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+  "description" : "Link: https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/ | Score: 323 | Comments: 308 | By: spankibalt",
+  "url" : "https://news.ycombinator.com/item?id=48026207",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32\" rel=\"nofollow\">https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;meta-mark-zuckerberg-ai-publisher...</a>" ]
+}, {
+  "title" : "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+  "description" : "Link: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/ | Score: 399 | Comments: 298 | By: alentodorov",
+  "url" : "https://news.ycombinator.com/item?id=48021561",
+  "answers" : [ ]
+}, {
+  "title" : "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+  "description" : "Link: https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer | Score: 1 | Comments: 0 | By: pablo24602",
+  "url" : "https://news.ycombinator.com/item?id=48025244",
+  "answers" : [ ]
+} ]
