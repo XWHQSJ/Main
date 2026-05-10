@@ -1,0 +1,151 @@
+[ {
+  "title" : "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+  "description" : "Link: https://github.com/imtomt/ymawky | Score: 122 | Comments: 42 | By: imtomt",
+  "url" : "https://news.ycombinator.com/item?id=48080587",
+  "answers" : [ "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves custom error pages for any HTTP error response, supports directory listing, and has (some) mitigations against slowloris-like attacks.<p>I’ve also written a more detailed writeup here: <a href=\"https:&#x2F;&#x2F;imtomt.github.io&#x2F;ymawky&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;imtomt.github.io&#x2F;ymawky&#x2F;</a>" ]
+}, {
+  "title" : "Gemini API File Search is now multimodal",
+  "description" : "Link: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/ | Score: 40 | Comments: 2 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48080702",
+  "answers" : [ ]
+}, {
+  "title" : "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+  "description" : "Link: https://twitter.com/jarredsumner/status/2053047748191232310 | Score: 481 | Comments: 458 | By: heldrida",
+  "url" : "https://news.ycombinator.com/item?id=48073680",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xunroll.com&#x2F;thread&#x2F;2053047748191232310\" rel=\"nofollow\">https:&#x2F;&#x2F;xunroll.com&#x2F;thread&#x2F;2053047748191232310</a><p>Recent and related: <i>Zig → Rust porting guide</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48016880\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48016880</a> - May 2026 (540 comments)" ]
+}, {
+  "title" : "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+  "description" : "Link: https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/ | Score: 62 | Comments: 22 | By: dr_kiszonka",
+  "url" : "https://news.ycombinator.com/item?id=48048407",
+  "answers" : [ ]
+}, {
+  "title" : "The One Dollar Counterfeiter",
+  "description" : "Link: https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html | Score: 31 | Comments: 8 | By: cainxinth",
+  "url" : "https://news.ycombinator.com/item?id=48048684",
+  "answers" : [ ]
+}, {
+  "title" : "Internet Archive Switzerland",
+  "description" : "Link: https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/ | Score: 577 | Comments: 88 | By: hggh",
+  "url" : "https://news.ycombinator.com/item?id=48074265",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;internetarchive.ch&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;internetarchive.ch&#x2F;</a>" ]
+}, {
+  "title" : "I’ve banned query strings",
+  "description" : "Link: https://chrismorgan.info/no-query-strings | Score: 328 | Comments: 184 | By: susam",
+  "url" : "https://news.ycombinator.com/item?id=48076173",
+  "answers" : [ "Related: <a href=\"https:&#x2F;&#x2F;susam.net&#x2F;no-query-strings.html\" rel=\"nofollow\">https:&#x2F;&#x2F;susam.net&#x2F;no-query-strings.html</a>" ]
+}, {
+  "title" : "We see something that works, and then we understand it",
+  "description" : "Link: https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/ | Score: 11 | Comments: 4 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48037223",
+  "answers" : [ ]
+}, {
+  "title" : "I'm writing a history of Visual Basic, Chapter 1 is up",
+  "description" : "Link: https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch | Score: 72 | Comments: 20 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48039249",
+  "answers" : [ ]
+}, {
+  "title" : "Local privilege escalation via execve()",
+  "description" : "Link: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc | Score: 117 | Comments: 69 | By: Deeg9rie9usi",
+  "url" : "https://news.ycombinator.com/item?id=48077971",
+  "answers" : [ ]
+}, {
+  "title" : "Zed Editor Theme-Builder",
+  "description" : "Link: https://zed.dev/theme-builder | Score: 184 | Comments: 53 | By: cuechan",
+  "url" : "https://news.ycombinator.com/item?id=48076651",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Rust but Lisp",
+  "description" : "Link: https://github.com/ThatXliner/rust-but-lisp | Score: 108 | Comments: 58 | By: thatxliner",
+  "url" : "https://news.ycombinator.com/item?id=48078575",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+  "description" : "Link: https://github.com/nooga/let-go | Score: 128 | Comments: 38 | By: marcingas",
+  "url" : "https://news.ycombinator.com/item?id=48076815",
+  "answers" : [ "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that&#x27;s about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark of the GraalVM-backed sci.<p>I started this project in 2021 as an elaborate practical joke: I wanted to have an excuse for writing Clojure while pretending to write Go.<p>Jokes aside, it turned out to be pretty decent: it feels like real Clojure, it has an nREPL server (supported in Calva, CIDER, etc.), it&#x27;s easily embeddable in your Go programs (funcs, structs and channels cross the boundary without fuss). It&#x27;s good for writing CLIs, web servers, data processing scripts and even doing some systems programming - I used it to write a deamonless container runtime. Oh, and it runs on Plan9.<p>Under the hood there is a fairly simple compiler and a stack VM, both handcrafted specifically for running Clojure-like code. The compiler can work in AOT mode producing portable bytecode blobs and standalone binaries (runtime+bytecode).<p>This is not a drop-in replacement for Clojure in general - it does not load JARs, it does not have all Java APIs and it most probably won&#x27;t run your exiting Clojure projects without modifications. At least not at the moment.<p>Take it for a spin, tell me what you think. Issues and PRs are welcome!" ]
+}, {
+  "title" : "The Serial TTL connector we deserve",
+  "description" : "Link: https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/ | Score: 74 | Comments: 52 | By: kohlschuetter",
+  "url" : "https://news.ycombinator.com/item?id=48049828",
+  "answers" : [ ]
+}, {
+  "title" : "Making your own programming language is easier than you think (but also harder)",
+  "description" : "Link: https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html | Score: 74 | Comments: 30 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=48048902",
+  "answers" : [ ]
+}, {
+  "title" : "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+  "description" : "Link: https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html | Score: 45 | Comments: 1 | By: rsecora",
+  "url" : "https://news.ycombinator.com/item?id=48038573",
+  "answers" : [ ]
+}, {
+  "title" : "Distributing Mac software is increasing my cortisol levels",
+  "description" : "Link: https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels | Score: 247 | Comments: 171 | By: LorenDB",
+  "url" : "https://news.ycombinator.com/item?id=48075366",
+  "answers" : [ ]
+}, {
+  "title" : "LLMs corrupt your documents when you delegate",
+  "description" : "Link: https://arxiv.org/abs/2604.15597 | Score: 382 | Comments: 148 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=48073246",
+  "answers" : [ ]
+}, {
+  "title" : "A recent experience with ChatGPT 5.5 Pro",
+  "description" : "Link: https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/ | Score: 620 | Comments: 450 | By: _alternator_",
+  "url" : "https://news.ycombinator.com/item?id=48071262",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605</a>" ]
+}, {
+  "title" : "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+  "description" : "Link: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/ | Score: 116 | Comments: 65 | By: ggallas",
+  "url" : "https://news.ycombinator.com/item?id=48076465",
+  "answers" : [ ]
+}, {
+  "title" : "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+  "description" : "Link: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/ | Score: 460 | Comments: 309 | By: muse900",
+  "url" : "https://news.ycombinator.com/item?id=48072190",
+  "answers" : [ ]
+}, {
+  "title" : "Surfel-based global illumination on the web",
+  "description" : "Link: https://juretriglav.si/surfel-based-global-illumination-on-the-web/ | Score: 38 | Comments: 1 | By: vmg12",
+  "url" : "https://news.ycombinator.com/item?id=48077395",
+  "answers" : [ ]
+}, {
+  "title" : "Production engineering when trading billions of dollars a day [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=zR9PpXWsKFQ | Score: 106 | Comments: 32 | By: abstrus",
+  "url" : "https://news.ycombinator.com/item?id=48067786",
+  "answers" : [ ]
+}, {
+  "title" : "The hypocrisy of cyberlibertarianism",
+  "description" : "Link: https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/ | Score: 291 | Comments: 258 | By: ColinWright",
+  "url" : "https://news.ycombinator.com/item?id=48074952",
+  "answers" : [ ]
+}, {
+  "title" : "Sparse Cholesky Elimination Tree",
+  "description" : "Link: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html | Score: 14 | Comments: 0 | By: selimthegrim",
+  "url" : "https://news.ycombinator.com/item?id=48080221",
+  "answers" : [ ]
+}, {
+  "title" : "Using Claude Code: The unreasonable effectiveness of HTML",
+  "description" : "Link: https://twitter.com/trq212/status/2052809885763747935 | Score: 436 | Comments: 248 | By: pretext",
+  "url" : "https://news.ycombinator.com/item?id=48071940",
+  "answers" : [ "Examples: <a href=\"https:&#x2F;&#x2F;thariqs.github.io&#x2F;html-effectiveness&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;thariqs.github.io&#x2F;html-effectiveness&#x2F;</a><p>Related: <a href=\"https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;May&#x2F;8&#x2F;unreasonable-effectiveness-of-html&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;May&#x2F;8&#x2F;unreasonable-effectiven...</a>" ]
+}, {
+  "title" : "Meta's embrace of AI is making its employees miserable",
+  "description" : "Link: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html | Score: 354 | Comments: 362 | By: JumpCrisscross",
+  "url" : "https://news.ycombinator.com/item?id=48077126",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI’s WebRTC problem",
+  "description" : "Link: https://moq.dev/blog/webrtc-is-the-problem/ | Score: 481 | Comments: 141 | By: atgctg",
+  "url" : "https://news.ycombinator.com/item?id=48051951",
+  "answers" : [ ]
+}, {
+  "title" : "France moves to break encrypted messaging",
+  "description" : "Link: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging | Score: 143 | Comments: 71 | By: Cider9986",
+  "url" : "https://news.ycombinator.com/item?id=48078811",
+  "answers" : [ ]
+}, {
+  "title" : "Mythical Man Month",
+  "description" : "Link: https://martinfowler.com/bliki/MythicalManMonth.html | Score: 365 | Comments: 196 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=48046436",
+  "answers" : [ ]
+} ]
