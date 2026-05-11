@@ -1,0 +1,151 @@
+[ {
+  "title" : "Hardware Attestation as Monopoly Enabler",
+  "description" : "Link: https://grapheneos.social/@GrapheneOS/116550899908879585 | Score: 1207 | Comments: 398 | By: ChuckMcM",
+  "url" : "https://news.ycombinator.com/item?id=48086190",
+  "answers" : [ ]
+}, {
+  "title" : "Local AI needs to be the norm",
+  "description" : "Link: https://unix.foo/posts/local-ai-needs-to-be-norm/ | Score: 854 | Comments: 383 | By: cylo",
+  "url" : "https://news.ycombinator.com/item?id=48085821",
+  "answers" : [ ]
+}, {
+  "title" : "7 lines of code, 3 minutes: Implement a programming language (2010)",
+  "description" : "Link: https://matt.might.net/articles/implementing-a-programming-language/ | Score: 16 | Comments: 0 | By: azhenley",
+  "url" : "https://news.ycombinator.com/item?id=48091085",
+  "answers" : [ ]
+}, {
+  "title" : "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+  "description" : "Link: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html | Score: 81 | Comments: 29 | By: susam",
+  "url" : "https://news.ycombinator.com/item?id=48090521",
+  "answers" : [ ]
+}, {
+  "title" : "I'm going back to writing code by hand",
+  "description" : "Link: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/ | Score: 199 | Comments: 73 | By: dropbox_miner",
+  "url" : "https://news.ycombinator.com/item?id=48090029",
+  "answers" : [ ]
+}, {
+  "title" : "Running local models on an M4 with 24GB memory",
+  "description" : "Link: https://jola.dev/posts/running-local-models-on-m4 | Score: 225 | Comments: 76 | By: shintoist",
+  "url" : "https://news.ycombinator.com/item?id=48089091",
+  "answers" : [ ]
+}, {
+  "title" : "Obsidian plugin was abused to deploy a remote access trojan",
+  "description" : "Link: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/ | Score: 148 | Comments: 72 | By: cmbailey",
+  "url" : "https://news.ycombinator.com/item?id=48088576",
+  "answers" : [ ]
+}, {
+  "title" : "Incident Report: CVE-2024-YIKES",
+  "description" : "Link: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html | Score: 468 | Comments: 116 | By: miniBill",
+  "url" : "https://news.ycombinator.com/item?id=48086082",
+  "answers" : [ ]
+}, {
+  "title" : "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+  "description" : "Link: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs | Score: 103 | Comments: 21 | By: cratermoon",
+  "url" : "https://news.ycombinator.com/item?id=48089289",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+  "description" : "Link: https://github.com/adamjgmiller/adamsreview | Score: 15 | Comments: 1 | By: adamthegoalie",
+  "url" : "https://news.ycombinator.com/item?id=48090276",
+  "answers" : [ "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.<p>On my own PRs, it has been catching dramatically more real bugs than Claude’s built-in &#x2F;review, &#x2F;ultrareview, CodeRabbit, Greptile, and Codex’s built-in review, while producing fewer false positives.<p>adamsreview is six Claude Code slash commands packaged as a plugin: review, codex-review, add, promote, walkthrough, and fix. I modeled it after the built-in &#x2F;review command and extended it meaningfully.<p>You can clear context between review stages because state is stored in JSON artifacts on disk, with built-in scripts for keeping it updated.<p>The walkthrough command uses Claude’s AskUserQuestion feature to walk you through uncertain findings or items needing human review one by one. Then, the fix command dispatches per-fix-group agents and re-reviews the work with Opus, reverting any regressions before committing survivors.<p>It runs against your regular Claude Code subscription (Max plan recommended), unlike &#x2F;ultrareview, which charges against your Extra Usage pool.<p>I would love feedback from Claude Code users, pro devs, and anyone with strong opinions about AI code reviews.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;adamjgmiller&#x2F;adamsreview\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;adamjgmiller&#x2F;adamsreview</a><p>Install:\n&#x2F;plugin marketplace add adamjgmiller&#x2F;adamsreview, &#x2F;plugin install adamsreview@adamsreview" ]
+}, {
+  "title" : "dBase: 1979-2026",
+  "description" : "Link: https://delphinightmares.substack.com/p/dbase-1979-2026 | Score: 47 | Comments: 13 | By: deeaceofbase",
+  "url" : "https://news.ycombinator.com/item?id=48058757",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: What are you working on? (May 2026)",
+  "description" : "Score: 164 | Comments: 576 | By: david927",
+  "url" : "https://news.ycombinator.com/item?id=48085993",
+  "answers" : [ "What are you working on?  Any new ideas that you&#x27;re thinking about?" ]
+}, {
+  "title" : "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+  "description" : "Link: https://dunkels.com/adam/claude-user-space-ip-stack-ping/ | Score: 44 | Comments: 8 | By: adunk",
+  "url" : "https://news.ycombinator.com/item?id=48089049",
+  "answers" : [ ]
+}, {
+  "title" : "First tunnel element of the Fehmarnbelt Tunnel immersed",
+  "description" : "Link: https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/ | Score: 71 | Comments: 14 | By: robin_reala",
+  "url" : "https://news.ycombinator.com/item?id=48050666",
+  "answers" : [ ]
+}, {
+  "title" : "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+  "description" : "Link: https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html | Score: 87 | Comments: 15 | By: nxobject",
+  "url" : "https://news.ycombinator.com/item?id=48067698",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;06&#x2F;business&#x2F;media&#x2F;bbc-guy-goma-interview.html?unlocked_article_code=1.hlA.GiwW.3byWfPAySofD&amp;smid=nytcore-android-share\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;06&#x2F;business&#x2F;media&#x2F;bbc-guy-go...</a><p><a href=\"https:&#x2F;&#x2F;archive.is&#x2F;xZgBI\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;xZgBI</a>" ]
+}, {
+  "title" : "Traces Of Humanity",
+  "description" : "Link: https://tracesofhumanity.org/hello-world/ | Score: 141 | Comments: 20 | By: alex77456",
+  "url" : "https://news.ycombinator.com/item?id=48085782",
+  "answers" : [ ]
+}, {
+  "title" : "I returned to AWS and was reminded why I left",
+  "description" : "Link: http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html | Score: 710 | Comments: 510 | By: andrewstuart",
+  "url" : "https://news.ycombinator.com/item?id=48073201",
+  "answers" : [ ]
+}, {
+  "title" : "The people preserving the scientific practice of bird banding",
+  "description" : "Link: https://thenarwhal.ca/bird-banding-ontario/ | Score: 47 | Comments: 0 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48056639",
+  "answers" : [ ]
+}, {
+  "title" : "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+  "description" : "Link: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656 | Score: 138 | Comments: 88 | By: stalfosknight",
+  "url" : "https://news.ycombinator.com/item?id=48089263",
+  "answers" : [ ]
+}, {
+  "title" : "Eight More '8-Bit Era' Microprocessors",
+  "description" : "Link: https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors | Score: 68 | Comments: 18 | By: klelatti",
+  "url" : "https://news.ycombinator.com/item?id=48061556",
+  "answers" : [ ]
+}, {
+  "title" : "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+  "description" : "Link: https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html | Score: 100 | Comments: 59 | By: JoachimSchipper",
+  "url" : "https://news.ycombinator.com/item?id=48061602",
+  "answers" : [ ]
+}, {
+  "title" : "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+  "description" : "Link: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises | Score: 213 | Comments: 117 | By: lemonberry",
+  "url" : "https://news.ycombinator.com/item?id=48088151",
+  "answers" : [ ]
+}, {
+  "title" : "Shelf Source: Tom MacWright",
+  "description" : "Link: https://roadlessread.com/views/ss-macwright | Score: 8 | Comments: 0 | By: tobr",
+  "url" : "https://news.ycombinator.com/item?id=48076629",
+  "answers" : [ ]
+}, {
+  "title" : "The locals don't know",
+  "description" : "Link: https://www.quarter--mile.com/The-Locals-Dont-Know | Score: 124 | Comments: 97 | By: herbertl",
+  "url" : "https://news.ycombinator.com/item?id=48085055",
+  "answers" : [ ]
+}, {
+  "title" : "Conway's Law and Cross-Hatching",
+  "description" : "Link: https://willmanning.com/writing/conways-law-and-cross-hatching | Score: 7 | Comments: 0 | By: weatherreport",
+  "url" : "https://news.ycombinator.com/item?id=48066044",
+  "answers" : [ ]
+}, {
+  "title" : "Idempotency is easy until the second request is different",
+  "description" : "Link: https://blog.dochia.dev/blog/idempotency/ | Score: 297 | Comments: 178 | By: ludovicianul",
+  "url" : "https://news.ycombinator.com/item?id=48047930",
+  "answers" : [ ]
+}, {
+  "title" : "Gode Cookery – Authentic Medieval Recipes",
+  "description" : "Link: http://www.godecookery.com/godeboke/godeboke.htm | Score: 4 | Comments: 0 | By: Mr_Minderbinder",
+  "url" : "https://news.ycombinator.com/item?id=48049460",
+  "answers" : [ ]
+}, {
+  "title" : "Walking slower? Your ears, not your knees, might be the problem",
+  "description" : "Link: https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a | Score: 105 | Comments: 66 | By: marc__1",
+  "url" : "https://news.ycombinator.com/item?id=48075429",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;m4P4K\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;m4P4K</a>" ]
+}, {
+  "title" : "Think Linear Algebra (2023)",
+  "description" : "Link: https://allendowney.github.io/ThinkLinearAlgebra/index.html | Score: 192 | Comments: 23 | By: tamnd",
+  "url" : "https://news.ycombinator.com/item?id=48082396",
+  "answers" : [ ]
+}, {
+  "title" : "Task Paralysis and AI",
+  "description" : "Link: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html | Score: 219 | Comments: 111 | By: MrGilbert",
+  "url" : "https://news.ycombinator.com/item?id=48081469",
+  "answers" : [ ]
+} ]
