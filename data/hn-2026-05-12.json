@@ -1,0 +1,151 @@
+[ {
+  "title" : "Postmortem: TanStack npm supply-chain compromise",
+  "description" : "Link: https://tanstack.com/blog/npm-supply-chain-compromise-postmortem | Score: 684 | Comments: 257 | By: varunsharma07",
+  "url" : "https://news.ycombinator.com/item?id=48100706",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;TanStack&#x2F;router&#x2F;issues&#x2F;7383\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;TanStack&#x2F;router&#x2F;issues&#x2F;7383</a>" ]
+}, {
+  "title" : "Claude Platform on AWS",
+  "description" : "Link: https://claude.com/blog/claude-platform-on-aws | Score: 89 | Comments: 43 | By: matrixhelix",
+  "url" : "https://news.ycombinator.com/item?id=48103042",
+  "answers" : [ ]
+}, {
+  "title" : "They Live (1988) inspired Adblocker",
+  "description" : "Link: https://github.com/davmlaw/they_live_adblocker | Score: 94 | Comments: 11 | By: tokenburner",
+  "url" : "https://news.ycombinator.com/item?id=48102700",
+  "answers" : [ ]
+}, {
+  "title" : "If AI writes your code, why use Python?",
+  "description" : "Link: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 | Score: 325 | Comments: 332 | By: indigodaddy",
+  "url" : "https://news.ycombinator.com/item?id=48100433",
+  "answers" : [ ]
+}, {
+  "title" : "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+  "description" : "Link: https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage | Score: 284 | Comments: 59 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48098261",
+  "answers" : [ ]
+}, {
+  "title" : "Productivity isn't about going faster",
+  "description" : "Link: https://humanpro.co/articles/productivity-isnt-about-going-faster/ | Score: 24 | Comments: 5 | By: gx",
+  "url" : "https://news.ycombinator.com/item?id=48103871",
+  "answers" : [ ]
+}, {
+  "title" : "Software Internals Book Club",
+  "description" : "Link: https://eatonphil.com/bookclub.html | Score: 43 | Comments: 7 | By: aragonite",
+  "url" : "https://news.ycombinator.com/item?id=48103511",
+  "answers" : [ ]
+}, {
+  "title" : "A lost ancient script reveals how writing as we know it began",
+  "description" : "Link: https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/ | Score: 34 | Comments: 6 | By: emot",
+  "url" : "https://news.ycombinator.com/item?id=48052710",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+  "description" : "Link: https://github.com/tsirysndr/rockbox-zig | Score: 46 | Comments: 4 | By: tsiry",
+  "url" : "https://news.ycombinator.com/item?id=48074668",
+  "answers" : [ ]
+}, {
+  "title" : "I let AI build a tool to help me figure out what was waking me up at night",
+  "description" : "Link: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ | Score: 117 | Comments: 131 | By: showmypost",
+  "url" : "https://news.ycombinator.com/item?id=48100662",
+  "answers" : [ ]
+}, {
+  "title" : "Nullsoft, 1997-2004 (2004)",
+  "description" : "Link: https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html | Score: 258 | Comments: 75 | By: downbad_",
+  "url" : "https://news.ycombinator.com/item?id=48060077",
+  "answers" : [ ]
+}, {
+  "title" : "Library for fast mapping of Java records to native memory",
+  "description" : "Link: https://github.com/mamba-studio/TypedMemory | Score: 124 | Comments: 27 | By: joe_mwangi",
+  "url" : "https://news.ycombinator.com/item?id=48099616",
+  "answers" : [ ]
+}, {
+  "title" : "GitLab announces workforce reduction and end of their CREDIT values",
+  "description" : "Link: https://about.gitlab.com/blog/gitlab-act-2/ | Score: 416 | Comments: 429 | By: AnonGitLabEmpl",
+  "url" : "https://news.ycombinator.com/item?id=48100500",
+  "answers" : [ ]
+}, {
+  "title" : "Google says criminal hackers used AI to find a major software flaw",
+  "description" : "Link: https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html | Score: 146 | Comments: 111 | By: donohoe",
+  "url" : "https://news.ycombinator.com/item?id=48094641",
+  "answers" : [ "Unlocked: <a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;11&#x2F;us&#x2F;politics&#x2F;google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca&amp;smid=nytcore-android-share\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;11&#x2F;us&#x2F;politics&#x2F;google-hacker...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;I4Ui5\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;I4Ui5</a><p><a href=\"https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4\" rel=\"nofollow\">https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;google-ai-cybersecurity-exploitat...</a><p><a href=\"https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;05&#x2F;11&#x2F;google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;05&#x2F;11&#x2F;google-thwarts-effort-hacker...</a>" ]
+}, {
+  "title" : "Boriel BASIC",
+  "description" : "Link: https://zxbasic.readthedocs.io/en/docs/ | Score: 9 | Comments: 0 | By: AlexeyBrin",
+  "url" : "https://news.ycombinator.com/item?id=48074589",
+  "answers" : [ ]
+}, {
+  "title" : "Interaction Models",
+  "description" : "Link: https://thinkingmachines.ai/blog/interaction-models/ | Score: 157 | Comments: 21 | By: smhx",
+  "url" : "https://news.ycombinator.com/item?id=48100524",
+  "answers" : [ ]
+}, {
+  "title" : "Griffin PowerMate driver for modern macOS",
+  "description" : "Link: https://github.com/jameslockman/Griffin-PowerMate-Driver | Score: 63 | Comments: 20 | By: classichasclass",
+  "url" : "https://news.ycombinator.com/item?id=48100970",
+  "answers" : [ ]
+}, {
+  "title" : "High-precision HDC reference instrument for the Sol Star System",
+  "description" : "Link: https://pypi.org/project/ephemerides-spectral/ | Score: 3 | Comments: 0 | By: lemonforest",
+  "url" : "https://news.ycombinator.com/item?id=48081634",
+  "answers" : [ ]
+}, {
+  "title" : "VGA Memory Access Is Complicated",
+  "description" : "Link: https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/ | Score: 32 | Comments: 5 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=48076798",
+  "answers" : [ ]
+}, {
+  "title" : "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+  "description" : "Link: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html | Score: 227 | Comments: 11 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48085685",
+  "answers" : [ ]
+}, {
+  "title" : "Extremely Low Frequencies",
+  "description" : "Link: https://computer.rip/2026-05-09-extremely-low-frequencies.html | Score: 3 | Comments: 0 | By: pinewurst",
+  "url" : "https://news.ycombinator.com/item?id=48104041",
+  "answers" : [ ]
+}, {
+  "title" : "The rise and fall of snake oil",
+  "description" : "Link: https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil | Score: 46 | Comments: 23 | By: samizdis",
+  "url" : "https://news.ycombinator.com/item?id=48051555",
+  "answers" : [ ]
+}, {
+  "title" : "Silverback Imfura took a chance, and ended up alone",
+  "description" : "Link: https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/ | Score: 50 | Comments: 16 | By: alex000kim",
+  "url" : "https://news.ycombinator.com/item?id=48080316",
+  "answers" : [ ]
+}, {
+  "title" : "Interfaze: A new model architecture built for high accuracy at scale",
+  "description" : "Link: https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale | Score: 125 | Comments: 31 | By: yoeven",
+  "url" : "https://news.ycombinator.com/item?id=48097078",
+  "answers" : [ ]
+}, {
+  "title" : "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+  "description" : "Link: https://bild.ai/jobs | Score: 1 | Comments: 0 | By: rooppal",
+  "url" : "https://news.ycombinator.com/item?id=48098122",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+  "description" : "Link: https://github.com/ab-613/opengravity | Score: 68 | Comments: 20 | By: ab613",
+  "url" : "https://news.ycombinator.com/item?id=48100192",
+  "answers" : [ "Hi. I’m a high school student studying for my GCSEs. I was using Google Antigravity heavily for my side projects, but I kept hitting the usage limits, and getting random &quot;agent terminated&quot; errors. So I decided to try build my own version of the IDE. I love the UI, so I copied it as accurately as possible, and then hooked up some logic into it, including the INCREDIBLY finicky webcontainer api.<p>I tried to keep it super lightweight, no build steps, or dependencies, and now that its open source, I&#x27;m hoping people can build things on top of it that arent possible with closed source tools, like complex custom agent workflows.<p>Some screenshots: - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;ab-613&#x2F;OpenGravity&#x2F;blob&#x2F;main&#x2F;examples&#x2F;screenshot.png?raw=true\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ab-613&#x2F;OpenGravity&#x2F;blob&#x2F;main&#x2F;examples&#x2F;scr...</a> - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;ab-613&#x2F;OpenGravity&#x2F;blob&#x2F;main&#x2F;examples&#x2F;html%20site%20example.png?raw=true\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ab-613&#x2F;OpenGravity&#x2F;blob&#x2F;main&#x2F;examples&#x2F;htm...</a><p>What it&#x27;s made from:<p>- Pure Vanilla JS: no react, vue, or build step. Built entirely in plain HTML&#x2F;CSS&#x2F;JS to keep it super lightweight.<p>- WebContainer API and xterm.js: Instead of faking a terminal, I (after much pain) hooked up the WebContainer API so the AI agent has a real, in browser linux environment to run shell commands, install dependencies, and edit local files.<p>- BYOK (Bring Your Own Key): API key ALWAYS stays in localStorage.<p>Whats currently happening:<p>- It works, but it&#x27;s an alpha. The AI can proactively start projects going properly and edit files, but because I built this over a few days before my exams, a lot of the UI dropdowns and buttons are currently just hardcoded placeholders.<p>- I’m open sourcing it early because I think the foundation of a Vanilla JS + WebContainer IDE is really strong, and I&#x27;d love to see where the community takes it while I&#x27;m doing my exams.<p>- Live demo: <a href=\"https:&#x2F;&#x2F;opengravity.pages.dev\" rel=\"nofollow\">https:&#x2F;&#x2F;opengravity.pages.dev</a> (Zoom out to 80% if not full screen. It will prompt for a gemini api key on load). Start by uploading a folder, then you can fiddle with the terminal and agent, and see how it goes!<p>Would love to hear feedback on the code, the WebContainer integration, or how to improve the agent loop!" ]
+}, {
+  "title" : "AMÁLIA and the future of European Portuguese LLMs",
+  "description" : "Link: https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms | Score: 124 | Comments: 58 | By: johnbarron",
+  "url" : "https://news.ycombinator.com/item?id=48065429",
+  "answers" : [ ]
+}, {
+  "title" : "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+  "description" : "Link: https://nvlabs.github.io/cuda-oxide/index.html | Score: 386 | Comments: 110 | By: adamnemecek",
+  "url" : "https://news.ycombinator.com/item?id=48096692",
+  "answers" : [ ]
+}, {
+  "title" : "Hardware Attestation as Monopoly Enabler",
+  "description" : "Link: https://grapheneos.social/@GrapheneOS/116550899908879585 | Score: 2098 | Comments: 717 | By: ChuckMcM",
+  "url" : "https://news.ycombinator.com/item?id=48086190",
+  "answers" : [ ]
+}, {
+  "title" : "Abstract Machines for Logic Programs",
+  "description" : "Link: https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/ | Score: 26 | Comments: 1 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48080201",
+  "answers" : [ ]
+} ]
