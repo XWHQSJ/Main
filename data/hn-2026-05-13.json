@@ -1,0 +1,151 @@
+[ {
+  "title" : "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+  "description" : "Link: https://arxiv.org/abs/2605.08419 | Score: 55 | Comments: 4 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=48117810",
+  "answers" : [ ]
+}, {
+  "title" : "Restore full BambuNetwork support for Bambu Lab printers",
+  "description" : "Link: https://github.com/FULU-Foundation/OrcaSlicer-bambulab | Score: 314 | Comments: 128 | By: Murfalo",
+  "url" : "https://news.ycombinator.com/item?id=48115127",
+  "answers" : [ ]
+}, {
+  "title" : "Googlebook",
+  "description" : "Link: https://googlebook.google/ | Score: 698 | Comments: 1175 | By: tambourine_man",
+  "url" : "https://news.ycombinator.com/item?id=48111545",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Android&#x2F;comments&#x2F;1tb8xls&#x2F;introducing_googlebook_a_new_category_of_laptops&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Android&#x2F;comments&#x2F;1tb8xls&#x2F;introducin...</a>" ]
+}, {
+  "title" : "The vi family",
+  "description" : "Link: https://lpar.ATH0.com/posts/2026/05/the-vi-family/ | Score: 74 | Comments: 22 | By: hggh",
+  "url" : "https://news.ycombinator.com/item?id=48033483",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "description" : "Link: https://github.com/cactus-compute/needle | Score: 365 | Comments: 131 | By: HenryNdubuaku",
+  "url" : "https://news.ycombinator.com/item?id=48111896",
+  "answers" : [ "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices.<p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.<p>Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).<p>Training:\n- Pretrained on 200B tokens across 16 TPU v6e (27 hours)\n- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)\n- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)<p>You can test it right now and finetune on your Mac&#x2F;PC: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle</a><p>The full writeup on the architecture is here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle&#x2F;blob&#x2F;main&#x2F;docs&#x2F;simple_attention_networks.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle&#x2F;blob&#x2F;main&#x2F;docs&#x2F;simp...</a><p>We found that the &quot;no FFN&quot; finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn&#x27;t need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to published.<p>While it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M, LFM2.5-350M on single-shot function calling, those models have more scope&#x2F;capacity and excel in conversational settings. We encourage you to test on your own tools via the playground and finetune accordingly.<p>This is part of our broader work on Cactus (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus</a>), an inference engine built from scratch for mobile, wearables and custom hardware. We wrote about Cactus here previously: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44524544\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44524544</a><p>Everything is MIT licensed. Weights: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;Cactus-Compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;Cactus-Compute&#x2F;needle</a>\nGitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle</a>" ]
+}, {
+  "title" : "Kraftwerk's radical 1976 track",
+  "description" : "Link: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem | Score: 108 | Comments: 44 | By: tcp_handshaker",
+  "url" : "https://news.ycombinator.com/item?id=48115823",
+  "answers" : [ ]
+}, {
+  "title" : "How to make your text look futuristic (2016)",
+  "description" : "Link: https://typesetinthefuture.com/2016/02/18/futuristic/ | Score: 282 | Comments: 34 | By: _vaporwave_",
+  "url" : "https://news.ycombinator.com/item?id=48113895",
+  "answers" : [ ]
+}, {
+  "title" : "My graduation cap runs Rust",
+  "description" : "Link: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/ | Score: 119 | Comments: 30 | By: ericswpark",
+  "url" : "https://news.ycombinator.com/item?id=48116207",
+  "answers" : [ ]
+}, {
+  "title" : "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+  "description" : "Link: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html | Score: 279 | Comments: 125 | By: chizhik-pyzhik",
+  "url" : "https://news.ycombinator.com/item?id=48112042",
+  "answers" : [ ]
+}, {
+  "title" : "Why senior developers fail to communicate their expertise",
+  "description" : "Link: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise | Score: 476 | Comments: 208 | By: nilirl",
+  "url" : "https://news.ycombinator.com/item?id=48109460",
+  "answers" : [ ]
+}, {
+  "title" : "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+  "description" : "Link: https://blog.cloudflare.com/quic-death-spiral-fix/ | Score: 57 | Comments: 2 | By: sbulaev",
+  "url" : "https://news.ycombinator.com/item?id=48116064",
+  "answers" : [ ]
+}, {
+  "title" : "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+  "description" : "Link: https://github.com/tracewayapp/traceway | Score: 48 | Comments: 3 | By: sebakubisz",
+  "url" : "https://news.ycombinator.com/item?id=48091898",
+  "answers" : [ ]
+}, {
+  "title" : "Referer Reality",
+  "description" : "Link: https://www.robinsloan.com/lab/referer/ | Score: 24 | Comments: 6 | By: tobr",
+  "url" : "https://news.ycombinator.com/item?id=48087643",
+  "answers" : [ ]
+}, {
+  "title" : "Rendering the Sky, Sunsets, and Planets",
+  "description" : "Link: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/ | Score: 443 | Comments: 38 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=48107997",
+  "answers" : [ ]
+}, {
+  "title" : "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+  "description" : "Link: https://www.savethearchive.com/newsleaders/ | Score: 271 | Comments: 76 | By: doener",
+  "url" : "https://news.ycombinator.com/item?id=48115807",
+  "answers" : [ ]
+}, {
+  "title" : "Quack: The DuckDB Client-Server Protocol",
+  "description" : "Link: https://duckdb.org/2026/05/12/quack-remote-protocol | Score: 239 | Comments: 51 | By: aduffy",
+  "url" : "https://news.ycombinator.com/item?id=48111765",
+  "answers" : [ ]
+}, {
+  "title" : "Scrcpy v4.0",
+  "description" : "Link: https://github.com/Genymobile/scrcpy/releases/tag/v4.0 | Score: 99 | Comments: 15 | By: xnx",
+  "url" : "https://news.ycombinator.com/item?id=48114356",
+  "answers" : [ ]
+}, {
+  "title" : "Zero-native – Build native desktop apps with web UI",
+  "description" : "Link: https://zero-native.dev | Score: 18 | Comments: 12 | By: gedy",
+  "url" : "https://news.ycombinator.com/item?id=48116873",
+  "answers" : [ ]
+}, {
+  "title" : "The Future of Obsidian Plugins",
+  "description" : "Link: https://obsidian.md/blog/future-of-plugins/ | Score: 339 | Comments: 134 | By: xz18r",
+  "url" : "https://news.ycombinator.com/item?id=48109970",
+  "answers" : [ ]
+}, {
+  "title" : "Reimagining the mouse pointer for the AI era",
+  "description" : "Link: https://deepmind.google/blog/ai-pointer/ | Score: 176 | Comments: 143 | By: devhouse",
+  "url" : "https://news.ycombinator.com/item?id=48111581",
+  "answers" : [ ]
+}, {
+  "title" : "Fc, a lossless compressor for floating-point streams",
+  "description" : "Link: https://github.com/xtellect/fc | Score: 42 | Comments: 8 | By: enduku",
+  "url" : "https://news.ycombinator.com/item?id=48082586",
+  "answers" : [ ]
+}, {
+  "title" : "Lanzaboote – NixOS Secure Boot",
+  "description" : "Link: https://x86.lol/generic/2022/11/26/lanzaboote.html | Score: 69 | Comments: 6 | By: evilmonkey19",
+  "url" : "https://news.ycombinator.com/item?id=48077291",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Agentic interface for mainframes and COBOL",
+  "description" : "Link: https://www.hypercubic.ai/hopper | Score: 67 | Comments: 39 | By: sai18",
+  "url" : "https://news.ycombinator.com/item?id=48111143",
+  "answers" : [ "Hi HN, we’re Sai and Aayush, and we’re building Hypercubic (<a href=\"https:&#x2F;&#x2F;www.hypercubic.ai&#x2F;\">https:&#x2F;&#x2F;www.hypercubic.ai&#x2F;</a>), bringing AI tools to the mainframe and COBOL world. (We did a Launch HN last year: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45877517\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45877517</a>.) Today we’re launching Hopper, an agentic development environment for mainframes.<p>You can download it here: <a href=\"https:&#x2F;&#x2F;www.hypercubic.ai&#x2F;hopper\">https:&#x2F;&#x2F;www.hypercubic.ai&#x2F;hopper</a>, and you can also request access and immediately get a mainframe user account to play with.<p>There&#x27;s also a video runthrough at <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=q81L5DcfBvE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=q81L5DcfBvE</a>.<p>Mainframes still run a surprising amount of critical infrastructure: banking, payments, insurance, airlines, government programs, logistics, and core operations at large institutions. Many of these systems are decades old, but they continue to process enormous transaction volumes because they are reliable, secure, and deeply embedded into business operations.<p>A lot of that software is written in COBOL and runs on IBM z&#x2F;OS. The development environment looks very different from modern cloud or Unix-style development. Instead of GitHub, shell commands, package managers, and CI pipelines, developers often work through TN3270 terminal sessions, ISPF panels, partitioned datasets, JCL, JES queues, spool output, return codes, VSAM files, CICS transactions, and shop-specific conventions.<p>TN3270 is the terminal interface used to interact with many IBM mainframe systems. ISPF is the menu and panel system developers use inside that terminal to browse datasets, edit source, submit jobs, and inspect output. It is powerful and reliable, but it was designed for expert humans navigating screens, function keys, and fixed-width workflows, not AI agents.<p>A simple COBOL change might require finding the right source member, checking copybooks, locating compile JCL, submitting a job, reading JES&#x2F;SYSPRINT output, interpreting condition codes, patching fixed-width source, and resubmitting.<p>Much of this work is so well-defined and repetitive that it&#x27;s a good fit for agentic AI. To get that working, however, a chatbot next to a terminal is not enough. The agent needs to operate inside the mainframe environment.<p>Hopper combines three things: (1) A real TN3270 terminal, (2) Mainframe-aware panels for datasets, members, jobs, and spool output, and (3) An AI agent that can operate across those z&#x2F;OS surfaces.<p>For example, here is a tiny version of the kind of thing Hopper can help debug:<p><pre><code>  COBOL:\n\n   IDENTIFICATION DIVISION.\n   PROGRAM-ID. PAYCALC.\n\n   DATA DIVISION.\n   WORKING-STORAGE SECTION.\n   01  CUSTOMER-BALANCE     PIC 9(7)V99.\n\n   PROCEDURE DIVISION.\n       ADD 100.00 TO CUSTOMER-BALNCE\n       DISPLAY &quot;UPDATED BALANCE: &quot; CUSTOMER-BALANCE\n       STOP RUN.\n\n\n  JCL:\n\n    &#x2F;&#x2F;PAYCOMP  JOB (ACCT),&#x27;COMPILE&#x27;,CLASS=A,MSGCLASS=X\n    \n    &#x2F;&#x2F;COBOL    EXEC IGYWCL\n    \n    [&#x2F;&#x2F;COBOL.SYSIN](https:&#x2F;&#x2F;cobol.sysin&#x2F;) DD DSN=USER1.APP.COBOL(PAYCALC),DISP=SHR\n    \n    [&#x2F;&#x2F;LKED.SYSLMOD](https:&#x2F;&#x2F;lked.syslmod&#x2F;) DD DSN=USER1.APP.LOAD(PAYCALC),DISP=SHR\n\n</code></pre>\nA human would submit this job, inspect JES output, open `SYSPRINT`, find the undefined `CUSTOMER-BALNCE`, map it back to the source, patch the member, and resubmit. Hopper is designed to let an agent operate through that same loop autonomously.<p>Hopper is not trying to hide the mainframe behind a generic abstraction, and it&#x27;s not a chatbot. The design principle is simple: preserve the fidelity of the mainframe environment, but make it accessible to AI agents.<p>Sensitive operations require approval, and the terminal remains visible at all times.<p>Once agents can operate inside the mainframe environment, new workflows become possible: faster job debugging, automated documentation, safer code changes, test generation, migration planning, traffic replay, and modernization verification.<p>We’re curious to hear your thoughts! especially from anyone who has worked with mainframes, COBOL or has done legacy enterprise modernization." ]
+}, {
+  "title" : "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+  "description" : "Link: https://voker.ai | Score: 48 | Comments: 19 | By: ttpost",
+  "url" : "https://news.ycombinator.com/item?id=48109962",
+  "answers" : [ "Hey HN, we&#x27;re Alex and Tyler, co-founders of Voker.ai (<a href=\"https:&#x2F;&#x2F;voker.ai&#x2F;\">https:&#x2F;&#x2F;voker.ai&#x2F;</a>), an agent analytics platform for AI product teams. Voker gives full visibility into what users are asking of your agents, and whether your agents are delivering, without having to dig through logs. Our main product is a lightweight SDK that is LLM stack agnostic and purpose-built for agent products. (<a href=\"https:&#x2F;&#x2F;app.voker.ai&#x2F;docs\">https:&#x2F;&#x2F;app.voker.ai&#x2F;docs</a>)<p>Agent Engineers and AI product teams don’t have the right level of visibility into agent performance in production, which results in bad user experiences, churn, and hundreds of hours wasted with spot checks to find and debug issues with agent configurations.<p>Demo: <a href=\"https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;vid_cmoukcsk1000i07jgb4j65u67&#x2F;view\" rel=\"nofollow\">https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;vid_cmoukcsk1000i07jgb4j65u67&#x2F;vie...</a><p>We recently conducted a survey of YC Founders and 90%+ of respondents said that the only way they know if their Agents are failing users in production is by hearing complaints from customers. They push a prompt change hoping that it fixes the problem and doesn’t break something somewhere else, and the cycle repeats.<p>We saw tons of observability and evals products popping up to try to address these problems, but we still felt like something was missing in the agent monitoring stack. Obs is good for individual trace debugging but is only accessible to engineers. Evals are good for testing known issues, but don&#x27;t give insights into trends that teams don’t expect, so engineers are always playing catch up. Traditional product analytics tools do a good job tracking clicks and pageviews across your product surface but weren’t built ground up for agent products. Knowing what users want out of agents, and whether the agent delivered requires specific conversational intelligence &#x2F; unstructured data processing techniques.<p>We came up with the agent analytics primitives of Intents, Corrections, and Resolutions to describe something pretty much all conversational agents had in common: a user will always come to an agent with an intent, the user might have to correct this agent on the way to getting their intent resolved, and hopefully every intent a user has is eventually resolved by the agent.\nVoker processes LLM calls by automatically annotating individual conversations and picking out user intent and corrections. Voker takes these and uses LLMs and hierarchical text classification to create dynamic categories that give higher level insights so you don’t have to read individual conversations to know what are the main usage patterns across your users.<p>The most common substitute solution we’ve seen is uploading obs logs to Claude or ChatGPT and asking for summary insights. There are a few problems with this - mainly that LLMs aren’t good at math or data science, so you don’t get accurate or consistent statistics. Its highly likely that the LLM overfits to some insights and underfits to others. The LLM isn’t programmatically reading and classifying each individual session or interaction. This is why we don’t use LLMs for any of our core data engineering (processing events, calculating statistics) so the analytics we produce are consistent, reproducible, and accurate.\nWe have a publicly available, lightweight SDK that wraps LLM calls to OpenAI, Anthropic and Gemini in Python and Typescript. Voker handles the data engineering to turn raw data into usable analytics primitives and higher level insights. \nFree tier: 2,000 events &#x2F; mo, requires email signup. Paid plans start at $80&#x2F;mo with a 30 day free trial.<p>We&#x27;d love to hear how you&#x27;re currently detecting trends, and if you try Voker, tell us what part of our analysis is valuable, and what still feels missing. Thanks for reading, and we’re looking forward to your thoughts in the comments!" ]
+}, {
+  "title" : "We tested super-resolution pre-filter for LPR OCR. It did nothing",
+  "description" : "Link: https://www.wink.co/documentation/Neural-Super-Resolution-Pre-Filter-LPR-2026 | Score: 4 | Comments: 0 | By: xmichael909",
+  "url" : "https://news.ycombinator.com/item?id=48117733",
+  "answers" : [ ]
+}, {
+  "title" : "Bambu Lab is abusing the open source social contract",
+  "description" : "Link: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/ | Score: 1173 | Comments: 378 | By: rubenbe",
+  "url" : "https://news.ycombinator.com/item?id=48109224",
+  "answers" : [ ]
+}, {
+  "title" : "Foucault's Order of Things Explained with Trading Cards [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=1TbHYjGvS68 | Score: 27 | Comments: 19 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48100364",
+  "answers" : [ ]
+}, {
+  "title" : "What can singing mice say about human speech?",
+  "description" : "Link: https://phys.org/news/2026-05-mice-human-speech.html | Score: 6 | Comments: 0 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48090330",
+  "answers" : [ ]
+}, {
+  "title" : "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+  "description" : "Link: https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant | Score: 169 | Comments: 29 | By: hn_acker",
+  "url" : "https://news.ycombinator.com/item?id=48115059",
+  "answers" : [ ]
+}, {
+  "title" : "When life gives you lemons, write better error messages",
+  "description" : "Link: https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f | Score: 131 | Comments: 49 | By: luispa",
+  "url" : "https://news.ycombinator.com/item?id=48069032",
+  "answers" : [ ]
+} ]
