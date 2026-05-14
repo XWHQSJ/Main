@@ -1,0 +1,151 @@
+[ {
+  "title" : "Claude for Small Business",
+  "description" : "Link: https://www.anthropic.com/news/claude-for-small-business | Score: 98 | Comments: 48 | By: neilfrndes",
+  "url" : "https://news.ycombinator.com/item?id=48130950",
+  "answers" : [ ]
+}, {
+  "title" : "Scorched Earth 2000 – Web",
+  "description" : "Link: http://www.scorch2000.com/web/ | Score: 190 | Comments: 73 | By: meshko",
+  "url" : "https://news.ycombinator.com/item?id=48129694",
+  "answers" : [ ]
+}, {
+  "title" : "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+  "description" : "Link: https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/ | Score: 624 | Comments: 419 | By: haunter",
+  "url" : "https://news.ycombinator.com/item?id=48087887",
+  "answers" : [ ]
+}, {
+  "title" : "Cisco workforce reductions",
+  "description" : "Link: https://blogs.cisco.com/news/our-path-forward | Score: 120 | Comments: 92 | By: ahmedomran8",
+  "url" : "https://news.ycombinator.com/item?id=48130123",
+  "answers" : [ ]
+}, {
+  "title" : "Arena AI Model ELO History",
+  "description" : "Link: https://mayerwin.github.io/AI-Arena-History/ | Score: 15 | Comments: 3 | By: mayerwin",
+  "url" : "https://news.ycombinator.com/item?id=48130711",
+  "answers" : [ "Hi HN,<p>I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.<p>We&#x27;ve all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI.<p>Instead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per major AI lab. \nIt dynamically tracks their highest-rated flagship model over time, which makes both the sudden generational jumps and the slow performance decays much easier to see. \nIt took quite a lot of iterations to get the chart to look nice on mobile as well. Optional dark mode included.<p>However, I have a specific data blindspot that I&#x27;m hoping this community might have insights on.<p>Arena AI largely relies on testing API endpoints. But as we know, consumer chat UIs often layer on heavy system prompts, safety wrappers, or silently switch to heavily quantized models under high load to save compute. API benchmarks don&#x27;t fully capture this &quot;nerfing&quot; that everyday web users experience.<p>Does anyone know of any historical ELO or evaluation datasets that specifically scrape or test outputs from the consumer web UIs rather than raw APIs?<p>I&#x27;d love to integrate that data for a more accurate picture of the consumer experience. The project is open-source (repo link in the footer), so I&#x27;d appreciate any feedback, or pointers to datasets!" ]
+}, {
+  "title" : "Setting up a free *.city.state.us locality domain (2025)",
+  "description" : "Link: https://fredchan.org/blog/locality-domains-guide/ | Score: 541 | Comments: 169 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48122635",
+  "answers" : [ ]
+}, {
+  "title" : "A History of IDEs at Google",
+  "description" : "Link: https://laurent.le-brun.eu/blog/a-history-of-ides-at-google | Score: 331 | Comments: 227 | By: laurentlb",
+  "url" : "https://news.ycombinator.com/item?id=48073979",
+  "answers" : [ ]
+}, {
+  "title" : "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+  "description" : "Link: https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/ | Score: 160 | Comments: 167 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48125617",
+  "answers" : [ ]
+}, {
+  "title" : "The Emacsification of Software",
+  "description" : "Link: https://sockpuppet.org/blog/2026/05/12/emacsification/ | Score: 252 | Comments: 164 | By: rdslw",
+  "url" : "https://news.ycombinator.com/item?id=48118727",
+  "answers" : [ ]
+}, {
+  "title" : "Chess puzzle I found in my dad's old book",
+  "description" : "Link: https://ardoedo.it/kempelen/ | Score: 135 | Comments: 39 | By: Eswo",
+  "url" : "https://news.ycombinator.com/item?id=48096760",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Nibble",
+  "description" : "Link: https://github.com/glouw/nibble | Score: 26 | Comments: 1 | By: glouwbug",
+  "url" : "https://news.ycombinator.com/item?id=48130186",
+  "answers" : [ "An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn&#x27;t perfect, and the README touches on one particular downfall" ]
+}, {
+  "title" : "Twin brothers wipe 96 government databases minutes after being fired",
+  "description" : "Link: https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/ | Score: 372 | Comments: 269 | By: jnord",
+  "url" : "https://news.ycombinator.com/item?id=48115438",
+  "answers" : [ ]
+}, {
+  "title" : "Built to help my dad pass CCNA, now were changing how people learn networking",
+  "description" : "Link: https://switchlab.dev/ | Score: 12 | Comments: 1 | By: salad_v",
+  "url" : "https://news.ycombinator.com/item?id=48130976",
+  "answers" : [ ]
+}, {
+  "title" : "Microsoft BitLocker – YellowKey zero-day exploit",
+  "description" : "Link: https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor | Score: 83 | Comments: 30 | By: cookiengineer",
+  "url" : "https://news.ycombinator.com/item?id=48130519",
+  "answers" : [ ]
+}, {
+  "title" : "delta time",
+  "description" : "Link: https://www.deltatime.life/ | Score: 20 | Comments: 2 | By: mxfh",
+  "url" : "https://news.ycombinator.com/item?id=48129953",
+  "answers" : [ ]
+}, {
+  "title" : "Avoiding and reducing microplastic false positives from dry glove contact",
+  "description" : "Link: https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c | Score: 19 | Comments: 0 | By: efavdb",
+  "url" : "https://news.ycombinator.com/item?id=48129934",
+  "answers" : [ ]
+}, {
+  "title" : "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+  "description" : "Link: https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent | Score: 297 | Comments: 423 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48126848",
+  "answers" : [ ]
+}, {
+  "title" : "'A Four-Eyed World' Review: The Story of Spectacles",
+  "description" : "Link: https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac | Score: 5 | Comments: 0 | By: Hooke",
+  "url" : "https://news.ycombinator.com/item?id=48076888",
+  "answers" : [ ]
+}, {
+  "title" : "The US is winning the AI race where it matters most: commercialization",
+  "description" : "Link: https://avkcode.github.io/blog/us-winning-ai-race.html | Score: 184 | Comments: 504 | By: akrylov",
+  "url" : "https://news.ycombinator.com/item?id=48121929",
+  "answers" : [ ]
+}, {
+  "title" : "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+  "description" : "Link: https://github.com/nooga/xsofy | Score: 171 | Comments: 75 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=48080755",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+  "description" : "Link: https://www.tryardent.com/ | Score: 80 | Comments: 33 | By: vc289",
+  "url" : "https://news.ycombinator.com/item?id=48124436",
+  "answers" : [ "Hey HN! We’re Vikram and Evan from Ardent (<a href=\"https:&#x2F;&#x2F;tryardent.com\">https:&#x2F;&#x2F;tryardent.com</a>). We&#x27;re building database sandboxes for you and your coding agents.<p>In the last two years coding agents have gotten dramatically more capable at handling complex engineering tasks. But without access to a realistic sandbox at the DB layer for testing, they ship garbage that can take down production databases. I spent over a year building an AI Data Engineer that failed for this exact reason. Evan spent the last 12 years in data engineering and hit this wall building agents at his last company.<p>Ardent was built to make it possible for coding agents to get near instant access to production-like sandboxes so they can test their work. To do this we write a replication stream out of the target DB, scaling with kafka onto a read replica with copy on write enabled and autoscaling compute (we currently prefer neon as a primary branching engine due to their implementation of these properties).<p>Our replication stream uses logical replication + ddl triggers to enable usage on any hosted postgres DB since most platforms do not allow physical replication which is traditionally used for creating replicas.<p>This provides a few primary benefits:<p>1. Does not require a platform migration to a DB provider like neon, allowing strong separation of production and development concerns.\n2. Minimal impact on the production database while allowing clones to spin up in &lt;6s, even at TB scale with copy-on-write<p>Security matters a lot with cloning production so we run a proxy layer to generate custom postgres URLs and route all connections to allow more granular access control to clones, prevent credential leak, and follow a split plane architecture to allow full data residency on your cloud through BYOC.<p>We also support anonymization through the ability to register SQL that runs on branches before they are returned. This has been used for PII redaction and branch modification.<p>Our goal is to make every data infrastructure platform “cloneable” in one place so agents can fully test the impact of their changes on production like data environments without risk.<p>Here&#x27;s a demo of it: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;5S1kwPtiRU0\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;5S1kwPtiRU0</a><p>We’d love to understand how you work with coding agents on the DB and if you try Ardent (it&#x27;s free to get started) what worked, what broke and what’s missing." ]
+}, {
+  "title" : "Golden Testing a CAD Library",
+  "description" : "Link: https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html | Score: 6 | Comments: 0 | By: PaulHoule",
+  "url" : "https://news.ycombinator.com/item?id=48099347",
+  "answers" : [ ]
+}, {
+  "title" : "How can Apple deal with the memory shortage?",
+  "description" : "Link: https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/ | Score: 77 | Comments: 75 | By: tambourine_man",
+  "url" : "https://news.ycombinator.com/item?id=48094986",
+  "answers" : [ ]
+}, {
+  "title" : "Heritability of human life span is ~50% when heritability is redefined",
+  "description" : "Link: https://dynomight.net/lifespan/ | Score: 83 | Comments: 51 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48109772",
+  "answers" : [ ]
+}, {
+  "title" : "The other half of AI safety",
+  "description" : "Link: https://personalaisafety.com/p/the-other-half-of-ai-safety | Score: 62 | Comments: 73 | By: sofiaqt",
+  "url" : "https://news.ycombinator.com/item?id=48129561",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "description" : "Link: https://github.com/cactus-compute/needle | Score: 659 | Comments: 187 | By: HenryNdubuaku",
+  "url" : "https://news.ycombinator.com/item?id=48111896",
+  "answers" : [ "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices.<p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.<p>Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).<p>Training:\n- Pretrained on 200B tokens across 16 TPU v6e (27 hours)\n- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)\n- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)<p>You can test it right now and finetune on your Mac&#x2F;PC: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle</a><p>The full writeup on the architecture is here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle&#x2F;blob&#x2F;main&#x2F;docs&#x2F;simple_attention_networks.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle&#x2F;blob&#x2F;main&#x2F;docs&#x2F;simp...</a><p>We found that the &quot;no FFN&quot; finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn&#x27;t need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to published.<p>While it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M, LFM2.5-350M on single-shot function calling, those models have more scope&#x2F;capacity and excel in conversational settings. We encourage you to test on your own tools via the playground and finetune accordingly.<p>This is part of our broader work on Cactus (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus</a>), an inference engine built from scratch for mobile, wearables and custom hardware. We wrote about Cactus here previously: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44524544\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44524544</a><p>Everything is MIT licensed. Weights: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;Cactus-Compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;Cactus-Compute&#x2F;needle</a>\nGitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle</a>" ]
+}, {
+  "title" : "Reverting the incremental GC in Python 3.14 and 3.15",
+  "description" : "Link: https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014 | Score: 214 | Comments: 85 | By: curiousgal",
+  "url" : "https://news.ycombinator.com/item?id=48077924",
+  "answers" : [ ]
+}, {
+  "title" : "Marco Polo: Finding a friend with only distance and motion",
+  "description" : "Link: https://www.jackhogan.me/blog/marco-polo | Score: 54 | Comments: 7 | By: jackhogan11",
+  "url" : "https://news.ycombinator.com/item?id=48095782",
+  "answers" : [ ]
+}, {
+  "title" : "Mystery Microsoft bug leaker keeps the zero-days coming",
+  "description" : "Link: https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758 | Score: 102 | Comments: 26 | By: e12e",
+  "url" : "https://news.ycombinator.com/item?id=48129789",
+  "answers" : [ ]
+}, {
+  "title" : "S-100 Virtual Workbench",
+  "description" : "Link: https://grantmestrength.github.io/S100/ | Score: 114 | Comments: 25 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=48123546",
+  "answers" : [ ]
+} ]
