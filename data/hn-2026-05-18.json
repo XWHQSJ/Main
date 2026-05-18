@@ -1,0 +1,151 @@
+[ {
+  "title" : "GenCAD",
+  "description" : "Link: https://gencad.github.io/ | Score: 222 | Comments: 48 | By: dagenix",
+  "url" : "https://news.ycombinator.com/item?id=48173429",
+  "answers" : [ ]
+}, {
+  "title" : "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+  "description" : "Link: https://askanastronaut.issinrealtime.org/ | Score: 99 | Comments: 8 | By: gaws",
+  "url" : "https://news.ycombinator.com/item?id=48152754",
+  "answers" : [ ]
+}, {
+  "title" : "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+  "description" : "Link: https://github.com/tech4bot/rk3562deb | Score: 300 | Comments: 139 | By: tech4bot",
+  "url" : "https://news.ycombinator.com/item?id=48168668",
+  "answers" : [ ]
+}, {
+  "title" : "Prolog Coding Horror",
+  "description" : "Link: https://www.metalevel.at/prolog/horror | Score: 94 | Comments: 29 | By: RohanAdwankar",
+  "url" : "https://news.ycombinator.com/item?id=48173268",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+  "description" : "Link: https://github.com/MinishLab/semble | Score: 262 | Comments: 85 | By: Bibabomas",
+  "url" : "https://news.ycombinator.com/item?id=48169874",
+  "answers" : [ "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can&#x27;t find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.<p>Semble is our solution for this. It combines static Model2Vec embeddings (using our latest static model: potion-code-16M) with BM25, fused via RRF and reranked with code-aware signals. Everything runs on CPU since there&#x27;s no transformers involved. On our benchmark of ~1250 query&#x2F;document pairs across 63 repos and 19 languages, it uses 98% fewer tokens than grep+read and reaches 99% of the retrieval quality of a 137M-parameter code-trained transformer, while being ~200x faster.<p>Main features:<p>- Token-efficient: 98% fewer tokens than grep+read<p>- Fast: ~250ms to index a typical repo on our benchmark, ~1.5ms per query on CPU (very large repos may take longer)<p>- Accurate: 0.854 NDCG@10, 99% of the best transformer setup we tested<p>- MCP server: drop-in for Claude Code, Cursor, Codex, OpenCode<p>- Zero config: no API keys, no GPU, no external services<p>Install in Claude Code with:\nclaude mcp add semble -s user -- uvx --from &quot;semble[mcp]&quot; semble<p>Or check our README for other installation instructions, benchmarks, and methodology:<p>Semble: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;MinishLab&#x2F;semble\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;MinishLab&#x2F;semble</a><p>Benchmarks: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;MinishLab&#x2F;semble&#x2F;tree&#x2F;main&#x2F;benchmarks\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;MinishLab&#x2F;semble&#x2F;tree&#x2F;main&#x2F;benchmarks</a><p>Model: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;minishlab&#x2F;potion-code-16M\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;minishlab&#x2F;potion-code-16M</a><p>Let us know if you have any feedback or questions!" ]
+}, {
+  "title" : "Jank now has its own custom IR",
+  "description" : "Link: https://jank-lang.org/blog/2026-05-08-optimization/ | Score: 88 | Comments: 7 | By: DASD",
+  "url" : "https://news.ycombinator.com/item?id=48151251",
+  "answers" : [ ]
+}, {
+  "title" : "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+  "description" : "Link: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base | Score: 166 | Comments: 144 | By: ChrisArchitect",
+  "url" : "https://news.ycombinator.com/item?id=48173468",
+  "answers" : [ ]
+}, {
+  "title" : "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+  "description" : "Link: https://hellmood.111mb.de//wake_up_16b_writeup.html | Score: 74 | Comments: 6 | By: HellMood",
+  "url" : "https://news.ycombinator.com/item?id=48173962",
+  "answers" : [ ]
+}, {
+  "title" : "A Good Lemma Is Worth a Thousand Theorems (2007)",
+  "description" : "Link: https://sites.math.rutgers.edu/~zeilberg/Opinion82.html | Score: 35 | Comments: 6 | By: susam",
+  "url" : "https://news.ycombinator.com/item?id=48157229",
+  "answers" : [ ]
+}, {
+  "title" : "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+  "description" : "Link: https://www.youtube.com/watch?v=1OIxzewWilc | Score: 9 | Comments: 3 | By: tzury",
+  "url" : "https://news.ycombinator.com/item?id=48175637",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Mezz, a curl-able WiFi sandbox for IoT pentesting",
+  "description" : "Link: https://github.com/ABGEO/mezz | Score: 8 | Comments: 2 | By: ABGEO",
+  "url" : "https://news.ycombinator.com/item?id=48149461",
+  "answers" : [ ]
+}, {
+  "title" : "CUDA Books",
+  "description" : "Link: https://github.com/alternbits/awesome-cuda-books | Score: 169 | Comments: 34 | By: dariubs",
+  "url" : "https://news.ycombinator.com/item?id=48168485",
+  "answers" : [ ]
+}, {
+  "title" : "Tesla Solar Roof is on life support as it pivot to panels",
+  "description" : "Link: https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/ | Score: 216 | Comments: 219 | By: celsoazevedo",
+  "url" : "https://news.ycombinator.com/item?id=48165980",
+  "answers" : [ ]
+}, {
+  "title" : "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
+  "description" : "Link: https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later | Score: 92 | Comments: 39 | By: walterbell",
+  "url" : "https://news.ycombinator.com/item?id=48155936",
+  "answers" : [ ]
+}, {
+  "title" : "Hindenburg’s Smoking Room",
+  "description" : "Link: https://www.airships.net/hindenburg-smoking-room/ | Score: 180 | Comments: 146 | By: crescit_eundo",
+  "url" : "https://news.ycombinator.com/item?id=48140556",
+  "answers" : [ ]
+}, {
+  "title" : "Prolog Basics Explained with Pokémon",
+  "description" : "Link: https://unplannedobsolescence.com/blog/prolog-basics-pokemon/ | Score: 235 | Comments: 37 | By: birdculture",
+  "url" : "https://news.ycombinator.com/item?id=48147091",
+  "answers" : [ ]
+}, {
+  "title" : "America's Most-Spoken Languages After English and Spanish",
+  "description" : "Link: https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/ | Score: 26 | Comments: 1 | By: RyeCombinator",
+  "url" : "https://news.ycombinator.com/item?id=48175319",
+  "answers" : [ ]
+}, {
+  "title" : "Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
+  "description" : "Link: https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths | Score: 58 | Comments: 18 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48141960",
+  "answers" : [ ]
+}, {
+  "title" : "I don't think AI will make your processes go faster",
+  "description" : "Link: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ | Score: 543 | Comments: 378 | By: TheEdonian",
+  "url" : "https://news.ycombinator.com/item?id=48168221",
+  "answers" : [ ]
+}, {
+  "title" : "High-Entropy Alloy",
+  "description" : "Link: https://en.wikipedia.org/wiki/High-entropy_alloy | Score: 125 | Comments: 23 | By: leonidasrup",
+  "url" : "https://news.ycombinator.com/item?id=48133293",
+  "answers" : [ ]
+}, {
+  "title" : "Crystals found inside wreckage from the first nuclear bomb test",
+  "description" : "Link: https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/ | Score: 9 | Comments: 1 | By: jumploops",
+  "url" : "https://news.ycombinator.com/item?id=48155450",
+  "answers" : [ ]
+}, {
+  "title" : "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+  "description" : "Link: https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd | Score: 90 | Comments: 94 | By: bushwart",
+  "url" : "https://news.ycombinator.com/item?id=48168159",
+  "answers" : [ ]
+}, {
+  "title" : "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+  "description" : "Link: https://spectrum.ieee.org/payphone-voip | Score: 141 | Comments: 41 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48172505",
+  "answers" : [ ]
+}, {
+  "title" : "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+  "description" : "Link: https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/ | Score: 179 | Comments: 180 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=48147351",
+  "answers" : [ ]
+}, {
+  "title" : "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+  "description" : "Link: https://www.jdhodges.com/blog/thinkpad-history/ | Score: 82 | Comments: 42 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48173547",
+  "answers" : [ ]
+}, {
+  "title" : "A nicer voltmeter clock",
+  "description" : "Link: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock | Score: 328 | Comments: 43 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48164432",
+  "answers" : [ ]
+}, {
+  "title" : "Colossus: The Forbin Project",
+  "description" : "Link: https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project | Score: 228 | Comments: 90 | By: doener",
+  "url" : "https://news.ycombinator.com/item?id=48142115",
+  "answers" : [ ]
+}, {
+  "title" : "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+  "description" : "Link: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/ | Score: 690 | Comments: 286 | By: WithinReason",
+  "url" : "https://news.ycombinator.com/item?id=48166459",
+  "answers" : [ ]
+}, {
+  "title" : "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+  "description" : "Link: https://xca-attacks.github.io/fabricked/ | Score: 45 | Comments: 21 | By: negura",
+  "url" : "https://news.ycombinator.com/item?id=48173708",
+  "answers" : [ ]
+}, {
+  "title" : "AI is a technology not a product",
+  "description" : "Link: https://daringfireball.net/2026/05/ai_is_technology_not_a_product | Score: 381 | Comments: 166 | By: ch_sm",
+  "url" : "https://news.ycombinator.com/item?id=48168626",
+  "answers" : [ ]
+} ]
