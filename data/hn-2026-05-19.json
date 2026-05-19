@@ -1,0 +1,151 @@
+[ {
+  "title" : "The last six months in LLMs in five minutes",
+  "description" : "Link: https://simonwillison.net/2026/May/19/5-minute-llms/ | Score: 191 | Comments: 99 | By: yakkomajuri",
+  "url" : "https://news.ycombinator.com/item?id=48188183",
+  "answers" : [ ]
+}, {
+  "title" : "Click (2016)",
+  "description" : "Link: https://clickclickclick.click/ | Score: 260 | Comments: 64 | By: andrewzeno",
+  "url" : "https://news.ycombinator.com/item?id=48187054",
+  "answers" : [ ]
+}, {
+  "title" : "Codex-maxxing",
+  "description" : "Link: https://jxnl.co/writing/2026/05/10/codex-maxxing/ | Score: 27 | Comments: 16 | By: dnw",
+  "url" : "https://news.ycombinator.com/item?id=48189156",
+  "answers" : [ ]
+}, {
+  "title" : "Anyone on the Internet Can Ring Your Doorbell",
+  "description" : "Link: https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell | Score: 66 | Comments: 26 | By: jrdres",
+  "url" : "https://news.ycombinator.com/item?id=48165944",
+  "answers" : [ ]
+}, {
+  "title" : "Turn your Android phone into a ham radio transceiver",
+  "description" : "Link: https://www.kv4p.com/ | Score: 28 | Comments: 2 | By: krupan",
+  "url" : "https://news.ycombinator.com/item?id=48161772",
+  "answers" : [ ]
+}, {
+  "title" : "PyTorch Landscape",
+  "description" : "Link: https://pytorch.landscape2.io | Score: 15 | Comments: 0 | By: salamo",
+  "url" : "https://news.ycombinator.com/item?id=48189178",
+  "answers" : [ ]
+}, {
+  "title" : "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+  "description" : "Link: https://nicholas.carlini.com/writing/2025/regex-chess.html | Score: 79 | Comments: 13 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48136909",
+  "answers" : [ ]
+}, {
+  "title" : "Anthropic acquires Stainless",
+  "description" : "Link: https://www.anthropic.com/news/anthropic-acquires-stainless | Score: 412 | Comments: 286 | By: tomeraberbach",
+  "url" : "https://news.ycombinator.com/item?id=48182281",
+  "answers" : [ ]
+}, {
+  "title" : "Cursor Introduces Composer 2.5",
+  "description" : "Link: https://cursor.com/blog/composer-2-5 | Score: 93 | Comments: 51 | By: asar",
+  "url" : "https://news.ycombinator.com/item?id=48182516",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;cursor_ai&#x2F;status&#x2F;2056415413077233983\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;cursor_ai&#x2F;status&#x2F;2056415413077233983</a>" ]
+}, {
+  "title" : "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+  "description" : "Link: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html | Score: 177 | Comments: 102 | By: cucho",
+  "url" : "https://news.ycombinator.com/item?id=48187201",
+  "answers" : [ ]
+}, {
+  "title" : "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+  "description" : "Link: https://github.com/2b2tplace/1m_release | Score: 129 | Comments: 77 | By: exploraz",
+  "url" : "https://news.ycombinator.com/item?id=48180204",
+  "answers" : [ ]
+}, {
+  "title" : "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+  "description" : "Link: https://archestra.ai/blog/only-responsible-ai | Score: 452 | Comments: 205 | By: ildari",
+  "url" : "https://news.ycombinator.com/item?id=48181125",
+  "answers" : [ ]
+}, {
+  "title" : "Peter Salus has died",
+  "description" : "Link: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html | Score: 102 | Comments: 8 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48188665",
+  "answers" : [ ]
+}, {
+  "title" : "The quiet renovation at Bitwarden",
+  "description" : "Link: https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden | Score: 607 | Comments: 269 | By: DaSHacka",
+  "url" : "https://news.ycombinator.com/item?id=48163389",
+  "answers" : [ ]
+}, {
+  "title" : "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+  "description" : "Link: https://hyperpolyglot.org/lisp | Score: 148 | Comments: 34 | By: veqq",
+  "url" : "https://news.ycombinator.com/item?id=48184322",
+  "answers" : [ ]
+}, {
+  "title" : "When can the C++ compiler devirtualize a call?",
+  "description" : "Link: https://quuxplusone.github.io/blog/2021/02/15/devirtualization/ | Score: 44 | Comments: 10 | By: lionkor",
+  "url" : "https://news.ycombinator.com/item?id=48167187",
+  "answers" : [ ]
+}, {
+  "title" : "We let AIs run radio stations",
+  "description" : "Link: https://andonlabs.com/blog/andon-fm | Score: 221 | Comments: 181 | By: lukaspetersson",
+  "url" : "https://news.ycombinator.com/item?id=48183301",
+  "answers" : [ "Hey HN!<p>I&#x27;m Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we&#x27;ve done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools they need to both broadcast radio shows live and handle all the business side of running a media company. The agents&#x27; revenue is so far terrible (you can try to strike a sponsor deal with them if you want!), but their shows are at times hilarious. You can listen to them at andon.fm, I hope you enjoy this!" ]
+}, {
+  "title" : "Show HN: Number Gacha, a gacha game distilled to its essence",
+  "description" : "Link: https://isabisabel.com/gacha/ | Score: 110 | Comments: 46 | By: babel16",
+  "url" : "https://news.ycombinator.com/item?id=48123359",
+  "answers" : [ "Number Gacha is a half-parody, half-real gacha game where you roll, unwrap, and battle numbers. Play on Desktop for the best experience!" ]
+}, {
+  "title" : "Peter Neumann has died",
+  "description" : "Link: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html | Score: 12 | Comments: 1 | By: pabs3",
+  "url" : "https://news.ycombinator.com/item?id=48188787",
+  "answers" : [ ]
+}, {
+  "title" : "Project Glasswing: what Mythos showed us",
+  "description" : "Link: https://blog.cloudflare.com/cyber-frontier-models/ | Score: 313 | Comments: 122 | By: Fysi",
+  "url" : "https://news.ycombinator.com/item?id=48179732",
+  "answers" : [ ]
+}, {
+  "title" : "AI eats the world (Spring 26) [pdf]",
+  "description" : "Link: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf | Score: 193 | Comments: 109 | By: topherjaynes",
+  "url" : "https://news.ycombinator.com/item?id=48179021",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+  "description" : "Link: https://github.com/harmont-dev/hsrs | Score: 6 | Comments: 0 | By: suis_siva",
+  "url" : "https://news.ycombinator.com/item?id=48189044",
+  "answers" : [ "Hey everyone! I&#x27;ve been working on hsrs, a type-safe Haskell Bindings Generator for Rust.<p>I couldn&#x27;t really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generator already existed, hence I decided to write my own. hsrs feels very similar to pyo3 and napi-rs, and if you&#x27;ve used those, hsrs will feel right at home.<p>What&#x27;s unique about hsrs as opposed to hs-bindgen is that it has type-safe bindings for rich types, like Result, Maybe, etc. while also generating Haskell bindings. The repo contains a minimal example, and more details are available in the haskell discourse: <a href=\"https:&#x2F;&#x2F;discourse.haskell.org&#x2F;t&#x2F;ann-hsrs-ergonomic-haskell-bindings-for-rust&#x2F;14129\" rel=\"nofollow\">https:&#x2F;&#x2F;discourse.haskell.org&#x2F;t&#x2F;ann-hsrs-ergonomic-haskell-b...</a>" ]
+}, {
+  "title" : "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+  "description" : "Link: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/ | Score: 893 | Comments: 446 | By: nycdatasci",
+  "url" : "https://news.ycombinator.com/item?id=48182754",
+  "answers" : [ ]
+}, {
+  "title" : "Earth's Radio Bubble: Every signal we've ever sent into space",
+  "description" : "Link: https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html | Score: 59 | Comments: 32 | By: jonbaer",
+  "url" : "https://news.ycombinator.com/item?id=48176873",
+  "answers" : [ ]
+}, {
+  "title" : "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+  "description" : "Link: https://www.llmcap.io/ | Score: 5 | Comments: 1 | By: cfaruk",
+  "url" : "https://news.ycombinator.com/item?id=48188996",
+  "answers" : [ ]
+}, {
+  "title" : "Why is it called Kent House?",
+  "description" : "Link: https://diamondgeezer.blogspot.com/2026/05/kent-house.html | Score: 10 | Comments: 1 | By: susam",
+  "url" : "https://news.ycombinator.com/item?id=48158780",
+  "answers" : [ ]
+}, {
+  "title" : "Two computers, one monitor, zero fiddling (2025)",
+  "description" : "Link: https://alexplescan.com/posts/2025/08/16/kvm/ | Score: 192 | Comments: 113 | By: ankitg12",
+  "url" : "https://news.ycombinator.com/item?id=48156186",
+  "answers" : [ ]
+}, {
+  "title" : "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+  "description" : "Link: https://arxiv.org/abs/2601.10160 | Score: 44 | Comments: 17 | By: anigbrowl",
+  "url" : "https://news.ycombinator.com/item?id=48185938",
+  "answers" : [ ]
+}, {
+  "title" : "Agora-1: The Multi-Agent World Model",
+  "description" : "Link: https://odyssey.ml/introducing-agora-1 | Score: 98 | Comments: 18 | By: olivercameron",
+  "url" : "https://news.ycombinator.com/item?id=48183748",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Files.md – Open-source alternative to Obsidian",
+  "description" : "Link: https://github.com/zakirullin/files.md | Score: 606 | Comments: 297 | By: zakirullin",
+  "url" : "https://news.ycombinator.com/item?id=48179677",
+  "answers" : [ ]
+} ]
