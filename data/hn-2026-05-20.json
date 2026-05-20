@@ -1,0 +1,151 @@
+[ {
+  "title" : "Railway Blocked by Google Cloud",
+  "description" : "Link: https://status.railway.com/?date=20260519 | Score: 382 | Comments: 179 | By: aarondf",
+  "url" : "https://news.ycombinator.com/item?id=48201484",
+  "answers" : [ ]
+}, {
+  "title" : "FiveThirtyEight articles on the Internet Archive",
+  "description" : "Link: https://fivethirtyeightindex.com/ | Score: 122 | Comments: 31 | By: ChocMontePy",
+  "url" : "https://news.ycombinator.com/item?id=48201973",
+  "answers" : [ ]
+}, {
+  "title" : "Gemini 3.5 Flash",
+  "description" : "Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ | Score: 700 | Comments: 505 | By: spectraldrift",
+  "url" : "https://news.ycombinator.com/item?id=48196570",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flash\" rel=\"nofollow\">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flas...</a>" ]
+}, {
+  "title" : "I’ve built a virtual museum with nearly every operating system you can think of",
+  "description" : "Link: https://virtualosmuseum.org/ | Score: 696 | Comments: 158 | By: andreww591",
+  "url" : "https://news.ycombinator.com/item?id=48195009",
+  "answers" : [ ]
+}, {
+  "title" : "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+  "description" : "Link: https://github.com/wiltodelta/remove-ai-watermarks | Score: 219 | Comments: 115 | By: janalsncm",
+  "url" : "https://news.ycombinator.com/item?id=48200569",
+  "answers" : [ ]
+}, {
+  "title" : "Google changes its search box",
+  "description" : "Link: https://blog.google/products-and-platforms/products/search/search-io-2026/ | Score: 465 | Comments: 644 | By: berkeleyjunk",
+  "url" : "https://news.ycombinator.com/item?id=48197370",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;business&#x2F;google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;business&#x2F;google-seach-bar...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;XI1sQ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;XI1sQ</a><p><a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;google-search-as-you-know-it-is-over&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;google-search-as-you-know-...</a><p><a href=\"https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;932970&#x2F;google-search-ai-update-io-2026\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;932970&#x2F;google-search-ai-update...</a>" ]
+}, {
+  "title" : "GitHub Compromised",
+  "description" : "Link: https://twitter.com/i/status/2056949168208552080 | Score: 100 | Comments: 28 | By: claaams",
+  "url" : "https://news.ycombinator.com/item?id=48202993",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+  "description" : "Link: https://github.com/antoinezambelli/forge | Score: 387 | Comments: 144 | By: zambelli",
+  "url" : "https://news.ycombinator.com/item?id=48192383",
+  "answers" : [ "Hi HN, I&#x27;m Antoine Zambelli, AI Director at Texas Instruments.<p>I built Forge, an open-source reliability layer for self-hosted LLM tool-calling.<p>What it does:<p>- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware<p>- Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it<p>- Ships with an eval harness and interactive dashboard so you can reproduce every number<p>I wanted to run a handful of always-on agentic systems for my portfolio, didn&#x27;t want to pay cloud frontier costs, and immediately hit the compounding math problem on local models. 90% per-step accuracy sounds great, but with a 5-step workflow that&#x27;s a 40% failure rate. No existing framework seemed to address this mechanical reliability issue - they all seemed tailor-made for cloud frontier.<p>Demo video: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;MzRgJoJAXGc\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;MzRgJoJAXGc</a> (side-by-side: same model, same task, with and without Forge guardrails)<p>The paper (accepted to ACM CAIS &#x27;26, presenting May 26-29 in San Jose) covers the peer-reviewed findings across 97 model&#x2F;backend configurations, 18 scenarios, 50 runs each. Key numbers:<p>- Ministral 8B with Forge: 99.3%. Claude Sonnet with Forge: 100%. The gap between a free local 8B model on a $600 GPU and a frontier API is less than 1 point.<p>- The same 8B local model with Forge (99.3%) outperforms Claude Sonnet without guardrails (87.2%) - an 8B model with framework support beats the best result you can get through frontier API alone.<p>- Error recovery scores 0% for every model tested - local and frontier - without the retry mechanism. Not a capability gap, an architectural absence.<p>I&#x27;m currently using this for my home assistant running on Ministral 14B-Reasoning, and for my locally hosted agentic coding harness (8B managed to contribute to the codebase!).<p>The guardrail stack has five layers, each independently toggleable. The two that carry the most weight (per ablation study with McNemar&#x27;s test): retry nudges (24-49 point drops when disabled) and error recovery (~10 point drops, significant for every model tested). Step enforcement is situational - only fires for models with weaker sequencing discipline. Rescue parsing and context compaction showed no significance in the eval but are retained for production workloads where they activate once in a while.<p>One thing I really didn&#x27;t expect: the serving backend matters. Same Mistral-Nemo 12B weights produce 7% accuracy on llama-server with native function calling and 83% on Llamafile in prompt mode. A 75-point swing from infrastructure alone. I don&#x27;t think anyone&#x27;s published this because standard benchmarks don&#x27;t control for serving backend.<p>Another surprise: there&#x27;s no distinction in current LLM tool-calling between &quot;the tool ran successfully and returned data&quot; and &quot;the tool ran successfully but found nothing.&quot; Both return a value, the orchestrator marks the step complete, and bad data cascades downstream. It&#x27;s the equivalent of HTTP having 200 but no 404. Forge adds this as a new exception class (ToolResolutionError) - the model sees the error and can retry instead of silently passing garbage forward.<p>Biggest technical challenge was context compaction for memory-constrained hardware. Both Ollama and Llamafile silently fall back to CPU when the model exceeds VRAM - no warning, no error, just 10-100x slower inference. Forge queries nvidia-smi at startup and derives a token budget to prevent this.<p>How to try it:<p>- Clone the repo, run the eval harness on a model I haven&#x27;t tested. If you get interesting results I&#x27;ll add them to the dashboard.<p>- Try the proxy server mode - point any OpenAI-compatible client at Forge and it handles guardrails transparently. It&#x27;s the newest model and I&#x27;d love more eyes on it.<p>- Dogfooding led me to optimize model parameters in v0.6.0. The harder eval suite (26 scenarios) is designed to raise the ceiling so no one sits at 100%. Several that did on the original suite can&#x27;t sweep it - including Opus 4.6. Curious if anyone finds scenarios that expose gaps I haven&#x27;t thought of. Paper numbers based on pre v0.6.0 code.<p>Background: prior ML publication in unsupervised learning (83 citations). This paper accepted to ACM CAIS &#x27;26 - presenting May 26-29.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;antoinezambelli&#x2F;forge\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;antoinezambelli&#x2F;forge</a><p>Paper: <a href=\"https:&#x2F;&#x2F;www.caisconf.org&#x2F;program&#x2F;2026&#x2F;demos&#x2F;forge-agentic-reliability&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.caisconf.org&#x2F;program&#x2F;2026&#x2F;demos&#x2F;forge-agentic-re...</a> <a href=\"https:&#x2F;&#x2F;github.com&#x2F;antoinezambelli&#x2F;forge&#x2F;blob&#x2F;main&#x2F;docs&#x2F;forge_ieee_preprint.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;antoinezambelli&#x2F;forge&#x2F;blob&#x2F;main&#x2F;docs&#x2F;forg...</a><p>Dashboard: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;antoinezambelli&#x2F;forge&#x2F;docs&#x2F;results&#x2F;dashboard.html\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;antoinezambelli&#x2F;forge&#x2F;docs&#x2F;results&#x2F;dashbo...</a>" ]
+}, {
+  "title" : "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+  "description" : "Link: https://openai.com/index/advancing-content-provenance/ | Score: 249 | Comments: 129 | By: smooke",
+  "url" : "https://news.ycombinator.com/item?id=48198291",
+  "answers" : [ ]
+}, {
+  "title" : "Mistral AI acquires Emmi AI",
+  "description" : "Link: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai | Score: 220 | Comments: 58 | By: doener",
+  "url" : "https://news.ycombinator.com/item?id=48197995",
+  "answers" : [ ]
+}, {
+  "title" : "Apple unveils new accessibility features",
+  "description" : "Link: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/ | Score: 643 | Comments: 326 | By: interpol_p",
+  "url" : "https://news.ycombinator.com/item?id=48192224",
+  "answers" : [ ]
+}, {
+  "title" : "The Mercury logic programming system",
+  "description" : "Link: https://github.com/Mercury-Language/mercury | Score: 55 | Comments: 10 | By: Antibabelic",
+  "url" : "https://news.ycombinator.com/item?id=48176384",
+  "answers" : [ ]
+}, {
+  "title" : "In 1979 engineer Hugh Padgham discovered \"gated reverb\" – by accident",
+  "description" : "Link: https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/ | Score: 20 | Comments: 0 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48170096",
+  "answers" : [ ]
+}, {
+  "title" : "India's hottest district shuts at 10 am as mercury breaches 48 C mark",
+  "description" : "Link: https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html | Score: 31 | Comments: 11 | By: rustoo",
+  "url" : "https://news.ycombinator.com/item?id=48203333",
+  "answers" : [ ]
+}, {
+  "title" : "Skills in Web, iOS, and Android",
+  "description" : "Link: https://x.ai/news/grok-skills | Score: 9 | Comments: 0 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48184941",
+  "answers" : [ ]
+}, {
+  "title" : "Evals will break",
+  "description" : "Link: https://wanglun1996.github.io/blog/your-evals-will-break.html | Score: 23 | Comments: 2 | By: rajveerb",
+  "url" : "https://news.ycombinator.com/item?id=48202658",
+  "answers" : [ ]
+}, {
+  "title" : "GitHub is investigating unauthorized access to their internal repositories",
+  "description" : "Link: https://twitter.com/github/status/2056884788179726685 | Score: 324 | Comments: 98 | By: splenditer",
+  "url" : "https://news.ycombinator.com/item?id=48201316",
+  "answers" : [ ]
+}, {
+  "title" : "Gemini CLI will stop working from June 18, 2026",
+  "description" : "Link: https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/ | Score: 145 | Comments: 63 | By: primaprashant",
+  "url" : "https://news.ycombinator.com/item?id=48196867",
+  "answers" : [ ]
+}, {
+  "title" : "Minnesota becomes first state to ban prediction markets",
+  "description" : "Link: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets | Score: 594 | Comments: 183 | By: ortusdux",
+  "url" : "https://news.ycombinator.com/item?id=48197980",
+  "answers" : [ ]
+}, {
+  "title" : "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+  "description" : "Link: https://andlukyane.com//blog/minimax-m27-workflows | Score: 4 | Comments: 0 | By: Artgor",
+  "url" : "https://news.ycombinator.com/item?id=48203249",
+  "answers" : [ ]
+}, {
+  "title" : "Lisp in Web-Based Applications (2001)",
+  "description" : "Link: https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt | Score: 70 | Comments: 4 | By: bschne",
+  "url" : "https://news.ycombinator.com/item?id=48178390",
+  "answers" : [ ]
+}, {
+  "title" : "I’ve joined Anthropic",
+  "description" : "Link: https://twitter.com/karpathy/status/2056753169888334312 | Score: 1254 | Comments: 518 | By: dmarcos",
+  "url" : "https://news.ycombinator.com/item?id=48194352",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2056753169888334312\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2056753169888334312</a><p><a href=\"https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;anthropic-openai-karpathy-andrej-claude\" rel=\"nofollow\">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;anthropic-openai-karpathy-a...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;h6T3X\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;h6T3X</a>" ]
+}, {
+  "title" : "Growing Neural Cellular Automata",
+  "description" : "Link: https://distill.pub/2020/growing-ca/ | Score: 94 | Comments: 11 | By: pulkitsh1234",
+  "url" : "https://news.ycombinator.com/item?id=48172320",
+  "answers" : [ ]
+}, {
+  "title" : "Museum of Imaginary Musical Instruments",
+  "description" : "Link: https://imaginaryinstruments.org/ | Score: 23 | Comments: 5 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48174516",
+  "answers" : [ ]
+}, {
+  "title" : "Why is almost everyone right-handed? A new study connects it to bipedalism",
+  "description" : "Link: https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk | Score: 117 | Comments: 180 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48194098",
+  "answers" : [ ]
+}, {
+  "title" : "The two oldest printing presses",
+  "description" : "Link: https://museumplantinmoretus.be/en/worlds-two-oldest-printing-presses | Score: 35 | Comments: 13 | By: janpot",
+  "url" : "https://news.ycombinator.com/item?id=48175748",
+  "answers" : [ ]
+}, {
+  "title" : "HTML-in-Canvas Demos",
+  "description" : "Link: https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md | Score: 24 | Comments: 8 | By: simonpure",
+  "url" : "https://news.ycombinator.com/item?id=48201222",
+  "answers" : [ ]
+}, {
+  "title" : "Tool mapping 90 companies in the photonics and CPO supply chain",
+  "description" : "Link: https://leonardo-boquillon.com/photonic-cop-supply-chain | Score: 39 | Comments: 2 | By: lboquillon",
+  "url" : "https://news.ycombinator.com/item?id=48169736",
+  "answers" : [ ]
+}, {
+  "title" : "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+  "description" : "Link: https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html | Score: 120 | Comments: 46 | By: akhuettel",
+  "url" : "https://news.ycombinator.com/item?id=48194614",
+  "answers" : [ ]
+}, {
+  "title" : "Disney erased FiveThirtyEight",
+  "description" : "Link: https://www.natesilver.net/p/disney-erased-fivethirtyeight | Score: 393 | Comments: 210 | By: 7777777phil",
+  "url" : "https://news.ycombinator.com/item?id=48197703",
+  "answers" : [ ]
+} ]
