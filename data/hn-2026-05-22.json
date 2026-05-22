@@ -1,0 +1,151 @@
+[ {
+  "title" : "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+  "description" : "Link: https://arxiv.org/abs/2605.19269 | Score: 12 | Comments: 0 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=48232118",
+  "answers" : [ ]
+}, {
+  "title" : "Project Hail Mary – Stellar Navigation Chart",
+  "description" : "Link: https://valhovey.github.io/gaia-mary/ | Score: 772 | Comments: 171 | By: speleo",
+  "url" : "https://news.ycombinator.com/item?id=48225297",
+  "answers" : [ ]
+}, {
+  "title" : "The surprising story behind the first British person in space",
+  "description" : "Link: https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space | Score: 14 | Comments: 0 | By: xoxxala",
+  "url" : "https://news.ycombinator.com/item?id=48209691",
+  "answers" : [ ]
+}, {
+  "title" : "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+  "description" : "Link: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/ | Score: 230 | Comments: 123 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48227397",
+  "answers" : [ ]
+}, {
+  "title" : "Slumber a TUI HTTP Client",
+  "description" : "Link: https://slumber.lucaspickering.me | Score: 11 | Comments: 0 | By: jicea",
+  "url" : "https://news.ycombinator.com/item?id=48231938",
+  "answers" : [ ]
+}, {
+  "title" : "Samsung chip workers will get an average $340k bonus as AI profits soar",
+  "description" : "Link: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 | Score: 203 | Comments: 139 | By: carabiner",
+  "url" : "https://news.ycombinator.com/item?id=48230892",
+  "answers" : [ ]
+}, {
+  "title" : "Was my $48K GPU server worth it?",
+  "description" : "Link: https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/ | Score: 375 | Comments: 264 | By: apwheele",
+  "url" : "https://news.ycombinator.com/item?id=48184402",
+  "answers" : [ ]
+}, {
+  "title" : "Using Kagi Search with Low Vision",
+  "description" : "Link: https://veroniiiica.com/using-kagi-search-with-low-vision/ | Score: 175 | Comments: 49 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48227860",
+  "answers" : [ ]
+}, {
+  "title" : "Uv is fantastic, but its package management UX is a mess",
+  "description" : "Link: https://www.loopwerk.io/articles/2026/uv-ux-mess/ | Score: 150 | Comments: 87 | By: nchagnet",
+  "url" : "https://news.ycombinator.com/item?id=48228788",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
+  "description" : "Link: https://pythongiant.github.io/KVBoost/ | Score: 7 | Comments: 2 | By: pythongiant",
+  "url" : "https://news.ycombinator.com/item?id=48232060",
+  "answers" : [ ]
+}, {
+  "title" : "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+  "description" : "Link: https://blog.simbastack.com/indexed-a-year-of-video-locally/ | Score: 345 | Comments: 101 | By: asenna",
+  "url" : "https://news.ycombinator.com/item?id=48222733",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+  "description" : "Link: https://freenet.org/ | Score: 256 | Comments: 139 | By: sanity",
+  "url" : "https://news.ycombinator.com/item?id=48223362",
+  "answers" : [ "For the past 5 years or so I&#x27;ve been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet).<p>The new Freenet has been up and running since December along with some early applications like River[1], our decentralized group chat and Delta - a decentralized CMS. Users have already started to build their own apps on Freenet including games, and we have some interesting apps in development like Atlas, a search&#x2F;recommendation engine.<p>Architecturally, this new Freenet is a global, decentralized key-value store where keys are webassembly contracts which define what values (aka &quot;state&quot;) are valid for that key, how or when the values can be mutated, and how the state can be efficiently synchronized between peers.<p>We&#x27;ve developed a unique (AFAIK) solution to the consistency problem, every contract must define a &quot;merge&quot; operation for the contract&#x27;s associated state. This operation must be commutative, meaning that you can merge multiple states in any order and you&#x27;ll get the same end result.<p>This approach allows state updates to spread through the network like a virus[2], which typically achieves consistent global state in a few seconds or less.<p>Like the world wide web, Freenet applications can be downloaded from the network itself and run in a web browser - similar to single-page apps on the normal web. However, rather than connecting back to an API running in a datacenter, the webapp connects locally to the Freenet peer and interacts with Freenet contracts and delegates over a local websocket connection.<p>If you&#x27;d like to try Freenet we have convenient installers for the major desktop OSs but not yet mobile, and you can be chatting with other users on River within seconds[3]. Happy to answer any questions, you&#x27;re also welcome to read our FAQ[4], or watch a talk I gave back in March[5].<p>[1] <a href=\"https:&#x2F;&#x2F;github.com&#x2F;freenet&#x2F;river\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;freenet&#x2F;river</a><p>[2] <a href=\"https:&#x2F;&#x2F;freenet.org&#x2F;about&#x2F;news&#x2F;summary-delta-sync&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;freenet.org&#x2F;about&#x2F;news&#x2F;summary-delta-sync&#x2F;</a><p>[3] <a href=\"https:&#x2F;&#x2F;freenet.org&#x2F;quickstart&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;freenet.org&#x2F;quickstart&#x2F;</a><p>[4] <a href=\"https:&#x2F;&#x2F;freenet.org&#x2F;faq&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;freenet.org&#x2F;faq&#x2F;</a><p>[5] <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;3SxNBz1VTE0\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;3SxNBz1VTE0</a>" ]
+}, {
+  "title" : "Tristan Davey's Punch Card Archive",
+  "description" : "Link: https://punchcards.tristandavey.com/ | Score: 21 | Comments: 3 | By: ohjeez",
+  "url" : "https://news.ycombinator.com/item?id=48193932",
+  "answers" : [ ]
+}, {
+  "title" : "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+  "description" : "Link: https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/ | Score: 71 | Comments: 11 | By: mooreds",
+  "url" : "https://news.ycombinator.com/item?id=48209905",
+  "answers" : [ ]
+}, {
+  "title" : "Python 3.15: features that didn't make the headlines",
+  "description" : "Link: https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html | Score: 357 | Comments: 171 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=48220696",
+  "answers" : [ ]
+}, {
+  "title" : "Lost Images from the 1945 Trinity Nuclear Test Restored",
+  "description" : "Link: https://spectrum.ieee.org/trinity-nuclear-test | Score: 324 | Comments: 98 | By: pseudolus",
+  "url" : "https://news.ycombinator.com/item?id=48220639",
+  "answers" : [ ]
+}, {
+  "title" : "Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026",
+  "description" : "Link: https://www.mathworks.com/company/aboutus/founders/clevemoler.html | Score: 21 | Comments: 1 | By: mychele",
+  "url" : "https://news.ycombinator.com/item?id=48231319",
+  "answers" : [ ]
+}, {
+  "title" : "Flipper One – we need your help",
+  "description" : "Link: https://blog.flipper.net/flipper-one-we-need-your-help/ | Score: 1111 | Comments: 434 | By: sandebert",
+  "url" : "https://news.ycombinator.com/item?id=48220647",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Spec-Driven Development Workflow for Claude Code",
+  "description" : "Score: 13 | Comments: 2 | By: sermakarevich",
+  "url" : "https://news.ycombinator.com/item?id=48231575",
+  "answers" : [ "Spec Driven Development approach allows to squeeze more from coding agents thanks to few strong concepts:\n- decomposition across two dimensions. first you generate specs in multiple steps (requirements, code analysis, design), than you split task into multiple subtasks and implement them one by one\n- you clear context between every step - after spec generation and after subtask implementation. this helps keep cost low and context clear and focused which boost performance\n- specs written to disk help with information persistency\n- delivering specs layer by layer help to catch early when agent got you wrong<p>Repo with claude plugin for spec driven development: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;sermakarevich&#x2F;sddw\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;sermakarevich&#x2F;sddw</a>" ]
+}, {
+  "title" : "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+  "description" : "Link: https://www.runtm.com/ | Score: 82 | Comments: 22 | By: gustrigos",
+  "url" : "https://news.ycombinator.com/item?id=48225040",
+  "answers" : [ "Hey HN, We&#x27;re Gus and Carlos from Runtime (<a href=\"https:&#x2F;&#x2F;runtm.com\">https:&#x2F;&#x2F;runtm.com</a>). We&#x27;re building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to handhold every session.<p>After Mentum (YC S21) was acquired, I personally shipped 4 full-stack products in 3 months using coding agents. When I tried to roll the same workflow out to the rest of the team, it fell apart: Most PRs were unmergeable slop - Every repo required an engineer doing one-off local setup. - Skills and context lived in one person&#x27;s head. - There was no safe way for a PM to touch a real codebase without risking a bad deploy or a secrets leak.<p>Carlos comes from building agentic reconciliation systems at Modern Treasury and had a similar experience when letting his support team use devin.<p>We ended up building internal background agent infra but it quickly became a nightmare to mantain and develop. We built Runtime so you don&#x27;t have to do this kind of thing.<p>Runtime work like as follows. Engineering defines the context once: system instructions, skills, and scoped integrations installable via CLI, mise, npm, or any package manager. Then Runtime snapshots your full running environment including multi-service Docker Compose setups, Kafka, Redis, seeded DBs, so it comes up in milliseconds with every server already running.<p>We orchestrate across sandbox providers like E2B, Daytona, EC2 or self-hosted K8s depending on your setup. Secrets are injected through our managed proxy so they never touch the agent directly, and guardrails run at the infrastructure level: command allow&#x2F;deny lists, network egress controls, and RBAC scoped per human and per agent. Every session also gets a shareable preview URL, so internal builds go from sandbox to the rest of the team without needing production access.<p>Runtime works with whichever agent your team already uses: Claude Code, Codex, Cursor, Copilot, Gemini, Devin. You can trigger sandboxes from our web app, CLI, Slack, Linear, GitHub, or API.<p>One of our customers built an on-call inspector that wires PagerDuty, Sentry, and their repo so when an alert fires, the agent finds the cause and opens a PR with a unit test before anyone gets paged. Another runs a finance agent in a private Slack channel pulling from Stripe, NetSuite, and Snowflake to run reconciliations in minutes with source rows attached.<p>A fintech unicorn and several YC scaleups are live on Runtime, including a few teams who had built similar infrastructure internally and handed it to us to take over.<p>The core is open source at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;runtm-ai&#x2F;runtm\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;runtm-ai&#x2F;runtm</a>. Hosted version is live at <a href=\"https:&#x2F;&#x2F;app.runtm.com\">https:&#x2F;&#x2F;app.runtm.com</a>, free tier included. We&#x27;re charging a flat platform fee plus compute, no token markup.<p>Check our demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wLwj__aEEh4\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wLwj__aEEh4</a><p>We&#x27;d love to hear how you&#x27;re thinking about the infra for letting more people across your org use coding agents without creating chaos!" ]
+}, {
+  "title" : "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+  "description" : "Link: https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/ | Score: 291 | Comments: 366 | By: mattas",
+  "url" : "https://news.ycombinator.com/item?id=48225426",
+  "answers" : [ ]
+}, {
+  "title" : "Spotify will start reserving concert tickets for fans",
+  "description" : "Link: https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/ | Score: 130 | Comments: 260 | By: elffjs",
+  "url" : "https://news.ycombinator.com/item?id=48225357",
+  "answers" : [ ]
+}, {
+  "title" : "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+  "description" : "Link: https://arxiv.org/abs/2605.12460 | Score: 88 | Comments: 10 | By: atomicthumbs",
+  "url" : "https://news.ycombinator.com/item?id=48227923",
+  "answers" : [ ]
+}, {
+  "title" : "Deciphering the Hashihara Castle Town Map",
+  "description" : "Link: https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html | Score: 36 | Comments: 0 | By: 1970-01-01",
+  "url" : "https://news.ycombinator.com/item?id=48196897",
+  "answers" : [ ]
+}, {
+  "title" : "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+  "description" : "Link: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ | Score: 447 | Comments: 178 | By: root-parent",
+  "url" : "https://news.ycombinator.com/item?id=48226588",
+  "answers" : [ ]
+}, {
+  "title" : "Google's Antigravity bait and switch",
+  "description" : "Link: https://www.0xsid.com/blog/antigravity-bait-n-switch | Score: 625 | Comments: 285 | By: ssiddharth",
+  "url" : "https://news.ycombinator.com/item?id=48222529",
+  "answers" : [ ]
+}, {
+  "title" : "Throwing AI-generated walls of text into conversations",
+  "description" : "Link: https://noslopgrenade.com/ | Score: 559 | Comments: 333 | By: napolux",
+  "url" : "https://news.ycombinator.com/item?id=48219992",
+  "answers" : [ ]
+}, {
+  "title" : "News outlets are limiting the Internet Archive’s access to their journalism",
+  "description" : "Link: https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/ | Score: 254 | Comments: 88 | By: jaredwiener",
+  "url" : "https://news.ycombinator.com/item?id=48225838",
+  "answers" : [ ]
+}, {
+  "title" : "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+  "description" : "Link: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/ | Score: 586 | Comments: 525 | By: sofumel",
+  "url" : "https://news.ycombinator.com/item?id=48220105",
+  "answers" : [ ]
+}, {
+  "title" : "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+  "description" : "Score: 1 | Comments: 0 | By: philippemnoel",
+  "url" : "https://news.ycombinator.com/item?id=48225852",
+  "answers" : [ "ParadeDB is building a cloud! We&#x27;re a Postgres extension that enables state-of-the-art full-text and vector search inside Postgres.<p>Up until now, we&#x27;ve focused exclusively on our core database and haven&#x27;t built any managed service to deliver it. This is changing, and we&#x27;re looking for a seasoned distributed systems&#x2F;platform engineer to help us build it. The ideal candidate has experience with Kubernetes, Go, and Postgres.<p>We&#x27;re a Series A company of 10 people distributed across the US. Our project is open-source at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;paradedb&#x2F;paradedb\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;paradedb&#x2F;paradedb</a><p>More details: <a href=\"https:&#x2F;&#x2F;paradedb.notion.site&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;paradedb.notion.site&#x2F;</a>" ]
+} ]
