@@ -1,0 +1,151 @@
+[ {
+  "title" : "Jira Is Turing-Complete",
+  "description" : "Link: https://seriot.ch/computation/jira.html | Score: 46 | Comments: 14 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=48263253",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+  "description" : "Link: https://audiomass.co/?multitrack=1 | Score: 290 | Comments: 60 | By: pantelisk",
+  "url" : "https://news.ycombinator.com/item?id=48258015",
+  "answers" : [ ]
+}, {
+  "title" : "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+  "description" : "Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/ | Score: 42 | Comments: 12 | By: kelseyfrog",
+  "url" : "https://news.ycombinator.com/item?id=48243666",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+  "description" : "Link: https://esengine.github.io/DeepSeek-Reasonix/ | Score: 513 | Comments: 217 | By: Alifatisk",
+  "url" : "https://news.ycombinator.com/item?id=48256953",
+  "answers" : [ "Related ongoing thread:<p><i>DeepSeek makes the V4 Pro price discount permanent</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663</a> - May 2026 (384 comments)" ]
+}, {
+  "title" : "Migrating from Go to Rust",
+  "description" : "Link: https://corrode.dev/learn/migration-guides/go-to-rust/ | Score: 208 | Comments: 204 | By: jabits",
+  "url" : "https://news.ycombinator.com/item?id=48259808",
+  "answers" : [ ]
+}, {
+  "title" : "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+  "description" : "Link: https://ohwr.org/projects/white-rabbit/ | Score: 58 | Comments: 13 | By: michaelsbradley",
+  "url" : "https://news.ycombinator.com/item?id=48245916",
+  "answers" : [ ]
+}, {
+  "title" : "A fundamental principle of aeronautical engineering has been overturned",
+  "description" : "Link: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/ | Score: 131 | Comments: 68 | By: littlexsparkee",
+  "url" : "https://news.ycombinator.com/item?id=48260117",
+  "answers" : [ ]
+}, {
+  "title" : "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+  "description" : "Link: https://phabricator.services.mozilla.com/D301917 | Score: 51 | Comments: 19 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=48242546",
+  "answers" : [ ]
+}, {
+  "title" : "The Eternal Sloptember",
+  "description" : "Link: https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html | Score: 218 | Comments: 148 | By: razin",
+  "url" : "https://news.ycombinator.com/item?id=48263238",
+  "answers" : [ ]
+}, {
+  "title" : "C constructs that still don't work in C++",
+  "description" : "Link: https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/ | Score: 30 | Comments: 20 | By: jalospinoso",
+  "url" : "https://news.ycombinator.com/item?id=48228608",
+  "answers" : [ ]
+}, {
+  "title" : "I love my Bluetooth keyboard",
+  "description" : "Link: https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/ | Score: 6 | Comments: 0 | By: evakhoury",
+  "url" : "https://news.ycombinator.com/item?id=48240025",
+  "answers" : [ ]
+}, {
+  "title" : "I spent 50 hours drawing a line graph",
+  "description" : "Link: https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html | Score: 496 | Comments: 87 | By: dougdude3339",
+  "url" : "https://news.ycombinator.com/item?id=48223997",
+  "answers" : [ ]
+}, {
+  "title" : "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "description" : "Link: https://arxiv.org/abs/2605.06445 | Score: 214 | Comments: 114 | By: wek",
+  "url" : "https://news.ycombinator.com/item?id=48256912",
+  "answers" : [ ]
+}, {
+  "title" : "Memory has grown to nearly two-thirds of AI chip component costs",
+  "description" : "Link: https://epoch.ai/data-insights/ai-chip-component-cost-shares | Score: 359 | Comments: 369 | By: intelkishan",
+  "url" : "https://news.ycombinator.com/item?id=48258684",
+  "answers" : [ ]
+}, {
+  "title" : "Microsoft open-sources “the earliest DOS source code discovered to date”",
+  "description" : "Link: https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/ | Score: 458 | Comments: 159 | By: DamnInteresting",
+  "url" : "https://news.ycombinator.com/item?id=48253386",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-the-story-of-early-dos-development&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...</a>" ]
+}, {
+  "title" : "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
+  "description" : "Link: https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/ | Score: 76 | Comments: 22 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=48234831",
+  "answers" : [ ]
+}, {
+  "title" : "Build Adafruit projects right from Firefox",
+  "description" : "Link: https://www.firefox.com/en-US/landing/adafruit/ | Score: 149 | Comments: 49 | By: mch82",
+  "url" : "https://news.ycombinator.com/item?id=48231547",
+  "answers" : [ ]
+}, {
+  "title" : "Using HTTP/2 Cleartext for a server in Go 1.24",
+  "description" : "Link: https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run | Score: 76 | Comments: 8 | By: dan_sbl",
+  "url" : "https://news.ycombinator.com/item?id=48195698",
+  "answers" : [ ]
+}, {
+  "title" : "Mastering Dyalog APL",
+  "description" : "Link: https://mastering.dyalog.com/README.html | Score: 136 | Comments: 36 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48256475",
+  "answers" : [ ]
+}, {
+  "title" : "Noroboto: Lying Fonts and Mitigation in Rust",
+  "description" : "Link: https://tritium.legal/blog/noroboto | Score: 70 | Comments: 30 | By: piker",
+  "url" : "https://news.ycombinator.com/item?id=48236791",
+  "answers" : [ ]
+}, {
+  "title" : "Greg Brockman interview [video]",
+  "description" : "Link: https://fs.blog/knowledge-project-podcast/greg-brockman/ | Score: 193 | Comments: 197 | By: prakashqwerty",
+  "url" : "https://news.ycombinator.com/item?id=48255593",
+  "answers" : [ ]
+}, {
+  "title" : "Building Pi with Pi",
+  "description" : "Link: https://lucumr.pocoo.org/2026/5/24/pi-oss/ | Score: 61 | Comments: 19 | By: mplanchard",
+  "url" : "https://news.ycombinator.com/item?id=48259192",
+  "answers" : [ ]
+}, {
+  "title" : "Scammers are abusing an internal Microsoft account to send spam links",
+  "description" : "Link: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/ | Score: 280 | Comments: 153 | By: spike021",
+  "url" : "https://news.ycombinator.com/item?id=48253186",
+  "answers" : [ ]
+}, {
+  "title" : "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+  "description" : "Link: https://apple.github.io/ml-pico/ | Score: 107 | Comments: 33 | By: ksec",
+  "url" : "https://news.ycombinator.com/item?id=48256565",
+  "answers" : [ ]
+}, {
+  "title" : "Childhood Computing",
+  "description" : "Link: https://susam.net/childhood-computing.html | Score: 185 | Comments: 93 | By: blenderob",
+  "url" : "https://news.ycombinator.com/item?id=48256597",
+  "answers" : [ ]
+}, {
+  "title" : "Getting an old Computer online with Android Ethernet tethering",
+  "description" : "Link: https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/ | Score: 51 | Comments: 21 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48226697",
+  "answers" : [ ]
+}, {
+  "title" : "Why is Vivado 2026.1 dropping Linux support for free tier?",
+  "description" : "Link: https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US | Score: 313 | Comments: 188 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48254309",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek makes the V4 Pro price discount permanent",
+  "description" : "Link: https://api-docs.deepseek.com/quick_start/pricing | Score: 573 | Comments: 514 | By: Tiberium",
+  "url" : "https://news.ycombinator.com/item?id=48237663",
+  "answers" : [ "&gt; (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1&#x2F;4 of the original price after the 75% discount promotion ends on 2026&#x2F;05&#x2F;31 15:59 UTC.<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173</a><p>Related ongoing thread:<p><i>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48256953\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48256953</a> - May 2026 (135 comments)" ]
+}, {
+  "title" : "Companies Are Just a Graph of Algorithms",
+  "description" : "Link: https://danielmiessler.com/blog/companies-graph-of-algorithms | Score: 15 | Comments: 3 | By: samuel246",
+  "url" : "https://news.ycombinator.com/item?id=48263284",
+  "answers" : [ ]
+}, {
+  "title" : "CBP Directive 3340-049B: Border Search of Electronic Devices",
+  "description" : "Link: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices | Score: 142 | Comments: 102 | By: Ember_Wipe",
+  "url" : "https://news.ycombinator.com/item?id=48260140",
+  "answers" : [ ]
+} ]
