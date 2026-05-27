@@ -1,0 +1,151 @@
+[ {
+  "title" : "Splinter Cell veteran says realistic modern lighting has screwed up stealth game",
+  "description" : "Link: https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe | Score: 43 | Comments: 6 | By: Tomte",
+  "url" : "https://news.ycombinator.com/item?id=48263174",
+  "answers" : [ ]
+}, {
+  "title" : "Where does next-token prediction leave us?",
+  "description" : "Link: https://pop.rdi.sh/where-does-next-token-prediction-leave-us/ | Score: 144 | Comments: 76 | By: 0x5FC3",
+  "url" : "https://news.ycombinator.com/item?id=48288191",
+  "answers" : [ ]
+}, {
+  "title" : "The just-say-no engineer was a ZIRP phenomenon",
+  "description" : "Link: https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/ | Score: 112 | Comments: 94 | By: jxmorris12",
+  "url" : "https://news.ycombinator.com/item?id=48289439",
+  "answers" : [ ]
+}, {
+  "title" : "Cloudflare Flagship",
+  "description" : "Link: https://developers.cloudflare.com/flagship/ | Score: 160 | Comments: 71 | By: tjek",
+  "url" : "https://news.ycombinator.com/item?id=48287468",
+  "answers" : [ ]
+}, {
+  "title" : "Chemistry behind the Garden Grove chemical tank",
+  "description" : "Link: https://www.science.org/content/blog-post/methyl-methacrylate-tank | Score: 298 | Comments: 110 | By: nooks",
+  "url" : "https://news.ycombinator.com/item?id=48284712",
+  "answers" : [ ]
+}, {
+  "title" : "The Forgotten Art of the LAN Party (2023)",
+  "description" : "Link: https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/ | Score: 99 | Comments: 27 | By: susam",
+  "url" : "https://news.ycombinator.com/item?id=48250300",
+  "answers" : [ ]
+}, {
+  "title" : "A few interesting modern pixel fonts",
+  "description" : "Link: https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/ | Score: 311 | Comments: 66 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48271448",
+  "answers" : [ ]
+}, {
+  "title" : "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+  "description" : "Link: https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/ | Score: 204 | Comments: 58 | By: dustin1114",
+  "url" : "https://news.ycombinator.com/item?id=48238703",
+  "answers" : [ ]
+}, {
+  "title" : "From Rust to Ruby",
+  "description" : "Link: https://xlii.space/eng/from-rust-to-ruby/ | Score: 90 | Comments: 52 | By: xlii",
+  "url" : "https://news.ycombinator.com/item?id=48286561",
+  "answers" : [ ]
+}, {
+  "title" : "A History of Obituaries in American Newspapers",
+  "description" : "Link: https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/ | Score: 9 | Comments: 0 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=48260219",
+  "answers" : [ ]
+}, {
+  "title" : "IBM Confidential: System/360 File Organization [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=zokKqP0plrM | Score: 23 | Comments: 3 | By: DaiPlusPlus",
+  "url" : "https://news.ycombinator.com/item?id=48261120",
+  "answers" : [ ]
+}, {
+  "title" : "The worst job interview I ever had",
+  "description" : "Link: https://www.oliverio.dev/blog/the-worst-job-interview-i-had | Score: 175 | Comments: 146 | By: oliverio",
+  "url" : "https://news.ycombinator.com/item?id=48285344",
+  "answers" : [ ]
+}, {
+  "title" : "Tunecat: Simple Internet Radio",
+  "description" : "Link: https://codeberg.org/lindenii/tunecat/ | Score: 35 | Comments: 0 | By: croottree",
+  "url" : "https://news.ycombinator.com/item?id=48288174",
+  "answers" : [ ]
+}, {
+  "title" : "A portentous reunion",
+  "description" : "Link: https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/ | Score: 83 | Comments: 24 | By: cafkafk",
+  "url" : "https://news.ycombinator.com/item?id=48275564",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+  "description" : "Link: https://www.minicor.com/ | Score: 85 | Comments: 53 | By: fchishtie",
+  "url" : "https://news.ycombinator.com/item?id=48280729",
+  "answers" : [ "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cw\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cw</a><p>Edit: RPA is an acronym for Robotic Process Automation - things like triggering mouse clicks and key strokes to perform tasks programmatically. Sorry if this wasn&#x27;t clear!<p>We were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could unblock a sale of theirs that involved integrating with a clinic’s Windows based medical record system. We didn’t know it at the time but it turns out that building desktop RPAs at scale is extremely difficult because scripting is hard (learning the system, defining the automation, UIs changing constantly), orchestration is hard (is the VM up? queuing, parallelizing) and debugging is hard (zero observability, false positives, cascading failures). 30%+ failure rates are not uncommon. At scale we’ve seen cases of failed RPAs leading to thousands of support tickets a month.<p>To solve the problems we were facing, we built an MCP that Claude Code&#x2F;Codex can use to navigate a virtual machine running desktop software with Python to create RPA workflows. The RPA workflows run as Python scripts for speed, cost, and determinism. These workflows can be triggered by API following any input&#x2F;output schema specified, with video replays and logs stored with each run. The MCP can debug RPAs and make changes to the underlying code, all of which are version controlled. We also built tools for cloning VMs for parallelizing RPAs, and handling 2FA&#x2F;OTP challenges. Plus since workflows are code based: we were also able to add triggers for Slack notifications, human-in-the-loop steps, or call an LLM to verify the state of a VM by passing a screenshot.<p>Would love to hear your feedback and if you have any RPA horror stories! (:" ]
+}, {
+  "title" : "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+  "description" : "Link: https://github.com/logannye/rosalind | Score: 148 | Comments: 37 | By: samuell",
+  "url" : "https://news.ycombinator.com/item?id=48222600",
+  "answers" : [ ]
+}, {
+  "title" : "Big tech's anti-labor playbook has come for Wikipedia",
+  "description" : "Link: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943 | Score: 438 | Comments: 254 | By: cdrnsf",
+  "url" : "https://news.ycombinator.com/item?id=48285592",
+  "answers" : [ ]
+}, {
+  "title" : "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+  "description" : "Link: https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/ | Score: 855 | Comments: 395 | By: thm",
+  "url" : "https://news.ycombinator.com/item?id=48279316",
+  "answers" : [ ]
+}, {
+  "title" : "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+  "description" : "Link: https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html | Score: 29 | Comments: 14 | By: calflegal",
+  "url" : "https://news.ycombinator.com/item?id=48256053",
+  "answers" : [ ]
+}, {
+  "title" : "Dropbox CEO Drew Houston to step down",
+  "description" : "Link: https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html | Score: 329 | Comments: 351 | By: aghuang",
+  "url" : "https://news.ycombinator.com/item?id=48279453",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-update\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...</a><p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s=20\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s...</a>" ]
+}, {
+  "title" : "Stripe is friendly to “friendly fraud”",
+  "description" : "Link: https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/ | Score: 211 | Comments: 138 | By: gingerlime",
+  "url" : "https://news.ycombinator.com/item?id=48287982",
+  "answers" : [ ]
+}, {
+  "title" : "The Steinwinter Supercargo",
+  "description" : "Link: https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today | Score: 59 | Comments: 16 | By: itronitron",
+  "url" : "https://news.ycombinator.com/item?id=48251709",
+  "answers" : [ ]
+}, {
+  "title" : "Erin Brockovich made a map to track data centers around the country",
+  "description" : "Link: https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/ | Score: 191 | Comments: 187 | By: cratermoon",
+  "url" : "https://news.ycombinator.com/item?id=48287952",
+  "answers" : [ ]
+}, {
+  "title" : "Sonny Rollins, jazz saxophonist, has died",
+  "description" : "Link: https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/ | Score: 94 | Comments: 13 | By: boarsofcanada",
+  "url" : "https://news.ycombinator.com/item?id=48287678",
+  "answers" : [ ]
+}, {
+  "title" : "What color is your function? (2015)",
+  "description" : "Link: https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ | Score: 115 | Comments: 141 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48281515",
+  "answers" : [ ]
+}, {
+  "title" : "The real cost of owning a home",
+  "description" : "Link: https://ericturner.dev/posts/cost-of-home-ownership/ | Score: 343 | Comments: 717 | By: ggcr",
+  "url" : "https://news.ycombinator.com/item?id=48281611",
+  "answers" : [ ]
+}, {
+  "title" : "C64 Basic: Game Map Overhead “Camera View”",
+  "description" : "Link: https://retrogamecoders.com/overhead-camera-view/ | Score: 84 | Comments: 11 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=48279842",
+  "answers" : [ ]
+}, {
+  "title" : "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+  "description" : "Link: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ | Score: 270 | Comments: 294 | By: GodelNumbering",
+  "url" : "https://news.ycombinator.com/item?id=48278610",
+  "answers" : [ ]
+}, {
+  "title" : "Are we self-sovereign PKI yet?",
+  "description" : "Link: https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/ | Score: 88 | Comments: 52 | By: ca98am79",
+  "url" : "https://news.ycombinator.com/item?id=48229776",
+  "answers" : [ ]
+}, {
+  "title" : "The Ballad of TIGIT",
+  "description" : "Link: https://www.owlposting.com/p/the-ballad-of-tigit | Score: 102 | Comments: 20 | By: crescit_eundo",
+  "url" : "https://news.ycombinator.com/item?id=48281367",
+  "answers" : [ ]
+} ]
