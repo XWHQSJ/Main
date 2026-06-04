@@ -1,0 +1,151 @@
+[ {
+  "title" : "\"They're made out of weights\"",
+  "description" : "Link: https://maxleiter.com/blog/weights | Score: 387 | Comments: 109 | By: MaxLeiter",
+  "url" : "https://news.ycombinator.com/item?id=48391611",
+  "answers" : [ ]
+}, {
+  "title" : "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+  "description" : "Link: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html | Score: 175 | Comments: 105 | By: littlexsparkee",
+  "url" : "https://news.ycombinator.com/item?id=48392004",
+  "answers" : [ ]
+}, {
+  "title" : "Elixir v1.20: Now a gradually typed language",
+  "description" : "Link: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/ | Score: 688 | Comments: 255 | By: cloud8421",
+  "url" : "https://news.ycombinator.com/item?id=48388324",
+  "answers" : [ ]
+}, {
+  "title" : "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+  "description" : "Link: https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/ | Score: 153 | Comments: 59 | By: jc4p",
+  "url" : "https://news.ycombinator.com/item?id=48392343",
+  "answers" : [ ]
+}, {
+  "title" : "Gemma 4 12B: A unified, encoder-free multimodal model",
+  "description" : "Link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/ | Score: 789 | Comments: 315 | By: rvz",
+  "url" : "https://news.ycombinator.com/item?id=48385906",
+  "answers" : [ ]
+}, {
+  "title" : "The ways we contain Claude across products",
+  "description" : "Link: https://www.anthropic.com/engineering/how-we-contain-claude | Score: 99 | Comments: 44 | By: jbredeche",
+  "url" : "https://news.ycombinator.com/item?id=48392082",
+  "answers" : [ ]
+}, {
+  "title" : "I was recently diagnosed with anti-NMDA receptor encephalitis",
+  "description" : "Link: https://burntsushi.net/encephalitis/ | Score: 574 | Comments: 178 | By: Tomte",
+  "url" : "https://news.ycombinator.com/item?id=48384355",
+  "answers" : [ ]
+}, {
+  "title" : "Artificial intelligence is not conscious – Ted Chiang",
+  "description" : "Link: https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/ | Score: 357 | Comments: 622 | By: lordleft",
+  "url" : "https://news.ycombinator.com/item?id=48387270",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260603173839&#x2F;https:&#x2F;&#x2F;www.theatlantic.com&#x2F;philosophy&#x2F;2026&#x2F;06&#x2F;no-artificial-intelligence-is-not-conscious&#x2F;687378&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260603173839&#x2F;https:&#x2F;&#x2F;www.theat...</a><p><a href=\"https:&#x2F;&#x2F;archive.is&#x2F;bcpZl\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;bcpZl</a>" ]
+}, {
+  "title" : "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+  "description" : "Link: https://simonwillison.net/2026/Jun/3/uber-caps-usage/ | Score: 446 | Comments: 551 | By: pdyc",
+  "url" : "https://news.ycombinator.com/item?id=48383056",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy</a>)" ]
+}, {
+  "title" : "DaVinci Resolve 21",
+  "description" : "Link: https://www.blackmagicdesign.com/products/davinciresolve/whatsnew | Score: 438 | Comments: 198 | By: pentagrama",
+  "url" : "https://news.ycombinator.com/item?id=48384482",
+  "answers" : [ ]
+}, {
+  "title" : "Meteor Explodes over Massachusetts",
+  "description" : "Link: https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/ | Score: 90 | Comments: 49 | By: 1970-01-01",
+  "url" : "https://news.ycombinator.com/item?id=48362255",
+  "answers" : [ ]
+}, {
+  "title" : "CP/M-86 & MS-DOS Cross Development Environment",
+  "description" : "Link: https://github.com/tsupplis/cpm86-crossdev | Score: 24 | Comments: 1 | By: elvis70",
+  "url" : "https://news.ycombinator.com/item?id=48348040",
+  "answers" : [ ]
+}, {
+  "title" : "Learn SQL Once, Use It for 30 Years",
+  "description" : "Link: https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03 | Score: 36 | Comments: 5 | By: karakoram",
+  "url" : "https://news.ycombinator.com/item?id=48347483",
+  "answers" : [ ]
+}, {
+  "title" : "ESP32-S31",
+  "description" : "Link: https://www.espressif.com/en/products/socs/esp32-s31 | Score: 281 | Comments: 151 | By: volemo",
+  "url" : "https://news.ycombinator.com/item?id=48385965",
+  "answers" : [ ]
+}, {
+  "title" : "A Man Who Reads Books for a Living",
+  "description" : "Link: https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/ | Score: 105 | Comments: 80 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48389284",
+  "answers" : [ ]
+}, {
+  "title" : "A Post-Quantum Future for Let's Encrypt",
+  "description" : "Link: https://letsencrypt.org/2026/06/03/pq-certs | Score: 244 | Comments: 135 | By: SGran",
+  "url" : "https://news.ycombinator.com/item?id=48385114",
+  "answers" : [ ]
+}, {
+  "title" : "Gooey: A GPU-accelerated UI framework for Zig",
+  "description" : "Link: https://github.com/duanebester/gooey | Score: 159 | Comments: 57 | By: ksec",
+  "url" : "https://news.ycombinator.com/item?id=48386725",
+  "answers" : [ ]
+}, {
+  "title" : "Patching my guitar amp's firmware",
+  "description" : "Link: https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html | Score: 68 | Comments: 9 | By: birdculture",
+  "url" : "https://news.ycombinator.com/item?id=48349404",
+  "answers" : [ ]
+}, {
+  "title" : "Ableton Extensions SDK",
+  "description" : "Link: https://www.ableton.com/en/live/extensions/ | Score: 100 | Comments: 41 | By: bennett_dev",
+  "url" : "https://news.ycombinator.com/item?id=48389681",
+  "answers" : [ ]
+}, {
+  "title" : "The SpaceX IPO Will Be the Theft of the Century",
+  "description" : "Link: https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft | Score: 53 | Comments: 25 | By: 400thecat",
+  "url" : "https://news.ycombinator.com/item?id=48394034",
+  "answers" : [ ]
+}, {
+  "title" : "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+  "description" : "Link: https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html | Score: 61 | Comments: 33 | By: ledoge",
+  "url" : "https://news.ycombinator.com/item?id=48390688",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+  "description" : "Score: 64 | Comments: 58 | By: shalinshah",
+  "url" : "https://news.ycombinator.com/item?id=48387095",
+  "answers" : [ "Hey HN, we’re Shalin &amp; Kanyes, best friends who&#x27;ve been hacking together for 10+yrs, and now founders of Hyper (<a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;</a>). Hyper is a shared “company brain” that plugs into information flowing inside a company to make AI agents and automations better and ultimately save people time.<p>Models have gotten good enough that they can (mostly) take on long-horizon, complex tasks. We believe the bottleneck now is that these smart-enough models often lack information about your company, which is scattered in people&#x27;s heads, Slack threads, stale docs, and in back-and-forth convos with AI.<p>MCP is useful for getting some info in front of an agent, but there are problems: (1) Once the session dies, so does the insight, so instead of copy-pasting a whole doc each time you&#x27;re telling the agent to dig through Drive each time - not much of a win; (2) Even when MCP works, what it gathers isn&#x27;t comprehensive, because people decide things on a whiteboard, brainstorm out loud, post a little in Slack, and scribble the rest in a doc, which leaves the agent working from partial information; (3)  And even if it had everything, it doesn&#x27;t do the meta-reasoning required to do a great job. If you paste in a Notion doc and it won&#x27;t learn your design taste or your writing style unless you tell it to, and it won&#x27;t know why a decision was made or when.<p>As undergrads 5 years ago, we were into the tools-for-thought wave and became power users of Notion, Obsidian, Roam, Anki, real believers in building a second brain. After GPT-3.5 came out we started to realize how much more powerful that second brain could be if an AI could actually read it, because suddenly it would know our backstory, our taste, our preferences, and unlock genuinely new capabilities. That’s <i>why</i> we’re building Hyper.<p>We know it’s not for everybody! But for people who do want to be on the cutting edge, this is a force multiplier that makes agents faster and better. It increases the number of tasks they can do, and how effectively they do them.<p>Hyper works by ingesting everything you give it access to, Docs, Slack, Email, Calendar, Granola, and synthesizes it into a knowledge graph of facts and their relationships with embeddings for semantic search. The memory system we’ve built is hybrid, with two modalities. Episodes are the raw source items kept as the source of truth. Facts are the meaning pulled out of each episode, stored as subject-predicate-object records with a plain summary and timestamps for when the fact was introduced and when it was invalidated (subject=person, predicate=works_at, object=company). Facts form a graph with typed edges between them: X is in tension with Y, A is derived from B, J supersedes K. Every time a new fact comes in we update the facts in its neighborhood, so the graph stays current, and that&#x27;s how we handle stale information. When &quot;we&#x27;ll ship Friday&quot; is later contradicted by &quot;we&#x27;re shipping Monday,&quot; the new fact supersedes the old one instead of both looking equally true, and we never auto-discard the superseded version, so you can still ask how you landed on Monday.<p>Every fact carries provenance back to its source and access-control tags for who is allowed to see it. At retrieval we query-expand, then fuse semantic search over embeddings with Postgres full-text search using reciprocal rank fusion, and we only ever evaluate a query against the facts and episodes that person has access to, which means two people on the same team can ask the same question and get different answers. We keep information fresh with webhooks where they exist and polling where they don&#x27;t, hashing contents to catch changes for sources that don’t handle native dedupe. Agents read and write through two paths: lifecycle hooks in tools like Claude Code, Cowork, Codex, and Cursor, where we inject relevant context on every prompt and pull interesting facts out of every response, and plain MCP tool calls for everything that doesn&#x27;t expose hooks.<p>We love it! and so do our early users: one CEO uses Hyper to draft emails in his voice with full company context. What took hours&#x2F;week now takes minutes and gets sharper each time Hyper learns more how he thinks and how his company is changing. Another YC founder one-shotted a launch video script because Hyper already knew their product, voice, positioning accumulated over months.<p>We have a 3-day free trial, explained more on our pricing page (<a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;pricing\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;pricing</a>) and there are more details in our FAQ (<a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;faq\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;faq</a>), including things like privacy, compliance, and how we’re different from other “memory” companies..<p>Give it a spin! break it! and tell us where it falls short: <a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;</a>. We&#x27;d love to build you a 10-star experience :) Comments welcome!" ]
+}, {
+  "title" : "A Mathematician's Lament (2002) [pdf]",
+  "description" : "Link: https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf | Score: 61 | Comments: 1 | By: xeonmc",
+  "url" : "https://news.ycombinator.com/item?id=48390400",
+  "answers" : [ ]
+}, {
+  "title" : "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+  "description" : "Link: https://e360.yale.edu/digest/trump-ooi-amoc | Score: 400 | Comments: 264 | By: rguiscard",
+  "url" : "https://news.ycombinator.com/item?id=48392232",
+  "answers" : [ ]
+}, {
+  "title" : "Dumbphone 2",
+  "description" : "Link: https://dumb.co/ | Score: 26 | Comments: 9 | By: skogstokig",
+  "url" : "https://news.ycombinator.com/item?id=48392203",
+  "answers" : [ ]
+}, {
+  "title" : "Mathematicians issue warning as AI rapidly gains ground",
+  "description" : "Link: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground | Score: 213 | Comments: 255 | By: pseudolus",
+  "url" : "https://news.ycombinator.com/item?id=48382052",
+  "answers" : [ ]
+}, {
+  "title" : "Life saving / first aid posters",
+  "description" : "Score: 18 | Comments: 1 | By: cpu_",
+  "url" : "https://news.ycombinator.com/item?id=48369964",
+  "answers" : [ "Hi,<p>While visiting someone, I observed a first aid poster on their fridge (I forgot to ask for the source from the host at that time). Similar to https:&#x2F;&#x2F;lifesavingfirstaid.com.au&#x2F;posters&#x2F;<p>Do you have any other references or similar resources, please?" ]
+}, {
+  "title" : "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+  "description" : "Link: https://github.com/tastyeffectco/sandboxes | Score: 76 | Comments: 20 | By: tastyeffectco",
+  "url" : "https://news.ycombinator.com/item?id=48388909",
+  "answers" : [ ]
+}, {
+  "title" : "PlayStation Architecture",
+  "description" : "Link: https://www.copetti.org/writings/consoles/playstation/ | Score: 287 | Comments: 57 | By: gregsadetsky",
+  "url" : "https://news.ycombinator.com/item?id=48382142",
+  "answers" : [ ]
+}, {
+  "title" : "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
+  "description" : "Link: https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes | Score: 63 | Comments: 5 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48387251",
+  "answers" : [ ]
+} ]
