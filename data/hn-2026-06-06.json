@@ -1,0 +1,151 @@
+[ {
+  "title" : "C++: The Programming Language back cover raises questions not answered by front",
+  "description" : "Link: https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391 | Score: 52 | Comments: 5 | By: paulmooreparks",
+  "url" : "https://news.ycombinator.com/item?id=48421079",
+  "answers" : [ ]
+}, {
+  "title" : "The intracies of modern camera lens repair (2024)",
+  "description" : "Link: https://salvagedcircuitry.com/sigma-45mm.html | Score: 127 | Comments: 39 | By: transistor-man",
+  "url" : "https://news.ycombinator.com/item?id=48420148",
+  "answers" : [ ]
+}, {
+  "title" : "How LLMs work",
+  "description" : "Link: https://www.0xkato.xyz/how-llms-actually-work/ | Score: 124 | Comments: 24 | By: 0xkato",
+  "url" : "https://news.ycombinator.com/item?id=48389360",
+  "answers" : [ ]
+}, {
+  "title" : "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+  "description" : "Link: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/ | Score: 30 | Comments: 3 | By: gostsamo",
+  "url" : "https://news.ycombinator.com/item?id=48421171",
+  "answers" : [ ]
+}, {
+  "title" : "Lockdown Mode",
+  "description" : "Link: https://help.openai.com/en/articles/20001061-lockdown-mode | Score: 29 | Comments: 11 | By: berlianta",
+  "url" : "https://news.ycombinator.com/item?id=48421145",
+  "answers" : [ ]
+}, {
+  "title" : "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+  "description" : "Link: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/ | Score: 69 | Comments: 8 | By: maltalex",
+  "url" : "https://news.ycombinator.com/item?id=48421442",
+  "answers" : [ ]
+}, {
+  "title" : "No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators",
+  "description" : "Link: https://irfanali.org/blog/zcom | Score: 19 | Comments: 2 | By: sayyadirfanali",
+  "url" : "https://news.ycombinator.com/item?id=48373954",
+  "answers" : [ ]
+}, {
+  "title" : "Astronauts told to return to ISS after sheltering over air leak repairs",
+  "description" : "Link: https://www.bbc.com/news/live/c4g44ew3g1kt | Score: 376 | Comments: 241 | By: janpot",
+  "url" : "https://news.ycombinator.com/item?id=48413464",
+  "answers" : [ ]
+}, {
+  "title" : "pg_durable: Microsoft open sources in-database durable execution",
+  "description" : "Link: https://github.com/microsoft/pg_durable | Score: 369 | Comments: 84 | By: coffeemug",
+  "url" : "https://news.ycombinator.com/item?id=48414367",
+  "answers" : [ ]
+}, {
+  "title" : "New method turns ocean water into drinking water, without waste",
+  "description" : "Link: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/ | Score: 314 | Comments: 138 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48413500",
+  "answers" : [ ]
+}, {
+  "title" : "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+  "description" : "Link: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/ | Score: 318 | Comments: 96 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=48414653",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: What was your \"oh shit\" moment with GenAI?",
+  "description" : "Score: 254 | Comments: 506 | By: andrehacker",
+  "url" : "https://news.ycombinator.com/item?id=48406174",
+  "answers" : [ "Most of us were amused when DALL-E and its peers went mainstream, and we were quick to point out the obvious flaws.<p>Then ChatGPT hit the scene and again, many of us dismissed it as a parlor trick that would never amount to much.<p>Using LLMs for coding initially was a only small step up from basic code completion, and a welcome farewell to Stack Overflow.<p>I am curious: what was the specific moment that you went from those quaint, dismissive observations to a slightly panicked,\n&quot;Uh Oh&quot; realization of what these models can do?" ]
+}, {
+  "title" : "Did Claude increase bugs in rsync?",
+  "description" : "Link: https://alexispurslane.github.io/rsync-analysis/ | Score: 369 | Comments: 375 | By: logicprog",
+  "url" : "https://news.ycombinator.com/item?id=48411635",
+  "answers" : [ ]
+}, {
+  "title" : "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+  "description" : "Link: https://mouseless.click | Score: 504 | Comments: 211 | By: riddley",
+  "url" : "https://news.ycombinator.com/item?id=48383667",
+  "answers" : [ ]
+}, {
+  "title" : "My Agent Skill for Test-Driven Development",
+  "description" : "Link: https://www.saturnci.com/my-agent-skill-for-test-driven-development.html | Score: 161 | Comments: 66 | By: laxmena",
+  "url" : "https://news.ycombinator.com/item?id=48398925",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Why is the HN crowd so anti-AI?",
+  "description" : "Score: 77 | Comments: 141 | By: Ekami",
+  "url" : "https://news.ycombinator.com/item?id=48420827",
+  "answers" : [ "Genuine question.<p>Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or something along those lines.<p>I’ll probably make a lot of enemies by saying this, but do people realize that code is just a means to an end?<p>Users don’t care whether the code was written by AI or by hand, or which framework you used. They care that the product works.<p>I say this as someone who has spent more than 20 years honing their craft as a software engineer.<p>Let’s face it: by the time I manually ship version 1.0 of a product, the AI-assisted version could have been deployed 10x faster. By then, enough real-world feedback would have surfaced to identify the major issues, and tools like Claude Code would make it possible to fix and ship version 2.0 at an incredible pace.<p>At some point, execution speed starts to matter more than the elegance of the code." ]
+}, {
+  "title" : "Nordstjernen 1.0",
+  "description" : "Link: https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0 | Score: 34 | Comments: 14 | By: andreasrosdal",
+  "url" : "https://news.ycombinator.com/item?id=48419821",
+  "answers" : [ ]
+}, {
+  "title" : "Gov.uk has replaced Stripe with Dutch provider Adyen",
+  "description" : "Link: https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763 | Score: 399 | Comments: 136 | By: toomuchtodo",
+  "url" : "https://news.ycombinator.com/item?id=48415217",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;gds.blog.gov.uk&#x2F;2026&#x2F;06&#x2F;02&#x2F;building-for-the-future-making-change-simple-on-gov-uk-pay&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;gds.blog.gov.uk&#x2F;2026&#x2F;06&#x2F;02&#x2F;building-for-the-future-m...</a><p><a href=\"https:&#x2F;&#x2F;www.adyen.com&#x2F;press-and-media&#x2F;adyen-payments-gov-uk\" rel=\"nofollow\">https:&#x2F;&#x2F;www.adyen.com&#x2F;press-and-media&#x2F;adyen-payments-gov-uk</a>" ]
+}, {
+  "title" : "The perils of UUID primary keys in SQLite",
+  "description" : "Link: https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html | Score: 55 | Comments: 24 | By: emschwartz",
+  "url" : "https://news.ycombinator.com/item?id=48419571",
+  "answers" : [ ]
+}, {
+  "title" : "Ten Years of Franz",
+  "description" : "Link: https://meetfranz.com/blog/ten-years-of-franz | Score: 3 | Comments: 0 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48380932",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: ABC Classic 100 Rankings visualised",
+  "description" : "Link: https://classic100.gotski.workers.dev/ | Score: 26 | Comments: 16 | By: gotski",
+  "url" : "https://news.ycombinator.com/item?id=48420494",
+  "answers" : [ "This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years.<p>I&#x27;ve considered adding a search function, but I also kind of like that it requires a bit of exploration in the current form.<p>Some of the code is a bit clunky and I wouldn&#x27;t mind refactoring it. I&#x27;m also not sure about browser compatibility - I&#x27;ve only got access to a couple of devices to test it on." ]
+}, {
+  "title" : "Three of our worst VC stories",
+  "description" : "Link: https://twitter.com/eastdakota/status/2062860530360959273 | Score: 211 | Comments: 104 | By: orgonon",
+  "url" : "https://news.ycombinator.com/item?id=48416845",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;eastdakota&#x2F;status&#x2F;2062860530360959273\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;eastdakota&#x2F;status&#x2F;2062860530360959273</a><p>More of these (via <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48418641\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48418641</a> below):<p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;gregisenberg&#x2F;status&#x2F;2061794787825479818\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;gregisenberg&#x2F;status&#x2F;2061794787825479818</a> (&lt;-- the OP)<p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;dunkhippo33&#x2F;status&#x2F;2062768969560510486\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;dunkhippo33&#x2F;status&#x2F;2062768969560510486</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;typesfast&#x2F;status&#x2F;2062791307094048937\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;typesfast&#x2F;status&#x2F;2062791307094048937</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;awxjack&#x2F;status&#x2F;2062605286683336757\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;awxjack&#x2F;status&#x2F;2062605286683336757</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;travisk&#x2F;status&#x2F;2062224472426365045\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;travisk&#x2F;status&#x2F;2062224472426365045</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;mark_cummins&#x2F;status&#x2F;2062293061426663612\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;mark_cummins&#x2F;status&#x2F;2062293061426663612</a>" ]
+}, {
+  "title" : "Europe's largest Copper Age tomb: children's bones show ancient health crisis",
+  "description" : "Link: https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html | Score: 24 | Comments: 5 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48398233",
+  "answers" : [ ]
+}, {
+  "title" : "Conventional Commits encourages focus on the wrong things",
+  "description" : "Link: https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/ | Score: 291 | Comments: 224 | By: jsve",
+  "url" : "https://news.ycombinator.com/item?id=48414027",
+  "answers" : [ ]
+}, {
+  "title" : "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+  "description" : "Link: https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/ | Score: 80 | Comments: 69 | By: lordgilman",
+  "url" : "https://news.ycombinator.com/item?id=48411799",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;lsc-pagepro.mydigitalpublication.com&#x2F;publication&#x2F;?i=865273&amp;p=62&amp;view=issueViewer\" rel=\"nofollow\">https:&#x2F;&#x2F;lsc-pagepro.mydigitalpublication.com&#x2F;publication&#x2F;?i=...</a><p>PDF: <a href=\"https:&#x2F;&#x2F;cdn.coverstand.com&#x2F;61061&#x2F;865273&#x2F;2c88ea662e2b574787232d6b66f1ae8c3cfec2c5.1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;cdn.coverstand.com&#x2F;61061&#x2F;865273&#x2F;2c88ea662e2b57478723...</a> (article is on page 62)<p>Related: <a href=\"https:&#x2F;&#x2F;www.404media.co&#x2F;the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.404media.co&#x2F;the-u-s-military-quietly-turned-gps-...</a>" ]
+}, {
+  "title" : "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
+  "description" : "Link: https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215 | Score: 25 | Comments: 1 | By: pjmlp",
+  "url" : "https://news.ycombinator.com/item?id=48383760",
+  "answers" : [ ]
+}, {
+  "title" : "Transformers are inherently succinct",
+  "description" : "Link: https://openreview.net/pdf?id=Yxz92UuPLQ | Score: 110 | Comments: 32 | By: brandonb",
+  "url" : "https://news.ycombinator.com/item?id=48416635",
+  "answers" : [ "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers." ]
+}, {
+  "title" : "Tracing a powerful GNSS interference source over Europe",
+  "description" : "Link: https://arxiv.org/abs/2606.03673 | Score: 379 | Comments: 201 | By: mimorigasaka",
+  "url" : "https://news.ycombinator.com/item?id=48409664",
+  "answers" : [ ]
+}, {
+  "title" : "India's surprise baby bust",
+  "description" : "Link: https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world | Score: 158 | Comments: 704 | By: hakonbogen",
+  "url" : "https://news.ycombinator.com/item?id=48413254",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ZDxIe\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ZDxIe</a>" ]
+}, {
+  "title" : "Cooldown Support for Ruby Bundler",
+  "description" : "Link: https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html | Score: 151 | Comments: 42 | By: calyhre",
+  "url" : "https://news.ycombinator.com/item?id=48380174",
+  "answers" : [ ]
+} ]
