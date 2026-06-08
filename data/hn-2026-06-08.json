@@ -1,0 +1,151 @@
+[ {
+  "title" : "1k Data Breaches Later, the Disclosure Lag Is Worse",
+  "description" : "Link: https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/ | Score: 72 | Comments: 17 | By: 882542F3884314B",
+  "url" : "https://news.ycombinator.com/item?id=48440952",
+  "answers" : [ ]
+}, {
+  "title" : "APC–2 – A professional record cutter for producing original playback discs",
+  "description" : "Link: https://teenage.engineering/products/apc-2 | Score: 181 | Comments: 90 | By: vthommeret",
+  "url" : "https://news.ycombinator.com/item?id=48440383",
+  "answers" : [ ]
+}, {
+  "title" : "Dopamine Fracking",
+  "description" : "Link: https://igerman.cc/blog/dopamine-fracking/ | Score: 101 | Comments: 30 | By: igmn",
+  "url" : "https://news.ycombinator.com/item?id=48440792",
+  "answers" : [ ]
+}, {
+  "title" : "The Smallest Brain You Can Build: A Perceptron in Python",
+  "description" : "Link: https://ranpara.net/posts/perceptron-explained-from-scratch/ | Score: 157 | Comments: 20 | By: DevarshRanpara",
+  "url" : "https://news.ycombinator.com/item?id=48440064",
+  "answers" : [ ]
+}, {
+  "title" : "Building from zero after addiction, prison, and a felony",
+  "description" : "Link: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony | Score: 561 | Comments: 247 | By: gavinray",
+  "url" : "https://news.ycombinator.com/item?id=48437406",
+  "answers" : [ ]
+}, {
+  "title" : "Tiny hackable CUDA language model implementation",
+  "description" : "Link: https://github.com/markusheimerl/gpt | Score: 17 | Comments: 1 | By: markusheimerl",
+  "url" : "https://news.ycombinator.com/item?id=48415828",
+  "answers" : [ ]
+}, {
+  "title" : "New drug 'functionally cures' many hepatitis B virus infections",
+  "description" : "Link: https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08 | Score: 132 | Comments: 21 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48440463",
+  "answers" : [ ]
+}, {
+  "title" : "Algorithmic Monocultures in Hiring",
+  "description" : "Link: https://algorithmichiring.github.io/ | Score: 65 | Comments: 19 | By: drchiu",
+  "url" : "https://news.ycombinator.com/item?id=48440549",
+  "answers" : [ ]
+}, {
+  "title" : "1worldflag: A blue dot on a transparent background",
+  "description" : "Link: https://1worldflag.com/ | Score: 70 | Comments: 33 | By: davidbarker",
+  "url" : "https://news.ycombinator.com/item?id=48440435",
+  "answers" : [ ]
+}, {
+  "title" : "Cannibalism",
+  "description" : "Link: https://b-ark.ca/2026/06/07/cannibalism.html | Score: 6 | Comments: 1 | By: srijan4",
+  "url" : "https://news.ycombinator.com/item?id=48441591",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I Derived a Pancake",
+  "description" : "Link: https://www.absurdlyoptimized.com/recipes/pancakes/ | Score: 204 | Comments: 78 | By: bkazez",
+  "url" : "https://news.ycombinator.com/item?id=48408854",
+  "answers" : [ "After 25 years of making other people&#x27;s pancake recipes - always yearning for more tang, more fluff, and more predictability - I decided to derive the pancake recipe from the chemistry.<p>You mark checkboxes for what you have on hand (ricotta, sour cream, kefir, buttermilk, yogurt, cottage cheese, lemon, cream of tartar, etc.) and it  computes the best recipe based on targets for acid, fat, salt, sugar, and CO2.<p>My particular favorite are the yeast-raised lemon ricotta kefir pancakes - the best I&#x27;ve ever had.<p>The math is done in a small pure-ESM library: ingredient composition to component masses and acid moles, a stoichiometry layer, and a bisection solver for the target deficits.<p>I&#x27;m not a chemist, so if something is off, tell me and I will fix it!" ]
+}, {
+  "title" : "Show HN: NoSuggest – Watch YouTube without the recommendation algorithm",
+  "description" : "Link: https://www.nosuggest.com/ | Score: 33 | Comments: 23 | By: VJ-2-108",
+  "url" : "https://news.ycombinator.com/item?id=48390175",
+  "answers" : [ "NoSuggest is a quiet act of resistance against YouTube algorithms always trying to pull you into a loop of unlimited videos in turn into unlimited screen time. With unending side cards of videos, auto-play, what&#x27;s next suggestions, YouTube shorts and notifications, users will be doom scrolling for many hours in a day.<p>I faced the same problem. Acknowledging that, not all content in YouTube is bad. There are educational videos, genuine news contents without political bias which is very hard to find outside YouTube and many other good relaxing, entertainment stuff.<p>NoSuggest lets you only follow the YouTube channels you like and removes all types of recommendation YouTube has. So you don&#x27;t waste time on watching things which you never wanted to watch anyways.<p>UI is very simple. You add your favourite channels in &quot;Channels&quot; tab and latest 5 videos per channel excluding shorts would appear in &quot;Feed&quot; tab. &quot;Search&quot; tab is to search for specific videos to watch and &quot;Saved&quot; tab is to bookmark any video you want to watch later. Intention of NoSuggest is to provide whatever is necessary to extract whats good from YouTube all inside NoSuggest and leave out bad parts.<p>NoSuggest works in any devices. Install it as an app (PWA) in android and iPhone, or simply open in browser in laptops. No sign-in, no account creation or no card details. NoSuggest won&#x27;t even ask your name. Total privacy for the users.<p>Parents can add the channels and save some educational videos and lock it with the pin for kids mode. Kids won&#x27;t be able access unwanted additive contents inside NoSuggest.<p>Completely free, no string attached. Source available in Github through NoSuggest website.<p>I would love genuine feedback. Thank you very much for your attention on this matter." ]
+}, {
+  "title" : "Playing with Vision Embeddings",
+  "description" : "Link: https://prestonbjensen.com/posts/playing-with-vision-embeddings | Score: 9 | Comments: 0 | By: prestoj",
+  "url" : "https://news.ycombinator.com/item?id=48413366",
+  "answers" : [ ]
+}, {
+  "title" : "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+  "description" : "Link: https://github.com/melastmohican/rust-rpico2-embassy-examples | Score: 95 | Comments: 12 | By: melastmohican",
+  "url" : "https://news.ycombinator.com/item?id=48440008",
+  "answers" : [ ]
+}, {
+  "title" : "Making peace with your unlived dreams (2023)",
+  "description" : "Link: https://nik.art/making-peace-with-your-unlived-dreams/ | Score: 203 | Comments: 101 | By: herbertl",
+  "url" : "https://news.ycombinator.com/item?id=48437290",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+  "description" : "Link: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision | Score: 207 | Comments: 68 | By: yogthos",
+  "url" : "https://news.ycombinator.com/item?id=48440448",
+  "answers" : [ ]
+}, {
+  "title" : "Richard Scolyer Has Died",
+  "description" : "Link: https://www.bbc.com/news/articles/c14yz5jg476o | Score: 17 | Comments: 3 | By: nicwilson",
+  "url" : "https://news.ycombinator.com/item?id=48441242",
+  "answers" : [ ]
+}, {
+  "title" : "A discovery about GCC's unidirectional rotation algorithm",
+  "description" : "Link: https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378 | Score: 14 | Comments: 4 | By: soheilpro",
+  "url" : "https://news.ycombinator.com/item?id=48394587",
+  "answers" : [ ]
+}, {
+  "title" : "Man-Computer Symbiosis J. C. R. Licklider (1960)",
+  "description" : "Link: https://groups.csail.mit.edu/medg/people/psz/Licklider.html | Score: 29 | Comments: 2 | By: rballpug",
+  "url" : "https://news.ycombinator.com/item?id=48405890",
+  "answers" : [ ]
+}, {
+  "title" : "How's Linear so fast? A technical breakdown",
+  "description" : "Link: https://performance.dev/how-is-linear-so-fast-a-technical-breakdown | Score: 376 | Comments: 170 | By: howToTestFE",
+  "url" : "https://news.ycombinator.com/item?id=48437609",
+  "answers" : [ ]
+}, {
+  "title" : "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+  "description" : "Link: https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/ | Score: 73 | Comments: 56 | By: 1vuio0pswjnm7",
+  "url" : "https://news.ycombinator.com/item?id=48440610",
+  "answers" : [ ]
+}, {
+  "title" : "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+  "description" : "Link: https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix | Score: 175 | Comments: 58 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48409474",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+  "description" : "Link: https://github.com/devenjarvis/lathe | Score: 292 | Comments: 54 | By: devenjarvis",
+  "url" : "https://news.ycombinator.com/item?id=48433756",
+  "answers" : [ "Hey HN!<p>Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local UI built for exactly that.<p>It&#x27;s a Go CLI plus LLM agent skills (Claude Code &#x2F; Cursor &#x2F; Codex). You prompt something like &quot;&#x2F;lathe build a 3D slicer in Erlang&quot;, run `lathe serve` to spin up a local webapp, and read it in your browser. Every tutorial comes with the things that have made self-learning a pleasant experience for me in the past:<p>- table of contents that follows along as you scroll\n- side-notes that nudge you to think\n- exercises for the reader\n- sources backing up the content that you can use to take you deeper<p>To help make up for the lack of human brainpower behind the tutorial, you can also ask questions about the content, have another LLM verify the tutorial actually compiles and runs, or extend it with another part (no more &quot;Part 4 of 6&quot; that hasn&#x27;t seen an update since 2021).<p>I didn&#x27;t build lathe to replace human-written tutorials. I built lathe because I _love_ human-written tutorials, but wanted to learn technical domains where no good human-written tutorial exists yet (building a 3D slicer from scratch, making embedded Zig approachable, etc). There&#x27;s a longer story in the README about how I got started with programming through PSP homebrew tutorials, and why losing that to LLMs bugged me enough to build this.<p>I&#x27;m not here to sell you anything (there&#x27;s nothing close to a VC-backed startup here :D). It&#x27;s an LLM, and its output is usually good but not perfect by any means. So far, my experience is that because you&#x27;re the one typing and actually engaged, you catch the weird stuff (and I&#x27;m finding that pushing back on it is its own kind of learning). And yes, it&#x27;s vibecoded, because it&#x27;s low scope, low risk, and scratching a personal itch. I run it on Claude Code + macOS personally, other setups should work but I haven&#x27;t been able to verify them yet.<p>If you can find resources to learn something that was written by a human, read that first. But Lathe is here to fill in the gaps when that isn&#x27;t the case, and I hope it serves as an example where LLMs can help us think better, rather than less.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devenjarvis&#x2F;lathe\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devenjarvis&#x2F;lathe</a><p>Would love your feedback if you decide to check it out!" ]
+}, {
+  "title" : "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
+  "description" : "Link: https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609 | Score: 75 | Comments: 43 | By: b-man",
+  "url" : "https://news.ycombinator.com/item?id=48384525",
+  "answers" : [ ]
+}, {
+  "title" : "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+  "description" : "Link: https://www.ioccc.org/2025/ | Score: 381 | Comments: 89 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=48432199",
+  "answers" : [ ]
+}, {
+  "title" : "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
+  "description" : "Link: https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html | Score: 84 | Comments: 22 | By: mikhael",
+  "url" : "https://news.ycombinator.com/item?id=48440360",
+  "answers" : [ ]
+}, {
+  "title" : "LLMs are eroding my software engineering career and I don't know what to do",
+  "description" : "Link: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/ | Score: 900 | Comments: 876 | By: poisonfountain",
+  "url" : "https://news.ycombinator.com/item?id=48434312",
+  "answers" : [ ]
+}, {
+  "title" : "Powering up a module from the IBM 604: an electronic calculator from 1948",
+  "description" : "Link: https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html | Score: 84 | Comments: 24 | By: elpocko",
+  "url" : "https://news.ycombinator.com/item?id=48436819",
+  "answers" : [ ]
+}, {
+  "title" : "Cloning a Sennheiser BA2015 battery pack",
+  "description" : "Link: https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/ | Score: 123 | Comments: 18 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48427480",
+  "answers" : [ ]
+}, {
+  "title" : "Proliferate (YC S25) is hiring to building open source Codex",
+  "description" : "Link: https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer | Score: 1 | Comments: 0 | By: pablo24602",
+  "url" : "https://news.ycombinator.com/item?id=48436669",
+  "answers" : [ ]
+} ]
