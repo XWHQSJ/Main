@@ -1,0 +1,151 @@
+[ {
+  "title" : "Apple reveals new AI architecture built around Google Gemini models",
+  "description" : "Link: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ | Score: 491 | Comments: 382 | By: unclefuzzy",
+  "url" : "https://news.ycombinator.com/item?id=48450142",
+  "answers" : [ ]
+}, {
+  "title" : "Old'aVista – The most powerful guide to the old Internet",
+  "description" : "Link: https://oldavista.com/ | Score: 52 | Comments: 7 | By: abnercoimbre",
+  "url" : "https://news.ycombinator.com/item?id=48447111",
+  "answers" : [ ]
+}, {
+  "title" : "Siri AI",
+  "description" : "Link: https://www.apple.com/apple-intelligence/ | Score: 510 | Comments: 441 | By: 0xedb",
+  "url" : "https://news.ycombinator.com/item?id=48449084",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Performative-UI – A react component library of design tropes",
+  "description" : "Link: https://vorpus.github.io/performativeUI/ | Score: 883 | Comments: 163 | By: lizhang",
+  "url" : "https://news.ycombinator.com/item?id=48445554",
+  "answers" : [ "hope you enjoy" ]
+}, {
+  "title" : "xAI is looking more like a datacentre REIT than a frontier lab",
+  "description" : "Link: https://martinalderson.com/posts/xais-new-rental-business/ | Score: 496 | Comments: 384 | By: martinald",
+  "url" : "https://news.ycombinator.com/item?id=48446428",
+  "answers" : [ ]
+}, {
+  "title" : "Job: Head of Stonehenge",
+  "description" : "Link: https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449 | Score: 117 | Comments: 76 | By: mooreds",
+  "url" : "https://news.ycombinator.com/item?id=48455928",
+  "answers" : [ ]
+}, {
+  "title" : "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+  "description" : "Link: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps | Score: 535 | Comments: 387 | By: gainsurier",
+  "url" : "https://news.ycombinator.com/item?id=48446639",
+  "answers" : [ ]
+}, {
+  "title" : "EU-banned pesticides found in rice, tea and spices",
+  "description" : "Link: https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices | Score: 315 | Comments: 118 | By: john-titor",
+  "url" : "https://news.ycombinator.com/item?id=48447062",
+  "answers" : [ ]
+}, {
+  "title" : "Looking Forward to Postgres 19: Query Hints",
+  "description" : "Link: https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints | Score: 109 | Comments: 16 | By: jjgreen",
+  "url" : "https://news.ycombinator.com/item?id=48413655",
+  "answers" : [ ]
+}, {
+  "title" : "Apple Core AI Framework",
+  "description" : "Link: https://developer.apple.com/documentation/coreai/ | Score: 248 | Comments: 61 | By: hmokiguess",
+  "url" : "https://news.ycombinator.com/item?id=48449665",
+  "answers" : [ ]
+}, {
+  "title" : "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+  "description" : "Link: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer | Score: 1 | Comments: 0 | By: davidchl",
+  "url" : "https://news.ycombinator.com/item?id=48456015",
+  "answers" : [ ]
+}, {
+  "title" : "Passing DBs through continuations",
+  "description" : "Link: https://remy.wang/blog/cps.html | Score: 31 | Comments: 4 | By: remywang",
+  "url" : "https://news.ycombinator.com/item?id=48430821",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+  "description" : "Link: https://gitdot.io/ | Score: 207 | Comments: 166 | By: baepaul",
+  "url" : "https://news.ycombinator.com/item?id=48447806",
+  "answers" : [ "What works now: user signups, org creations, private&#x2F;public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). So basically, you can create, push and pull to a repo, but we don&#x27;t have many features quite yet (issues, PRs, CI).<p>What is a bit unique is: 1) we built it in Rust and 2) the website is a little odd. Its design is inspired by CLIs (e.g., fzf, broot, vim) instead of web apps, and as such, lacks some affordances that you might typically expect in favor of keyboard-driven instant navigations (we have the very ambitious goal of an FCP of 100ms). In case you&#x27;re curious, here&#x27;s how we we built it: <a href=\"https:&#x2F;&#x2F;gitdot.io&#x2F;designs\">https:&#x2F;&#x2F;gitdot.io&#x2F;designs</a><p>We recognize that we&#x27;re making some bold claims here and are also well aware that we have much to learn. Building software is still hard, and that&#x27;s a fact we seem to relearn everyday.<p>But we wanted to share what we built so far nonetheless.<p>Cheers, thank y&#x27;all for reading, and till the next\n—paul &amp; mikkel." ]
+}, {
+  "title" : "Porting the ThinkPad X61 to Coreboot",
+  "description" : "Link: https://blog.aheymans.xyz/post/thinkpad_x61/ | Score: 12 | Comments: 1 | By: walterbell",
+  "url" : "https://news.ycombinator.com/item?id=48456245",
+  "answers" : [ ]
+}, {
+  "title" : "How much do amd64 microarchitecture levels help in Go?",
+  "description" : "Link: https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/ | Score: 32 | Comments: 9 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48438595",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "description" : "Score: 228 | Comments: 393 | By: aryamaan",
+  "url" : "https://news.ycombinator.com/item?id=48449187",
+  "answers" : [ ]
+}, {
+  "title" : "Why are cells small?",
+  "description" : "Link: https://burrito.bio/essays/what-limits-a-cells-size | Score: 128 | Comments: 60 | By: mailyk",
+  "url" : "https://news.ycombinator.com/item?id=48450065",
+  "answers" : [ ]
+}, {
+  "title" : "FrontierCode",
+  "description" : "Link: https://cognition.ai/blog/frontier-code | Score: 141 | Comments: 28 | By: streamer45",
+  "url" : "https://news.ycombinator.com/item?id=48451723",
+  "answers" : [ ]
+}, {
+  "title" : "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+  "description" : "Link: https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf | Score: 495 | Comments: 182 | By: g0xA52A2A",
+  "url" : "https://news.ycombinator.com/item?id=48450646",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+  "description" : "Score: 123 | Comments: 108 | By: mdni007",
+  "url" : "https://news.ycombinator.com/item?id=48448313",
+  "answers" : [ "It feels like every event&#x2F;venue is selling tickets exclusively through Ticketmaster.  Every other ticketing platform seems to only hold resale tickets in their inventory which just transfers the tickets to your Ticketmaster account when bought. With all the hate Ticketmaster has gotten and all the other ticketing platforms out there, I&#x27;m surprised Ticketmaster still has a hold of pretty much the entire market. How are they doing this? Why haven&#x27;t the other platforms been able to compete?" ]
+}, {
+  "title" : "CRDTs merge concurrent edits. Why not concurrent creation?",
+  "description" : "Link: https://loro.dev/blog/mergeable-containers | Score: 3 | Comments: 0 | By: czx111331",
+  "url" : "https://news.ycombinator.com/item?id=48456555",
+  "answers" : [ ]
+}, {
+  "title" : "I'm building a parallel internet, and it's called The Thinnernet",
+  "description" : "Link: https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html | Score: 65 | Comments: 63 | By: initramfs",
+  "url" : "https://news.ycombinator.com/item?id=48450694",
+  "answers" : [ ]
+}, {
+  "title" : "AI is slowing down",
+  "description" : "Link: https://www.wheresyoured.at/ai-is-slowing-down/ | Score: 481 | Comments: 503 | By: crescit_eundo",
+  "url" : "https://news.ycombinator.com/item?id=48446893",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+  "description" : "Link: https://intunedhq.com | Score: 105 | Comments: 45 | By: fkilaiwi",
+  "url" : "https://news.ycombinator.com/item?id=48445171",
+  "answers" : [ "Hey HN, we&#x27;re Faisal and Ahmad from Intuned (<a href=\"https:&#x2F;&#x2F;intunedhq.com\">https:&#x2F;&#x2F;intunedhq.com</a>). We’re building a platform for building, deploying, and maintaining browser automations.<p>Customers primarily use the Intuned AI agent to automate websites that don&#x27;t expose APIs. Common use-cases include scraping data, pulling reports, and submitting forms. As the website changes, our agent also helps automatically heal the automation.<p>On Intuned, browser automations are created by an AI agent and run as <i>code</i>. Our infra captures the context of every run, allowing our agent to debug and maintain the underlying code - to keep the automations working over time. This way, we’re able to offer the predictability, speed, and cost of code, without the painful parts of writing and maintaining it.<p>Here’s a demo of building a scraper on Intuned: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;ruZP73bK4FU\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;ruZP73bK4FU</a><p>Here’s a demo of using AI to maintain a project: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;e4R4hLdHBro\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;e4R4hLdHBro</a><p>Backstory: we were accepted into YC for a completely different idea. During the batch, because of Faisal&#x27;s background at UiPath, several batchmates asked us whether RPA tools could fill API gaps in their products by automating websites without APIs. When it was time to pivot, we went back to those founders to dig deeper. (RPA in this context is referring to using UI automation to do complete non-testing tasks)<p>We discovered that the actual hard problem in browser automation is maintenance. Websites change, selectors break, and failures can be painful to reproduce and fix. So in early 2024, we decided to take a crack at this problem with a handful of customers. It needed a fair number of iterations before we landed on our current code-first approach.<p>How it works: Intuned is infra + agent, deeply integrated.<p>On the infrastructure side, Intuned is a managed runtime for browser automation code. Projects are usually Playwright-based TypeScript or Python. Users can write them directly in our online IDE, or hand the work off to the agent. Either way, once deployed, the platform runs each project in its own isolated machine and handles auth&#x2F;session reuse, scheduling, batch execution, concurrency, observability, and the other plumbing around running browser code.<p>On the agent side, it took us a few iterations to get to the current approach. Our initial attempts were rigid pipelines: collect requirements, inspect the site, generate code, then try to patch whatever broke. It looked reasonable on paper, but real websites are too messy for fixed paths. Late last year, we were planning to ship that version when stronger models landed and harnesses like Claude Code and Codex showed what a more open-ended coding agent could do. We built a prototype on the Claude Agent SDK, it felt much better than what we had, and we scrapped the release and decided to rebuild the agent.<p>The rebuild came down to three pieces around the SDK: an execution environment for running long agent sessions reliably, a CLI that exposes the platform to the agent so it operates Intuned the way engineers do, and a custom plugin (skills + MCP) built around what we&#x27;ve learned building browser automations.<p>The infra-agent integration is where the product gets more interesting. The runtime doesn&#x27;t just run the automation; it captures the context needed to debug it when it fails: params, results, traces, logs. That enables features like Fix with AI, where you can open a failed run and have the agent investigate and prepare a fix.<p>The same integration powers a feature called self-healing. For configured projects, the platform detects failures, starts an agent session with the relevant context, and either proposes a fix for review or deploys it automatically. Demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;IVHIXw0lYMs\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;IVHIXw0lYMs</a><p>We recently also packaged the infra and agent as an API called Web Task API, here is a demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;1olRn3l95vw\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;1olRn3l95vw</a><p>We strongly believe that browser automations can and should be faster, cheaper and more predictable. Check us out at <a href=\"https:&#x2F;&#x2F;app.intuned.io&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;app.intuned.io&#x2F;</a>, we have a free tier with trial credits for your first few automations. Excited to hear your thoughts, questions, and feedback!" ]
+}, {
+  "title" : "Apple bets cheaper AI will woo small developers",
+  "description" : "Link: https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/ | Score: 45 | Comments: 21 | By: jbernardo95",
+  "url" : "https://news.ycombinator.com/item?id=48452000",
+  "answers" : [ ]
+}, {
+  "title" : "Anti-social: It's fads, not friends, which now dominate social media feeds",
+  "description" : "Link: https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social | Score: 607 | Comments: 428 | By: 1vuio0pswjnm7",
+  "url" : "https://news.ycombinator.com/item?id=48444228",
+  "answers" : [ ]
+}, {
+  "title" : "Confidential submission of draft S-1 to the SEC",
+  "description" : "Link: https://openai.com/index/openai-submits-confidential-s-1/ | Score: 328 | Comments: 256 | By: hackerBanana",
+  "url" : "https://news.ycombinator.com/item?id=48452317",
+  "answers" : [ ]
+}, {
+  "title" : "OCaml Onboarding: Introduction to the Dune build system",
+  "description" : "Link: https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/ | Score: 151 | Comments: 22 | By: andrewstetsenko",
+  "url" : "https://news.ycombinator.com/item?id=48402137",
+  "answers" : [ ]
+}, {
+  "title" : "Federal judge blocks H1B visa $100K fee",
+  "description" : "Link: https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/ | Score: 131 | Comments: 243 | By: naturalmovement",
+  "url" : "https://news.ycombinator.com/item?id=48454210",
+  "answers" : [ ]
+}, {
+  "title" : "Games Between Programs: The Ruliology of Competition",
+  "description" : "Link: https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/ | Score: 22 | Comments: 1 | By: andromaton",
+  "url" : "https://news.ycombinator.com/item?id=48419769",
+  "answers" : [ ]
+} ]
