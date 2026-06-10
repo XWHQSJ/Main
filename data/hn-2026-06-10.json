@@ -1,0 +1,151 @@
+[ {
+  "title" : "macOS Container Machines",
+  "description" : "Link: https://github.com/apple/container/blob/main/docs/container-machine.md | Score: 527 | Comments: 192 | By: timsneath",
+  "url" : "https://news.ycombinator.com/item?id=48469658",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Fable 5",
+  "description" : "Link: https://www.anthropic.com/news/claude-fable-5-mythos-5 | Score: 2032 | Comments: 1565 | By: Philpax",
+  "url" : "https://news.ycombinator.com/item?id=48463808",
+  "answers" : [ "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>" ]
+}, {
+  "title" : "Upcoming breaking changes for npm v12",
+  "description" : "Link: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/ | Score: 296 | Comments: 99 | By: plasma",
+  "url" : "https://news.ycombinator.com/item?id=48467705",
+  "answers" : [ ]
+}, {
+  "title" : "Rich Sutton on AI creativity and discovery",
+  "description" : "Link: https://twitter.com/RichardSSutton/status/2061216087744946656 | Score: 76 | Comments: 38 | By: yimby",
+  "url" : "https://news.ycombinator.com/item?id=48470581",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=K5LAFEjTlBA\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=K5LAFEjTlBA</a>" ]
+}, {
+  "title" : "German ruling declares Google liable for false answers in AI Overviews",
+  "description" : "Link: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ | Score: 301 | Comments: 189 | By: ahlCVA",
+  "url" : "https://news.ycombinator.com/item?id=48470248",
+  "answers" : [ ]
+}, {
+  "title" : "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+  "description" : "Link: https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/ | Score: 31 | Comments: 4 | By: dmckinno",
+  "url" : "https://news.ycombinator.com/item?id=48471048",
+  "answers" : [ ]
+}, {
+  "title" : "RIP software hackathons. Long live the hardware hackathon",
+  "description" : "Link: https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/ | Score: 125 | Comments: 52 | By: ozcap",
+  "url" : "https://news.ycombinator.com/item?id=48468766",
+  "answers" : [ ]
+}, {
+  "title" : "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+  "description" : "Link: https://aarushgupta.io/posts/kan-fpga/ | Score: 200 | Comments: 29 | By: ag2718",
+  "url" : "https://news.ycombinator.com/item?id=48466277",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgupta.io&#x2F;posts&#x2F;kan-fpga&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgup...</a>" ]
+}, {
+  "title" : "The oldest surviving animated feature film at 100",
+  "description" : "Link: https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film | Score: 77 | Comments: 7 | By: 1659447091",
+  "url" : "https://news.ycombinator.com/item?id=48431213",
+  "answers" : [ ]
+}, {
+  "title" : "More Molly Guards",
+  "description" : "Link: https://unsung.aresluna.org/more-molly-guards/ | Score: 95 | Comments: 8 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48427468",
+  "answers" : [ ]
+}, {
+  "title" : "What it feels like to work with Mythos",
+  "description" : "Link: https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos | Score: 227 | Comments: 194 | By: swolpers",
+  "url" : "https://news.ycombinator.com/item?id=48464140",
+  "answers" : [ ]
+}, {
+  "title" : "If Claude Fable stops helping you, you'll never know",
+  "description" : "Link: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html | Score: 698 | Comments: 352 | By: mips_avatar",
+  "url" : "https://news.ycombinator.com/item?id=48467896",
+  "answers" : [ "Related: https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Jun&#x2F;10&#x2F;if-claude-fable-stops-helping-you&#x2F;" ]
+}, {
+  "title" : "Lies we tell ourselves about email addresses",
+  "description" : "Link: https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/ | Score: 87 | Comments: 58 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=48445834",
+  "answers" : [ ]
+}, {
+  "title" : "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
+  "description" : "Link: https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/ | Score: 25 | Comments: 14 | By: d3Xt3r",
+  "url" : "https://news.ycombinator.com/item?id=48471970",
+  "answers" : [ ]
+}, {
+  "title" : "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+  "description" : "Link: https://opencv.org/opencv-5/ | Score: 737 | Comments: 132 | By: ternaus",
+  "url" : "https://news.ycombinator.com/item?id=48421858",
+  "answers" : [ ]
+}, {
+  "title" : "Surprise, Pay $1000",
+  "description" : "Link: https://forestwalk.ai/blog/surprise-blacksmith-costs/ | Score: 73 | Comments: 16 | By: apike",
+  "url" : "https://news.ycombinator.com/item?id=48468370",
+  "answers" : [ ]
+}, {
+  "title" : "CEOs who think AI replaces their employees are just bad CEOs",
+  "description" : "Link: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ | Score: 579 | Comments: 226 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48465675",
+  "answers" : [ ]
+}, {
+  "title" : "Computer Lessons",
+  "description" : "Link: https://technicshistory.com/2026/06/06/computer-lessons/ | Score: 5 | Comments: 0 | By: cfmcdonald",
+  "url" : "https://news.ycombinator.com/item?id=48452901",
+  "answers" : [ ]
+}, {
+  "title" : "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+  "description" : "Link: https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf | Score: 378 | Comments: 312 | By: piskov",
+  "url" : "https://news.ycombinator.com/item?id=48453275",
+  "answers" : [ ]
+}, {
+  "title" : "Test-case reducers are underappreciated debugging tools",
+  "description" : "Link: https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html | Score: 109 | Comments: 13 | By: ltratt",
+  "url" : "https://news.ycombinator.com/item?id=48459659",
+  "answers" : [ ]
+}, {
+  "title" : "A giant star may have destroyed itself in one of the rarest explosions",
+  "description" : "Link: https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html | Score: 178 | Comments: 26 | By: wglb",
+  "url" : "https://news.ycombinator.com/item?id=48451966",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2605.16487\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2605.16487</a>" ]
+}, {
+  "title" : "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+  "description" : "Score: 43 | Comments: 15 | By: nils_spatial",
+  "url" : "https://news.ycombinator.com/item?id=48463273",
+  "answers" : [ "Hi HN — we’re Julius, Jago, and Nils, and we’re building transload (transload.io).<p>transload helps LTL trucking companies measure freight dimensions using the security cameras already installed in their terminals. Instead of sending shipments through a dedicated dimensioning station, we measure them automatically as they move through the normal dock workflow.<p>We’ve put together a small HN-specific demo site here: <a href=\"https:&#x2F;&#x2F;hn.transload.io&#x2F;\">https:&#x2F;&#x2F;hn.transload.io&#x2F;</a><p>In LTL trucking, dimensions matter because they affect pricing, freight classification, and trailer utilization. If a shipment is larger than the shipper reported, the carrier may undercharge for it while still giving up the same amount of trailer space. The obvious fix is to measure every shipment, but that is surprisingly hard in a busy freight terminal. Dedicated dimensioning systems work for freight that passes through them, but they can add forklift travel, create dock congestion, and change the normal flow of work. In practice, many terminals only measure a sample of their shipments.<p>Jago grew up close to this industry through his family’s LTL trucking and cross-docking business. We did not start out building freight dimensioning. Our first idea was an AI system for optimizing forklift routes inside cross-dock terminals. After spending time with customers and talking to more than 50 trucking companies, we realized that forklift routing was not the pain people kept bringing up. Freight dimensions were.<p>At the same time, we saw that spatial AI was advancing quickly. Monocular metric depth estimation has become dramatically better, making it possible to recover accurate 3D structure from ordinary camera footage without expensive LiDAR sensors. MapAnything (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;facebookresearch&#x2F;map-anything\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;facebookresearch&#x2F;map-anything</a>) and MoGe (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;moge\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;moge</a>) are two examples.<p>Freight terminals also have helpful structure: fixed cameras, repeated workflows, barcode scan timestamps, and known layouts. Nearly every warehouse already has CCTV. That led us to a simple question: what if we could measure freight automatically using the existing security cameras, entirely in the background? That would allow carriers to measure every shipment without changing the dock workflow.<p>Our system has two main steps: connect a barcode scan to the right object in the video, then estimate that object’s dimensions in real-world units.<p>Dock workers already scan freight as part of the normal workflow. Each scan gives us a timestamp and a handling-unit ID. Around that timestamp, we analyze the video to infer which worker scanned and which shipment they scanned. We expected VLMs to handle this; they turned out to be far too unreliable. Instead, we train our own model that reasons in 3D over cues like gaze, body orientation, and movement.<p>That association step is critical. A frame can contain dozens of pallets, several workers, forklifts, and partially hidden freight. If we attach the scan to the wrong object, the measurement is useless.<p>Once we know the target shipment, we segment it and estimate a metric 3D bounding box from the monocular camera view. After the box is fitted, the dimensions are straightforward: length, width, height, and volume come directly from it.<p>The hard part is precisely fitting that bounding box from one ordinary security camera. A single 2D image does not directly tell you object shape or scale, and many different 3D boxes can explain similar-looking image evidence. We use the object mask, visible edges, floor contact, camera geometry, and constraints from the terminal to find the 3D box that best matches the scene.<p>We are currently working with several LTL carriers. For one customer, roughly 10% of checked shipments had dimension errors. The first use case is revenue recovery: identify under-dimensioned shipments, attach visual evidence, and help carriers correct the billing or classification. Longer term, the same data can help carriers understand trailer utilization better.<p>LTL freight is an odd place to be doing 3D computer vision, and we learn something new every week. If you’ve worked on monocular reconstruction, 3D object detection, warehouse perception, or messy real-world CV, we’d love your take. Questions about freight, LTL terminals, or the technical approach are very welcome too." ]
+}, {
+  "title" : "Grit: Rewriting Git in Rust with agents",
+  "description" : "Link: https://blog.gitbutler.com/true-grit | Score: 114 | Comments: 159 | By: cbrewster",
+  "url" : "https://news.ycombinator.com/item?id=48466812",
+  "answers" : [ ]
+}, {
+  "title" : "Value Numbering",
+  "description" : "Link: https://bernsteinbear.com/blog/value-numbering/ | Score: 18 | Comments: 0 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48444654",
+  "answers" : [ ]
+}, {
+  "title" : "Making Graphics Like it's 1993",
+  "description" : "Link: https://staniks.github.io/articles/catlantean-3d-blog-1/ | Score: 825 | Comments: 140 | By: sklopec",
+  "url" : "https://news.ycombinator.com/item?id=48459294",
+  "answers" : [ ]
+}, {
+  "title" : "Exif Smuggling (2025)",
+  "description" : "Link: https://github.com/signalblur/exifsmugglingpoc | Score: 77 | Comments: 24 | By: rolph",
+  "url" : "https://news.ycombinator.com/item?id=48467759",
+  "answers" : [ ]
+}, {
+  "title" : "It's death",
+  "description" : "Link: https://jesseduffield.com/ITS-DEATH/ | Score: 155 | Comments: 48 | By: inatreecrown2",
+  "url" : "https://news.ycombinator.com/item?id=48469347",
+  "answers" : [ ]
+}, {
+  "title" : "WWDC 2026: Apple is Folding",
+  "description" : "Link: https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/ | Score: 208 | Comments: 236 | By: brandonb",
+  "url" : "https://news.ycombinator.com/item?id=48461226",
+  "answers" : [ ]
+}, {
+  "title" : "The Evolution of 'More Like This'",
+  "description" : "Link: https://manticoresearch.com/blog/the-evolution-of-more-like-this/ | Score: 6 | Comments: 0 | By: snikolaev",
+  "url" : "https://news.ycombinator.com/item?id=48470975",
+  "answers" : [ ]
+}, {
+  "title" : "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+  "description" : "Link: https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/ | Score: 510 | Comments: 325 | By: berlianta",
+  "url" : "https://news.ycombinator.com/item?id=48462308",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;ZobUQ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;ZobUQ</a>" ]
+} ]
