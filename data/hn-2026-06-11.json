@@ -1,0 +1,151 @@
+[ {
+  "title" : "AI agent runs amok in Fedora and elsewhere",
+  "description" : "Link: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ | Score: 320 | Comments: 96 | By: tanelpoder",
+  "url" : "https://news.ycombinator.com/item?id=48484584",
+  "answers" : [ ]
+}, {
+  "title" : "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+  "description" : "Link: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/ | Score: 365 | Comments: 332 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48478969",
+  "answers" : [ ]
+}, {
+  "title" : "πFS",
+  "description" : "Link: https://github.com/philipl/pifs | Score: 674 | Comments: 150 | By: helterskelter",
+  "url" : "https://news.ycombinator.com/item?id=48480978",
+  "answers" : [ ]
+}, {
+  "title" : "Anthropic requires 30 day data retention for Fable and Mythos",
+  "description" : "Link: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models | Score: 348 | Comments: 164 | By: lebovic",
+  "url" : "https://news.ycombinator.com/item?id=48464258",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.theverge.com&#x2F;report&#x2F;947575&#x2F;microsoft-claude-fable-5-restricted-internally\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theverge.com&#x2F;report&#x2F;947575&#x2F;microsoft-claude-fabl...</a>" ]
+}, {
+  "title" : "The Road to the WASM Component Model 1.0",
+  "description" : "Link: https://bytecodealliance.org/articles/the-road-to-component-model-1-0 | Score: 57 | Comments: 26 | By: emschwartz",
+  "url" : "https://news.ycombinator.com/item?id=48448083",
+  "answers" : [ ]
+}, {
+  "title" : "Starfish by Peter Watts (1999)",
+  "description" : "Link: https://www.rifters.com/real/STARFISH.htm#prelude | Score: 13 | Comments: 3 | By: zetalyrae",
+  "url" : "https://news.ycombinator.com/item?id=48455145",
+  "answers" : [ ]
+}, {
+  "title" : "Sequoyah’s syllabary created a written language for the Cherokee",
+  "description" : "Link: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/ | Score: 141 | Comments: 91 | By: grahambargeron",
+  "url" : "https://news.ycombinator.com/item?id=48483387",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cherokee_syllabary#Unicode\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cherokee_syllabary#Unicode</a>" ]
+}, {
+  "title" : "Vacuum-Form Signage",
+  "description" : "Link: https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting | Score: 53 | Comments: 9 | By: benbreen",
+  "url" : "https://news.ycombinator.com/item?id=48470748",
+  "answers" : [ ]
+}, {
+  "title" : "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+  "description" : "Score: 615 | Comments: 469 | By: eries",
+  "url" : "https://news.ycombinator.com/item?id=48477135",
+  "answers" : [ "Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_.<p>It&#x27;s been fifteen years since I wrote The Lean Startup, and in that time I&#x27;ve seen some things. In both big companies and tiny startups, NGOs and governments, in almost every industry you can name.<p>I&#x27;ve helped a lot of people create a lot of amazing companies, but I&#x27;ve also seen so many ways this can go wrong. There&#x27;s a darkness in our industry that we often don&#x27;t talk about.<p>I kept watching good companies drift away from the missions they were founded on. Not because anyone woke up one day and decided to be evil, but because the structure they were built on slowly pulled them there. I call that pull &quot;financial gravity.&quot;<p>We&#x27;ve all experienced watching a company we love or admire be warped and broken beyond recognition; until it&#x27;s a husk of its former self, or worse. I wanted to understand why. And I wanted to know what all of us can do to stop that from happening.<p>My new book _Incorruptible_ is my attempt to explain the invisible forces that shape organizations, and how a handful of companies (like Costco, Patagonia, and Novo Nordisk) have successfully been structured to resist gravity and thrive for decades -- or even centuries.<p>Along the way, I founded the Long-Term Stock Exchange, co-founded an AI R&amp;D lab called Answer.AI with Jeremy Howard, and helped a number of notable companies with their governance (yes, including Anthropic).<p>I won&#x27;t pretend I have this all figured out, but I&#x27;ve probably spent more time than is healthy on the &quot;why do good companies go bad&quot; question. Ask me anything!" ]
+}, {
+  "title" : "CSS: Unavoidable Bad Parts",
+  "description" : "Link: https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html | Score: 47 | Comments: 11 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48459678",
+  "answers" : [ ]
+}, {
+  "title" : "Reverse engineering the Creative Katana soundbar to control it from Linux",
+  "description" : "Link: https://blog.nns.ee/2026/02/20/katana-v2x-re/ | Score: 21 | Comments: 1 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=48433777",
+  "answers" : [ ]
+}, {
+  "title" : "Klondike Solitaire game for curses in 5k of C",
+  "description" : "Link: https://nanochess.org/klondike_in_c.html | Score: 61 | Comments: 6 | By: nanochess",
+  "url" : "https://news.ycombinator.com/item?id=48450024",
+  "answers" : [ ]
+}, {
+  "title" : "How JPL keeps the 13-year-old Curiosity rover doing science",
+  "description" : "Link: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science | Score: 210 | Comments: 55 | By: pseudolus",
+  "url" : "https://news.ycombinator.com/item?id=48479705",
+  "answers" : [ ]
+}, {
+  "title" : "PgDog is funded and coming to a database near you",
+  "description" : "Link: https://pgdog.dev/blog/our-funding-announcement | Score: 436 | Comments: 212 | By: levkk",
+  "url" : "https://news.ycombinator.com/item?id=48476466",
+  "answers" : [ ]
+}, {
+  "title" : "GeoLibre 1.0",
+  "description" : "Link: https://geolibre.app/ | Score: 211 | Comments: 15 | By: jonbaer",
+  "url" : "https://news.ycombinator.com/item?id=48479852",
+  "answers" : [ ]
+}, {
+  "title" : "L'Affaire Siloxane",
+  "description" : "Link: https://mceglowski.substack.com/p/laffaire-siloxane | Score: 196 | Comments: 31 | By: idlewords",
+  "url" : "https://news.ycombinator.com/item?id=48456808",
+  "answers" : [ ]
+}, {
+  "title" : "Validation, Docs, tests, and database schemas from one source of truth",
+  "description" : "Link: https://github.com/justhamade/triadjs | Score: 3 | Comments: 1 | By: justhamade",
+  "url" : "https://news.ycombinator.com/item?id=48486577",
+  "answers" : [ ]
+}, {
+  "title" : "Are insecure code completions in PyCharm a vulnerability?",
+  "description" : "Link: https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability | Score: 25 | Comments: 10 | By: 12_throw_away",
+  "url" : "https://news.ycombinator.com/item?id=48485160",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Extend UI – open-source UI kit for modern document apps",
+  "description" : "Link: https://www.extend.ai/ui | Score: 192 | Comments: 45 | By: kbyatnal",
+  "url" : "https://news.ycombinator.com/item?id=48478469",
+  "answers" : [ "We&#x27;re open-sourcing 14 components &amp; examples today for PDF, DOCX, and XLSX viewers, plus bounding box citations, file upload, e-signature, and more. It&#x27;s MIT licensed and fully customizable.<p>Demo video here: <a href=\"https:&#x2F;&#x2F;share.extend.ai&#x2F;kRmSGKRF\">https:&#x2F;&#x2F;share.extend.ai&#x2F;kRmSGKRF</a><p>When we started, we tried every file viewer and document component library we could find. Unfortunately, none of them had all the functionality (and polish) that we wanted, so we ended up building our own for <a href=\"https:&#x2F;&#x2F;extend.ai&#x2F;\">https:&#x2F;&#x2F;extend.ai&#x2F;</a>. It was only ever meant to be internal, but enough customers kept asking for it that we decided to open source it.<p>It&#x27;s useful for building document processing agents, real-time user facing document intake flows, or all kinds of internal tooling.<p>We naively thought this would be a solved problem. Turns out, making PDF&#x2F;XLSX&#x2F;DOCX viewers that work at scale is not trivial...we use and maintain it for Extend ourselves, so we&#x27;ve fixed a lot of edge cases that came up while running millions of pages &#x2F; day through our own system. Our hope is that with our resources + community support, it&#x27;ll keep getting better over time." ]
+}, {
+  "title" : "What is it like to be a bat? (1974) [pdf]",
+  "description" : "Link: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf | Score: 80 | Comments: 81 | By: shadow28",
+  "url" : "https://news.ycombinator.com/item?id=48482293",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI mulls slashing prices as it competes with Anthropic for users",
+  "description" : "Link: https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html | Score: 53 | Comments: 51 | By: agentifysh",
+  "url" : "https://news.ycombinator.com/item?id=48486486",
+  "answers" : [ ]
+}, {
+  "title" : "Who's the smartest corvid?",
+  "description" : "Link: https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/ | Score: 94 | Comments: 82 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=48464484",
+  "answers" : [ ]
+}, {
+  "title" : "Raspberry Pi 5 – 16GB RAM",
+  "description" : "Link: https://www.adafruit.com/product/6125?src=raspberrypi | Score: 229 | Comments: 235 | By: akman",
+  "url" : "https://news.ycombinator.com/item?id=48481857",
+  "answers" : [ ]
+}, {
+  "title" : "Building an HTML-first site doubled our users overnight",
+  "description" : "Link: https://mohkohn.co.uk/writing/html-first/ | Score: 1071 | Comments: 482 | By: edent",
+  "url" : "https://news.ycombinator.com/item?id=48475483",
+  "answers" : [ ]
+}, {
+  "title" : "World Capitals Voronoi",
+  "description" : "Link: https://www.jasondavies.com/maps/voronoi/capitals/ | Score: 67 | Comments: 33 | By: vincnetas",
+  "url" : "https://news.ycombinator.com/item?id=48446532",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: HelixDB – A graph database built on object storage",
+  "description" : "Link: https://github.com/HelixDB/helix-db/tree/main | Score: 110 | Comments: 33 | By: GeorgeCurtis",
+  "url" : "https://news.ycombinator.com/item?id=48478148",
+  "answers" : [ "Hey HN, it’s been just over a year since we launched HelixDB (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43975423\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43975423</a>), a project a friend and I started in college. It’s an OLTP graph database built on object-storage, with native vector search and full-text search (FTS).<p>Why graph, vector and FTS? Graph databases provide a natural cognitive model for data, vectors allow for a semantic understanding of the entities and relationships in the graph, and FTS provides more specific filtering. Many AI-driven applications attempt to combine all of these functionalities by stitching together multiple disconnected systems, but even then there’s no native way to perform joins or queries that span all systems. You still need to handle this logic at the application level.<p>Helix started as a graph DB, but we moved to a hybrid graph&#x2F;vector approach after attempting to build an AI memory system, which led us down the GraphRAG and HybridRAG rabbit hole, where we would need separate graph and vector databases.<p>We knew scalability would be a challenge at each stage of our product&#x27;s development, however our initial focus this past year was to prove out the product through local deployments and was only meant to be run on a single node. Scaling graph DBs remained a difficult and expensive problem we’d have to solve later.\nSome common ways other graph DBs solve scaling is by duplicating entire datasets across distributed machines (extremely expensive per node), or by sharding the data.<p>Sharding databases is effective and affordable, however, graph data doesn’t have explicit partitions like relational databases do. For example, sharding a relational DB involves splitting up tables. When it comes to graph DBs, the edges can span across any of the partitions, and hopping across multiple machines when traversing nodes is ineffective and computationally expensive.<p>Replicating graph DBs for high availability and better throughput drastically increases the operational cost of the db and still has a limit of how big you can vertically scale. The workload that we’re used for requires storing a huge amount of data for agents, where only a subset of that data is ever needed at any one time. So rather than having the whole thing in memory, we can store it all in object-storage and get the bits we need when they’re needed.<p>Agents benefit from better context, which is achieved from more and better data (more relationships etc). By using S3 as the persistence&#x2F;data layer there is <i>no limit</i> to how big the graph can be or how many relationships you can have, and we can scale to serve throughput and requests by horizontally spinning up nodes and caching relevant subsets of the graph on each node. This way, you get extremely low latency for “hot” data and a p99 of ~100ms for writes and ~50ms for reads from cold storage (S3). Plus you get the benefit of dirt cheap storage.<p>Workloads that HelixDB is currently supporting:\n- Huge amounts of data (TBs) from which the agents need to search and traverse over\n- Offering affordable graph storage for companies where cost of graph data is a bottleneck\n- Consolidating multiple databases, enabling AI agents to have autonomy over companies, helping them become more autonomous.\n- AI memory\n- Company brains<p>We’re currently working on our own generalised AI memory layer which will use HelixDB under the hood and be completely open-source. Also, we’re finishing up on pre-filtering for vector search which will allow you to pre-filter based on relationships in the graph, metadata, and sub-graphs. And lastly, GA cloud will be available in the coming weeks.<p>If you want to run Helix locally (either on-disk or in-memory), you can find more info on our github (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;HelixDB&#x2F;helix-db\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;HelixDB&#x2F;helix-db</a>) or via our docs (<a href=\"https:&#x2F;&#x2F;docs.helix-db.com&#x2F;database&#x2F;local-development\">https:&#x2F;&#x2F;docs.helix-db.com&#x2F;database&#x2F;local-development</a>). If you’re interested in getting started with our distributed cloud, please email us founders@helix-db.com.<p>Many thanks! Comments and feedback welcome!" ]
+}, {
+  "title" : "Apache Burr: Build reliable AI agents and applications",
+  "description" : "Link: https://burr.apache.org/ | Score: 199 | Comments: 97 | By: anhldbk",
+  "url" : "https://news.ycombinator.com/item?id=48477400",
+  "answers" : [ ]
+}, {
+  "title" : "Deficient executive control in transformer attention",
+  "description" : "Link: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838 | Score: 31 | Comments: 10 | By: derbOac",
+  "url" : "https://news.ycombinator.com/item?id=48484282",
+  "answers" : [ ]
+}, {
+  "title" : "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+  "description" : "Link: https://jivx.com/eki | Score: 227 | Comments: 75 | By: momentmaker",
+  "url" : "https://news.ycombinator.com/item?id=48475100",
+  "answers" : [ ]
+}, {
+  "title" : "Unix GC Remastered",
+  "description" : "Link: https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/ | Score: 33 | Comments: 2 | By: mananaysiempre",
+  "url" : "https://news.ycombinator.com/item?id=48483854",
+  "answers" : [ ]
+} ]
