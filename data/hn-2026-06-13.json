@@ -1,0 +1,151 @@
+[ {
+  "title" : "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+  "description" : "Link: https://www.anthropic.com/news/fable-mythos-access | Score: 1758 | Comments: 1345 | By: Dylan1312",
+  "url" : "https://news.ycombinator.com/item?id=48511072",
+  "answers" : [ ]
+}, {
+  "title" : "Our response to the US ban on Fable 5 and Mythos 5",
+  "description" : "Link: https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5 | Score: 86 | Comments: 17 | By: ubutler",
+  "url" : "https://news.ycombinator.com/item?id=48512915",
+  "answers" : [ ]
+}, {
+  "title" : "Electric motors with no rare earths",
+  "description" : "Link: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ | Score: 360 | Comments: 89 | By: bestouff",
+  "url" : "https://news.ycombinator.com/item?id=48510010",
+  "answers" : [ ]
+}, {
+  "title" : "On CPU Physics and CPU Cycles",
+  "description" : "Link: https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730 | Score: 19 | Comments: 1 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=48513222",
+  "answers" : [ ]
+}, {
+  "title" : "Open source AI must win",
+  "description" : "Link: https://opensourceaimustwin.com/?share=v2 | Score: 643 | Comments: 204 | By: vednig",
+  "url" : "https://news.ycombinator.com/item?id=48511908",
+  "answers" : [ ]
+}, {
+  "title" : "There is a shadow hanging over this Fable thing",
+  "description" : "Link: https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow | Score: 22 | Comments: 1 | By: theahura",
+  "url" : "https://news.ycombinator.com/item?id=48513536",
+  "answers" : [ ]
+}, {
+  "title" : "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+  "description" : "Link: https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/ | Score: 773 | Comments: 187 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48505231",
+  "answers" : [ ]
+}, {
+  "title" : "The Future of wasi-gfx and wasi:webgpu",
+  "description" : "Link: https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/ | Score: 17 | Comments: 1 | By: mendyberger",
+  "url" : "https://news.ycombinator.com/item?id=48465634",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Putt.day a daily mini golf game",
+  "description" : "Link: https://putt.day/ | Score: 136 | Comments: 66 | By: ellg",
+  "url" : "https://news.ycombinator.com/item?id=48510341",
+  "answers" : [ ]
+}, {
+  "title" : "Twenty One Zero-Days in FFmpeg",
+  "description" : "Link: https://depthfirst.com/research/21-zero-days-in-ffmpeg | Score: 165 | Comments: 97 | By: redbell",
+  "url" : "https://news.ycombinator.com/item?id=48510046",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+  "description" : "Link: https://github.com/entGriff/ezra | Score: 13 | Comments: 2 | By: ent1c3d",
+  "url" : "https://news.ycombinator.com/item?id=48476202",
+  "answers" : [ "Setting up Kafka or such enterprise oriented software with their clusters or dedicated servers is heavy and bothering enough that most small \nteams or indie hackers skip it entirely and making compromise to use in-memory queues.<p>I wanted something in between: a persistent queue that is simple to run (one binary, which makes one sqlite db), gets real fault isolation and crash recovery due to Elixir, easy to inspect (open ezra.db in any SQLite browser and see every \ntask), and requires no new client library - it speaks the Redis Streams wire protocol, \nso any Redis client in any language just works out of the box.<p>Very short demo video: [<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MLYyD3DVWmE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MLYyD3DVWmE</a>]" ]
+}, {
+  "title" : "How to setup a local coding agent on macOS",
+  "description" : "Link: https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos | Score: 331 | Comments: 79 | By: kkm",
+  "url" : "https://news.ycombinator.com/item?id=48507020",
+  "answers" : [ ]
+}, {
+  "title" : "Swift at Apple: Migrating the TrueType hinting interpreter",
+  "description" : "Link: https://www.swift.org/blog/migrating-truetype-hinting-to-swift/ | Score: 184 | Comments: 73 | By: DASD",
+  "url" : "https://news.ycombinator.com/item?id=48508726",
+  "answers" : [ ]
+}, {
+  "title" : "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+  "description" : "Link: https://koenvangilst.nl/lab/claude-fable-shepherds-dog | Score: 4 | Comments: 0 | By: vnglst",
+  "url" : "https://news.ycombinator.com/item?id=48513728",
+  "answers" : [ ]
+}, {
+  "title" : "Malware developers added nuclear and biological weapons text to to their spyware",
+  "description" : "Link: https://twitter.com/jsrailton/status/2064661778978533571 | Score: 363 | Comments: 205 | By: marc__1",
+  "url" : "https://news.ycombinator.com/item?id=48495928",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;socket.dev&#x2F;blog&#x2F;mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious\" rel=\"nofollow\">https:&#x2F;&#x2F;socket.dev&#x2F;blog&#x2F;mini-shai-hulud-miasma-and-hades-wor...</a>" ]
+}, {
+  "title" : "H.R. 6028 would fundamentally change the U.S. Copyright Office",
+  "description" : "Link: https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul | Score: 194 | Comments: 60 | By: Cider9986",
+  "url" : "https://news.ycombinator.com/item?id=48484496",
+  "answers" : [ ]
+}, {
+  "title" : "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+  "description" : "Link: https://piwodlaiwo.github.io/pirates/ | Score: 235 | Comments: 75 | By: iweczek",
+  "url" : "https://news.ycombinator.com/item?id=48506659",
+  "answers" : [ ]
+}, {
+  "title" : "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+  "description" : "Link: https://tectonic-typesetting.github.io/en-US/ | Score: 33 | Comments: 6 | By: maxloh",
+  "url" : "https://news.ycombinator.com/item?id=48467697",
+  "answers" : [ ]
+}, {
+  "title" : "Slightly reducing the sloppiness of AI generated front end",
+  "description" : "Link: https://envs.net/~volpe/blog/posts/reduce-slop.html | Score: 182 | Comments: 114 | By: FergusArgyll",
+  "url" : "https://news.ycombinator.com/item?id=48504912",
+  "answers" : [ ]
+}, {
+  "title" : "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
+  "description" : "Link: https://github.com/vrtnis/tycoon-learning-environment | Score: 9 | Comments: 1 | By: vrtnis",
+  "url" : "https://news.ycombinator.com/item?id=48511773",
+  "answers" : [ ]
+}, {
+  "title" : "A key remapping daemon for Linux",
+  "description" : "Link: https://github.com/rvaiya/keyd | Score: 32 | Comments: 12 | By: joooscha",
+  "url" : "https://news.ycombinator.com/item?id=48479652",
+  "answers" : [ ]
+}, {
+  "title" : "Palantir loses legal challenge against Swiss investigative magazine",
+  "description" : "Link: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979 | Score: 267 | Comments: 54 | By: sschueller",
+  "url" : "https://news.ycombinator.com/item?id=48509182",
+  "answers" : [ ]
+}, {
+  "title" : "A generic dynamic array in C that stores no capacity and needs no struct",
+  "description" : "Link: https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e | Score: 6 | Comments: 5 | By: alurm",
+  "url" : "https://news.ycombinator.com/item?id=48512286",
+  "answers" : [ ]
+}, {
+  "title" : "SkillSpector",
+  "description" : "Link: https://github.com/NVIDIA/SkillSpector | Score: 34 | Comments: 4 | By: taubek",
+  "url" : "https://news.ycombinator.com/item?id=48509844",
+  "answers" : [ ]
+}, {
+  "title" : "Why a Computer Science Degree Still Opens Hidden Doors",
+  "description" : "Link: https://spectrum.ieee.org/computer-science-degree-isnt-dead | Score: 49 | Comments: 40 | By: jnord",
+  "url" : "https://news.ycombinator.com/item?id=48470152",
+  "answers" : [ ]
+}, {
+  "title" : "If you are asking for human attention, demonstrate human effort",
+  "description" : "Link: https://tombedor.dev/human-attention-and-human-effort/ | Score: 1550 | Comments: 468 | By: jjfoooo4",
+  "url" : "https://news.ycombinator.com/item?id=48497609",
+  "answers" : [ ]
+}, {
+  "title" : "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+  "description" : "Link: https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/ | Score: 89 | Comments: 29 | By: jtlebigot",
+  "url" : "https://news.ycombinator.com/item?id=48504929",
+  "answers" : [ ]
+}, {
+  "title" : "Adaptive PDFs",
+  "description" : "Link: https://sgaud.com/texts/pdf | Score: 138 | Comments: 67 | By: SarthakGaud",
+  "url" : "https://news.ycombinator.com/item?id=48506209",
+  "answers" : [ ]
+}, {
+  "title" : "\"Don't You Just Upload It to ChatGPT?\"",
+  "description" : "Link: https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/ | Score: 381 | Comments: 301 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48507278",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+  "description" : "Link: https://bitboard.work/ | Score: 39 | Comments: 20 | By: arcb",
+  "url" : "https://news.ycombinator.com/item?id=48506545",
+  "answers" : [ "We’re Connor and Ambar from BitBoard (<a href=\"https:&#x2F;&#x2F;bitboard.work\">https:&#x2F;&#x2F;bitboard.work</a>). BitBoard is an agentic analytics workspace. We give you the infrastructure and visualization layer to analyze data with AI.<p>Today, we’re launching dashboards that you and your agents can work on together. You can connect your coding agent or AI chat to BitBoard and build live reporting. Here’s a demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=HPl0K565a7c\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=HPl0K565a7c</a>.<p>AI tools treat data analysis as ephemeral, making it hard to report or collaborate. Legacy BI tools weren’t intended for AI users, so they bolt on chatbots and can’t offer meaningful control to your agents. Software can now make far more of a business legible than BI ever could, but neither legacy BI nor chat bots are built to handle it.<p>Our original product was AI agents for administrative tasks in healthcare (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44237769\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44237769</a>), but customers kept pulling us toward their data analysis problems: queries scattered across disparate sources, spreadsheets floating everywhere. We kept building tooling for addressing that, and at a certain point those tools were becoming our product.<p>We ran into several problems. Agents made bad inferences because they had no context on the business. They couldn&#x27;t be trusted to make decisions because nothing checked their work. And anything one agent or one person figured out was invisible to everyone else. In BitBoard, humans and agents interact with the same data primitives but get tools designed for their own work.<p>We’re building dashboards to make the human reading experience better. These dashboards progressively use intelligence - starting from code or SQL queries and leading to full embedded apps. Humans and agents will need to agree on methods to interpret data, so we’re letting both contribute to canonical sources, entities, and measures (using your favorite semantic model or ours). Every answer comes with provenance, and the same call with the same parameters returns the same number.<p>Looking ahead, these shared primitives let long-running agents operate inside a business, and we&#x27;re building those agents too. An agent needs a measurable goal and a way to verify its work. BitBoard gives it both. The agent takes a problem like a metric drifting or a funnel leaking and figures out what to do next. Its work becomes datasets, dashboards, and traces that the team can observe and sign off on.<p>Technically, we’re building a collaboration engine with isomorphic updates for humans and AI, columnar analysis (we use DuckDB and Apache Arrow), grounding and verification infrastructure, and enabling long running tasks with agent containers and traces. For agentic work we’re big fans of applying LLM judgement to discover problems, and then generating deterministic software to automate them.<p>Try it out at <a href=\"https:&#x2F;&#x2F;app.bitboard.work\">https:&#x2F;&#x2F;app.bitboard.work</a>. (We require an email so we can set up your account).<p>We’re excited about how data analysis and science can change in the age of LLMs, and welcome all your thoughts!" ]
+} ]
