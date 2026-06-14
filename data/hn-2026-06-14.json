@@ -1,0 +1,151 @@
+[ {
+  "title" : "Honda Civics and the Evil Valet",
+  "description" : "Link: https://juniperspring.org/posts/honda-evil-valet/ | Score: 205 | Comments: 33 | By: librick",
+  "url" : "https://news.ycombinator.com/item?id=48523080",
+  "answers" : [ "Previously: <i>Show HN: Honda Civic Infotainment Reverse-Engineering</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753</a> - May 2023 (43 comments)" ]
+}, {
+  "title" : "Tribblix: The retro Illumos distribution",
+  "description" : "Link: http://tribblix.org/ | Score: 17 | Comments: 5 | By: naturalmovement",
+  "url" : "https://news.ycombinator.com/item?id=48524434",
+  "answers" : [ ]
+}, {
+  "title" : "Pac-Man, but you're the ghost",
+  "description" : "Link: https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost | Score: 43 | Comments: 21 | By: mindracer",
+  "url" : "https://news.ycombinator.com/item?id=48524135",
+  "answers" : [ ]
+}, {
+  "title" : "Noise infusion banned from statistical products published by Census Bureau",
+  "description" : "Link: https://desfontain.es/blog/banning-noise.html | Score: 797 | Comments: 492 | By: nl",
+  "url" : "https://news.ycombinator.com/item?id=48517377",
+  "answers" : [ ]
+}, {
+  "title" : "GLM 5.2 Is Out",
+  "description" : "Link: https://twitter.com/jietang/status/2065784751345287314 | Score: 491 | Comments: 268 | By: aloknnikhil",
+  "url" : "https://news.ycombinator.com/item?id=48518684",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn\" rel=\"nofollow\">https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn</a>" ]
+}, {
+  "title" : "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+  "description" : "Link: https://sqltoerdiagram.com/ | Score: 36 | Comments: 11 | By: robhati",
+  "url" : "https://news.ycombinator.com/item?id=48523992",
+  "answers" : [ ]
+}, {
+  "title" : "Every Frame Perfect",
+  "description" : "Link: https://tonsky.me/blog/every-frame-perfect/ | Score: 656 | Comments: 218 | By: ravenical",
+  "url" : "https://news.ycombinator.com/item?id=48516251",
+  "answers" : [ ]
+}, {
+  "title" : "Building a serial and VGA \"everything console\"",
+  "description" : "Link: http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html | Score: 19 | Comments: 0 | By: classichasclass",
+  "url" : "https://news.ycombinator.com/item?id=48523615",
+  "answers" : [ ]
+}, {
+  "title" : "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+  "description" : "Link: https://github.com/kekcleader/FreeOberon | Score: 66 | Comments: 25 | By: peter_d_sherman",
+  "url" : "https://news.ycombinator.com/item?id=48490927",
+  "answers" : [ ]
+}, {
+  "title" : "Treating pancreatic tumours may have revealed cancer's master switch",
+  "description" : "Link: https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch | Score: 341 | Comments: 120 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=48517199",
+  "answers" : [ ]
+}, {
+  "title" : "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
+  "description" : "Link: https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf | Score: 12 | Comments: 1 | By: not_a9",
+  "url" : "https://news.ycombinator.com/item?id=48491376",
+  "answers" : [ ]
+}, {
+  "title" : "Python 3.14 garbage collection rigamarole",
+  "description" : "Link: https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html | Score: 35 | Comments: 17 | By: eatonphil",
+  "url" : "https://news.ycombinator.com/item?id=48503009",
+  "answers" : [ ]
+}, {
+  "title" : "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+  "description" : "Link: https://blog.pyodide.org/posts/314-release/ | Score: 109 | Comments: 26 | By: agriyakhetarpal",
+  "url" : "https://news.ycombinator.com/item?id=48462759",
+  "answers" : [ ]
+}, {
+  "title" : "Weave: Merging based on language structure and not lines",
+  "description" : "Link: https://ataraxy-labs.github.io/weave/ | Score: 20 | Comments: 8 | By: rohanat",
+  "url" : "https://news.ycombinator.com/item?id=48523705",
+  "answers" : [ ]
+}, {
+  "title" : "Making Claude a Chemist",
+  "description" : "Link: https://www.anthropic.com/research/making-claude-a-chemist | Score: 23 | Comments: 9 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48523752",
+  "answers" : [ ]
+}, {
+  "title" : "Software Architecture Guide (2019)",
+  "description" : "Link: https://martinfowler.com/architecture/ | Score: 44 | Comments: 17 | By: laxmena",
+  "url" : "https://news.ycombinator.com/item?id=48524084",
+  "answers" : [ ]
+}, {
+  "title" : "Codex for open source",
+  "description" : "Link: https://openai.com/form/codex-for-oss/ | Score: 216 | Comments: 72 | By: EvgeniyZh",
+  "url" : "https://news.ycombinator.com/item?id=48497195",
+  "answers" : [ ]
+}, {
+  "title" : "The Neat Little Vehicles That Run a Cemetery",
+  "description" : "Link: https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery | Score: 6 | Comments: 0 | By: PaulHoule",
+  "url" : "https://news.ycombinator.com/item?id=48470746",
+  "answers" : [ ]
+}, {
+  "title" : "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+  "description" : "Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink | Score: 636 | Comments: 464 | By: ls612",
+  "url" : "https://news.ycombinator.com/item?id=48519092",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;amazon-ceos-talks-with-u-s-offic...</a>" ]
+}, {
+  "title" : "GameBoy Workboy",
+  "description" : "Link: https://tcrf.net/Workboy | Score: 178 | Comments: 62 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48519552",
+  "answers" : [ ]
+}, {
+  "title" : "Apt Encounters of the Third Kind",
+  "description" : "Link: https://igor-blue.github.io/2021/03/24/apt1.html | Score: 19 | Comments: 4 | By: ogurechny",
+  "url" : "https://news.ycombinator.com/item?id=48523550",
+  "answers" : [ ]
+}, {
+  "title" : "The redistribution of housing wealth caused by rent control [pdf]",
+  "description" : "Link: https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf | Score: 66 | Comments: 91 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=48523773",
+  "answers" : [ ]
+}, {
+  "title" : "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+  "description" : "Link: https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/ | Score: 87 | Comments: 20 | By: rasz",
+  "url" : "https://news.ycombinator.com/item?id=48520080",
+  "answers" : [ ]
+}, {
+  "title" : "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+  "description" : "Link: https://www.phoronix.com/news/ReactOS-Running-Half-Life | Score: 168 | Comments: 25 | By: jeditobe",
+  "url" : "https://news.ycombinator.com/item?id=48522486",
+  "answers" : [ ]
+}, {
+  "title" : "Phoenix LiveView 1.2 Released",
+  "description" : "Link: https://phoenixframework.org/blog/phoenix-liveview-1-2-released | Score: 4 | Comments: 0 | By: ksec",
+  "url" : "https://news.ycombinator.com/item?id=48524293",
+  "answers" : [ ]
+}, {
+  "title" : "A low-carbon computing platform from your retired phones",
+  "description" : "Link: https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/ | Score: 272 | Comments: 143 | By: vikas-sharma",
+  "url" : "https://news.ycombinator.com/item?id=48515336",
+  "answers" : [ ]
+}, {
+  "title" : "Appreciating Exif",
+  "description" : "Link: https://brentfitzgerald.com/posts/appreciating-exif/ | Score: 150 | Comments: 33 | By: burnto",
+  "url" : "https://news.ycombinator.com/item?id=48467437",
+  "answers" : [ ]
+}, {
+  "title" : "Police officer investigated for using AI to 'create evidence' in multiple cases",
+  "description" : "Link: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 | Score: 297 | Comments: 137 | By: austinallegro",
+  "url" : "https://news.ycombinator.com/item?id=48520807",
+  "answers" : [ ]
+}, {
+  "title" : "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+  "description" : "Link: https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/ | Score: 226 | Comments: 76 | By: iMil",
+  "url" : "https://news.ycombinator.com/item?id=48515454",
+  "answers" : [ ]
+}, {
+  "title" : "Ancient genome duplications laid the foundations of complex brains",
+  "description" : "Link: https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains | Score: 31 | Comments: 2 | By: hhs",
+  "url" : "https://news.ycombinator.com/item?id=48522310",
+  "answers" : [ ]
+} ]
