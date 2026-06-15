@@ -1,0 +1,151 @@
+[ {
+  "title" : "Your ePub Is fine",
+  "description" : "Link: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/ | Score: 476 | Comments: 176 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=48533848",
+  "answers" : [ ]
+}, {
+  "title" : "Even more batteries included with Emacs",
+  "description" : "Link: https://karthinks.com/software/even-more-batteries-included-with-emacs/ | Score: 144 | Comments: 25 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=48535886",
+  "answers" : [ ]
+}, {
+  "title" : "Curl will not accept vulnerability reports during July 2026",
+  "description" : "Link: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/ | Score: 177 | Comments: 37 | By: secret-noun",
+  "url" : "https://news.ycombinator.com/item?id=48537165",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+  "description" : "Link: https://github.com/tamnd/kage | Score: 516 | Comments: 107 | By: tamnd",
+  "url" : "https://news.ycombinator.com/item?id=48529990",
+  "answers" : [ ]
+}, {
+  "title" : "Bitsy",
+  "description" : "Link: https://bitsy.org/ | Score: 150 | Comments: 4 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48496290",
+  "answers" : [ ]
+}, {
+  "title" : "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
+  "description" : "Link: https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office | Score: 1 | Comments: 0 | By: sebastianvoelkl",
+  "url" : "https://news.ycombinator.com/item?id=48537556",
+  "answers" : [ ]
+}, {
+  "title" : "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+  "description" : "Link: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/ | Score: 64 | Comments: 13 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=48534628",
+  "answers" : [ ]
+}, {
+  "title" : "The Last Surviving Japanese Porsche 912 Police Car",
+  "description" : "Link: https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car | Score: 43 | Comments: 7 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48511734",
+  "answers" : [ ]
+}, {
+  "title" : "Firewood Splitting Simulator",
+  "description" : "Link: https://screen.toys/firewood/ | Score: 760 | Comments: 235 | By: memalign",
+  "url" : "https://news.ycombinator.com/item?id=48471638",
+  "answers" : [ ]
+}, {
+  "title" : "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+  "description" : "Link: https://github.com/nex-agi/Nex-N2/issues/4 | Score: 328 | Comments: 181 | By: unrvl22",
+  "url" : "https://news.ycombinator.com/item?id=48528371",
+  "answers" : [ ]
+}, {
+  "title" : "Apple Foundation Models",
+  "description" : "Link: https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models | Score: 12 | Comments: 1 | By: MehrdadKhnzd",
+  "url" : "https://news.ycombinator.com/item?id=48536776",
+  "answers" : [ ]
+}, {
+  "title" : "Why does paper fold so well?",
+  "description" : "Link: https://www.bbc.co.uk/programmes/w3ct8k70 | Score: 24 | Comments: 4 | By: zeristor",
+  "url" : "https://news.ycombinator.com/item?id=48520596",
+  "answers" : [ ]
+}, {
+  "title" : "A short history of Cerro Torre, the most controversial mountain (2012)",
+  "description" : "Link: https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/ | Score: 30 | Comments: 11 | By: joebig",
+  "url" : "https://news.ycombinator.com/item?id=48484711",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+  "description" : "Link: https://traceapp.info | Score: 146 | Comments: 55 | By: AG342",
+  "url" : "https://news.ycombinator.com/item?id=48521236",
+  "answers" : [ "I&#x27;m the developer of Trace, a non-intrusive, shortcut-driven Mac app that records and transcribes your meetings on-device. I know, another meeting transcription app. Please bear with me though, I&#x27;m confident that this is at least a little novel.<p>I primarily built Trace for myself. I&#x27;d been using MacWhisper, but there was enough fiddling before each call that I&#x27;d forget to start it and walk out of an hour-long meeting with nothing written down. So the things I cared about most were that it&#x27;s quick to activate and stays out of the way. You activate Trace by pressing a global shortcut (configurable), which reveals a small bar at the bottom of your screen (there&#x27;s also a keystroke and&#x2F;or option to hide it entirely if you&#x27;d rather not see it at all).<p>As I was building it I wanted to bake in a couple of workflows I&#x27;d wished for in other transcription apps.<p>1. Mid-meeting you can press another global shortcut to mark a &quot;key moment&quot; and type a note. The note shows up in the resulting transcript inline at that timestamp. I wanted to add this because I kept catching myself thinking &quot;wait, that bit matters&quot; in meetings and reaching to jot it down in a separate app like Obsidian, which I then needed to add context to, which took me out of the meeting. I use it all the time. If I paste the transcript into an LLM afterwards (which I find myself doing more and more these days) the important moments are flagged so it doesn&#x27;t gloss over them. This is more noticeable in longer meetings with lots of topics.\n2. With another keyboard shortcut you can summon a rough live recap (subtitles, basically) to quickly recap what&#x27;s just been said.<p>Trace uses standard macOS microphone and system recording APIs to capture both sides of the conversation as two separate tracks and then runs the system side through on-device diarization to identify speakers. Right now we only label them as &quot;Speaker 1&quot;, &quot;Speaker 2&quot;, etc but there are plans for speaker labelling in the future. You can also show a &quot;live recap&quot; as the call is happening to review what someone just said.<p>All transcription models run on your machine. To be clear though, Trace doesn&#x27;t do any of the summarising itself, it just produces a markdown transcript, so if you want summaries then you need to pass the output to an AI.<p>The app is sandboxed and your audio&#x2F;transcripts are never uploaded anywhere - they just exist as audio files and markdown on disk. The only network call Trace is required to make is on the first run to download the speech and speaker models (around 500MB) from Hugging Face, and after that it can be used fully offline. If enabled, a Google Calendar integration can auto-name sessions but that needs a network connection.<p>The app is £9.99 on the macOS App Store. I&#x27;ve been using it every day for months now and I&#x27;m super happy with how it&#x27;s improved my workflow. Feedback very welcome." ]
+}, {
+  "title" : "There Is(Ǝ) – Such That (∋)",
+  "description" : "Link: https://www.fractalkitty.com/there-is-3-such-that/ | Score: 4 | Comments: 0 | By: evakhoury",
+  "url" : "https://news.ycombinator.com/item?id=48490649",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: What are you working on? (June 2026)",
+  "description" : "Score: 209 | Comments: 753 | By: david927",
+  "url" : "https://news.ycombinator.com/item?id=48528779",
+  "answers" : [ "What are you working on? Any new ideas that you&#x27;re thinking about?" ]
+}, {
+  "title" : "Formal methods and the future of programming",
+  "description" : "Link: https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1 | Score: 245 | Comments: 86 | By: eatonphil",
+  "url" : "https://news.ycombinator.com/item?id=48526633",
+  "answers" : [ ]
+}, {
+  "title" : "Chaosnet (1981)",
+  "description" : "Link: https://tumbleweed.nu/r/lm-3/uv/amber.html | Score: 78 | Comments: 9 | By: RGBCube",
+  "url" : "https://news.ycombinator.com/item?id=48531449",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;bitsavers.trailing-edge.com&#x2F;pdf&#x2F;mit&#x2F;ai&#x2F;AIM-628_chaosnet.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;bitsavers.trailing-edge.com&#x2F;pdf&#x2F;mit&#x2F;ai&#x2F;AIM-628_chaos...</a>" ]
+}, {
+  "title" : "Show HN: Discover Wikipedia articles popular on Hacker News",
+  "description" : "Link: https://www.orangecrumbs.com/ | Score: 93 | Comments: 25 | By: octopus143",
+  "url" : "https://news.ycombinator.com/item?id=48530382",
+  "answers" : [ ]
+}, {
+  "title" : "Windows 11 users are tired of MS account requirements creeping into everything",
+  "description" : "Link: https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds | Score: 242 | Comments: 164 | By: josephcsible",
+  "url" : "https://news.ycombinator.com/item?id=48533101",
+  "answers" : [ ]
+}, {
+  "title" : "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+  "description" : "Link: https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0 | Score: 40 | Comments: 4 | By: scott_s",
+  "url" : "https://news.ycombinator.com/item?id=48476539",
+  "answers" : [ ]
+}, {
+  "title" : "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+  "description" : "Link: https://su3.io/posts/zeroserve-caddy-compat | Score: 173 | Comments: 52 | By: losfair",
+  "url" : "https://news.ycombinator.com/item?id=48527145",
+  "answers" : [ ]
+}, {
+  "title" : "The only scalable delete in Postgres is DROP TABLE",
+  "description" : "Link: https://planetscale.com/blog/the-only-scalable-delete | Score: 157 | Comments: 56 | By: hollylawly",
+  "url" : "https://news.ycombinator.com/item?id=48492822",
+  "answers" : [ ]
+}, {
+  "title" : "Perlisisms (1982)",
+  "description" : "Link: https://www.cs.yale.edu/homes/perlis-alan/quotes.html | Score: 107 | Comments: 54 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48527820",
+  "answers" : [ ]
+}, {
+  "title" : "Write for One Person",
+  "description" : "Link: https://wizardzines.com/comics/write-for-one-person/ | Score: 185 | Comments: 62 | By: evakhoury",
+  "url" : "https://news.ycombinator.com/item?id=48507039",
+  "answers" : [ ]
+}, {
+  "title" : "Segmented type appreciation corner (2018)",
+  "description" : "Link: https://aresluna.org/segmented-type/ | Score: 71 | Comments: 16 | By: unexpectedVCR",
+  "url" : "https://news.ycombinator.com/item?id=48489636",
+  "answers" : [ ]
+}, {
+  "title" : "Prove you're human by winning a claw machine",
+  "description" : "Link: https://feralui.vercel.app/#/captcha | Score: 54 | Comments: 43 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48503806",
+  "answers" : [ ]
+}, {
+  "title" : "FarOutCompany",
+  "description" : "Link: https://faroutcompany.com/ | Score: 117 | Comments: 19 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48527360",
+  "answers" : [ ]
+}, {
+  "title" : "How to earn a billion dollars",
+  "description" : "Link: https://paulgraham.com/earn.html | Score: 585 | Comments: 1593 | By: kingstoned",
+  "url" : "https://news.ycombinator.com/item?id=48526360",
+  "answers" : [ ]
+}, {
+  "title" : "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+  "description" : "Score: 347 | Comments: 86 | By: iliashad",
+  "url" : "https://news.ycombinator.com/item?id=48528029",
+  "answers" : [ "TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search for those moments, and send the best clips straight to my DaVinci Resolve timeline.  I indexed 628 videos (668.68 GB, 15h 13m 18s of footage duration), more details in the metrics table in the last section of this article.<p>Full article: https:&#x2F;&#x2F;iliashaddad.com&#x2F;blog&#x2F;i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer" ]
+} ]
