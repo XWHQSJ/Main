@@ -1,0 +1,151 @@
+[ {
+  "title" : "The time the x86 emulator team found code so bad they fixed it during emulation",
+  "description" : "Link: https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419 | Score: 159 | Comments: 33 | By: paulmooreparks",
+  "url" : "https://news.ycombinator.com/item?id=48550693",
+  "answers" : [ ]
+}, {
+  "title" : "John Carmack on Fabrice Bellard",
+  "description" : "Link: https://twitter.com/ID_AA_Carmack/status/2064095424420487226 | Score: 101 | Comments: 42 | By: apitman",
+  "url" : "https://news.ycombinator.com/item?id=48550779",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226</a>" ]
+}, {
+  "title" : "A backdoor in a LinkedIn job offer",
+  "description" : "Link: https://roman.pt/posts/linkedin-backdoor/ | Score: 1025 | Comments: 194 | By: lwhsiao",
+  "url" : "https://news.ycombinator.com/item?id=48546294",
+  "answers" : [ ]
+}, {
+  "title" : "Banned Book Library in a Wi-Fi Smart Light Bulb",
+  "description" : "Link: https://www.richardosgood.com/posts/banned-book-library/ | Score: 330 | Comments: 167 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=48547985",
+  "answers" : [ ]
+}, {
+  "title" : "Iroh 1.0",
+  "description" : "Link: https://www.iroh.computer/blog/v1 | Score: 1115 | Comments: 329 | By: chadfowler",
+  "url" : "https://news.ycombinator.com/item?id=48542480",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+  "description" : "Score: 902 | Comments: 414 | By: cloudking",
+  "url" : "https://news.ycombinator.com/item?id=48542100",
+  "answers" : [ "Has anyone here fully swapped Claude&#x2F;GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok&#x2F;s)" ]
+}, {
+  "title" : "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+  "description" : "Link: https://garden-of-flowers.heikkilotvonen.com/ | Score: 41 | Comments: 8 | By: california-og",
+  "url" : "https://news.ycombinator.com/item?id=48550569",
+  "answers" : [ "Hey all, I made this. The archive started with my 2015 BA thesis on Amiga ASCII art when I was curious about the history of ASCII art but found very little on text art that came before it. The historical precursors are often attributed to typewriter art and shaped&#x2F;visual poetry, but I think letterpress is overlooked. So, I got slightly obsessed and started a personal database of pictures built entirely from metal type, ornaments, and rule, some going back to the 1600s. After eight years, I&#x27;ve managed to find ~2500 images. My friend Adel Faure built the website so it&#x27;s now browseable by anyone!<p>I would like to note that most images are from public digital collections (Internet Archive, national libraries, etc.) and displayed without permission (for educational purposes). I&#x27;ve tried to source every image, but check the original source and its license before reusing anything. I&#x27;d be happy to take down or correct anything.<p>It&#x27;s also incomplete and surely has errors and misattributions. Corrections to anything are very welcome.<p>If anyone has leads on works I haven&#x27;t catalogued, I&#x27;d love to hear them! The practice and pictures are scattered across languages and keywords (type picture, typosignet, typotectur, Bildsatz, stigmatypie, stunt typography...), so things hide in odd corners of archives. If you&#x27;ve seen something like this, please point me at it.<p>There&#x27;s also a longer essay on how it began:\n<a href=\"https:&#x2F;&#x2F;garden-of-flowers.heikkilotvonen.com&#x2F;?essay\" rel=\"nofollow\">https:&#x2F;&#x2F;garden-of-flowers.heikkilotvonen.com&#x2F;?essay</a>" ]
+}, {
+  "title" : "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+  "description" : "Link: https://tinywind.io | Score: 762 | Comments: 150 | By: tinywind",
+  "url" : "https://news.ycombinator.com/item?id=48543475",
+  "answers" : [ ]
+}, {
+  "title" : "I hacked into the worst e-bike and fixed it [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=hPrtVGimBYs | Score: 59 | Comments: 21 | By: alexis-d",
+  "url" : "https://news.ycombinator.com/item?id=48479957",
+  "answers" : [ ]
+}, {
+  "title" : "I Love the Computer",
+  "description" : "Link: https://michaelenger.com/blog/i-love-the-computer/ | Score: 209 | Comments: 123 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48546441",
+  "answers" : [ ]
+}, {
+  "title" : "Humanity isn't ready for the coming intelligence explosion",
+  "description" : "Link: https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion | Score: 61 | Comments: 123 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=48549628",
+  "answers" : [ ]
+}, {
+  "title" : "Why I email complete strangers",
+  "description" : "Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/ | Score: 135 | Comments: 58 | By: karakoram",
+  "url" : "https://news.ycombinator.com/item?id=48547566",
+  "answers" : [ ]
+}, {
+  "title" : "Cohere's First Model for Developers",
+  "description" : "Link: https://cohere.com/blog/north-mini-code | Score: 70 | Comments: 17 | By: hmokiguess",
+  "url" : "https://news.ycombinator.com/item?id=48489934",
+  "answers" : [ ]
+}, {
+  "title" : "My Homelab AI Dev Platform",
+  "description" : "Link: https://rsgm.dev/post/ai-dev-platform/ | Score: 294 | Comments: 51 | By: rsgm",
+  "url" : "https://news.ycombinator.com/item?id=48542433",
+  "answers" : [ ]
+}, {
+  "title" : "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+  "description" : "Link: https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/ | Score: 100 | Comments: 89 | By: thelonelyborg",
+  "url" : "https://news.ycombinator.com/item?id=48548975",
+  "answers" : [ ]
+}, {
+  "title" : "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
+  "description" : "Link: https://shonczinner.github.io/posts/embedding-prediction/ | Score: 44 | Comments: 7 | By: Anon84",
+  "url" : "https://news.ycombinator.com/item?id=48490578",
+  "answers" : [ ]
+}, {
+  "title" : "Hetzner Price Adjustment",
+  "description" : "Link: https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers | Score: 405 | Comments: 559 | By: tuhtah",
+  "url" : "https://news.ycombinator.com/item?id=48540844",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.hetzner.com&#x2F;pressroom&#x2F;standardization-and-price-adjustment-of-our-server-products&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.hetzner.com&#x2F;pressroom&#x2F;standardization-and-price-...</a>" ]
+}, {
+  "title" : "The Null Is Always False (Except When It Is True) (2014)",
+  "description" : "Link: http://daniellakens.blogspot.com/2014/06/the-null-is-always-false-except-when-it.html | Score: 4 | Comments: 0 | By: mkl95",
+  "url" : "https://news.ycombinator.com/item?id=48517675",
+  "answers" : [ ]
+}, {
+  "title" : "Peopleless economy? Not technically impossible",
+  "description" : "Link: https://gmalandrakis.com/writings/ad-economicum.html | Score: 160 | Comments: 279 | By: l0new0lf-G",
+  "url" : "https://news.ycombinator.com/item?id=48547062",
+  "answers" : [ ]
+}, {
+  "title" : "What job interviews taught me about Kubernetes",
+  "description" : "Link: https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/ | Score: 160 | Comments: 114 | By: chmaynard",
+  "url" : "https://news.ycombinator.com/item?id=48546428",
+  "answers" : [ ]
+}, {
+  "title" : "Fox to buy Roku",
+  "description" : "Link: https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9 | Score: 312 | Comments: 387 | By: thm",
+  "url" : "https://news.ycombinator.com/item?id=48540499",
+  "answers" : [ ]
+}, {
+  "title" : "What every coder should know about gamma (2016)",
+  "description" : "Link: https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/ | Score: 91 | Comments: 27 | By: sph",
+  "url" : "https://news.ycombinator.com/item?id=48521925",
+  "answers" : [ ]
+}, {
+  "title" : "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+  "description" : "Link: https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins | Score: 287 | Comments: 108 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48542132",
+  "answers" : [ ]
+}, {
+  "title" : "Chili peppers of the world: cultivars, species, and heat",
+  "description" : "Link: https://www.notesfromtheroad.com/desertmexico/chili-peppers.html | Score: 26 | Comments: 2 | By: fanf2",
+  "url" : "https://news.ycombinator.com/item?id=48507128",
+  "answers" : [ ]
+}, {
+  "title" : "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+  "description" : "Link: https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL | Score: 300 | Comments: 220 | By: colesantiago",
+  "url" : "https://news.ycombinator.com/item?id=48540126",
+  "answers" : [ ]
+}, {
+  "title" : "Reviews have become expensive, rewrites have become cheap",
+  "description" : "Link: http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/ | Score: 56 | Comments: 45 | By: arzh2",
+  "url" : "https://news.ycombinator.com/item?id=48548883",
+  "answers" : [ ]
+}, {
+  "title" : "Game Engine White Papers: Commander Keen",
+  "description" : "Link: https://forgottenbytes.net/commander_keen.html | Score: 191 | Comments: 64 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=48544781",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Drafted (YC P26) – Models for residential architecture",
+  "description" : "Score: 52 | Comments: 56 | By: PrimalNick",
+  "url" : "https://news.ycombinator.com/item?id=48543908",
+  "answers" : [ "I’m Nick, founder of Drafted (<a href=\"https:&#x2F;&#x2F;www.drafted.ai\">https:&#x2F;&#x2F;www.drafted.ai</a>). We’re training models that generate residential architecture from structured design constraints.<p>Product demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8QkJ7jNU9y4\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8QkJ7jNU9y4</a><p>Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visualize the outcome. As a result, the vast majority of homes are built without direct architectural involvement.<p>Our goal is to teach computers how the built environment works so anyone can imagine, explore, and eventually create physical spaces tailored to them.<p>Today, users can design homes using simple inputs such as: - Square footage targets - Footprint shapes - Lot boundaries - Room placement preferences - Spatial relationships and constraints.<p>Our models generate complete floor plans and matching exterior elevations in seconds. Users can explore designs in both 2D and 3D, iterate instantly, furnish interiors, experiment with materials, and export CAD, PDF, and other files for the rest of the pre-construction process.<p>One of our newest capabilities allows users to draw any footprint shape and generate a complete home layout inside it: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wZJhBm7-OHI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wZJhBm7-OHI</a>.<p>Over the past month, more than 120,000 people have used Drafted, generating over 325,000 home designs.<p>If you&#x27;re building a home, developing property, working in architecture, construction, or AI, we&#x27;d love to hear your feedback!" ]
+}, {
+  "title" : "How TimescaleDB compresses time-series data",
+  "description" : "Link: https://roszigit.com/en/blog/timescaledb-compression-hypercore | Score: 146 | Comments: 16 | By: lkanwoqwp",
+  "url" : "https://news.ycombinator.com/item?id=48544451",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+  "description" : "Link: https://grassdx.com/ | Score: 60 | Comments: 55 | By: andrewbr",
+  "url" : "https://news.ycombinator.com/item?id=48544823",
+  "answers" : [ "I know, it&#x27;s kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?<p>Frankly, the idea was born of my own lawn care struggles. Endless lawn care company fees without any actual improvement. Googling problems and finding generic solutions without regional considerations. One time I overseeded my grass not realizing I had to actually put soil down too.<p>One day, I decided to run lawn pictures through AI and found some pretty helpful information. So I decided with my clinical background (the idea of treating the cause, not just the symptoms), as well as tech savvy, I would create an AI tool where homeowners can upload pictures of their lawn, enter their ZIP code, and get a diagnosis tailored to their location with actionable next steps in just 15 seconds.<p>Completely free. The platform is monetized with affiliate sales (if a user elects to purchase through one of our Amazon or other links) and by selling exclusive rights to individual ZIP codes to lawn care companies seeking warm leads. Users can pursue their own DIY plan, purchase a lawn care subscription service, or contact a local lawn care system.<p>I&#x27;d love if you&#x27;d test it out, toy with it, try to break it, and give me your feedback. Any feature requests would be super helpful.<p>Thanks! Excited to hear your thoughts.<p>Andrew" ]
+} ]
