@@ -1,0 +1,151 @@
+[ {
+  "title" : "Midjourney Medical",
+  "description" : "Link: https://www.midjourney.com/medical/blogpost | Score: 499 | Comments: 355 | By: ricochet11",
+  "url" : "https://news.ycombinator.com/item?id=48579650",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical\" rel=\"nofollow\">https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical</a><p>Video: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797</a>" ]
+}, {
+  "title" : "I Hate Compilers",
+  "description" : "Link: https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/ | Score: 44 | Comments: 37 | By: xena",
+  "url" : "https://news.ycombinator.com/item?id=48581070",
+  "answers" : [ ]
+}, {
+  "title" : "Local Qwen isn't a worse Opus, it's a different tool",
+  "description" : "Link: https://blog.alexellis.io/local-ai-is-not-opus/ | Score: 116 | Comments: 43 | By: alphabettsy",
+  "url" : "https://news.ycombinator.com/item?id=48580209",
+  "answers" : [ ]
+}, {
+  "title" : "Lore – Open source version control system designed for scalability",
+  "description" : "Link: https://lore.org/ | Score: 1086 | Comments: 582 | By: regnerba",
+  "url" : "https://news.ycombinator.com/item?id=48571081",
+  "answers" : [ ]
+}, {
+  "title" : "Apple boss Tim Cook says prices to rise due to memory chip costs",
+  "description" : "Link: https://www.bbc.com/news/articles/c3wyxvqdx1zo | Score: 44 | Comments: 29 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=48580466",
+  "answers" : [ ]
+}, {
+  "title" : "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+  "description" : "Link: https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/ | Score: 430 | Comments: 479 | By: giuliomagnifico",
+  "url" : "https://news.ycombinator.com/item?id=48565498",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;MlU1U\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;MlU1U</a>" ]
+}, {
+  "title" : "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+  "description" : "Link: https://www.horg.com/horg/?page_id=921 | Score: 126 | Comments: 25 | By: beatthatflight",
+  "url" : "https://news.ycombinator.com/item?id=48578388",
+  "answers" : [ ]
+}, {
+  "title" : "Nim Conf 2026 (Online, Sat June 20)",
+  "description" : "Link: https://conf.nim-lang.org/ | Score: 23 | Comments: 2 | By: pietroppeter",
+  "url" : "https://news.ycombinator.com/item?id=48580504",
+  "answers" : [ ]
+}, {
+  "title" : "Storied Colors – a catalogue of named colors",
+  "description" : "Link: https://storiedcolors.com/ | Score: 141 | Comments: 31 | By: susiecambria",
+  "url" : "https://news.ycombinator.com/item?id=48577374",
+  "answers" : [ ]
+}, {
+  "title" : "[x86] AI Compute Extensions (ACE) Specification",
+  "description" : "Link: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ | Score: 28 | Comments: 13 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=48579913",
+  "answers" : [ ]
+}, {
+  "title" : "Clojure Hosted on Go",
+  "description" : "Link: https://github.com/glojurelang/glojure | Score: 105 | Comments: 13 | By: dnlo",
+  "url" : "https://news.ycombinator.com/item?id=48578326",
+  "answers" : [ ]
+}, {
+  "title" : "Loreline – Tools for writing interactive fiction",
+  "description" : "Link: https://loreline.app/en/ | Score: 123 | Comments: 17 | By: smartmic",
+  "url" : "https://news.ycombinator.com/item?id=48576395",
+  "answers" : [ ]
+}, {
+  "title" : "How Madrid built its metro cheaply (2024)",
+  "description" : "Link: https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/ | Score: 93 | Comments: 47 | By: trymas",
+  "url" : "https://news.ycombinator.com/item?id=48575997",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+  "description" : "Link: https://github.com/Adam-CAD/CADAM | Score: 176 | Comments: 84 | By: zachdive",
+  "url" : "https://news.ycombinator.com/item?id=48572553",
+  "answers" : [ "Hey HN! I&#x27;m Zach from Adam (<a href=\"https:&#x2F;&#x2F;adam.new&#x2F;\">https:&#x2F;&#x2F;adam.new&#x2F;</a>). We&#x27;re building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs:<p>- AI will be the primary medium for creating mechanical designs just like it is in software today.<p>- The best paradigm for CAD generation is to generate CAD as code (text -&gt; code -&gt; CAD).<p>We’re building CADAM, an open source Text to CAD platform. It&#x27;s a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. Think of it like AI TinkerCAD.<p>Demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=iESOr7EGWqk\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=iESOr7EGWqk</a>\nTry it: <a href=\"https:&#x2F;&#x2F;adam.new&#x2F;cadam&#x2F;\">https:&#x2F;&#x2F;adam.new&#x2F;cadam&#x2F;</a><p>What it does:<p>- Generates parametric 3D models from natural language, with support for both text prompts and image references.<p>- Outputs OpenSCAD code with automatically extracted parameters that surface as interactive sliders for instant dimension tweaking<p>- Exports as .STL or .SCAD (plus OBJ, GLB&#x2F;GLTF, FBX, and DXF)<p>Under the hood:<p>- One agentic endpoint with two modes that swap system prompts and tools: a parametric mode that writes&#x2F;edits OpenSCAD via a build_parametric_model tool, and a mesh mode that generates 3D textured meshes.<p>- Simple parameter tweaks bypass the model entirely; adjusting a slider does a deterministic regex update on the SCAD source, requiring no LLM call.<p>- Model-agnostic via the Vercel AI SDK: Anthropic (Claude), Google (Gemini), and OpenAI&#x2F;others through OpenRouter, with adaptive thinking auto-enabled on newer models. Surprisingly, in our evals Gemini 3.1 Pro is the top model.<p>- Runs fully in-browser by compiling OpenSCAD to WebAssembly (in a Web Worker, so the UI never blocks) and rendering with Three.js via React Three Fiber<p>- Supports BOSL, BOSL2, and MCAD libraries, plus custom font support (Geist) for text in models<p>Future improvements:<p>- Support both build123d and CadQuery. This will allow us to move beyond CSG primitives to constraint-driven modeling and provide direct comparisons to other code-as-CAD primitives.<p>- Better spatial context: UI for face&#x2F;edge selection and viewport image integration to give LLMs spatial understanding<p>You can clone the repo and run it locally! Contributions are very welcome." ]
+}, {
+  "title" : "SteamOS Linux 3.8 released as stable",
+  "description" : "Link: https://store.steampowered.com/news/app/1675200/view/697641379212298072 | Score: 83 | Comments: 5 | By: jrepinc",
+  "url" : "https://news.ycombinator.com/item?id=48580686",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: We built an 8-bit CPU as 2nd year EE students",
+  "description" : "Link: https://github.com/c0rRupT9/STEPLA-1 | Score: 60 | Comments: 11 | By: CorRupT9",
+  "url" : "https://news.ycombinator.com/item?id=48546549",
+  "answers" : [ "Hi! me and my friends together built an 8 bit CPU implemented in Logisim purely from scratch. The control unit of this system does not implement the generic microcode ROM or any kind of RAM. This was made purely from discrete logic gates and coded the system to run different programs.<p>key features:\nCustom 16-instruction Harvard ISA, 8-bit fixed \nformat, 4 general purpose registers<p>Hardwired control unit built entirely from AND&#x2F;OR gate logic matrix<p>Dual-phase clocking to eliminate race conditions<p>Bootstrap Control Unit that cold-boots via ROM-to-RAM transfer\nEarly-exit conditional branching that saves upto 25% cycles when conditions aren&#x27;t met<p>Full design specification document with version control<p>Since this was our first time doing such teamwork and a new thing we used RISC based system that fetches an 8-bit instruction from Instruction memory 4 bits of which translate to an instruction the last two bits are for source and destination registers. \nThere are a total of 4 registers in the system with two memory units namely Data SRAM and I SRAM, the system follows a Harvard architecture.<p>There are design discrepancies too since it was our first time designing such a system and on top of that completely hardwired too.<p>To solve the problem of cold booting a bootloader is present too that copies the contents of a temporary ROM into instruction RAM and then hands over the reins to the CPU.<p>We also implemented conditional branching as well as early exit branching too that only checks for zero or carry flag and branches without wasting cycles, if the conditions are not met the Program counter increments.<p>Moreover we also created a complete documentation with version control describing each necessary part assuming prior knowledge.<p>Please take a look at it at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;c0rRupT9&#x2F;STEPLA-1\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;c0rRupT9&#x2F;STEPLA-1</a><p>For future development I want to implement a RISC CPU using FPGA&#x27;s and connect it to an actual DRAM. We are also selling the full spec document and Logisim files for $5 to fund our passion\n<a href=\"https:&#x2F;&#x2F;tcfdiq.gumroad.com&#x2F;l&#x2F;zyyux\" rel=\"nofollow\">https:&#x2F;&#x2F;tcfdiq.gumroad.com&#x2F;l&#x2F;zyyux</a>\nThankyou!" ]
+}, {
+  "title" : "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+  "description" : "Link: https://browser-use.com/posts/firecracker-browser-infra | Score: 257 | Comments: 167 | By: gregpr07",
+  "url" : "https://news.ycombinator.com/item?id=48556561",
+  "answers" : [ ]
+}, {
+  "title" : "RFC 10008: The new HTTP Query Method",
+  "description" : "Link: https://www.rfc-editor.org/info/rfc10008/ | Score: 354 | Comments: 150 | By: schappim",
+  "url" : "https://news.ycombinator.com/item?id=48568502",
+  "answers" : [ ]
+}, {
+  "title" : "Biological evolution and information acquisition",
+  "description" : "Link: https://www.construction-physics.com/p/biological-evolution-and-information | Score: 35 | Comments: 3 | By: chmaynard",
+  "url" : "https://news.ycombinator.com/item?id=48497873",
+  "answers" : [ ]
+}, {
+  "title" : "Why thinking out loud with someone beats thinking alone",
+  "description" : "Link: https://www.thesignalist.io/s/the-dialogue-dividend/ | Score: 233 | Comments: 103 | By: kodesko",
+  "url" : "https://news.ycombinator.com/item?id=48569894",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: An 8-bit live gamecast for baseball",
+  "description" : "Link: https://ribbie.tv/watch | Score: 225 | Comments: 121 | By: brownrout",
+  "url" : "https://news.ycombinator.com/item?id=48573012",
+  "answers" : [ "Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts.<p>Been waiting to share this for when there’s actually a good slate of games happening since the site is pretty bare otherwise.<p>Here is today&#x27;s schedule:<p>Mets @ Reds - 9:40am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;824503\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;824503</a><p>Royals @ Nationals - 10:05am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;822721\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;822721</a><p>Marlins @ Phillies - 10:05am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;823450\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;823450</a><p>Tigers @ Astros - 11:10am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;824178\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;824178</a><p>Padres @ Cardinals - 11:15am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;823044\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;823044</a><p>..and another 14 games throughout the later day.<p>I&#x27;m still early on in this project, but I&#x27;ve tried to add little details with actual stadiums, day and night modes, between inning graphics and interstitials, live scoreboards, etc.<p>Would love any feedback and ideas. Thanks for checking it out!" ]
+}, {
+  "title" : "Show HN: Spin Lab",
+  "description" : "Link: https://srijanshukla.com/artifacts/spin-lab/ | Score: 30 | Comments: 11 | By: srijanshukla18",
+  "url" : "https://news.ycombinator.com/item?id=48554044",
+  "answers" : [ "Hey HN, I built Spin Lab: a browser-based interactive explainer for table-tennis spin. It visualizes topspin&#x2F;backspin, spin rate, ball trajectory, bounce behavior, and why the opponent’s return reacts the way it does. I built it because spin is central to table tennis, but most explanations are either too hand-wavy or too static.<p>Thanks Fable, we miss you" ]
+}, {
+  "title" : "Volkswagen started blocking GrapheneOS users",
+  "description" : "Link: https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3 | Score: 617 | Comments: 374 | By: microtonal",
+  "url" : "https://news.ycombinator.com/item?id=48571526",
+  "answers" : [ ]
+}, {
+  "title" : "Magic Buffers and io_uring Registered Buffers",
+  "description" : "Link: https://www.mindfruit.co.uk/posts/2025/10/magic-buffers-and-io-uring-write-fixed/ | Score: 14 | Comments: 2 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48538615",
+  "answers" : [ ]
+}, {
+  "title" : "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+  "description" : "Link: https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/ | Score: 269 | Comments: 150 | By: Bender",
+  "url" : "https://news.ycombinator.com/item?id=48576838",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Inkwash, a watercolor sketching app and explanation",
+  "description" : "Link: https://johnowhitaker.github.io/inkwash/about | Score: 212 | Comments: 22 | By: Yenrabbit",
+  "url" : "https://news.ycombinator.com/item?id=48523534",
+  "answers" : [ "I&#x27;ve made a drawing app based on my physical sketching practice, using fluid sim and some shader tricks to mimic watercolor-style ink washes. Best used on iPad or with a drawing tablet. The linked article shows how the core engine works, with plenty of little interactive demos. It was fun to make, sharing in hopes others find it fun too :)" ]
+}, {
+  "title" : "Sodium Bicarbonate for In-Hospital Cardiac Arrest – A Randomized Clinical Trial",
+  "description" : "Link: https://jamanetwork.com/journals/jama/fullarticle/2850405 | Score: 9 | Comments: 3 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48511010",
+  "answers" : [ ]
+}, {
+  "title" : "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+  "description" : "Link: https://github.com/rxi/microui | Score: 226 | Comments: 75 | By: peter_d_sherman",
+  "url" : "https://news.ycombinator.com/item?id=48569205",
+  "answers" : [ ]
+}, {
+  "title" : "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+  "description" : "Link: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index | Score: 838 | Comments: 403 | By: himata4113",
+  "url" : "https://news.ycombinator.com/item?id=48567759",
+  "answers" : [ ]
+}, {
+  "title" : "U.S. science is in chaos",
+  "description" : "Link: https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/ | Score: 796 | Comments: 946 | By: presspot",
+  "url" : "https://news.ycombinator.com/item?id=48568058",
+  "answers" : [ ]
+} ]
