@@ -1,0 +1,151 @@
+[ {
+  "title" : "Ice water drowning survival of young patient (2025)",
+  "description" : "Link: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885 | Score: 104 | Comments: 52 | By: js2",
+  "url" : "https://news.ycombinator.com/item?id=48594592",
+  "answers" : [ ]
+}, {
+  "title" : "To study how chips work, MIT researchers built their own operating system",
+  "description" : "Link: https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610 | Score: 142 | Comments: 12 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48543311",
+  "answers" : [ ]
+}, {
+  "title" : "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+  "description" : "Link: https://www.greybeam.ai/blog/duckdb-internals-part-1 | Score: 83 | Comments: 40 | By: marklit",
+  "url" : "https://news.ycombinator.com/item?id=48553388",
+  "answers" : [ ]
+}, {
+  "title" : "So You Want to Define a Well-Known URI",
+  "description" : "Link: https://mnot.net/blog/2026/well_known_uris | Score: 10 | Comments: 0 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=48595331",
+  "answers" : [ ]
+}, {
+  "title" : "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+  "description" : "Link: https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/ | Score: 47 | Comments: 7 | By: mcanouil",
+  "url" : "https://news.ycombinator.com/item?id=48541062",
+  "answers" : [ ]
+}, {
+  "title" : "I found 10k GitHub repositories distributing Trojan malware",
+  "description" : "Link: https://orchidfiles.com/github-repositories-distributing-malware/ | Score: 757 | Comments: 190 | By: theorchid",
+  "url" : "https://news.ycombinator.com/item?id=48583928",
+  "answers" : [ ]
+}, {
+  "title" : "Zen and the Art of Machine Learning Research",
+  "description" : "Link: https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning | Score: 20 | Comments: 1 | By: jxmorris12",
+  "url" : "https://news.ycombinator.com/item?id=48549118",
+  "answers" : [ ]
+}, {
+  "title" : "Zero-Touch OAuth for MCP",
+  "description" : "Link: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ | Score: 174 | Comments: 65 | By: niyikiza",
+  "url" : "https://news.ycombinator.com/item?id=48592163",
+  "answers" : [ ]
+}, {
+  "title" : "Datasette Apps: Host custom HTML applications inside Datasette",
+  "description" : "Link: https://simonwillison.net/2026/Jun/18/datasette-apps/ | Score: 66 | Comments: 22 | By: lumpa",
+  "url" : "https://news.ycombinator.com/item?id=48593731",
+  "answers" : [ ]
+}, {
+  "title" : "Building a robotics research setup that lives next to my desk",
+  "description" : "Link: https://dfdxlabs.com/research/2026/robotics-setup/ | Score: 60 | Comments: 24 | By: mplappert",
+  "url" : "https://news.ycombinator.com/item?id=48586329",
+  "answers" : [ "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class of problems: starting with physical and software setup.<p>A few decisions I&#x27;m least settled on, and would love some pushback&#x2F;feedback on:<p>- single arm vs. bimanual (I went single for cost&#x2F;space, knowing it rules out things like folding cloth)<p>- not calibrating camera extrinsics&#x2F;intrinsics for now<p>- RGB vs. RGB-D for from-scratch policies (ACT &#x2F; Diffusion Policy)<p>And one I&#x27;m more confident about but expect disagreement on: not building on ROS 2 &#x2F; LeRobot, and writing my own stack instead. Happy to get into the reasoning." ]
+}, {
+  "title" : "DARPA Heavy Life Challenge",
+  "description" : "Link: https://www.darpa.mil/research/challenges/lift | Score: 10 | Comments: 5 | By: mhb",
+  "url" : "https://news.ycombinator.com/item?id=48594933",
+  "answers" : [ ]
+}, {
+  "title" : "Ubiquiti: Enterprise NAS, Built on ZFS",
+  "description" : "Link: https://blog.ui.com/article/introducing-enterprise-nas | Score: 317 | Comments: 272 | By: ksec",
+  "url" : "https://news.ycombinator.com/item?id=48585866",
+  "answers" : [ ]
+}, {
+  "title" : "Many Let's Encrypt renewals had errors today",
+  "description" : "Link: https://letsencrypt.status.io/#2026 | Score: 122 | Comments: 71 | By: widdakay",
+  "url" : "https://news.ycombinator.com/item?id=48594715",
+  "answers" : [ ]
+}, {
+  "title" : "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+  "description" : "Link: https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/ | Score: 354 | Comments: 50 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=48583606",
+  "answers" : [ ]
+}, {
+  "title" : "Cell-based architecture for resilient payment systems",
+  "description" : "Link: https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/ | Score: 117 | Comments: 46 | By: birdculture",
+  "url" : "https://news.ycombinator.com/item?id=48547969",
+  "answers" : [ ]
+}, {
+  "title" : "How Japan's railways stayed one while splitting apart",
+  "description" : "Link: https://arun.is/blog/jr-logo/ | Score: 81 | Comments: 64 | By: ddrmaxgt37",
+  "url" : "https://news.ycombinator.com/item?id=48570730",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Talos – Open-source WASM interpreter for Lean",
+  "description" : "Link: https://github.com/cajal-technologies/talos | Score: 40 | Comments: 5 | By: mfornet",
+  "url" : "https://news.ycombinator.com/item?id=48584761",
+  "answers" : [ "At Cajal (YC W26) we’re excited to share Talos (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;cajal-technologies&#x2F;talos\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cajal-technologies&#x2F;talos</a>), an open source framework for formal verification of WebAssembly modules in Lean.<p>AI is now writing tons of the code that gets pushed to production. As code generation gets cheaper, verification becomes the bottleneck. We believe in a future where every piece of software comes with a mathematical proof that it does what its author intended - in doing so, eliminating many classes of exploits. Talos is part of the foundation for that.<p>Talos provides a Wasm interpreter optimized for reasoning at the binary level, together with a weakest-precondition calculus layer for proving properties about programs. Because we reason directly about WebAssembly, any language with a Wasm backend is in scope: Rust, C++, Go, C, Swift, Kotlin, Zig, C#, and many more.<p>To make this possible, we use Lean: a programming language and theorem prover that lets you both write software and mathematically prove that it&#x27;s correct - all in one system. That&#x27;s what lets Talos double as both an executable interpreter and the formal object Lean reasons about. Lean also integrates with modern AI proving tools, discharging goals automatically via both proof search and direct evaluation.<p>To see Talos in action check out a proof for Stein&#x27;s GCD algorithm, implemented in the popular Rust crate num-integer: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cajal-technologies&#x2F;talos&#x2F;blob&#x2F;main&#x2F;programs&#x2F;lean&#x2F;Project&#x2F;NumInteger&#x2F;Spec.lean#L562-L588\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cajal-technologies&#x2F;talos&#x2F;blob&#x2F;main&#x2F;progra...</a>.<p>Our roadmap:<p>- Full Wasm coverage by first passing the official W3C testsuite, then later verifying against SpecTec (formal Wasm spec)\n- Arbitrary crate verification - any Rust crate that compiles to Wasm should be in scope\n- Building our proof library codelib, to make verifying increasingly complex programs tractable<p>We would love to hear the community’s feedback on Talos and comments on the state of formal verification right now. Contributions are also welcome!" ]
+}, {
+  "title" : "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+  "description" : "Link: https://www.flexport.com/company/careers/ | Score: 1 | Comments: 0 | By: thedogeye",
+  "url" : "https://news.ycombinator.com/item?id=48593694",
+  "answers" : [ ]
+}, {
+  "title" : ".gitignore Isn't the only way to ignore files in Git",
+  "description" : "Link: https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/ | Score: 375 | Comments: 119 | By: FergusArgyll",
+  "url" : "https://news.ycombinator.com/item?id=48583356",
+  "answers" : [ ]
+}, {
+  "title" : "Hospitals and universities repurposing drugs at lower cost",
+  "description" : "Link: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost | Score: 302 | Comments: 132 | By: giuliomagnifico",
+  "url" : "https://news.ycombinator.com/item?id=48583386",
+  "answers" : [ ]
+}, {
+  "title" : "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
+  "description" : "Link: https://horizons.lambda-combine.net/ | Score: 47 | Comments: 1 | By: adityaathalye",
+  "url" : "https://news.ycombinator.com/item?id=48536167",
+  "answers" : [ ]
+}, {
+  "title" : "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+  "description" : "Link: https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/ | Score: 332 | Comments: 171 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48589501",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260618212028&#x2F;https:&#x2F;&#x2F;www.thatprivacyguy.com&#x2F;blog&#x2F;elkjop-forced-consent-fine&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260618212028&#x2F;https:&#x2F;&#x2F;www.thatp...</a><p><a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;I4zjA\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;I4zjA</a>" ]
+}, {
+  "title" : "Show HN: Are You in the Weights?",
+  "description" : "Link: https://www.intheweights.com/ | Score: 306 | Comments: 166 | By: turtlesoup",
+  "url" : "https://news.ycombinator.com/item?id=48591348",
+  "answers" : [ "With more traffic moving off-web and into LLMs, I got curious about what traces we leave &quot;in the weights&quot;. My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you. Happy to answer any questions here!" ]
+}, {
+  "title" : "If your product is Great, it doesn't need to be Good (2010)",
+  "description" : "Link: http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html | Score: 62 | Comments: 39 | By: skogstokig",
+  "url" : "https://news.ycombinator.com/item?id=48544429",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+  "description" : "Link: https://tester.army | Score: 114 | Comments: 49 | By: okwasniewski",
+  "url" : "https://news.ycombinator.com/item?id=48586299",
+  "answers" : [ "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (<a href=\"https:&#x2F;&#x2F;tester.army\">https:&#x2F;&#x2F;tester.army</a>). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or maintaining static scripts, we let you specify your tests in natural language and handle everything in between. We&#x27;ve built the platform fully around agents. Our agent will reliably execute the tests, but your coding agent can manage everything in our platform, from defining tests in natural language to running them on your behalf.<p>Check out our demo video: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=291IkUbPrlk\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=291IkUbPrlk</a>.<p>We started TesterArmy because testing is still far too painful. AI coding tools have made it dramatically faster to write and ship code, but testing is still a bottleneck. Traditional E2E tests are slow to set up and expensive to maintain. Managing auth and test users is painful. Setting up staging environments is painful. Running tests reliably is painful.<p>We think most teams do not actually want to spend their time writing selectors or maintaining test infrastructure. They just want confidence that their core flows work. With TesterArmy, an engineer can sign up, give an agent our CLI, and let it handle creating tests and running them on schedule or on GitHub.<p>When something breaks, TesterArmy alerts your team through Slack or Discord.<p>Over the past few months, we scaled from 0 to 30+ teams using our product every day. We caught bugs in critical flows, including onboarding, checkout, and AI chat. We&#x27;ve got many of our customers migrating from already established competitors to us because of the quality and reliability of our agents.<p>Here are a few of the recent bugs that our agent found (there were quite a lot of them!):<p>1) Timezone bug that affected the booking flow in one of our clients&#x27; apps, the dashboard was very complex and hard to catch by a human. \n2) Regression in agent orchestration that caused a sandboxed environment to be stuck on loading, thanks to TesterArmy, the team was able to resolve it before it hit production.\n3) Incorrectly counting the order amount in a complex dashboard flow with checkout, thanks to TesterArmy, the team was able to resolve it before it affected revenue\n4) Catching a regression in an AI chat flow that would result in a user not being able to retrieve their data due to broken tool calling.<p>And many more, mostly related to some incorrect API calls, 404s, unhandled errors, etc.<p>If this sounds useful, we would love your feedback at <a href=\"https:&#x2F;&#x2F;tester.army\">https:&#x2F;&#x2F;tester.army</a>. We have a bunch of free test runs for you to try. And don’t worry, we won’t make you do sales calls, and we don’t have long onboarding or annoying setup. Our goal is an it-just-works experience.<p>If you&#x27;re looking for an end-to-end testing solution, we&#x27;d love to hear your feedback!" ]
+}, {
+  "title" : "W Social, public institutions and the theater of European digital sovereignty",
+  "description" : "Link: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/ | Score: 198 | Comments: 132 | By: nemoniac",
+  "url" : "https://news.ycombinator.com/item?id=48584497",
+  "answers" : [ ]
+}, {
+  "title" : "Zork name origin got an update on Wikipedia",
+  "description" : "Link: https://www.dpolakovic.space/blogs/zork-part2#update | Score: 78 | Comments: 12 | By: dpola",
+  "url" : "https://news.ycombinator.com/item?id=48591066",
+  "answers" : [ ]
+}, {
+  "title" : "Modos Color Monitor Pushes E-Paper Displays Further",
+  "description" : "Link: https://spectrum.ieee.org/modos-e-paper-monitor | Score: 264 | Comments: 67 | By: Vinnl",
+  "url" : "https://news.ycombinator.com/item?id=48583897",
+  "answers" : [ ]
+}, {
+  "title" : "Noam Shazeer Joins OpenAI",
+  "description" : "Link: https://twitter.com/NoamShazeer/status/2067400851438932297 | Score: 324 | Comments: 313 | By: lukasgross",
+  "url" : "https://news.ycombinator.com/item?id=48578913",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;NoamShazeer&#x2F;status&#x2F;2067400851438932297\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;NoamShazeer&#x2F;status&#x2F;2067400851438932297</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;googles-gemini-co-lead-no...</a>" ]
+}, {
+  "title" : "How Alberta Eradicated Rats",
+  "description" : "Link: https://worksinprogress.co/issue/albertas-war-on-rats/ | Score: 166 | Comments: 116 | By: tzury",
+  "url" : "https://news.ycombinator.com/item?id=48584709",
+  "answers" : [ ]
+} ]
