@@ -1,0 +1,151 @@
+[ {
+  "title" : "Zigzag Decoding with AVX-512",
+  "description" : "Link: https://zeux.io/2026/06/17/zigzag-decoding-avx512/ | Score: 31 | Comments: 0 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=48573902",
+  "answers" : [ ]
+}, {
+  "title" : "Developers don't understand CORS (2019)",
+  "description" : "Link: https://fosterelli.co/developers-dont-understand-cors | Score: 110 | Comments: 45 | By: toilet",
+  "url" : "https://news.ycombinator.com/item?id=48614844",
+  "answers" : [ ]
+}, {
+  "title" : "Building reliable agentic AI systems",
+  "description" : "Link: https://martinfowler.com/articles/reliable-llm-bayer.html | Score: 53 | Comments: 10 | By: sarangk90",
+  "url" : "https://news.ycombinator.com/item?id=48615680",
+  "answers" : [ ]
+}, {
+  "title" : "Renting a sewing machine from the library",
+  "description" : "Link: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland | Score: 191 | Comments: 96 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=48613755",
+  "answers" : [ ]
+}, {
+  "title" : "Loupe – A iOS app that raises awareness about what native apps can see",
+  "description" : "Link: https://github.com/mysk-research/loupe | Score: 197 | Comments: 53 | By: Cider9986",
+  "url" : "https://news.ycombinator.com/item?id=48608645",
+  "answers" : [ ]
+}, {
+  "title" : "The 100k Whys of AI",
+  "description" : "Link: https://lcamtuf.substack.com/p/the-100000-whys-of-ai | Score: 30 | Comments: 4 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48616017",
+  "answers" : [ ]
+}, {
+  "title" : "Epoll vs. io_uring in Linux",
+  "description" : "Link: https://sibexi.co/posts/epoll-vs-io_uring/ | Score: 119 | Comments: 33 | By: Sibexico",
+  "url" : "https://news.ycombinator.com/item?id=48613872",
+  "answers" : [ ]
+}, {
+  "title" : "Slow breathing modulates brain function and risk behavior",
+  "description" : "Link: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9 | Score: 145 | Comments: 32 | By: croes",
+  "url" : "https://news.ycombinator.com/item?id=48613555",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: TownSquare, a tiny presence layer for websites",
+  "description" : "Link: https://townsquare.cauenapier.com/ | Score: 138 | Comments: 69 | By: cauenapier",
+  "url" : "https://news.ycombinator.com/item?id=48608570",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare_release&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare_release&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare&#x2F;</a>" ]
+}, {
+  "title" : "15-minute at-home Lyme disease tick test",
+  "description" : "Link: https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/ | Score: 85 | Comments: 30 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48584261",
+  "answers" : [ ]
+}, {
+  "title" : "Your brain was never designed for this much bad news",
+  "description" : "Link: https://www.sciencedaily.com/releases/2026/06/260614012006.htm | Score: 92 | Comments: 62 | By: colinprince",
+  "url" : "https://news.ycombinator.com/item?id=48615569",
+  "answers" : [ ]
+}, {
+  "title" : "Guide to the TD4 4-bit DIY CPU",
+  "description" : "Link: https://www.philipzucker.com/td4-4bit-cpu/ | Score: 23 | Comments: 1 | By: andrewstuart",
+  "url" : "https://news.ycombinator.com/item?id=48591276",
+  "answers" : [ ]
+}, {
+  "title" : "SMPTE Makes Its Standards Freely Accessible",
+  "description" : "Link: https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community | Score: 246 | Comments: 72 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48610827",
+  "answers" : [ ]
+}, {
+  "title" : "When I reject AI code even if it works",
+  "description" : "Link: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ | Score: 138 | Comments: 78 | By: vnbrs",
+  "url" : "https://news.ycombinator.com/item?id=48614631",
+  "answers" : [ ]
+}, {
+  "title" : "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+  "description" : "Link: https://www.lispm.net/apps/uhf-x11/ | Score: 191 | Comments: 33 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48610853",
+  "answers" : [ ]
+}, {
+  "title" : "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+  "description" : "Link: https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html | Score: 233 | Comments: 62 | By: LowLevelMahn",
+  "url" : "https://news.ycombinator.com/item?id=48609766",
+  "answers" : [ ]
+}, {
+  "title" : "Unauthorized alert sent to cell phones across Brazil",
+  "description" : "Link: https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam | Score: 120 | Comments: 84 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48612502",
+  "answers" : [ ]
+}, {
+  "title" : "Armstrong Effect",
+  "description" : "Link: https://en.wikipedia.org/wiki/Armstrong_effect | Score: 22 | Comments: 1 | By: userbinator",
+  "url" : "https://news.ycombinator.com/item?id=48615529",
+  "answers" : [ ]
+}, {
+  "title" : "Whole cross-sectional human ultrasound tomography",
+  "description" : "Link: https://www.nature.com/articles/s41551-026-01660-4 | Score: 60 | Comments: 10 | By: lnyan",
+  "url" : "https://news.ycombinator.com/item?id=48582894",
+  "answers" : [ ]
+}, {
+  "title" : "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+  "description" : "Link: https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems | Score: 68 | Comments: 18 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=48554206",
+  "answers" : [ ]
+}, {
+  "title" : "Project Fetch: Phase Two",
+  "description" : "Link: https://www.anthropic.com/research/project-fetch-phase-two | Score: 54 | Comments: 19 | By: stopachka",
+  "url" : "https://news.ycombinator.com/item?id=48614311",
+  "answers" : [ ]
+}, {
+  "title" : "NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage",
+  "description" : "Link: https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/ | Score: 33 | Comments: 2 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=48564763",
+  "answers" : [ ]
+}, {
+  "title" : "The Lost Story of Alan Turing's \"Delilah\" Project",
+  "description" : "Link: https://spectrum.ieee.org/alan-turings-delilah | Score: 7 | Comments: 1 | By: asdefghyk",
+  "url" : "https://news.ycombinator.com/item?id=48615890",
+  "answers" : [ ]
+}, {
+  "title" : "Alice is impatient",
+  "description" : "Link: https://brooker.co.za/blog/2026/06/19/waiting.html | Score: 80 | Comments: 24 | By: birdculture",
+  "url" : "https://news.ycombinator.com/item?id=48612740",
+  "answers" : [ ]
+}, {
+  "title" : "Linux eliminates the strncpy API after six years of work, 360 patches",
+  "description" : "Link: https://www.phoronix.com/news/Linux-7.2-Drops-strncpy | Score: 169 | Comments: 135 | By: simonpure",
+  "url" : "https://news.ycombinator.com/item?id=48612943",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;git.kernel.org&#x2F;pub&#x2F;scm&#x2F;linux&#x2F;kernel&#x2F;git&#x2F;torvalds&#x2F;linux.git&#x2F;commit&#x2F;?id=1a3746ccbb0a97bed3c06ccde6b880013b1dddc1\" rel=\"nofollow\">https:&#x2F;&#x2F;git.kernel.org&#x2F;pub&#x2F;scm&#x2F;linux&#x2F;kernel&#x2F;git&#x2F;torvalds&#x2F;lin...</a>" ]
+}, {
+  "title" : "Temporary Cloudflare accounts for AI agents",
+  "description" : "Link: https://blog.cloudflare.com/temporary-accounts/ | Score: 200 | Comments: 104 | By: farhadhf",
+  "url" : "https://news.ycombinator.com/item?id=48608394",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+  "description" : "Link: https://startupwiki.tech/ | Score: 187 | Comments: 58 | By: shpran",
+  "url" : "https://news.ycombinator.com/item?id=48610224",
+  "answers" : [ "I&#x27;ve been building StartupWiki, a free startup database designed to make it easier to discover and research companies.<p>The original motivation was frustration with how difficult it can be to find information on early-stage startups. Most databases need accounts, or subscriptions, ro just feel too cluttered. I wanted a website that felt like Wikipedia, no accounts, no subscriptions, no weird metrics, just go in, the info is on the page.<p>The project is still very early, but currently includes:<p>Startup profiles\nSearch and filtering\nCompany categorization\nPublic API (in progress)<p>I&#x27;m especially interested in feedback on:<p>What information you look for when researching startups\nFeatures missing from existing startup databases\nAPI use cases<p>I&#x27;d love to hear feedback." ]
+}, {
+  "title" : "Proportional-Integral-Derivative Controllers",
+  "description" : "Link: https://en.wikipedia.org/wiki/PID_controller | Score: 17 | Comments: 5 | By: dhorthy",
+  "url" : "https://news.ycombinator.com/item?id=48600311",
+  "answers" : [ ]
+}, {
+  "title" : "The rise of South Korea’s weapons business",
+  "description" : "Link: https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559 | Score: 137 | Comments: 48 | By: JumpCrisscross",
+  "url" : "https://news.ycombinator.com/item?id=48608515",
+  "answers" : [ ]
+}, {
+  "title" : "Inference cost at scale with napkin math",
+  "description" : "Link: https://injuly.in/blog/napkin-inference-cost/index.html | Score: 74 | Comments: 15 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=48560227",
+  "answers" : [ ]
+} ]
