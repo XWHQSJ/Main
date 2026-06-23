@@ -1,0 +1,151 @@
+[ {
+  "title" : "Will It Mythos?",
+  "description" : "Link: https://swelljoe.com/post/will-it-mythos/ | Score: 75 | Comments: 41 | By: mindingnever",
+  "url" : "https://news.ycombinator.com/item?id=48640196",
+  "answers" : [ ]
+}, {
+  "title" : "Steam Machine launches today",
+  "description" : "Link: https://store.steampowered.com/news/group/45479024/view/685257114654870245 | Score: 1405 | Comments: 1263 | By: theschwa",
+  "url" : "https://news.ycombinator.com/item?id=48632884",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine\" rel=\"nofollow\">https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine</a><p><a href=\"https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE</a>" ]
+}, {
+  "title" : "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+  "description" : "Link: https://arxiv.org/abs/2606.16140 | Score: 98 | Comments: 32 | By: timhigins",
+  "url" : "https://news.ycombinator.com/item?id=48639240",
+  "answers" : [ ]
+}, {
+  "title" : "GLM-5.2 – How to Run Locally",
+  "description" : "Link: https://unsloth.ai/docs/models/glm-5.2 | Score: 295 | Comments: 138 | By: TechTechTech",
+  "url" : "https://news.ycombinator.com/item?id=48636377",
+  "answers" : [ ]
+}, {
+  "title" : "Polymarket has flooded social media with deceptive videos by paid creators",
+  "description" : "Link: https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2 | Score: 153 | Comments: 131 | By: Vaslo",
+  "url" : "https://news.ycombinator.com/item?id=48614715",
+  "answers" : [ ]
+}, {
+  "title" : "In praise of memcached",
+  "description" : "Link: https://jchri.st/blog/in-praise-of-memcached/ | Score: 104 | Comments: 40 | By: j03b",
+  "url" : "https://news.ycombinator.com/item?id=48638886",
+  "answers" : [ ]
+}, {
+  "title" : "An Introduction to YOLO26",
+  "description" : "Link: https://blog.roboflow.com/yolo26/ | Score: 44 | Comments: 10 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=48639165",
+  "answers" : [ ]
+}, {
+  "title" : "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+  "description" : "Link: https://github.com/dorukkumkumoglu/optocamzero | Score: 145 | Comments: 33 | By: iamnothere",
+  "url" : "https://news.ycombinator.com/item?id=48634778",
+  "answers" : [ ]
+}, {
+  "title" : "Cyberdecks, going analog, and convivial technology",
+  "description" : "Link: https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/ | Score: 80 | Comments: 34 | By: akkartik",
+  "url" : "https://news.ycombinator.com/item?id=48605776",
+  "answers" : [ ]
+}, {
+  "title" : "My Mathematical Regression",
+  "description" : "Link: https://blog.dahl.dev/posts/my-mathematical-regression/ | Score: 256 | Comments: 100 | By: aleda145",
+  "url" : "https://news.ycombinator.com/item?id=48597221",
+  "answers" : [ ]
+}, {
+  "title" : "Japanese symbols that speak without words",
+  "description" : "Link: https://arun.is/blog/japan-symbols/ | Score: 153 | Comments: 73 | By: msephton",
+  "url" : "https://news.ycombinator.com/item?id=48634803",
+  "answers" : [ ]
+}, {
+  "title" : "Package Managers need global hooks",
+  "description" : "Link: https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/ | Score: 15 | Comments: 9 | By: evakhoury",
+  "url" : "https://news.ycombinator.com/item?id=48586767",
+  "answers" : [ ]
+}, {
+  "title" : "Moebius: 0.2B image inpainting model with 10B-level performance",
+  "description" : "Link: https://hustvl.github.io/Moebius/ | Score: 263 | Comments: 67 | By: DSemba",
+  "url" : "https://news.ycombinator.com/item?id=48630171",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Oak – Git alternative designed for agents",
+  "description" : "Link: https://oak.space/oak/oak | Score: 172 | Comments: 155 | By: zdgeier",
+  "url" : "https://news.ycombinator.com/item?id=48631726",
+  "answers" : [ "Oak is a version control system I&#x27;ve been working on designed for agents (<a href=\"https:&#x2F;&#x2F;oak.space\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can work on many tasks in parallel without needing to download everything or fight worktrees. Version control shouldn&#x27;t waste you or your agents time. It should be fast, creative and fun to make things with agents.<p>Oak is still early in development. There&#x27;s no Windows build and missing plenty of features (no CI, no issues, no comments). We still use GitHub Actions for building Oak now, but we&#x27;ve been fully bootstrapped on Oak with no Git backup for several months: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;oak&#x2F;oak\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;oak&#x2F;oak</a>.<p>Blog post: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;blog#git-is-forever\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;blog#git-is-forever</a><p>Docs: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;docs\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;docs</a>" ]
+}, {
+  "title" : "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+  "description" : "Link: https://arxiv.org/abs/2606.03748 | Score: 21 | Comments: 1 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=48639434",
+  "answers" : [ ]
+}, {
+  "title" : "Windows NT for GameCube/Wii",
+  "description" : "Link: https://github.com/Wack0/entii-for-workcubes | Score: 44 | Comments: 7 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48598591",
+  "answers" : [ ]
+}, {
+  "title" : "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+  "description" : "Link: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509 | Score: 411 | Comments: 256 | By: geox",
+  "url" : "https://news.ycombinator.com/item?id=48634585",
+  "answers" : [ ]
+}, {
+  "title" : "1,700 free online courses from top universities",
+  "description" : "Link: https://www.openculture.com/freeonlinecourses | Score: 135 | Comments: 26 | By: momentmaker",
+  "url" : "https://news.ycombinator.com/item?id=48639184",
+  "answers" : [ ]
+}, {
+  "title" : "Canyon HUD helmet for road riding",
+  "description" : "Link: https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/ | Score: 86 | Comments: 96 | By: zh3",
+  "url" : "https://news.ycombinator.com/item?id=48609129",
+  "answers" : [ ]
+}, {
+  "title" : "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+  "description" : "Link: https://ipvm.com/reports/police-chiefs-track | Score: 462 | Comments: 190 | By: jhonovich",
+  "url" : "https://news.ycombinator.com/item?id=48634694",
+  "answers" : [ ]
+}, {
+  "title" : "Kyber (YC W23) Is Hiring a Head of Engineering",
+  "description" : "Link: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering | Score: 1 | Comments: 0 | By: asontha",
+  "url" : "https://news.ycombinator.com/item?id=48636125",
+  "answers" : [ ]
+}, {
+  "title" : "British Columbia, Time Zones, and Postgres",
+  "description" : "Link: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes | Score: 129 | Comments: 89 | By: sprawl_",
+  "url" : "https://news.ycombinator.com/item?id=48634787",
+  "answers" : [ ]
+}, {
+  "title" : "Is it time for a new Embedded Linux build system?",
+  "description" : "Link: https://yoebuild.org/blog/time-for-a-new-build-system/ | Score: 63 | Comments: 46 | By: cbrake",
+  "url" : "https://news.ycombinator.com/item?id=48588247",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+  "description" : "Link: https://github.com/Amal-David/pagecast | Score: 40 | Comments: 12 | By: amaldavid",
+  "url" : "https://news.ycombinator.com/item?id=48590505",
+  "answers" : [ "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes those files to your own Cloudflare Pages account.<p>It supports Markdown and HTML, stable URLs, renaming, republishing to the same URL, and watch mode for continuous updates to same file. It is MIT licensed.<p>The main design choice is that there is no hosted Pagecast account. It uses your Cloudflare account and deploys there directly and has claude code and codex integrations as skill&#x2F;hooks.<p>Basically it can be used as a replacement for codex sites or claude artifacts" ]
+}, {
+  "title" : "Prompt Injection as Role Confusion",
+  "description" : "Link: https://role-confusion.github.io | Score: 174 | Comments: 93 | By: x312",
+  "url" : "https://news.ycombinator.com/item?id=48631888",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2603.12277\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2603.12277</a>" ]
+}, {
+  "title" : "Show HN: Got sick of ads, so I made my own logic puzzle site",
+  "description" : "Link: https://puzzlelair.com/ | Score: 168 | Comments: 109 | By: HaxleRose",
+  "url" : "https://news.ycombinator.com/item?id=48629213",
+  "answers" : [ ]
+}, {
+  "title" : "Help I accidentally a wigglegram",
+  "description" : "Link: https://lmao.center/blog/wiggle-accidents/ | Score: 516 | Comments: 121 | By: gregsadetsky",
+  "url" : "https://news.ycombinator.com/item?id=48605561",
+  "answers" : [ ]
+}, {
+  "title" : "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+  "description" : "Link: https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center | Score: 137 | Comments: 123 | By: cdrnsf",
+  "url" : "https://news.ycombinator.com/item?id=48630029",
+  "answers" : [ ]
+}, {
+  "title" : "Deno Desktop",
+  "description" : "Link: https://docs.deno.com/runtime/desktop/ | Score: 1050 | Comments: 380 | By: GeneralMaximus",
+  "url" : "https://news.ycombinator.com/item?id=48626137",
+  "answers" : [ ]
+}, {
+  "title" : "Job application asked for my SAT scores",
+  "description" : "Link: https://mrmarket.lol/job-application-asked-for-my-sat-scores/ | Score: 126 | Comments: 298 | By: seltzerboys",
+  "url" : "https://news.ycombinator.com/item?id=48636062",
+  "answers" : [ ]
+} ]
