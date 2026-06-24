@@ -1,0 +1,151 @@
+[ {
+  "title" : "Vulnerability reports are not special anymore",
+  "description" : "Link: https://words.filippo.io/vuln-reports/ | Score: 187 | Comments: 93 | By: goranmoomin",
+  "url" : "https://news.ycombinator.com/item?id=48653216",
+  "answers" : [ ]
+}, {
+  "title" : "Jerry's Map",
+  "description" : "Link: http://www.jerrysmap.com/the-map | Score: 406 | Comments: 50 | By: turtleyacht",
+  "url" : "https://news.ycombinator.com/item?id=48649435",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawing-a-map-of-an-imaginary-land-since-1963.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin...</a>" ]
+}, {
+  "title" : "Show HN: An ASCII 3D Rendering Engine",
+  "description" : "Link: https://glyphcss.com | Score: 43 | Comments: 19 | By: apresmoi",
+  "url" : "https://news.ycombinator.com/item?id=48612025",
+  "answers" : [ ]
+}, {
+  "title" : "Qwen-AgentWorld: Language World Models for General Agents",
+  "description" : "Link: https://arxiv.org/abs/2606.24597 | Score: 38 | Comments: 7 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=48654351",
+  "answers" : [ ]
+}, {
+  "title" : "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+  "description" : "Link: https://gitlab.com/baiyibai/pico-usb-wifi | Score: 42 | Comments: 9 | By: byb",
+  "url" : "https://news.ycombinator.com/item?id=48654676",
+  "answers" : [ ]
+}, {
+  "title" : "FUTO Swipe – A new swipe typing model",
+  "description" : "Link: https://swipe.futo.tech/ | Score: 427 | Comments: 129 | By: futohq",
+  "url" : "https://news.ycombinator.com/item?id=48648619",
+  "answers" : [ ]
+}, {
+  "title" : "In memory of the man who put red and green squiggles under words",
+  "description" : "Link: https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451 | Score: 282 | Comments: 34 | By: saikatsg",
+  "url" : "https://news.ycombinator.com/item?id=48648959",
+  "answers" : [ ]
+}, {
+  "title" : "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+  "description" : "Link: https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf | Score: 33 | Comments: 4 | By: retroplasma",
+  "url" : "https://news.ycombinator.com/item?id=48654465",
+  "answers" : [ ]
+}, {
+  "title" : "Printing Gaussian Splats",
+  "description" : "Link: https://www.patreon.com/DanyBittel/posts/printing-splats-161333338 | Score: 245 | Comments: 24 | By: ilnmtlbnm",
+  "url" : "https://news.ycombinator.com/item?id=48618481",
+  "answers" : [ ]
+}, {
+  "title" : "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+  "description" : "Link: https://github.com/End2End-Diffusion/diffusion-bench | Score: 25 | Comments: 0 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=48654274",
+  "answers" : [ ]
+}, {
+  "title" : "Rhombus Language 1.0",
+  "description" : "Link: https://blog.racket-lang.org/2026/06/rhombus-v1.0.html | Score: 126 | Comments: 29 | By: Decabytes",
+  "url" : "https://news.ycombinator.com/item?id=48633473",
+  "answers" : [ ]
+}, {
+  "title" : "Usbliter8: an A12/A13 SecureROM Exploit",
+  "description" : "Link: https://ps.tc/pages/blog-usbliter8.html | Score: 121 | Comments: 24 | By: givinguflac",
+  "url" : "https://news.ycombinator.com/item?id=48585852",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;06&#x2F;18&#x2F;a12-and-a13-chips-facing-exploit&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;06&#x2F;18&#x2F;a12-and-a13-chips-facin...</a>" ]
+}, {
+  "title" : "Swift Package Index joins Apple",
+  "description" : "Link: https://swiftpackageindex.com/blog/swift-package-index-joins-apple | Score: 193 | Comments: 60 | By: JDevlieghere",
+  "url" : "https://news.ycombinator.com/item?id=48648779",
+  "answers" : [ ]
+}, {
+  "title" : "The worthlessness of Vitamin D is mildly exaggerated",
+  "description" : "Link: https://dynomight.net/vitamin-d/ | Score: 253 | Comments: 177 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48647486",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+  "description" : "Link: https://tikz.dev/editor/ | Score: 366 | Comments: 69 | By: DominikPeters",
+  "url" : "https://news.ycombinator.com/item?id=48645437",
+  "answers" : [ "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is lots of twiddling around with the coordinates and recompiling until things look nice. I guess it’s a bit like SVG, but it’s more code than markup, for example it has loops with \\foreach.<p>I built an open-source WYSIWYG TikZ editor (available for web and desktop) that allows you to edit your TikZ source code visually by dragging and resizing elements. It simultaneously shows the source code and the rendered figure, and lets you edit either one while the two views stay in sync. I’m not aware of any other editors that are simultaneously source editors and WYSIWYG (even for editing SVG or HTML), and I’m quite pleased with how well the combination works.<p>The way the app is implemented is by parsing the TikZ code, and at all times keeping track of the exact source location of each object. Thereby, when a user drags an element to a new position, the app can override just the numbers in the coordinate without changing anything else in the code (such as line breaks or indentation).<p>This approach essentially required reimplementing a large fraction of TikZ, which is the kind of task that no human would ever want to do. I think building software that doesn’t exist yet because it would be impossibly tedious to code up is one of the great new possibilities thanks to coding agents, and it’s worth brainstorming for other examples. (This app was built almost entirely by Codex.)<p>Implementing the app came with lots of fun side quests, including building converters from SVG &#x2F; pptx &#x2F; ipe to TikZ, re-implementing the LaTeX hyphenation and line-breaking algorithm to support multi-line nodes, and making a color picker that uses the red!20!black color mixing notation used in LaTeX papers." ]
+}, {
+  "title" : "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+  "description" : "Link: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/ | Score: 171 | Comments: 94 | By: 1vuio0pswjnm7",
+  "url" : "https://news.ycombinator.com/item?id=48653575",
+  "answers" : [ ]
+}, {
+  "title" : "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+  "description" : "Link: https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison | Score: 132 | Comments: 75 | By: mauvehaus",
+  "url" : "https://news.ycombinator.com/item?id=48633643",
+  "answers" : [ ]
+}, {
+  "title" : "The Teensy Executable Revisited",
+  "description" : "Link: https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html | Score: 22 | Comments: 1 | By: ankitg12",
+  "url" : "https://news.ycombinator.com/item?id=48654411",
+  "answers" : [ ]
+}, {
+  "title" : "Remaking BBC test cards to teach you video processing",
+  "description" : "Link: https://www.youtube.com/watch?v=U_6HxPkrgcg | Score: 5 | Comments: 0 | By: unleaded",
+  "url" : "https://news.ycombinator.com/item?id=48624462",
+  "answers" : [ ]
+}, {
+  "title" : "Dirty Little Zine – a tool for making an 8 page printable Zine",
+  "description" : "Link: https://dirtylittlezine.com/ | Score: 95 | Comments: 8 | By: cianmm",
+  "url" : "https://news.ycombinator.com/item?id=48611896",
+  "answers" : [ ]
+}, {
+  "title" : "The war on terror primed America for autocracy",
+  "description" : "Link: https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy | Score: 152 | Comments: 111 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=48654367",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;CBCZM\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;CBCZM</a>" ]
+}, {
+  "title" : "Millimeter wave technology drills 100 meters into granite",
+  "description" : "Link: https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/ | Score: 121 | Comments: 31 | By: Jimmc414",
+  "url" : "https://news.ycombinator.com/item?id=48611585",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MWjPpxoUTcg\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MWjPpxoUTcg</a>" ]
+}, {
+  "title" : "Inventing the Future, One Lisp Machine at a Time",
+  "description" : "Link: https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/ | Score: 89 | Comments: 9 | By: pamoroso",
+  "url" : "https://news.ycombinator.com/item?id=48631511",
+  "answers" : [ ]
+}, {
+  "title" : "Extreme Heat conference cancelled due to extreme heat warning",
+  "description" : "Link: https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/ | Score: 298 | Comments: 264 | By: rendx",
+  "url" : "https://news.ycombinator.com/item?id=48653060",
+  "answers" : [ ]
+}, {
+  "title" : "Fired by Google for creating the Google workspace CLI",
+  "description" : "Link: https://twitter.com/JPoehnelt/status/2069482265953087602 | Score: 403 | Comments: 254 | By: justinwp",
+  "url" : "https://news.ycombinator.com/item?id=48649011",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;JPoehnelt&#x2F;status&#x2F;2069482265953087602\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;JPoehnelt&#x2F;status&#x2F;2069482265953087602</a>" ]
+}, {
+  "title" : "Hunting Million-Digit Primes from My Loft",
+  "description" : "Link: https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft | Score: 15 | Comments: 2 | By: andyhedges",
+  "url" : "https://news.ycombinator.com/item?id=48621018",
+  "answers" : [ ]
+}, {
+  "title" : "The Low-Tech AI of Elden Ring",
+  "description" : "Link: https://nega.tv/posts/low-tech-ai-of-elden-ring.html | Score: 132 | Comments: 62 | By: g0xA52A2A",
+  "url" : "https://news.ycombinator.com/item?id=48643489",
+  "answers" : [ ]
+}, {
+  "title" : "F* file system – file search that reads SSD directly bypassing OS kernel",
+  "description" : "Link: https://github.com/dmtrKovalenko/ffs | Score: 52 | Comments: 36 | By: neogoose",
+  "url" : "https://news.ycombinator.com/item?id=48622433",
+  "answers" : [ ]
+}, {
+  "title" : "Five monitors on a Commodore 128 [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=ul5hC3PY1Yg | Score: 116 | Comments: 21 | By: EvanAnderson",
+  "url" : "https://news.ycombinator.com/item?id=48634187",
+  "answers" : [ ]
+}, {
+  "title" : "QSOE: QNX-inspired OS with dual-kernel architecture",
+  "description" : "Link: https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html | Score: 35 | Comments: 14 | By: ymz5",
+  "url" : "https://news.ycombinator.com/item?id=48630085",
+  "answers" : [ ]
+} ]
