@@ -1,0 +1,151 @@
+[ {
+  "title" : "Om Malik has died",
+  "description" : "Link: https://om.co/2026/06/24/1966-2026/ | Score: 737 | Comments: 75 | By: minimaxir",
+  "url" : "https://news.ycombinator.com/item?id=48678852",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;om-malik-taught-silicon-valley-to-read-itself\" rel=\"nofollow\">https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;om-malik-taught-silicon-vall...</a>" ]
+}, {
+  "title" : "An entire Herculaneum scroll has been read for the first time",
+  "description" : "Link: https://scrollprize.org/firstscroll | Score: 1159 | Comments: 240 | By: verditelabs",
+  "url" : "https://news.ycombinator.com/item?id=48675179",
+  "answers" : [ "Preprint: <a href=\"https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa</a>" ]
+}, {
+  "title" : "Libre Barcode Project",
+  "description" : "Link: https://graphicore.github.io/librebarcode/ | Score: 71 | Comments: 3 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=48681949",
+  "answers" : [ ]
+}, {
+  "title" : "Framework's 10G Ethernet module exposes USB-C's complexity",
+  "description" : "Link: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/ | Score: 117 | Comments: 51 | By: Alupis",
+  "url" : "https://news.ycombinator.com/item?id=48681220",
+  "answers" : [ ]
+}, {
+  "title" : "What happened after 2k people tried to hack my AI assistant",
+  "description" : "Link: https://www.fernandoi.cl/posts/hackmyclaw/ | Score: 67 | Comments: 16 | By: cuchoi",
+  "url" : "https://news.ycombinator.com/item?id=48681687",
+  "answers" : [ ]
+}, {
+  "title" : "The 'papers, please' era of the internet will decimate your privacy",
+  "description" : "Link: https://expression.fire.org/p/the-papers-please-era-of-the-internet | Score: 575 | Comments: 258 | By: bilsbie",
+  "url" : "https://news.ycombinator.com/item?id=48679608",
+  "answers" : [ ]
+}, {
+  "title" : "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+  "description" : "Link: https://gchandbook.org/ | Score: 101 | Comments: 12 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=48680370",
+  "answers" : [ ]
+}, {
+  "title" : "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+  "description" : "Link: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true | Score: 190 | Comments: 154 | By: scrlk",
+  "url" : "https://news.ycombinator.com/item?id=48676795",
+  "answers" : [ "Giftlink: <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-25&#x2F;apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjQwNTU2MCwiZXhwIjoxNzgzMDEwMzYwLCJhcnRpY2xlSWQiOiJUSDM4OFJUOTZPU08wMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.3RpcTAgL-JUz9iWRQYzyWaSzoOhLU50chTDHkeU0GTI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-25&#x2F;apple-to-...</a><p>also <a href=\"https:&#x2F;&#x2F;www.msn.com&#x2F;en-ca&#x2F;lifestyle&#x2F;shopping&#x2F;apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai-focused-m7-line&#x2F;ar-AA26xxES\" rel=\"nofollow\">https:&#x2F;&#x2F;www.msn.com&#x2F;en-ca&#x2F;lifestyle&#x2F;shopping&#x2F;apple-to-skip-h...</a>" ]
+}, {
+  "title" : "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+  "description" : "Score: 80 | Comments: 38 | By: spidy__",
+  "url" : "https://news.ycombinator.com/item?id=48644463",
+  "answers" : [ "I built an experiment that uses an overfitted transformer and arithmetic coding to compress individual files.<p>Instead of training the model to generalize, I train a 900KB transformer to memorize a single file and predict the next byte. Those predictions are fed into an arithmetic coder to produce the compressed output.<p>On a 100MB NYC taxi CSV, it compresses to about 7MB (~0.5 bits&#x2F;byte). On a 100MB slice of enwik9, it compresses to about 21MB (~1.68 bits&#x2F;byte).<p>It&#x27;s pretty slow right now (roughly 20–30 minutes of training and 45 minutes each for compression and decompression on my AMD 7800XT).<p>Checkout the repo - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;samyak112&#x2F;pym-particles\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;samyak112&#x2F;pym-particles</a>" ]
+}, {
+  "title" : "A game where you're an OS and have to manage processes, memory and I/O events",
+  "description" : "Link: https://github.com/plbrault/youre-the-os | Score: 153 | Comments: 27 | By: exploraz",
+  "url" : "https://news.ycombinator.com/item?id=48642474",
+  "answers" : [ ]
+}, {
+  "title" : "Oxide computer 3D rack guided tour",
+  "description" : "Link: https://explorer.oxide.computer/ | Score: 342 | Comments: 130 | By: darthcloud",
+  "url" : "https://news.ycombinator.com/item?id=48631450",
+  "answers" : [ ]
+}, {
+  "title" : "Un-0: Generating Images with Coupled Oscillators",
+  "description" : "Link: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/ | Score: 134 | Comments: 32 | By: babelfish",
+  "url" : "https://news.ycombinator.com/item?id=48679007",
+  "answers" : [ ]
+}, {
+  "title" : "IBM debuts sub-1 nanometer chip technology",
+  "description" : "Link: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology | Score: 294 | Comments: 161 | By: porridgeraisin",
+  "url" : "https://news.ycombinator.com/item?id=48674967",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+  "description" : "Link: https://github.com/inkeep/open-knowledge | Score: 246 | Comments: 123 | By: engomez",
+  "url" : "https://news.ycombinator.com/item?id=48675435",
+  "answers" : [ "Hi HN, Nick here. We’re launching OpenKnowledge (<a href=\"https:&#x2F;&#x2F;openknowledge.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openknowledge.ai&#x2F;</a>), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free&#x2F;local and OSS.<p>We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude&#x2F;Codex outside of community plugins.<p>So we built OpenKnowledge. It takes shape as:<p>1. A MacOS app with a file navigator, the WYSIWYG editor, and link explorer.<p>2. Integrations with the Claude, Codex, and Cursor desktop apps. The agents can open an OpenKnowledge editor within their embedded web browsers for a side-by-side experience.<p>3. Built-in mcps, skills, and RAG for LLM-wiki and “AI Second Brain” scenarios + spec writing<p>4. An embedded terminal and CLI for TUI-first users<p>OSS stack includes: Tiptap&#x2F;prosemirror, CodeMirror, yjs (CRDT), Electron (MacOS app), Orama, remark&#x2F;rehype&#x2F;micromark&#x2F;mdast, @pierre&#x2F;trees<p>On the architecture side, the interesting eng. challenges included:<p>1. A pipeline to convert ProseMirror to markdown in a bidirectional lossless way. ProseMirror uses ASTs, which are not designed to have byte-fidelity.<p>2. A dual-observer CRDT to keep the ProseMirror and markdown state in-sync.<p>The CRDT + git also power a collaborative experience that shows what Agents are doing in the markdown, have undo&#x2F;redo, and version history. The “Share” and cloud-sync functionality are geared for team collaboration. They feel “no-code” but leverage git&#x2F;GitHub under the hood, which also means data stays fully private.<p>In that spirit, we made OpenKnowledge open source for anybody who’s curious or who’d like to contribute.<p>We’re actively thinking about plugins&#x2F;extensibility and what’s next. If you have suggestions or feedback, would love to hear it." ]
+}, {
+  "title" : "Eyewitness at the Triangle (1911)",
+  "description" : "Link: http://trianglefire.ilr.cornell.edu/index.html | Score: 18 | Comments: 1 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=48638710",
+  "answers" : [ ]
+}, {
+  "title" : "The Doorman's Fallacy in action",
+  "description" : "Link: https://rozumem.xyz/posts/17 | Score: 90 | Comments: 122 | By: rozumem",
+  "url" : "https://news.ycombinator.com/item?id=48678495",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Chess-Inspired Roguelike",
+  "description" : "Link: https://princechazz.com | Score: 255 | Comments: 83 | By: cowboy_henk",
+  "url" : "https://news.ycombinator.com/item?id=48616304",
+  "answers" : [ ]
+}, {
+  "title" : "An oral history of Bank Python (2021)",
+  "description" : "Link: https://calpaterson.com/bank-python.html | Score: 94 | Comments: 28 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48678645",
+  "answers" : [ ]
+}, {
+  "title" : "Parallel Parentheses Matching",
+  "description" : "Link: https://williamdue.github.io/blog/parallel-parentheses-matching | Score: 75 | Comments: 11 | By: Athas",
+  "url" : "https://news.ycombinator.com/item?id=48678623",
+  "answers" : [ ]
+}, {
+  "title" : "Doing a masters while working in Spain",
+  "description" : "Link: https://jan-herlyn.com/blog/doing-a-masters-while-working/ | Score: 23 | Comments: 4 | By: MHard",
+  "url" : "https://news.ycombinator.com/item?id=48627027",
+  "answers" : [ ]
+}, {
+  "title" : "OS9Map",
+  "description" : "Link: https://yllan.org/software/OS9Map/ | Score: 211 | Comments: 40 | By: LaSombra",
+  "url" : "https://news.ycombinator.com/item?id=48674484",
+  "answers" : [ ]
+}, {
+  "title" : "Apple raises prices of MacBooks, iPads",
+  "description" : "Link: https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/ | Score: 684 | Comments: 987 | By: virgildotcodes",
+  "url" : "https://news.ycombinator.com/item?id=48672732",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipad-more&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa...</a>" ]
+}, {
+  "title" : "Zig's new bitCast semantics and LLVM back end improvements",
+  "description" : "Link: https://ziglang.org/devlog/2026/#2026-06-25 | Score: 224 | Comments: 111 | By: kouosi",
+  "url" : "https://news.ycombinator.com/item?id=48673825",
+  "answers" : [ ]
+}, {
+  "title" : "The last Romans are still around",
+  "description" : "Link: https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/ | Score: 68 | Comments: 79 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48631119",
+  "answers" : [ ]
+}, {
+  "title" : "Record type inference for dummies",
+  "description" : "Link: http://haskellforall.com/2026/06/record-type-inference-for-dummies | Score: 29 | Comments: 1 | By: g0xA52A2A",
+  "url" : "https://news.ycombinator.com/item?id=48644383",
+  "answers" : [ ]
+}, {
+  "title" : "Experiments in Sports Seismology for the World Cup",
+  "description" : "Link: https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup | Score: 18 | Comments: 0 | By: jmward01",
+  "url" : "https://news.ycombinator.com/item?id=48619122",
+  "answers" : [ ]
+}, {
+  "title" : "Besimple AI (YC P25) Is Hiring",
+  "description" : "Link: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data | Score: 1 | Comments: 0 | By: yzhong94",
+  "url" : "https://news.ycombinator.com/item?id=48676256",
+  "answers" : [ ]
+}, {
+  "title" : "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+  "description" : "Link: https://twitter.com/mfts0/status/2070080422482977095 | Score: 255 | Comments: 104 | By: mmunj",
+  "url" : "https://news.ycombinator.com/item?id=48672328",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;mfts0&#x2F;status&#x2F;2070080422482977095\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;mfts0&#x2F;status&#x2F;2070080422482977095</a>" ]
+}, {
+  "title" : "You can't unit test for taste",
+  "description" : "Link: https://dev.karltryggvason.com/you-cant-unit-test-for-taste/ | Score: 263 | Comments: 120 | By: kalli",
+  "url" : "https://news.ycombinator.com/item?id=48657049",
+  "answers" : [ ]
+}, {
+  "title" : "The disappearance of Japan's animators",
+  "description" : "Link: https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators | Score: 165 | Comments: 121 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=48620422",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;aPMAr\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;aPMAr</a>" ]
+} ]
