@@ -1,0 +1,151 @@
+[ {
+  "title" : "Previewing GPT‑5.6 Sol: a next-generation model",
+  "description" : "Link: https://openai.com/index/previewing-gpt-5-6-sol/ | Score: 925 | Comments: 562 | By: minimaxir",
+  "url" : "https://news.ycombinator.com/item?id=48689028",
+  "answers" : [ "System card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview</a>" ]
+}, {
+  "title" : "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+  "description" : "Link: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed | Score: 174 | Comments: 84 | By: ProxyTracer",
+  "url" : "https://news.ycombinator.com/item?id=48692946",
+  "answers" : [ ]
+}, {
+  "title" : "WordStar: A Writer's Word Processor (1996)",
+  "description" : "Link: https://www.sfwriter.com/wordstar.htm | Score: 24 | Comments: 13 | By: droidjj",
+  "url" : "https://news.ycombinator.com/item?id=48694853",
+  "answers" : [ ]
+}, {
+  "title" : "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+  "description" : "Link: https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies | Score: 336 | Comments: 333 | By: bobrenjc93",
+  "url" : "https://news.ycombinator.com/item?id=48692995",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;ArXuF\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;ArXuF</a><p><a href=\"https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;us-government-gives-a...</a>" ]
+}, {
+  "title" : "Fusion Programming Language",
+  "description" : "Link: https://fusion-lang.org/ | Score: 31 | Comments: 13 | By: efrecon",
+  "url" : "https://news.ycombinator.com/item?id=48658148",
+  "answers" : [ ]
+}, {
+  "title" : "IBM MCGA Gate Array Reverse Engineering",
+  "description" : "Link: https://github.com/schlae/IBM_MCGA | Score: 4 | Comments: 1 | By: userbinator",
+  "url" : "https://news.ycombinator.com/item?id=48695363",
+  "answers" : [ ]
+}, {
+  "title" : "AI in mathematics is forcing big questions",
+  "description" : "Link: https://spectrum.ieee.org/ai-in-mathematics | Score: 93 | Comments: 60 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=48692883",
+  "answers" : [ ]
+}, {
+  "title" : "MicroVMs: Run isolated sandboxes with full lifecycle control",
+  "description" : "Link: https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/ | Score: 305 | Comments: 169 | By: justincormack",
+  "url" : "https://news.ycombinator.com/item?id=48642510",
+  "answers" : [ ]
+}, {
+  "title" : "Hellishly Slow Level 13 Deflate Compression",
+  "description" : "Link: https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/ | Score: 28 | Comments: 4 | By: zX41ZdbW",
+  "url" : "https://news.ycombinator.com/item?id=48633839",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Hacker News on a train station-style flip board",
+  "description" : "Link: https://popflame.quickish.space/hn-flipboard/ | Score: 40 | Comments: 9 | By: PaybackTony",
+  "url" : "https://news.ycombinator.com/item?id=48693912",
+  "answers" : [ "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I&#x27;ve been working on. The recent flip board back and forth&#x27;s on Twitter (X) are what inspired me.<p>The idea here is that people (like me or you) can create something neat like this, and others can remix it, change it and publish their own version. This is that all in action and it worked great. I wrote a blog about it (the blog is dogfooding, it&#x27;s just an app hosted on quickish that uses the built in db lib).<p>For the HN version of this flip board I use their firebase api via the built in quickish server functions that make use of the fact that the front-end can get realtime updates (now that you mention firebase) from cloud function db updates. Of course that&#x27;s over-kill but I wanted to show something fun. You can remix and host your own version for free, just need a google oauth login that&#x27;s it.<p>OG flip board I built (Portland Based - Current Weather): <a href=\"https:&#x2F;&#x2F;popflame.quickish.space&#x2F;flipboard-preview\" rel=\"nofollow\">https:&#x2F;&#x2F;popflame.quickish.space&#x2F;flipboard-preview</a><p>Blog post that dives a tiny bit deeper: <a href=\"https:&#x2F;&#x2F;popflame.quickish.space&#x2F;blog&#x2F;hacker-news-on-a-split-flap-board&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;popflame.quickish.space&#x2F;blog&#x2F;hacker-news-on-a-split-...</a>" ]
+}, {
+  "title" : "U.S. government will decide who gets to use GPT-5.6",
+  "description" : "Link: https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/ | Score: 936 | Comments: 1001 | By: alain94040",
+  "url" : "https://news.ycombinator.com/item?id=48690101",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl</a>" ]
+}, {
+  "title" : "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+  "description" : "Link: https://github.com/dbos-inc/dbosify-py | Score: 44 | Comments: 8 | By: KraftyOne",
+  "url" : "https://news.ycombinator.com/item?id=48662988",
+  "answers" : [ ]
+}, {
+  "title" : "The gap between open weights LLMs and closed source LLMs",
+  "description" : "Link: https://blog.doubleword.ai/frontier-os-llm | Score: 172 | Comments: 140 | By: kkm",
+  "url" : "https://news.ycombinator.com/item?id=48692058",
+  "answers" : [ ]
+}, {
+  "title" : "Foreign funds help make housing unaffordable: research",
+  "description" : "Link: https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/ | Score: 36 | Comments: 7 | By: hhs",
+  "url" : "https://news.ycombinator.com/item?id=48693420",
+  "answers" : [ ]
+}, {
+  "title" : "Om",
+  "description" : "Link: https://daringfireball.net/2026/06/om | Score: 254 | Comments: 15 | By: throw0101a",
+  "url" : "https://news.ycombinator.com/item?id=48693391",
+  "answers" : [ "Related: <i>Om Malik has died</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48678852\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48678852</a> - June 2026 (161 comments)" ]
+}, {
+  "title" : "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+  "description" : "Link: https://github.com/Tessil/hopscotch-map | Score: 81 | Comments: 13 | By: gjvc",
+  "url" : "https://news.ycombinator.com/item?id=48692090",
+  "answers" : [ ]
+}, {
+  "title" : "SCC Technical Assistance Program",
+  "description" : "Link: https://nerocam.com/scc_tap.asp | Score: 5 | Comments: 0 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=48656982",
+  "answers" : [ ]
+}, {
+  "title" : "We can still stop California's 3D printer surveillance scheme",
+  "description" : "Link: https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme | Score: 319 | Comments: 114 | By: hn_acker",
+  "url" : "https://news.ycombinator.com/item?id=48692051",
+  "answers" : [ ]
+}, {
+  "title" : "Anatomy of a Failed (Nation-State?) Attack",
+  "description" : "Link: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/ | Score: 14 | Comments: 4 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=48694631",
+  "answers" : [ ]
+}, {
+  "title" : "Ultrasound imaging of the brain",
+  "description" : "Link: https://alephneuro.com/blog/ultrasound-brain | Score: 261 | Comments: 109 | By: rossant",
+  "url" : "https://news.ycombinator.com/item?id=48685558",
+  "answers" : [ ]
+}, {
+  "title" : "Making Sense of Proof by Contradiction [pdf]",
+  "description" : "Link: https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf | Score: 26 | Comments: 8 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48643661",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+  "description" : "Link: https://github.com/workweave/router | Score: 160 | Comments: 94 | By: adchurch",
+  "url" : "https://news.ycombinator.com/item?id=48688700",
+  "answers" : [ "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it locally: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM</a>.<p>At Weave, we write most of our code with AI, and it&#x27;s been getting more expensive. This came to a head when Opus 4.7 was released and, thanks to its tokenizer changes, our costs shot up. We knew we didn&#x27;t need Opus for <i>everything</i> but we didn&#x27;t want to lose out on the intelligence for the cases where you really need it. So we decided to build a model router to handle this for us.<p>The Weave Router acts as an Anthropic&#x2F;OpenAI endpoint specifically for coding agents. It looks at every inference request and intelligently (more on that in a sec) decides what model to send it to, handling all the translations required along the way. So it can use faster&#x2F;cheaper models (e.g. DeepSeek v4, GLM 5.2, Kimi K2.6) when possible, and frontier models (Opus 4.8 &amp; GPT 5.5 (&amp; Fable whenever it&#x27;s back)) when necessary.<p>How do we know what model to route to? We trained an RL model on tens of thousands (so far!) of agent traces. We reward the routing model when it selects an LLM that successfully completes the given task.<p>Here&#x27;s an example: if you ask the router to plan a complex change, it will (probably) route that request to Opus 4.8. Subagents exploring the codebase to gather context will be routed to more suitable models (e.g. DeepSeek V4 Flash). Then when you have the plan ready to implement, it will be (most likely) be handed to a quicker model (e.g. GLM 5.2) to carry it out.<p>We&#x27;ve been using this internally for the last month or so. We&#x27;ve saved 40% on tokens vs. what we otherwise would have paid, with no noticeable differences in quality or velocity.<p>The router is source-available under Elastic License 2.0, so you can self-host it. Or if you prefer, you can also use our hosted version: weaverouter.com.<p>I&#x27;ll be here to answer any questions you may have!" ]
+}, {
+  "title" : "Hightouch (YC S19) Is Hiring",
+  "description" : "Link: https://hightouch.com/careers#open-positions | Score: 1 | Comments: 0 | By: joshwget",
+  "url" : "https://news.ycombinator.com/item?id=48691893",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Turn images into audio that can be decoded with a spectrogram",
+  "description" : "Link: https://nsspot.herokuapp.com/imagetoaudio/ | Score: 5 | Comments: 3 | By: jupr",
+  "url" : "https://news.ycombinator.com/item?id=48664556",
+  "answers" : [ ]
+}, {
+  "title" : "A Tiny Compiler for Data-Parallel Kernels",
+  "description" : "Link: https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels | Score: 34 | Comments: 4 | By: healeycodes",
+  "url" : "https://news.ycombinator.com/item?id=48673115",
+  "answers" : [ ]
+}, {
+  "title" : "Long Wave radio era set to end with Droitwich switch-off",
+  "description" : "Link: https://www.bbc.com/news/articles/c74yn7v7k4qo | Score: 74 | Comments: 30 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48690709",
+  "answers" : [ ]
+}, {
+  "title" : "What Is a Nomogram and Why Would It Interest Me?",
+  "description" : "Link: https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me | Score: 100 | Comments: 18 | By: Eridanus2",
+  "url" : "https://news.ycombinator.com/item?id=48689277",
+  "answers" : [ ]
+}, {
+  "title" : "A human postmortem of the 1996 AOL outage",
+  "description" : "Link: https://ngrok.com/blog/aol-was-down-1996 | Score: 56 | Comments: 12 | By: EndEntire",
+  "url" : "https://news.ycombinator.com/item?id=48660522",
+  "answers" : [ ]
+}, {
+  "title" : "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+  "description" : "Link: https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/ | Score: 80 | Comments: 15 | By: jfoucher",
+  "url" : "https://news.ycombinator.com/item?id=48689859",
+  "answers" : [ ]
+}, {
+  "title" : "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+  "description" : "Link: https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/ | Score: 72 | Comments: 7 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48644111",
+  "answers" : [ ]
+} ]
