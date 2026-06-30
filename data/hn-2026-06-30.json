@@ -1,0 +1,151 @@
+[ {
+  "title" : "Qwen 3.6 27B is the sweet spot for local development",
+  "description" : "Link: https://quesma.com/blog/qwen-36-is-awesome/ | Score: 779 | Comments: 563 | By: stared",
+  "url" : "https://news.ycombinator.com/item?id=48721903",
+  "answers" : [ ]
+}, {
+  "title" : ".self: A new top-level domain designed to support self-hosting",
+  "description" : "Link: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/ | Score: 422 | Comments: 242 | By: HumanCCF",
+  "url" : "https://news.ycombinator.com/item?id=48724230",
+  "answers" : [ ]
+}, {
+  "title" : "Free the Icons",
+  "description" : "Link: https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/ | Score: 358 | Comments: 93 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48698908",
+  "answers" : [ ]
+}, {
+  "title" : "Memory Safe Context Switching",
+  "description" : "Link: https://fil-c.org/context_switches | Score: 86 | Comments: 22 | By: modeless",
+  "url" : "https://news.ycombinator.com/item?id=48727177",
+  "answers" : [ ]
+}, {
+  "title" : "Study suggests most Americans would be healthier without daylight saving time",
+  "description" : "Link: https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html | Score: 38 | Comments: 15 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=48728294",
+  "answers" : [ ]
+}, {
+  "title" : "Old Computer Challenge",
+  "description" : "Link: http://occ.sdf.org/ | Score: 39 | Comments: 8 | By: wrxd",
+  "url" : "https://news.ycombinator.com/item?id=48702320",
+  "answers" : [ ]
+}, {
+  "title" : "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+  "description" : "Link: https://longcat.chat/blog/longcat-2.0/ | Score: 81 | Comments: 23 | By: benjiro29",
+  "url" : "https://news.ycombinator.com/item?id=48727116",
+  "answers" : [ ]
+}, {
+  "title" : "Exploring PDP-1 Lisp (1960)",
+  "description" : "Link: https://obsolescence.dev/pdp1-lisp-introduction.html | Score: 49 | Comments: 16 | By: ozymandiax",
+  "url" : "https://news.ycombinator.com/item?id=48727323",
+  "answers" : [ ]
+}, {
+  "title" : "Rocketlab acquires Iridium",
+  "description" : "Link: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully | Score: 390 | Comments: 255 | By: everfrustrated",
+  "url" : "https://news.ycombinator.com/item?id=48719485",
+  "answers" : [ ]
+}, {
+  "title" : "Linux for the Sega MegaDrive",
+  "description" : "Link: https://github.com/LinuxMD/linuxmd | Score: 65 | Comments: 8 | By: HardwareLust",
+  "url" : "https://news.ycombinator.com/item?id=48720186",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;hackaday.com&#x2F;2026&#x2F;06&#x2F;29&#x2F;its-linux-on-a-sega-megadrive&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;hackaday.com&#x2F;2026&#x2F;06&#x2F;29&#x2F;its-linux-on-a-sega-megadriv...</a>" ]
+}, {
+  "title" : "Popping the GPU Bubble",
+  "description" : "Link: https://moondream.ai/blog/popping-the-gpu-bubble | Score: 43 | Comments: 8 | By: radq",
+  "url" : "https://news.ycombinator.com/item?id=48728729",
+  "answers" : [ ]
+}, {
+  "title" : "Ornith-1.0: self-improving open-source models for agentic coding",
+  "description" : "Link: https://github.com/deepreinforce-ai/Ornith-1 | Score: 186 | Comments: 37 | By: danboarder",
+  "url" : "https://news.ycombinator.com/item?id=48722052",
+  "answers" : [ ]
+}, {
+  "title" : "How to corrupt an SQLite database file",
+  "description" : "Link: https://www.sqlite.org/howtocorrupt.html | Score: 42 | Comments: 12 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48689885",
+  "answers" : [ ]
+}, {
+  "title" : "US Supreme Court rules geofence warrants require constitutional protections",
+  "description" : "Link: https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision | Score: 504 | Comments: 233 | By: cdrnsf",
+  "url" : "https://news.ycombinator.com/item?id=48720924",
+  "answers" : [ ]
+}, {
+  "title" : "Zig – SPIR-V Backend Progress",
+  "description" : "Link: https://ziglang.org/devlog/2026/#2026-06-26 | Score: 42 | Comments: 16 | By: Retro_Dev",
+  "url" : "https://news.ycombinator.com/item?id=48679809",
+  "answers" : [ ]
+}, {
+  "title" : "One million passports leaked online",
+  "description" : "Link: https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal | Score: 208 | Comments: 115 | By: jruohonen",
+  "url" : "https://news.ycombinator.com/item?id=48706389",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260617075233&#x2F;https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;947157&#x2F;passports-data-breach-cannabis-club-systems-nefos-puffpal\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260617075233&#x2F;https:&#x2F;&#x2F;www.theve...</a><p><a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;n2HnK\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;n2HnK</a>" ]
+}, {
+  "title" : "A native graphical shell for SSH",
+  "description" : "Link: https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html | Score: 278 | Comments: 143 | By: mrcslws",
+  "url" : "https://news.ycombinator.com/item?id=48720758",
+  "answers" : [ ]
+}, {
+  "title" : "Apple Neural Engine: Architecture, Programming, and Performance",
+  "description" : "Link: https://arxiv.org/abs/2606.22283 | Score: 147 | Comments: 21 | By: Jimmc414",
+  "url" : "https://news.ycombinator.com/item?id=48702825",
+  "answers" : [ ]
+}, {
+  "title" : "Kb – Prolog Knowledge Base",
+  "description" : "Link: https://github.com/mat-mgm/kb-prolog | Score: 63 | Comments: 6 | By: triska",
+  "url" : "https://news.ycombinator.com/item?id=48697599",
+  "answers" : [ ]
+}, {
+  "title" : "Open Source Low Tech",
+  "description" : "Link: https://opensourcelowtech.org/ | Score: 3 | Comments: 0 | By: grep_it",
+  "url" : "https://news.ycombinator.com/item?id=48683098",
+  "answers" : [ ]
+}, {
+  "title" : "Philae's extraordinary comet landing relived (2024)",
+  "description" : "Link: https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived | Score: 16 | Comments: 1 | By: 1970-01-01",
+  "url" : "https://news.ycombinator.com/item?id=48658991",
+  "answers" : [ ]
+}, {
+  "title" : "South Korea to spend $1T on more memory chip production and humanoid robots",
+  "description" : "Link: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/ | Score: 193 | Comments: 107 | By: jnord",
+  "url" : "https://news.ycombinator.com/item?id=48726102",
+  "answers" : [ ]
+}, {
+  "title" : "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+  "description" : "Link: https://humphri.es/blog/WATaBoy/ | Score: 199 | Comments: 32 | By: energeticbark",
+  "url" : "https://news.ycombinator.com/item?id=48720190",
+  "answers" : [ ]
+}, {
+  "title" : "Dark Sky Lighting",
+  "description" : "Link: https://www.savingourstars.org/darkskylighting#whatisdarkskylighting | Score: 190 | Comments: 31 | By: alexandrehtrb",
+  "url" : "https://news.ycombinator.com/item?id=48675653",
+  "answers" : [ ]
+}, {
+  "title" : "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+  "description" : "Link: https://lucassifoni.info/blog/hiking-with-wallace/ | Score: 128 | Comments: 20 | By: chantepierre",
+  "url" : "https://news.ycombinator.com/item?id=48683475",
+  "answers" : [ ]
+}, {
+  "title" : "30-year sentence for transporting zines is a five-alarm fire for free speech",
+  "description" : "Link: https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/ | Score: 493 | Comments: 296 | By: xrd",
+  "url" : "https://news.ycombinator.com/item?id=48711981",
+  "answers" : [ ]
+}, {
+  "title" : "What happens when you run a CUDA kernel?",
+  "description" : "Link: https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/ | Score: 234 | Comments: 29 | By: mezark",
+  "url" : "https://news.ycombinator.com/item?id=48718863",
+  "answers" : [ ]
+}, {
+  "title" : "Walter S. Arnold–Sculptor/Stone Carver",
+  "description" : "Link: https://stonecarver.com/ | Score: 8 | Comments: 1 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=48702523",
+  "answers" : [ ]
+}, {
+  "title" : "Working With AI: A concrete example",
+  "description" : "Link: https://htmx.org/essays/working-with-ai/ | Score: 126 | Comments: 41 | By: comma_at",
+  "url" : "https://news.ycombinator.com/item?id=48720064",
+  "answers" : [ ]
+}, {
+  "title" : "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+  "description" : "Link: https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/ | Score: 39 | Comments: 9 | By: sxx0",
+  "url" : "https://news.ycombinator.com/item?id=48698781",
+  "answers" : [ ]
+} ]
