@@ -1,0 +1,151 @@
+[ {
+  "title" : "Claude Code is steganographically marking requests",
+  "description" : "Link: https://thereallo.dev/blog/claude-code-prompt-steganography | Score: 1700 | Comments: 487 | By: kirushik",
+  "url" : "https://news.ycombinator.com/item?id=48734373",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Sonnet 5",
+  "description" : "Link: https://www.anthropic.com/news/claude-sonnet-5 | Score: 1035 | Comments: 604 | By: marinesebastian",
+  "url" : "https://news.ycombinator.com/item?id=48736605",
+  "answers" : [ ]
+}, {
+  "title" : "The first early human eggs from stem cells",
+  "description" : "Link: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells | Score: 36 | Comments: 3 | By: dsr12",
+  "url" : "https://news.ycombinator.com/item?id=48742483",
+  "answers" : [ ]
+}, {
+  "title" : "Google copybara: moving code between repositories",
+  "description" : "Link: https://github.com/google/copybara | Score: 162 | Comments: 20 | By: reconnecting",
+  "url" : "https://news.ycombinator.com/item?id=48740698",
+  "answers" : [ ]
+}, {
+  "title" : "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+  "description" : "Link: https://twitter.com/AnthropicAI/status/2072106151890809341 | Score: 542 | Comments: 280 | By: Pragmata",
+  "url" : "https://news.ycombinator.com/item?id=48740771",
+  "answers" : [ ]
+}, {
+  "title" : "ArXiv's Next Chapter",
+  "description" : "Link: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ | Score: 34 | Comments: 1 | By: subset",
+  "url" : "https://news.ycombinator.com/item?id=48741748",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Science",
+  "description" : "Link: https://claude.com/product/claude-science | Score: 441 | Comments: 132 | By: lebovic",
+  "url" : "https://news.ycombinator.com/item?id=48735770",
+  "answers" : [ ]
+}, {
+  "title" : "Pystd, similar-ish functionality with a fraction of the compile time",
+  "description" : "Link: https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html | Score: 15 | Comments: 4 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=48692274",
+  "answers" : [ ]
+}, {
+  "title" : "Forestiere Underground Gardens",
+  "description" : "Link: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens | Score: 51 | Comments: 9 | By: onemoresoop",
+  "url" : "https://news.ycombinator.com/item?id=48741359",
+  "answers" : [ ]
+}, {
+  "title" : "Nano Banana 2 Lite",
+  "description" : "Link: https://deepmind.google/models/gemini-image/flash-lite/ | Score: 347 | Comments: 141 | By: minimaxir",
+  "url" : "https://news.ycombinator.com/item?id=48735444",
+  "answers" : [ ]
+}, {
+  "title" : "Leanstral 1.5",
+  "description" : "Link: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06 | Score: 160 | Comments: 46 | By: vetronauta",
+  "url" : "https://news.ycombinator.com/item?id=48738938",
+  "answers" : [ ]
+}, {
+  "title" : "How does a pull-back car work? Illustrated teardown",
+  "description" : "Link: https://mechanical-pencil.com/products/car | Score: 162 | Comments: 30 | By: Muhammad523",
+  "url" : "https://news.ycombinator.com/item?id=48712289",
+  "answers" : [ ]
+}, {
+  "title" : "From brain waves to words: a new path to communication without surgery",
+  "description" : "Link: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1 | Score: 140 | Comments: 74 | By: alok-g",
+  "url" : "https://news.ycombinator.com/item?id=48739466",
+  "answers" : [ ]
+}, {
+  "title" : "CERN bids farewell to the LHC and enters Long Shutdown 3",
+  "description" : "Link: https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/ | Score: 180 | Comments: 45 | By: HelloUsername",
+  "url" : "https://news.ycombinator.com/item?id=48723484",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-accelerator-but-more-to-come&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-...</a>" ]
+}, {
+  "title" : "I ported Kubernetes to the browser",
+  "description" : "Link: https://ngrok.com/blog/i-ported-kubernetes-to-the-browser | Score: 227 | Comments: 72 | By: peterdemin",
+  "url" : "https://news.ycombinator.com/item?id=48738985",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes</a><p><a href=\"https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;</a>" ]
+}, {
+  "title" : "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+  "description" : "Link: https://hatari.frama.io/hatari/online/hatari.html | Score: 53 | Comments: 5 | By: gregsadetsky",
+  "url" : "https://news.ycombinator.com/item?id=48740135",
+  "answers" : [ ]
+}, {
+  "title" : "Ante: A new way to blend borrow checking and reference counting",
+  "description" : "Link: https://verdagon.dev/blog/ante-blending-borrowing-rc | Score: 77 | Comments: 18 | By: g0xA52A2A",
+  "url" : "https://news.ycombinator.com/item?id=48710770",
+  "answers" : [ ]
+}, {
+  "title" : "Scaling Laws, Carefully",
+  "description" : "Link: https://lilianweng.github.io/posts/2026-06-24-scaling-laws/ | Score: 52 | Comments: 14 | By: tehnub",
+  "url" : "https://news.ycombinator.com/item?id=48689744",
+  "answers" : [ ]
+}, {
+  "title" : "How information theory saved my word game",
+  "description" : "Link: https://motplot.app/helloworld | Score: 3 | Comments: 2 | By: jamwise",
+  "url" : "https://news.ycombinator.com/item?id=48711788",
+  "answers" : [ ]
+}, {
+  "title" : "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+  "description" : "Link: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/ | Score: 112 | Comments: 22 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48738262",
+  "answers" : [ ]
+}, {
+  "title" : "I built a mmWave material classification radar (2025)",
+  "description" : "Link: https://gauthier-lechevalier.com/radar | Score: 166 | Comments: 40 | By: GL26",
+  "url" : "https://news.ycombinator.com/item?id=48736137",
+  "answers" : [ ]
+}, {
+  "title" : "Deriving the SVD (Single Value Decomposition) from scratch",
+  "description" : "Link: https://stillthinking.net/posts/connections-in-math-svd/ | Score: 27 | Comments: 9 | By: pcael",
+  "url" : "https://news.ycombinator.com/item?id=48707527",
+  "answers" : [ ]
+}, {
+  "title" : "How employment changes when firms adopt generative AI",
+  "description" : "Link: https://ramp.com/data/ai-jobs-impact | Score: 29 | Comments: 12 | By: nreece",
+  "url" : "https://news.ycombinator.com/item?id=48742176",
+  "answers" : [ ]
+}, {
+  "title" : "Stroustrup's Rule (2024)",
+  "description" : "Link: https://buttondown.com/hillelwayne/archive/stroustrups-rule/ | Score: 82 | Comments: 15 | By: bmacho",
+  "url" : "https://news.ycombinator.com/item?id=48701721",
+  "answers" : [ ]
+}, {
+  "title" : "Segmenting Robot Video into Actionable Subtasks",
+  "description" : "Link: https://macrodata.co/blog/annotating-robot-video-subtasks | Score: 11 | Comments: 2 | By: tomaspduarte",
+  "url" : "https://news.ycombinator.com/item?id=48724274",
+  "answers" : [ ]
+}, {
+  "title" : "Building a custom octocopter from scratch with no prior hardware experience",
+  "description" : "Link: https://karolina.mgdubiel.com/drone/ | Score: 348 | Comments: 74 | By: noleary",
+  "url" : "https://news.ycombinator.com/item?id=48704289",
+  "answers" : [ ]
+}, {
+  "title" : "Long Island's decommissioned nuclear power plant",
+  "description" : "Link: https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/ | Score: 114 | Comments: 43 | By: mkmk",
+  "url" : "https://news.ycombinator.com/item?id=48665958",
+  "answers" : [ ]
+}, {
+  "title" : "Have you restarted your computer this week?",
+  "description" : "Link: https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html | Score: 149 | Comments: 252 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48733043",
+  "answers" : [ ]
+}, {
+  "title" : "Knoppix",
+  "description" : "Link: https://www.knopper.net/knoppix/index-en.html | Score: 288 | Comments: 109 | By: hoangvmpc",
+  "url" : "https://news.ycombinator.com/item?id=48732056",
+  "answers" : [ ]
+}, {
+  "title" : "Reading the internals of Postgres: Database cluster, databases, and tables",
+  "description" : "Link: https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables | Score: 72 | Comments: 1 | By: buraksen",
+  "url" : "https://news.ycombinator.com/item?id=48718716",
+  "answers" : [ ]
+} ]
