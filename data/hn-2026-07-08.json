@@ -1,0 +1,151 @@
+[ {
+  "title" : "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+  "description" : "Link: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/ | Score: 58 | Comments: 19 | By: 4diii",
+  "url" : "https://news.ycombinator.com/item?id=48827325",
+  "answers" : [ ]
+}, {
+  "title" : "Is The Economist Always Wrong?",
+  "description" : "Link: https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong | Score: 89 | Comments: 63 | By: nreece",
+  "url" : "https://news.ycombinator.com/item?id=48826703",
+  "answers" : [ ]
+}, {
+  "title" : "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+  "description" : "Link: https://kb.cert.org/vuls/id/213560 | Score: 104 | Comments: 27 | By: miniBill",
+  "url" : "https://news.ycombinator.com/item?id=48825749",
+  "answers" : [ ]
+}, {
+  "title" : "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+  "description" : "Link: https://www.gao.gov/products/gao-26-108193 | Score: 166 | Comments: 72 | By: Jimmc414",
+  "url" : "https://news.ycombinator.com/item?id=48824826",
+  "answers" : [ ]
+}, {
+  "title" : "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+  "description" : "Link: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/ | Score: 97 | Comments: 4 | By: gjvc",
+  "url" : "https://news.ycombinator.com/item?id=48825664",
+  "answers" : [ ]
+}, {
+  "title" : "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+  "description" : "Link: https://www.digipres.org/the-floppy-guide/ | Score: 11 | Comments: 3 | By: whiteblossom",
+  "url" : "https://news.ycombinator.com/item?id=48827092",
+  "answers" : [ ]
+}, {
+  "title" : "Canada's only watchmaking school still ticking after 80 years",
+  "description" : "Link: https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211 | Score: 86 | Comments: 32 | By: throw0101a",
+  "url" : "https://news.ycombinator.com/item?id=48786789",
+  "answers" : [ ]
+}, {
+  "title" : "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+  "description" : "Link: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/ | Score: 352 | Comments: 72 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48821576",
+  "answers" : [ ]
+}, {
+  "title" : "Chat Control 1.0 and 2.0 Explained",
+  "description" : "Link: https://fightchatcontrol.eu/chat-control-overview | Score: 521 | Comments: 170 | By: gasull",
+  "url" : "https://news.ycombinator.com/item?id=48818311",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Neil the Seal Game",
+  "description" : "Link: https://neiltheseal.app/ | Score: 21 | Comments: 9 | By: dalemhurley",
+  "url" : "https://news.ycombinator.com/item?id=48794042",
+  "answers" : [ "Neil the seal now has a game to destroy Battery Point." ]
+}, {
+  "title" : "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+  "description" : "Link: https://twitter.com/OpenAI/status/2074704958419792299 | Score: 42 | Comments: 3 | By: jfrbfbreudh",
+  "url" : "https://news.ycombinator.com/item?id=48827402",
+  "answers" : [ ]
+}, {
+  "title" : "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+  "description" : "Link: https://30papers.com/ | Score: 434 | Comments: 70 | By: notmcrowley",
+  "url" : "https://news.ycombinator.com/item?id=48819608",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Davit, a Apple Containers UI",
+  "description" : "Link: https://davit.app | Score: 250 | Comments: 52 | By: xinit",
+  "url" : "https://news.ycombinator.com/item?id=48821848",
+  "answers" : [ "Mostly vibe-coded Apple Containers front-end that I&#x27;d like to use myself. But if others want to use it, here&#x27;s the source code." ]
+}, {
+  "title" : "Herdr: One terminal to rule them all",
+  "description" : "Link: https://herdr.dev/ | Score: 218 | Comments: 102 | By: handfuloflight",
+  "url" : "https://news.ycombinator.com/item?id=48756578",
+  "answers" : [ ]
+}, {
+  "title" : "Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point",
+  "description" : "Link: https://github.com/ariel95500-create/gp-elite | Score: 22 | Comments: 9 | By: sade_95",
+  "url" : "https://news.ycombinator.com/item?id=48761788",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Chiptune Radio",
+  "description" : "Link: https://chiptune-radio.alephvoid.com/ | Score: 34 | Comments: 5 | By: bootbloopers",
+  "url" : "https://news.ycombinator.com/item?id=48826094",
+  "answers" : [ "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music." ]
+}, {
+  "title" : "LineageOS Statistics",
+  "description" : "Link: https://stats.lineageos.org | Score: 17 | Comments: 8 | By: pentagrama",
+  "url" : "https://news.ycombinator.com/item?id=48826329",
+  "answers" : [ ]
+}, {
+  "title" : "l: A new runtime for k and q",
+  "description" : "Link: https://lv1.sh/ | Score: 125 | Comments: 65 | By: skruger",
+  "url" : "https://news.ycombinator.com/item?id=48821378",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;lv1.sh&#x2F;blog&#x2F;why-l&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;lv1.sh&#x2F;blog&#x2F;why-l&#x2F;</a>" ]
+}, {
+  "title" : "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+  "description" : "Link: https://github.com/rowboatlabs/rowboat | Score: 126 | Comments: 36 | By: segmenta",
+  "url" : "https://news.ycombinator.com/item?id=48819808",
+  "answers" : [ "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability to build your own work surfaces inside Rowboat (more below).<p>Our repo is <a href=\"https:&#x2F;&#x2F;github.com&#x2F;rowboatlabs&#x2F;rowboat\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;rowboatlabs&#x2F;rowboat</a>, and there’s a demo video here: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=et5yQABJ3xI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=et5yQABJ3xI</a><p>In a previous startup, we built a deep-learning product for enterprise support reps, including teams supporting P&amp;G brands. Models took live notes, suggested replies, and recommended actions while support reps were on calls or handling emails. One lesson stuck with us: it&#x27;s not enough for the AI to be right, the help has to show up where the work is happening.<p>So we added what we came to call “work surfaces”: dedicated areas for email, meetings, notes, browser, and parallel coding, where the assistant can help inside the workflow itself rather than only through chat:<p>- Email client: Rowboat has a simple email client that sorts incoming emails into important vs. everything else, and pre-creates drafts for important emails. As you edit and send emails, it takes notes on your style, so future drafts get closer to your voice.<p>- Meeting notes: We built a Granola-style local meeting notetaker. Notes are stored as plain Markdown files on your machine. After a meeting, Rowboat feeds the notes back into the knowledge graph and updates the relevant people, project, and topic notes.<p>- Browser: We added a built-in browser, isolated from your main one, where you can log in only to the accounts you want the assistant to help with. The assistant uses browser-use skills to navigate websites.<p>- Parallel coding: The code-mode inside Rowboat lets you spin multiple instances of Claude Code or Codex and either work with them directly or let Rowboat use your work context to orchestrate them. We built an ACP (Agent Client Protocol) client in Rowboat for this.<p>- Notes: Rowboat has an Obsidian-style local note-taking system. It comes with graph view, bases view, and voice notes. You can also sync Google Docs files and edit them inside Rowboat.<p>You can also build your own work surfaces inside Rowboat (web apps). Each app gets its own UI and a background agent, and can use all of Rowboat&#x27;s tools, product integrations, and your work memory. For instance: an app to manage GitHub activity, project tracking, or ads campaign management. There are a few community apps at launch you can search and install, and you can publish your own by creating a GitHub repo for it and registering it.<p>Rowboat also indexes your work into a knowledge graph that all of the above surfaces use to have better context. We did a Show HN a few months back on this: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46962641\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46962641</a>.<p>As an example that ties some of these together: you can create an app inside Rowboat that collects feature requests from your email, meetings, and Slack and ranks them, then uses Claude Code to draft a first version of the top-ranked feature, pulling prior context about it from your knowledge graph.<p>Rowboat is local-first: data is stored as plain Markdown files you can read, edit, or delete anytime. It is Apache-2.0 and works with any LLM, including local models through Ollama or LM Studio.<p>We’d love to hear your thoughts, and contributions are welcome!" ]
+}, {
+  "title" : "We're extending access to Fable 5 on all paid plans through July 12",
+  "description" : "Link: https://twitter.com/claudeai/status/2074548242386178258 | Score: 124 | Comments: 132 | By: minimaxir",
+  "url" : "https://news.ycombinator.com/item?id=48821102",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;claudeai&#x2F;status&#x2F;2074548242386178258\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;claudeai&#x2F;status&#x2F;2074548242386178258</a>" ]
+}, {
+  "title" : "Scheme Is a Hoot",
+  "description" : "Link: https://gracefulliberty.com/notes/scheme-is-a-hoot/ | Score: 49 | Comments: 4 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=48794049",
+  "answers" : [ ]
+}, {
+  "title" : "Every new car sold in the European Union must include a driver monitoring camera",
+  "description" : "Link: https://allaboutcookies.org/eu-mandatory-distracted-driver-system | Score: 506 | Comments: 663 | By: nickslaughter02",
+  "url" : "https://news.ycombinator.com/item?id=48823557",
+  "answers" : [ ]
+}, {
+  "title" : "The difference between \"today's task\" and \"accretive work\"",
+  "description" : "Link: https://pluralistic.net/2026/07/02/canonization/ | Score: 4 | Comments: 0 | By: hn_acker",
+  "url" : "https://news.ycombinator.com/item?id=48761868",
+  "answers" : [ ]
+}, {
+  "title" : "IEEE Rolls Out Large Language Models Training Course",
+  "description" : "Link: https://spectrum.ieee.org/large-language-models-ieee-course | Score: 50 | Comments: 7 | By: JeanKage",
+  "url" : "https://news.ycombinator.com/item?id=48742703",
+  "answers" : [ ]
+}, {
+  "title" : "Jim's TrueType QR Code Font",
+  "description" : "Link: https://github.com/jimparis/qr-font | Score: 159 | Comments: 21 | By: arantius",
+  "url" : "https://news.ycombinator.com/item?id=48820119",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;qr.jim.sh&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;qr.jim.sh&#x2F;</a>" ]
+}, {
+  "title" : "Notes on Software Quality",
+  "description" : "Link: https://anthonyhobday.com/blog/20260410 | Score: 108 | Comments: 49 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48821441",
+  "answers" : [ ]
+}, {
+  "title" : "Why skilled workers come to Germany and then leave again",
+  "description" : "Link: https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162 | Score: 216 | Comments: 540 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=48815982",
+  "answers" : [ ]
+}, {
+  "title" : "An interactive explorer for Benford's Law across real datasets",
+  "description" : "Link: https://vatsalbakshi.com/blog/benfords-law/ | Score: 27 | Comments: 9 | By: dingobabies",
+  "url" : "https://news.ycombinator.com/item?id=48825816",
+  "answers" : [ ]
+}, {
+  "title" : "First Principles of Model Routing",
+  "description" : "Link: https://try.works/first-principles-of-model-routing | Score: 32 | Comments: 16 | By: try-working",
+  "url" : "https://news.ycombinator.com/item?id=48771200",
+  "answers" : [ ]
+}, {
+  "title" : "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+  "description" : "Link: https://blog.zksecurity.xyz/posts/circl-bugs/ | Score: 102 | Comments: 11 | By: duha",
+  "url" : "https://news.ycombinator.com/item?id=48821749",
+  "answers" : [ ]
+} ]
