@@ -1,0 +1,151 @@
+[ {
+  "title" : "John Deere owners will get the right to repair equipment under FTC settlement",
+  "description" : "Link: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02 | Score: 603 | Comments: 117 | By: djoldman",
+  "url" : "https://news.ycombinator.com/item?id=48838876",
+  "answers" : [ ]
+}, {
+  "title" : "Spider venom kills varroa mites without harming honeybees",
+  "description" : "Link: https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming | Score: 33 | Comments: 9 | By: Jedd",
+  "url" : "https://news.ycombinator.com/item?id=48841259",
+  "answers" : [ ]
+}, {
+  "title" : "Chatto is now open source",
+  "description" : "Link: https://www.hmans.dev/blog/chatto-is-open-source | Score: 873 | Comments: 226 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48833116",
+  "answers" : [ ]
+}, {
+  "title" : "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+  "description" : "Link: https://nexte.st/ | Score: 35 | Comments: 8 | By: nateb2022",
+  "url" : "https://news.ycombinator.com/item?id=48800596",
+  "answers" : [ ]
+}, {
+  "title" : "Separating signal from noise in coding evaluations",
+  "description" : "Link: https://openai.com/index/separating-signal-from-noise-coding-evaluations/ | Score: 197 | Comments: 68 | By: sk4rekr0w",
+  "url" : "https://news.ycombinator.com/item?id=48837396",
+  "answers" : [ ]
+}, {
+  "title" : "Cloudflare Drop",
+  "description" : "Link: https://www.cloudflare.com/drop/ | Score: 357 | Comments: 175 | By: coloneltcb",
+  "url" : "https://news.ycombinator.com/item?id=48836233",
+  "answers" : [ ]
+}, {
+  "title" : "Remote Attestation",
+  "description" : "Link: https://www.liamcvw.com/p/remote-attestation | Score: 61 | Comments: 53 | By: lcvw",
+  "url" : "https://news.ycombinator.com/item?id=48839397",
+  "answers" : [ ]
+}, {
+  "title" : "Unicode's transliteration rules are Turing-complete",
+  "description" : "Link: https://seriot.ch/computation/uts35/ | Score: 73 | Comments: 24 | By: beefburger",
+  "url" : "https://news.ycombinator.com/item?id=48829797",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+  "description" : "Link: https://www.yamanote.fun/ | Score: 117 | Comments: 24 | By: madebymagnolia",
+  "url" : "https://news.ycombinator.com/item?id=48816987",
+  "answers" : [ "After visiting Japan for the first time a decade ago I became completely enamoured with Tokyo&#x27;s Yamanote Line railway loop. Particularly the sonic experience of it. Like so many others I fell in love with the charming departure melodies and enjoyed discovering experiences like Yamanot.es (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45045307\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45045307</a>) here on Hacker News when I returned home.<p>But it wasn&#x27;t until my second trip to Tokyo that I truly appreciated how much the door chimes, on-board announcements and train noise were contributing to the rich soundscape that I loved.<p>I returned home and found myself playing YouTube videos of Yamanote Line journeys as I worked. The combination of sonics, ambience and softly spoken Japanese was incredibly soothing to me.<p>But these recordings were often incomplete, poorly captured or out of date, and I wanted something far more comprehensive.<p>So I gathered up all of the constituent parts from Reddit threads, YouTube videos and Japanese fan sites, and set about recreating the experience of riding the Yamanote Line in Logic Pro X. Melody, door chimes and announcement, all stitched together under a bed of train noise and ambience.<p>I turned those soundscapes into an Alexa Skill (<a href=\"https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;Paul-Jackson-Yamanote-Line&#x2F;dp&#x2F;B07S18QRMV\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;Paul-Jackson-Yamanote-Line&#x2F;dp&#x2F;B07S1...</a>) in 2019 and began to think about a companion website to share the soundscapes with a wider audience.<p>Seven years later and that website is Yamanote.fun: <a href=\"https:&#x2F;&#x2F;www.yamanote.fun&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.yamanote.fun&#x2F;</a>.<p>It&#x27;s a small installable web app that plays the soundscapes like a playlist. All 30 stations and in both directions, since the inner and outer loops use different melodies. You can skip forward or back a station, and there&#x27;s a scrub bar broken into melody &#x2F; chime &#x2F; ambience &#x2F; announcement so you can jump straight to the bit you want. Each station has its own shareable link (yamanote.fun&#x2F;jy13-ikebukuro-inner) that unfurls with the right station name and artwork when you share it.<p>It&#x27;s a progressive web app too, so you can add it to your home screen and it behaves like a native app. There&#x27;s an option to offline the audio too.<p>Under the hood it&#x27;s relatively basic stuff: plain HTML, CSS &amp; JS, audio served from Cloudflare R2 and the site hosted on Netlify. I was impressed to see how far I could get with the free tiers of these services. I designed the whole thing in Figma (I&#x27;m a Product Designer) and used Claude Code to architect and deliver the polished UI, PWA plumbing, offline caching and share-link infrastructure.<p>I would love feedback, particularly from anyone who&#x27;s ridden the real thing." ]
+}, {
+  "title" : "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+  "description" : "Link: https://microsoft.github.io/flint-chart/#/ | Score: 245 | Comments: 99 | By: chenglong-hn",
+  "url" : "https://news.ycombinator.com/item?id=48834924",
+  "answers" : [ "Data visualizations are the bridge between user and data.<p>But building AI agents that can generate visualizations reliably can be very tricky:<p>- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability<p>We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. Flint is a visualization intermediate language to address this issue, allow AI agents to solve this last-mile human-agent interaction problem. It provides a simple semantic-type based specification, and contains a layout optimization engine that can produce good-looking charts (filled with derived low-level details) from simple high-level specs. The result is also very human understandable and adaptable. Flint powers data formulator for generating visualizations (another open source project from microsoft <a href=\"https:&#x2F;&#x2F;data-formulator.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;data-formulator.ai&#x2F;</a>).<p>Flint is available open source, and we built a MCP server that you can directly plug flint in your favorite agent app to play with data." ]
+}, {
+  "title" : "Patching MechCommander's \"left arm bug\" for fun and profit",
+  "description" : "Link: https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/ | Score: 47 | Comments: 12 | By: Narann",
+  "url" : "https://news.ycombinator.com/item?id=48795591",
+  "answers" : [ ]
+}, {
+  "title" : "Benchmarking coding agents on Databricks' multi-million line codebase",
+  "description" : "Link: https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase | Score: 37 | Comments: 11 | By: tanelpoder",
+  "url" : "https://news.ycombinator.com/item?id=48837696",
+  "answers" : [ ]
+}, {
+  "title" : "What's slowing down the AI buildout",
+  "description" : "Link: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid | Score: 17 | Comments: 13 | By: droidjj",
+  "url" : "https://news.ycombinator.com/item?id=48840620",
+  "answers" : [ ]
+}, {
+  "title" : "Grok 4.5",
+  "description" : "Link: https://x.ai/news/grok-4-5 | Score: 548 | Comments: 743 | By: BoumTAC",
+  "url" : "https://news.ycombinator.com/item?id=48835111",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5</a>" ]
+}, {
+  "title" : "Turning a pile of documents into a searchable useable knowledge base",
+  "description" : "Link: https://github.com/linuxrebel/DocuBrowser | Score: 113 | Comments: 25 | By: linuxrebe1",
+  "url" : "https://news.ycombinator.com/item?id=48837110",
+  "answers" : [ ]
+}, {
+  "title" : "Rewriting Bun in Rust",
+  "description" : "Link: https://bun.com/blog/bun-in-rust | Score: 433 | Comments: 227 | By: afturner",
+  "url" : "https://news.ycombinator.com/item?id=48837877",
+  "answers" : [ ]
+}, {
+  "title" : "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+  "description" : "Link: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off | Score: 131 | Comments: 61 | By: hershyb_",
+  "url" : "https://news.ycombinator.com/item?id=48838772",
+  "answers" : [ ]
+}, {
+  "title" : "GPT‑Live",
+  "description" : "Link: https://openai.com/index/introducing-gpt-live/ | Score: 662 | Comments: 431 | By: logickkk1",
+  "url" : "https://news.ycombinator.com/item?id=48834405",
+  "answers" : [ ]
+}, {
+  "title" : "Apache Shiro security framework releases 3.0.0",
+  "description" : "Link: https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html | Score: 17 | Comments: 0 | By: lprimak",
+  "url" : "https://news.ycombinator.com/item?id=48812736",
+  "answers" : [ ]
+}, {
+  "title" : "FAANG Simulator",
+  "description" : "Link: https://www.abeyk.com/escape-the-rat-race/ | Score: 363 | Comments: 140 | By: nerdbiscuits",
+  "url" : "https://news.ycombinator.com/item?id=48836778",
+  "answers" : [ ]
+}, {
+  "title" : "I think I have LLM burnout",
+  "description" : "Link: https://www.alecscollon.com/blog/llm-burnout/ | Score: 265 | Comments: 196 | By: sosodev",
+  "url" : "https://news.ycombinator.com/item?id=48839984",
+  "answers" : [ ]
+}, {
+  "title" : "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+  "description" : "Link: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/ | Score: 1344 | Comments: 212 | By: speerer",
+  "url" : "https://news.ycombinator.com/item?id=48829312",
+  "answers" : [ ]
+}, {
+  "title" : "TypeScript 7",
+  "description" : "Link: https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/ | Score: 537 | Comments: 208 | By: DanRosenwasser",
+  "url" : "https://news.ycombinator.com/item?id=48833715",
+  "answers" : [ ]
+}, {
+  "title" : "The Strange Locomotion of Spirocuta",
+  "description" : "Link: https://chriskiehl.com/article/euglenid-motion-in-flagellates | Score: 8 | Comments: 0 | By: goostavos",
+  "url" : "https://news.ycombinator.com/item?id=48797355",
+  "answers" : [ ]
+}, {
+  "title" : "A bug which affected only left handed users",
+  "description" : "Link: https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/ | Score: 104 | Comments: 54 | By: sixhobbits",
+  "url" : "https://news.ycombinator.com/item?id=48831587",
+  "answers" : [ ]
+}, {
+  "title" : "New Sweden: the US's long-lost 'secret' colony",
+  "description" : "Link: https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony | Score: 84 | Comments: 30 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=48836324",
+  "answers" : [ ]
+}, {
+  "title" : "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+  "description" : "Link: https://mira-wm.com/ | Score: 53 | Comments: 11 | By: ethanlipson",
+  "url" : "https://news.ycombinator.com/item?id=48839355",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;mira-wm.com&#x2F;blog-post&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mira-wm.com&#x2F;blog-post&#x2F;</a>" ]
+}, {
+  "title" : "Cloudflare Meerkat - Globally distributed consensus",
+  "description" : "Link: https://blog.cloudflare.com/meerkat-introduction/ | Score: 240 | Comments: 47 | By: bobnamob",
+  "url" : "https://news.ycombinator.com/item?id=48831565",
+  "answers" : [ ]
+}, {
+  "title" : "My road trip with the do-gooding cactus smugglers",
+  "description" : "Link: https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers | Score: 33 | Comments: 1 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=48794568",
+  "answers" : [ ]
+}, {
+  "title" : "OpenMandriva: Statement regarding attempted distribution sabotage",
+  "description" : "Link: https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997 | Score: 89 | Comments: 16 | By: workethics",
+  "url" : "https://news.ycombinator.com/item?id=48835439",
+  "answers" : [ ]
+} ]
