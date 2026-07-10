@@ -1,0 +1,151 @@
+[ {
+  "title" : "Show HN: Getting GLM 5.2 running on my slow computer",
+  "description" : "Link: https://github.com/JustVugg/colibri | Score: 513 | Comments: 128 | By: vforno",
+  "url" : "https://news.ycombinator.com/item?id=48842459",
+  "answers" : [ "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I&#x27;ve gotten from models like Claude or GPT, and this really surprised me.<p>But then I thought, &quot;I wonder how it would work on a normal computer like mine,&quot; and above all, &quot;I wonder if it would work without going into OOM on a computer like mine.&quot; So I started working with the help of agents to test this possibility.<p>I started converting the model to int4, understanding MTP usage, and if possible implementing DSA for long context. How it responds in int4 and whether the quality is maintained or not. Until I got to the point, on my computer with 32GB of RAM, I was able to communicate with GLM 5.2 with times that, of course, aren&#x27;t high in cold start, but even then, we&#x27;re talking about 0.1 tok&#x2F;s, but that wasn&#x27;t important to me. The important thing was the journey to reach this goal. I just wanted it to work at all costs, even slowly.<p>So I created Colibrì, which was born from a very simple idea, to be honest, but tested in every way, where a 744B Mixture-of-Experts model activates only ~40B parameters per token—and only ~11 GB of those change from token to token (the routed experts). So:<p>The dense part (attention, shared experts, embeddings—~17B params) stays resident in RAM at int4 (~9.9 GB); The 21,504 routed experts (75 MoE layers × 256 experts + the MTP head, ~19 MB each at int4) live on disk (~370 GB) and are streamed on demand, with a per-layer LRU cache, an optional pinned hot-store, and the OS page cache as a free L2.<p>The engine is a single C file (c&#x2F;glm.c, ~1,300 lines) plus small headers. No BLAS, no Python at runtime, no GPU.No GPU or serious hardware because I don&#x27;t have that hardware so I can&#x27;t test it on hardware that is more powerful than my computer.Colibrì is a one-person project, written and tested entirely on a 12-core laptop with 25 GB of RAM — the numbers above are the ceiling of what I can measure at home.<p>Any feedback is welcome! (and if anyone wanted to participate in the project I would be delighted)<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;JustVugg&#x2F;colibri\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;JustVugg&#x2F;colibri</a>" ]
+}, {
+  "title" : "EU Parliament greenlights Chat Control 1.0",
+  "description" : "Link: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/ | Score: 1170 | Comments: 564 | By: rapnie",
+  "url" : "https://news.ycombinator.com/item?id=48843923",
+  "answers" : [ ]
+}, {
+  "title" : "Train sim created by just one person is being called the best ever made",
+  "description" : "Link: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429 | Score: 422 | Comments: 146 | By: oumua_don17",
+  "url" : "https://news.ycombinator.com/item?id=48792383",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;store.steampowered.com&#x2F;app&#x2F;4630570&#x2F;RUNNING_TRAIN&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;store.steampowered.com&#x2F;app&#x2F;4630570&#x2F;RUNNING_TRAIN&#x2F;</a>" ]
+}, {
+  "title" : "Show HN: 18 Words",
+  "description" : "Link: https://18words.com/ | Score: 909 | Comments: 299 | By: pompomsheep",
+  "url" : "https://news.ycombinator.com/item?id=48845049",
+  "answers" : [ ]
+}, {
+  "title" : "GPT-5.6",
+  "description" : "Link: https://openai.com/index/gpt-5-6/ | Score: 1171 | Comments: 831 | By: logickkk1",
+  "url" : "https://news.ycombinator.com/item?id=48849066",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdf</a><p><a href=\"https:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F;latest-model\" rel=\"nofollow\">https:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F;latest-model</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;levie&#x2F;status&#x2F;2075287443411222628\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;levie&#x2F;status&#x2F;2075287443411222628</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;levie&#x2F;status&#x2F;2075287443411222628\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;levie&#x2F;status&#x2F;2075287443411222628</a>" ]
+}, {
+  "title" : "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+  "description" : "Link: https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/ | Score: 42 | Comments: 21 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48805598",
+  "answers" : [ ]
+}, {
+  "title" : "Study: \"Mommy, do you love your phone more than me?\"",
+  "description" : "Link: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full | Score: 64 | Comments: 25 | By: hbcondo714",
+  "url" : "https://news.ycombinator.com/item?id=48854247",
+  "answers" : [ ]
+}, {
+  "title" : "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+  "description" : "Link: https://github.com/malisper/pgrust | Score: 526 | Comments: 466 | By: SweetSoftPillow",
+  "url" : "https://news.ycombinator.com/item?id=48841676",
+  "answers" : [ ]
+}, {
+  "title" : "Interview with Mitchell Hashimoto about Ghostty and Zig",
+  "description" : "Link: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/ | Score: 188 | Comments: 77 | By: veqq",
+  "url" : "https://news.ycombinator.com/item?id=48849292",
+  "answers" : [ ]
+}, {
+  "title" : "Hy3",
+  "description" : "Link: https://hy.tencent.com/research/hy3 | Score: 434 | Comments: 89 | By: andai",
+  "url" : "https://news.ycombinator.com/item?id=48847552",
+  "answers" : [ ]
+}, {
+  "title" : "My Story of 3D Realms / Apogee Part I (2020)",
+  "description" : "Link: https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/ | Score: 57 | Comments: 2 | By: Michelangelo11",
+  "url" : "https://news.ycombinator.com/item?id=48757291",
+  "answers" : [ ]
+}, {
+  "title" : "Life with Hazard Ratios",
+  "description" : "Link: https://dynomight.net/hazard-ratios/ | Score: 21 | Comments: 4 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48806305",
+  "answers" : [ ]
+}, {
+  "title" : "No leap second will be introduced at the end of December 2026",
+  "description" : "Link: https://datacenter.iers.org/data/latestVersion/bulletinC.txt | Score: 265 | Comments: 200 | By: ChrisArchitect",
+  "url" : "https://news.ycombinator.com/item?id=48846281",
+  "answers" : [ ]
+}, {
+  "title" : "The glass backbone: Why the Army's logistics will break in the next war",
+  "description" : "Link: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/ | Score: 344 | Comments: 422 | By: baud147258",
+  "url" : "https://news.ycombinator.com/item?id=48845442",
+  "answers" : [ ]
+}, {
+  "title" : "Build your own vulnerability harness",
+  "description" : "Link: https://blog.cloudflare.com/build-your-own-vulnerability-harness/ | Score: 33 | Comments: 15 | By: ianrahman",
+  "url" : "https://news.ycombinator.com/item?id=48854681",
+  "answers" : [ ]
+}, {
+  "title" : "Common prefix skipping, adaptive sort",
+  "description" : "Link: http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html | Score: 8 | Comments: 0 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=48810218",
+  "answers" : [ ]
+}, {
+  "title" : "Triple Dragon Fractal (2020)",
+  "description" : "Link: https://paulbourke.net/fractals/tripledragon/ | Score: 37 | Comments: 8 | By: nhatcher",
+  "url" : "https://news.ycombinator.com/item?id=48804400",
+  "answers" : [ ]
+}, {
+  "title" : "A road to Lisp: Why Lisp",
+  "description" : "Link: https://scotto.me/blog/2026-07-09-why-lisp/ | Score: 174 | Comments: 133 | By: silcoon",
+  "url" : "https://news.ycombinator.com/item?id=48845209",
+  "answers" : [ ]
+}, {
+  "title" : "Ben Bernanke Joins Anthropic Oversight Trust",
+  "description" : "Link: https://www.anthropic.com/news/ben-bernanke | Score: 56 | Comments: 46 | By: Jimmc414",
+  "url" : "https://news.ycombinator.com/item?id=48855112",
+  "answers" : [ ]
+}, {
+  "title" : "Harman and Dr. Sean Olive are reshaping headphone sound",
+  "description" : "Link: https://www.crutchfield.com/S-ls67Oiva4Wu/learn/crutchfield-visits-harman.html | Score: 4 | Comments: 0 | By: ledoge",
+  "url" : "https://news.ycombinator.com/item?id=48805358",
+  "answers" : [ ]
+}, {
+  "title" : "Why American ambulance rides are so expensive",
+  "description" : "Link: https://davidoks.blog/p/why-american-ambulance-rides-are | Score: 158 | Comments: 198 | By: jyunwai",
+  "url" : "https://news.ycombinator.com/item?id=48853091",
+  "answers" : [ ]
+}, {
+  "title" : "Building a real-time AI tutor for 5-year-olds",
+  "description" : "Link: https://www.ello.com/blog/teaching-a-child-in-1000-ms | Score: 70 | Comments: 106 | By: catalinvoss",
+  "url" : "https://news.ycombinator.com/item?id=48852199",
+  "answers" : [ "Hey HN! We&#x27;ve spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.<p>Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child&#x27;s learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow.<p>Effective teaching isn&#x27;t just about answering a child&#x27;s  question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right.<p>Happy to answer questions and curious what you all think, critical feedback included, we&#x27;ve been working on this problem for a long time and love to hear from the HN community." ]
+}, {
+  "title" : "A possible future for Damn Interesting",
+  "description" : "Link: https://www.damninteresting.com/a-possible-future/ | Score: 264 | Comments: 36 | By: mzur",
+  "url" : "https://news.ycombinator.com/item?id=48847511",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+  "description" : "Link: https://www.context.dev | Score: 83 | Comments: 61 | By: TheYahiaBakour",
+  "url" : "https://news.ycombinator.com/item?id=48847562",
+  "answers" : [ "Hi Hacker News, I’m Yahia. I built Context.dev (<a href=\"https:&#x2F;&#x2F;www.context.dev&#x2F;\">https:&#x2F;&#x2F;www.context.dev&#x2F;</a>) to make it really easy to integrate web data into your products and agents.<p>Here’s a demo video: <a href=\"https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;build-faster-with-context-dev-apis-2cgl\" rel=\"nofollow\">https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;build-faster-with-context-dev-api...</a><p>Since it’s an API, here are the docs: <a href=\"https:&#x2F;&#x2F;docs.context.dev&#x2F;quickstart\">https:&#x2F;&#x2F;docs.context.dev&#x2F;quickstart</a>.<p>You can send us a URL and get back clean Markdown, rendered HTML, screenshots, extracted images, etc.. You can also send us a domain and get company or brand context: name, description, logos, colors, fonts, social links, screenshots, style information, and related metadata. For more custom use cases, you can send a URL plus a JSON Schema and ask us to extract structured data from the site into that shape. For example, you might ask for pricing plans, product categories, office locations, support links, integration partners, or anything else that is visible on the public site.<p>The goal is to give developers the output they actually want. Raw HTML is rarely the useful thing; the useful thing is usually Markdown for a model, JSON for an application, a logo for a UI, or a structured company profile for an agent.<p>Before, I worked at Amazon and Sunrun, and co-founded StockAlarm.io &amp; essense.io, both of which were acquired. Also, I built knifegeek.io, which scraped pocket knives from across the internet and listed them easily. The project is outdated now (coming back soon) but back then it hit the frontpage of hacker news and people seemed to like it: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=34604281\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=34604281</a>.<p>Just before Context.dev, I built Brand.dev. The idea was that your software product should automatically know about your customer if they sign up with a corporate email. The API pulled brand data such as logos, backdrops, name, description, industry, and more from the public web and surfaced it to your product to integrate as part of their onboarding experience. That’s worth doing because conversion rates on onboarding improve dramatically when you go from “enter all this info” to “confirm all this info” (and there was never any privacy concern all the information is public).<p>That was a nifty niche, but the more customers used it, it became obvious that “brand data” was only one slice of a larger need. People started asking for things like screenshots, structured extraction, and LLM ready data. So I expanded to Context.dev, and applied to YC (got rejected after an interview), then kept going and re-applied at which point I got in as a solo founder.<p>People use Context.dev in more ways than I can list, but here are some: keeping context up to date on customer websites for chatbots - building beautiful brand assets&#x2F;ads for customers - enrichment flows using agent harnesses like eve.dev - crawling customer websites into chatbot knowledge bases - turning GitHub repos into branded docs sites - academic journal and PDF crawling. There are a ton more examples at <a href=\"https:&#x2F;&#x2F;www.context.dev&#x2F;customers\">https:&#x2F;&#x2F;www.context.dev&#x2F;customers</a>.<p>We know that many crawlers are not behaving like good citizens on the web, and the entire space has a bad reputation as a result. At the same time, customers are not usually trying to buy “scraping”. They are trying to make a support bot work, personalize onboarding, enrich CRM records, generate docs, monitor leads, or let an agent research a company. There are lots of legit use cases. We want to satisfy those while being respectful of everyone involved.<p>We maintain a caching layer and avoid hammering websites. Customers can configure the cache, but if we find we’re sending too many requests to a url in a certain amount of time, we step in and tone it down. Websites can opt out of our service, and we respect these requests and add them to our block list.<p>We focus on customers who want to build cool things for their users. Enriching onboarding is a popular use case. So is integrating context about their own websites (things like support bots), and building agents that can automatically reason about complex tasks involving the internet.<p>We only allow customers to use brand data to identify a specific customer on their software, you cannot use it in your own materials or to imply endorsement.<p>I&#x27;d love to hear your feedback about the product in the comments, thanks!" ]
+}, {
+  "title" : "Girls just wanna have fast MPMC queues with bounded waiting",
+  "description" : "Link: https://nahla.dev/blog/waitfree_queue/ | Score: 148 | Comments: 30 | By: EvgeniyZh",
+  "url" : "https://news.ycombinator.com/item?id=48809574",
+  "answers" : [ ]
+}, {
+  "title" : "Muse Spark 1.1",
+  "description" : "Link: https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/ | Score: 350 | Comments: 177 | By: ot",
+  "url" : "https://news.ycombinator.com/item?id=48846184",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;ai.meta.com&#x2F;static-resource&#x2F;muse-spark-1-1-evaluation-report\" rel=\"nofollow\">https:&#x2F;&#x2F;ai.meta.com&#x2F;static-resource&#x2F;muse-spark-1-1-evaluatio...</a> [pdf]<p><a href=\"https:&#x2F;&#x2F;developer.meta.com&#x2F;ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;developer.meta.com&#x2F;ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse...</a><p><a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-07-09&#x2F;meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzYxMzQ0OCwiZXhwIjoxNzg0MjE4MjQ4LCJhcnRpY2xlSWQiOiJUSFZDVENSS1YyVTYwMCIsImJjb25uZWN0SWQiOiIwRDE5ODY5MzQ1M0Y0NUMzQkQyMjQzMUQ4NjAzMDU1QSJ9.O5sxV2QajBiyISnu5AVyVUdWWGQtozl0yeCNAbc5JJQ&amp;leadSource=uverify%20wall\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-07-09&#x2F;meta-star...</a>, <a href=\"https:&#x2F;&#x2F;archive.is&#x2F;3ccKa\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;3ccKa</a>" ]
+}, {
+  "title" : "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+  "description" : "Link: https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/ | Score: 18 | Comments: 12 | By: eigenBasis",
+  "url" : "https://news.ycombinator.com/item?id=48813214",
+  "answers" : [ ]
+}, {
+  "title" : "Patterncollider: Generate and explore quasiperiodic tiling patterns",
+  "description" : "Link: https://github.com/aatishb/patterncollider | Score: 36 | Comments: 1 | By: tobr",
+  "url" : "https://news.ycombinator.com/item?id=48800930",
+  "answers" : [ ]
+}, {
+  "title" : "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+  "description" : "Link: https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/ | Score: 312 | Comments: 185 | By: PotatoNinja",
+  "url" : "https://news.ycombinator.com/item?id=48803004",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;LV6Cw\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;LV6Cw</a>" ]
+}, {
+  "title" : "SimPolitics: America’s quest to solve politics with computers",
+  "description" : "Link: https://mitpress.mit.edu/9780262053198/simpolitics/ | Score: 87 | Comments: 23 | By: mckelveyf",
+  "url" : "https://news.ycombinator.com/item?id=48846332",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;direct.mit.edu&#x2F;books&#x2F;oa-monograph&#x2F;6166&#x2F;SimPoliticsAmerica-s-Quest-to-Solve-Politics-with\" rel=\"nofollow\">https:&#x2F;&#x2F;direct.mit.edu&#x2F;books&#x2F;oa-monograph&#x2F;6166&#x2F;SimPoliticsAm...</a>" ]
+} ]
