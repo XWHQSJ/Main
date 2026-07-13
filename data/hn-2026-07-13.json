@@ -1,0 +1,151 @@
+[ {
+  "title" : "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+  "description" : "Link: https://nebusec.ai/research/ionstack-part-2/ | Score: 177 | Comments: 65 | By: ranger_danger",
+  "url" : "https://news.ycombinator.com/item?id=48834309",
+  "answers" : [ "UAF = Use After Free (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>)" ]
+}, {
+  "title" : "Ask HN: Add flag for AI-generated articles",
+  "description" : "Score: 317 | Comments: 175 | By: levkk",
+  "url" : "https://news.ycombinator.com/item?id=48886741",
+  "answers" : [ "Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing others (like myself) who don&#x27;t like reading AI-generated text, to skip it.<p>Open questions:<p>1. Why is the regular voting system not enough?<p>2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals." ]
+}, {
+  "title" : "Cyberpunk Comics, Manga and Graphic Novels",
+  "description" : "Link: https://shellzine.net/cyberpunk-comics/ | Score: 133 | Comments: 35 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=48885643",
+  "answers" : [ ]
+}, {
+  "title" : "Tiny Emulators",
+  "description" : "Link: https://floooh.github.io/tiny8bit-preview/index.html | Score: 195 | Comments: 12 | By: naves",
+  "url" : "https://news.ycombinator.com/item?id=48884395",
+  "answers" : [ ]
+}, {
+  "title" : "Beavis Ultrasound PnP ISA Sound Card Replica",
+  "description" : "Link: https://github.com/schlae/BeavisUltrasound | Score: 3 | Comments: 0 | By: mariuz",
+  "url" : "https://news.ycombinator.com/item?id=48888193",
+  "answers" : [ ]
+}, {
+  "title" : "So you want to learn physics (second edition, 2021)",
+  "description" : "Link: https://www.susanrigetti.com/physics | Score: 149 | Comments: 22 | By: azhenley",
+  "url" : "https://news.ycombinator.com/item?id=48827126",
+  "answers" : [ ]
+}, {
+  "title" : "Designing and assembling my first PCB",
+  "description" : "Link: https://vilkeliskis.com/b/2026/0711.html | Score: 82 | Comments: 33 | By: tadasv",
+  "url" : "https://news.ycombinator.com/item?id=48885728",
+  "answers" : [ ]
+}, {
+  "title" : "Are you telling me a readonly property is wrecking my performance?",
+  "description" : "Link: https://shub.club/writings/2026/july/check-your-scrollheight/ | Score: 9 | Comments: 4 | By: forthwall",
+  "url" : "https://news.ycombinator.com/item?id=48849983",
+  "answers" : [ ]
+}, {
+  "title" : "First look at Quest, the final ship of Antarctic explorer Shackleton",
+  "description" : "Link: https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229 | Score: 17 | Comments: 2 | By: curmudgeon22",
+  "url" : "https://news.ycombinator.com/item?id=48831840",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: What Are You Working On? (July 2026)",
+  "description" : "Score: 112 | Comments: 345 | By: david927",
+  "url" : "https://news.ycombinator.com/item?id=48884984",
+  "answers" : [ "What are you working on?  Any new ideas that you&#x27;re thinking about?" ]
+}, {
+  "title" : "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+  "description" : "Link: https://kode.diy | Score: 61 | Comments: 17 | By: iNic",
+  "url" : "https://news.ycombinator.com/item?id=48884992",
+  "answers" : [ ]
+}, {
+  "title" : "LARP – Revenue infrastructure for serious founders",
+  "description" : "Link: https://www.larp.website/ | Score: 198 | Comments: 41 | By: BerislavLopac",
+  "url" : "https://news.ycombinator.com/item?id=48882569",
+  "answers" : [ ]
+}, {
+  "title" : "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+  "description" : "Link: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 | Score: 172 | Comments: 64 | By: brryant",
+  "url" : "https://news.ycombinator.com/item?id=48882716",
+  "answers" : [ ]
+}, {
+  "title" : "How we can reduce traffic congestion",
+  "description" : "Link: https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/ | Score: 112 | Comments: 139 | By: raahelb",
+  "url" : "https://news.ycombinator.com/item?id=48881967",
+  "answers" : [ ]
+}, {
+  "title" : "Count Binface",
+  "description" : "Link: https://countbinface.com | Score: 88 | Comments: 16 | By: mooreds",
+  "url" : "https://news.ycombinator.com/item?id=48887753",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+  "description" : "Link: https://systima.ai/blog/claude-code-vs-opencode-token-overhead | Score: 528 | Comments: 295 | By: systima",
+  "url" : "https://news.ycombinator.com/item?id=48883275",
+  "answers" : [ "This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic&#x27;s endpoint, and captured all requests (and the returned usage blocks).<p>With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode." ]
+}, {
+  "title" : "Why write code in 2026",
+  "description" : "Link: https://softwaredoug.com/blog/2026/07/09/write-code | Score: 132 | Comments: 170 | By: softwaredoug",
+  "url" : "https://news.ycombinator.com/item?id=48861923",
+  "answers" : [ ]
+}, {
+  "title" : "I Learned to Read Again",
+  "description" : "Link: https://substack.magazinenongrata.com/p/how-i-learned-to-read-again | Score: 119 | Comments: 50 | By: georgex7",
+  "url" : "https://news.ycombinator.com/item?id=48883238",
+  "answers" : [ ]
+}, {
+  "title" : "Vint Cerf, “father of the Internet”, is retiring",
+  "description" : "Link: https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/ | Score: 294 | Comments: 169 | By: compiler-guy",
+  "url" : "https://news.ycombinator.com/item?id=48854168",
+  "answers" : [ ]
+}, {
+  "title" : "Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial",
+  "description" : "Link: https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/ | Score: 10 | Comments: 2 | By: thunderbong",
+  "url" : "https://news.ycombinator.com/item?id=48859526",
+  "answers" : [ ]
+}, {
+  "title" : "Why Vanilla JavaScript",
+  "description" : "Link: https://guseyn.com/html/posts/why-vanilla-js.html | Score: 113 | Comments: 67 | By: guseyn",
+  "url" : "https://news.ycombinator.com/item?id=48885705",
+  "answers" : [ ]
+}, {
+  "title" : "Automation Without Understanding",
+  "description" : "Link: https://arxiv.org/abs/2607.06377 | Score: 108 | Comments: 47 | By: root-parent",
+  "url" : "https://news.ycombinator.com/item?id=48882554",
+  "answers" : [ ]
+}, {
+  "title" : "Profiling the \"Abundance\" housing bottleneck with real data",
+  "description" : "Link: https://laxmena.com/same-capacity-less-throughput | Score: 35 | Comments: 29 | By: laxmena",
+  "url" : "https://news.ycombinator.com/item?id=48885138",
+  "answers" : [ ]
+}, {
+  "title" : "Mechanistic interpretability researchers applying causality theory to LLMs",
+  "description" : "Link: https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/ | Score: 94 | Comments: 67 | By: adunk",
+  "url" : "https://news.ycombinator.com/item?id=48883090",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709</a>" ]
+}, {
+  "title" : "The four horsemen behind Postgres outages",
+  "description" : "Link: https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/ | Score: 31 | Comments: 12 | By: craigkerstiens",
+  "url" : "https://news.ycombinator.com/item?id=48851069",
+  "answers" : [ ]
+}, {
+  "title" : "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+  "description" : "Link: https://nanduruganesh.github.io/flash-msa/ | Score: 33 | Comments: 3 | By: rawsh",
+  "url" : "https://news.ycombinator.com/item?id=48884618",
+  "answers" : [ ]
+}, {
+  "title" : "I love LLMs, I hate hype",
+  "description" : "Link: https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html | Score: 380 | Comments: 240 | By: therepanic",
+  "url" : "https://news.ycombinator.com/item?id=48883343",
+  "answers" : [ ]
+}, {
+  "title" : "Against Usefulness",
+  "description" : "Link: https://www.motivenotes.ai/p/against-usefulness | Score: 98 | Comments: 24 | By: supo",
+  "url" : "https://news.ycombinator.com/item?id=48882956",
+  "answers" : [ ]
+}, {
+  "title" : "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+  "description" : "Link: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547 | Score: 437 | Comments: 164 | By: jhoho",
+  "url" : "https://news.ycombinator.com/item?id=48877371",
+  "answers" : [ ]
+}, {
+  "title" : "Calculix: A Free Software Three-Dimensional Structural Finite Element Program",
+  "description" : "Link: https://www.calculix.de/ | Score: 14 | Comments: 1 | By: joebig",
+  "url" : "https://news.ycombinator.com/item?id=48852718",
+  "answers" : [ ]
+} ]
