@@ -1,0 +1,151 @@
+[ {
+  "title" : "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+  "description" : "Score: 1910 | Comments: 200 | By: section33",
+  "url" : "https://news.ycombinator.com/item?id=48968606",
+  "answers" : [ "I might be the only SRE on Earth with his own bowling center. It&#x27;s a more in-depth gig than you&#x27;d think.<p>My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren&#x27;t many recreation options for families. You&#x27;ve heard of a food desert? This is an R&amp;R desert.<p>It had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn&#x27;t work perfectly. The system that keeps your score is particularly interesting to me. It&#x27;s the thing you watch during your game, but it fades into the background beyond that. Turns out these things are really cool, but absurdly expensive.<p>Ours was installed in 2008 and cost six figures. It&#x27;s calculating ball speed and trajectory, camera-based pin detection (object detection and trig, on ICs!), runs the fouling, the animations, the pinsetting machine and ball return. Very cool stuff for its age.<p>From the business perspective, my facility only cost me $105k. To forklift-replace the score keeping system runs anywhere between $80-$120k, depending on features, vendor, and unit age. No upgrades or service contracts, mind you, and every feature and customization is a new line item. That&#x27;s for a 1:1 replacement on a system installed in 2008. Incredible, given how fast the tech world moves.<p>Replacement parts cost a shocking $4000 per pair of lanes. But wait, the bowling machines themselves are 70 years old, so what&#x27;s this &quot;advanced&quot; system actually doing back there? Actuating a single relay to trigger that big old machine. Everything else is strictly mechanical. Meanwhile I&#x27;ve got a six-figure invoice in my hand. I&#x27;m upset.<p>Given the state of open hardware, computer vision, real-time event streaming, and open source running megascale products worldwide, there had to be a way to do this myself.<p>So far I&#x27;ve built an equivalent prototype for about $200 per lane-pair, $400 if you&#x27;re fancy. ESP32 and ESPNow with an RS485 fallback, reporting to a raspberry pi lane computer that&#x27;s really just redis and a state machine bolted to an ESP32 gateway for the mesh.<p>Since it&#x27;s all ESP32, I&#x27;ve got a fistful of spare controllers in a drawer, pre-flashed or waiting to be. All common off-the-shelf hardware: microcontrollers wired to relays, optocouplers, and IR-break-beam sensors, each running slightly different firmware. Writing the firmware and protocol is the actual hard part.<p>It&#x27;s an ESPNow star-topology mesh: each node emits events from its sensors and accepts commands for its controls, reporting to a gateway node connected to the raspi over UART. From there it&#x27;s event streaming: RX packets get translated and tossed into redis, commands relay back out to the mesh as needed. RS485 sits underneath as a wired fallback for noisy RF environments.<p>Once the data&#x27;s in redis, it&#x27;s familiar middleware&#x2F;React&#x2F;websocket&#x2F;pub-sub stuff. Any React dev can build their own UI and bowling animations. Since it all runs on commodity hardware, I can do legit anything I want as the proprietor, and I own all my data. Repairs take five minutes; I can swap the rig on a lane pair in under 10. I&#x27;d bet a house like mine could go from zero to running in an hour or two.<p>We&#x27;re calling it OpenLaneLink, and I plan to open source the hardware, firmware, and software stack when it&#x27;s ready. Bowling is fun, and I want to help keep it affordable for alleys like mine.\nI hate vendor lock-in. I&#x27;m not a fan of closed systems, calling support for every hiccup, or paying to &quot;white label&quot; my own equipment. Want to go Tron-themed for a night? Good luck finding a neon neumorphic theme in something bought at the turn of the century.<p>All that bugged me. Sure, bowling equipment is niche, but the open hardware and software landscape is amazing.<p>Thanks for reading! Let me know if anyone&#x27;s interested in more posts about this bowling nonsense." ]
+}, {
+  "title" : "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+  "description" : "Link: https://github.com/hgaiser/moonshine | Score: 56 | Comments: 25 | By: wertyk",
+  "url" : "https://news.ycombinator.com/item?id=48972970",
+  "answers" : [ ]
+}, {
+  "title" : "Power companies are using eminent domain to seize land for data centers",
+  "description" : "Link: https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/ | Score: 39 | Comments: 7 | By: 1vuio0pswjnm7",
+  "url" : "https://news.ycombinator.com/item?id=48974292",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Code uses Bun written in Rust now",
+  "description" : "Link: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/ | Score: 451 | Comments: 611 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=48966569",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Fable produced a counterexample to the Jacobian Conjecture",
+  "description" : "Link: https://xcancel.com/__alpoge__/status/2079028340955197566 | Score: 188 | Comments: 98 | By: loubbrad",
+  "url" : "https://news.ycombinator.com/item?id=48973869",
+  "answers" : [ ]
+}, {
+  "title" : "Orion Browser by Kagi",
+  "description" : "Link: https://orionbrowser.com/ | Score: 119 | Comments: 85 | By: sebjones",
+  "url" : "https://news.ycombinator.com/item?id=48970894",
+  "answers" : [ ]
+}, {
+  "title" : "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+  "description" : "Link: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard | Score: 449 | Comments: 207 | By: chipweinberger",
+  "url" : "https://news.ycombinator.com/item?id=48966713",
+  "answers" : [ ]
+}, {
+  "title" : "The Zen of Parallel Programming",
+  "description" : "Link: https://smolnero.com/posts/the-zen-of-parallel-programming | Score: 140 | Comments: 16 | By: edgar_ortega",
+  "url" : "https://news.ycombinator.com/item?id=48907390",
+  "answers" : [ ]
+}, {
+  "title" : "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+  "description" : "Link: https://github.com/Saivineeth147/lora-speedrun | Score: 4 | Comments: 0 | By: Vineeth147",
+  "url" : "https://news.ycombinator.com/item?id=48974325",
+  "answers" : [ ]
+}, {
+  "title" : "Minecraft: Java Edition now uses SDL3",
+  "description" : "Link: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4 | Score: 291 | Comments: 193 | By: ObviouslyFlamer",
+  "url" : "https://news.ycombinator.com/item?id=48967256",
+  "answers" : [ ]
+}, {
+  "title" : "Korg PS-3300 - one of the rarest synthesizers in music history is back",
+  "description" : "Link: https://www.korg.co.uk/blogs/updates/ps3300 | Score: 12 | Comments: 14 | By: Lio",
+  "url" : "https://news.ycombinator.com/item?id=48907564",
+  "answers" : [ ]
+}, {
+  "title" : "Who Is America's Homer?",
+  "description" : "Link: https://www.plough.com/articles/who-is-americas-homer | Score: 60 | Comments: 139 | By: samclemens",
+  "url" : "https://news.ycombinator.com/item?id=48913656",
+  "answers" : [ ]
+}, {
+  "title" : "Biggest Probabilistic Computer Turns Noise into Answers",
+  "description" : "Link: https://spectrum.ieee.org/biggest-probabilistic-computer | Score: 57 | Comments: 9 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=48971938",
+  "answers" : [ ]
+}, {
+  "title" : "Bananas sprout in Rayleigh Garden UK after 15 years",
+  "description" : "Link: https://www.bbc.com/news/articles/cvg8edqq5g5o | Score: 144 | Comments: 104 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=48968063",
+  "answers" : [ ]
+}, {
+  "title" : "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+  "description" : "Link: https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html | Score: 46 | Comments: 2 | By: gslin",
+  "url" : "https://news.ycombinator.com/item?id=48928703",
+  "answers" : [ ]
+}, {
+  "title" : "Qwen 3.8",
+  "description" : "Link: https://twitter.com/Alibaba_Qwen/status/2078759124914098291 | Score: 829 | Comments: 573 | By: nh43215rgb",
+  "url" : "https://news.ycombinator.com/item?id=48966120",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.qwencloud.com&#x2F;pricing&#x2F;token-plan\" rel=\"nofollow\">https:&#x2F;&#x2F;www.qwencloud.com&#x2F;pricing&#x2F;token-plan</a>" ]
+}, {
+  "title" : "HomeLab #1: MikroTik as a Home Router",
+  "description" : "Link: https://justsomebody.dev/blog/mikrotik-home-router | Score: 85 | Comments: 79 | By: rafal_opilowski",
+  "url" : "https://news.ycombinator.com/item?id=48970772",
+  "answers" : [ ]
+}, {
+  "title" : "Talk: The Art of Braiding Algorithms",
+  "description" : "Link: https://pgadey.ca/notes/talk-relatorium-2026/ | Score: 32 | Comments: 0 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48920597",
+  "answers" : [ ]
+}, {
+  "title" : "Big Tech Is Now Targeting Native American Land for Data Centers",
+  "description" : "Link: https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html | Score: 33 | Comments: 9 | By: reaperducer",
+  "url" : "https://news.ycombinator.com/item?id=48973782",
+  "answers" : [ ]
+}, {
+  "title" : "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+  "description" : "Link: https://retrogamecoders.com/c64-basic-dungeon-part8/ | Score: 65 | Comments: 4 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=48968949",
+  "answers" : [ ]
+}, {
+  "title" : "HMD Touch 4G",
+  "description" : "Link: https://www.hmd.com/en_int/hmd-touch-4g | Score: 67 | Comments: 68 | By: thisislife2",
+  "url" : "https://news.ycombinator.com/item?id=48969983",
+  "answers" : [ ]
+}, {
+  "title" : "I joined the IndieWeb, here's what I learned",
+  "description" : "Link: https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/ | Score: 177 | Comments: 89 | By: andros",
+  "url" : "https://news.ycombinator.com/item?id=48966984",
+  "answers" : [ ]
+}, {
+  "title" : "A new Intel Itanium (IA-64) emulator that boots Windows",
+  "description" : "Link: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html | Score: 66 | Comments: 58 | By: jandeboevrie",
+  "url" : "https://news.ycombinator.com/item?id=48971566",
+  "answers" : [ ]
+}, {
+  "title" : "Cagire: Live Coding in Forth",
+  "description" : "Link: https://cagire.raphaelforment.fr | Score: 89 | Comments: 11 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48860719",
+  "answers" : [ ]
+}, {
+  "title" : "Dupes took over the world",
+  "description" : "Link: https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping | Score: 78 | Comments: 69 | By: gumby",
+  "url" : "https://news.ycombinator.com/item?id=48908433",
+  "answers" : [ ]
+}, {
+  "title" : "I burned all my tokens researching how to save tokens",
+  "description" : "Link: https://quesma.com/blog/custom-deep-research-pipeline/ | Score: 112 | Comments: 152 | By: bkotrys",
+  "url" : "https://news.ycombinator.com/item?id=48967355",
+  "answers" : [ ]
+}, {
+  "title" : "Ollama: All Aboard Open Models",
+  "description" : "Link: https://ollama.com/blog/all-aboard-open-models | Score: 132 | Comments: 52 | By: inferhaven",
+  "url" : "https://news.ycombinator.com/item?id=48965880",
+  "answers" : [ ]
+}, {
+  "title" : "Terence McKenna's Mega Bad Trip (2025)",
+  "description" : "Link: https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip | Score: 84 | Comments: 75 | By: Dimmiwoah",
+  "url" : "https://news.ycombinator.com/item?id=48968515",
+  "answers" : [ ]
+}, {
+  "title" : "AI advice made people less accurate but more confident – sudy",
+  "description" : "Link: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study | Score: 316 | Comments: 179 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=48971738",
+  "answers" : [ ]
+}, {
+  "title" : "Ise Jingu and the Pyramid of Enabling Technologies (2021)",
+  "description" : "Link: https://www.scopeofwork.net/ise-jingu-and-the-pyramid-of-enabling-technologies/ | Score: 12 | Comments: 4 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=48926307",
+  "answers" : [ ]
+} ]
