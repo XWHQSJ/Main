@@ -1,0 +1,151 @@
+[ {
+  "title" : "Jane Street: Incremental",
+  "description" : "Link: https://github.com/janestreet/incremental | Score: 42 | Comments: 9 | By: handfuloflight",
+  "url" : "https://news.ycombinator.com/item?id=48987822",
+  "answers" : [ ]
+}, {
+  "title" : "Who's afraid of Chinese models?",
+  "description" : "Link: https://stratechery.com/2026/whos-afraid-of-chinese-models/ | Score: 457 | Comments: 306 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=48977128",
+  "answers" : [ ]
+}, {
+  "title" : "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+  "description" : "Link: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/ | Score: 17 | Comments: 4 | By: sudo_cowsay",
+  "url" : "https://news.ycombinator.com/item?id=48987831",
+  "answers" : [ ]
+}, {
+  "title" : "Running Doom on Our Custom CPU and Going Viral",
+  "description" : "Link: https://www.armaangomes.com/blogs/doom/ | Score: 17 | Comments: 0 | By: arghunter",
+  "url" : "https://news.ycombinator.com/item?id=48987846",
+  "answers" : [ ]
+}, {
+  "title" : "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+  "description" : "Link: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding | Score: 74 | Comments: 10 | By: NordStreamYacht",
+  "url" : "https://news.ycombinator.com/item?id=48987863",
+  "answers" : [ ]
+}, {
+  "title" : "Kimi Work",
+  "description" : "Link: https://www.kimi.com/products/kimi-work | Score: 466 | Comments: 201 | By: ms7892",
+  "url" : "https://news.ycombinator.com/item?id=48981703",
+  "answers" : [ ]
+}, {
+  "title" : "Jelly UI: Soft-body physics for native HTML form controls",
+  "description" : "Link: https://jelly-ui.com/ | Score: 412 | Comments: 143 | By: baldvinmar",
+  "url" : "https://news.ycombinator.com/item?id=48981620",
+  "answers" : [ ]
+}, {
+  "title" : "Human mathematicians are being outcounterexampled",
+  "description" : "Link: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/ | Score: 281 | Comments: 99 | By: artninja1988",
+  "url" : "https://news.ycombinator.com/item?id=48983382",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts",
+  "description" : "Link: https://exsitu.app/map | Score: 7 | Comments: 0 | By: hbyel",
+  "url" : "https://news.ycombinator.com/item?id=48988158",
+  "answers" : [ "Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs&#x2F;hyperlinks from their origin site to institutional location&#x2F;sources. The Index specifically looks at western&#x2F;euro-american institutions and maps their collection categorised by them under Islamic art, Asian&#x2F;African art, ethnological collections, Middle East, South America etc.<p>Started as my MA thesis in 2022, kept building since, mostly solo with a little funding. Fully open source, self-hosted, AGPL-3.0, Next.js + Deck.gl on the frontend, Strapi backend, Python ETL pulling from museum open-access APIs. Currently indexing over 100k artifacts from all over the world, across 8 collections (Met, V&amp;A, SMB Berlin). Recently added an md export so researchers can download provenance data for a filtered set of artifacts.<p>The infrastructure is conceptualized as an indexer, not a hoster. Even images are kept as URLs pointing to the source institutions. It&#x27;s connective tissue between archives that were never designed to speak to each other, with an origin-first search UI concept. The data model is on purpose flat, to avoid encoding problematic taxonomies, and routes researchers directly to the source giving responsibility to the source institutions rather than duplicating institutional data. It indexes the relationship between origin sites and destination collections.<p>Coming from a design background, taking this project from prototype to production app has been incredibly rewarding, but honestly it’s getting a little bit overwhelming to scale alone. I would love community’s feedback on performance scaling, any code contributions, data pipelines for missing museum apis or general feedback.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;hburakyel&#x2F;ex-situ\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;hburakyel&#x2F;ex-situ</a><p>Live: <a href=\"https:&#x2F;&#x2F;exsitu.app\" rel=\"nofollow\">https:&#x2F;&#x2F;exsitu.app</a>" ]
+}, {
+  "title" : "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+  "description" : "Link: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country | Score: 260 | Comments: 41 | By: StatsAreFun",
+  "url" : "https://news.ycombinator.com/item?id=48986731",
+  "answers" : [ ]
+}, {
+  "title" : "Jellyfin founder Andrew leaves team",
+  "description" : "Link: https://forum.jellyfin.org/t-project-leadership-changes | Score: 182 | Comments: 114 | By: swat535",
+  "url" : "https://news.ycombinator.com/item?id=48986091",
+  "answers" : [ ]
+}, {
+  "title" : "Nativ: Run frontier open models locally on your Mac",
+  "description" : "Link: https://blaizzy.github.io/nativ/ | Score: 226 | Comments: 80 | By: aratahikaru5",
+  "url" : "https://news.ycombinator.com/item?id=48982681",
+  "answers" : [ ]
+}, {
+  "title" : "I wrote an bash enumerator because I was sick of xargs",
+  "description" : "Link: https://numerlab.org/2025/07/20/bashumerate-enumerator/ | Score: 98 | Comments: 71 | By: wallach-game",
+  "url" : "https://news.ycombinator.com/item?id=48984270",
+  "answers" : [ ]
+}, {
+  "title" : "Flight Planning with Little Navmap",
+  "description" : "Link: https://tech.marksblogg.com/little-navmap-flight-planning.html | Score: 4 | Comments: 0 | By: marklit",
+  "url" : "https://news.ycombinator.com/item?id=48937703",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+  "description" : "Link: https://vincentwoo.com/3d/grace_cathedral/ | Score: 121 | Comments: 27 | By: akanet",
+  "url" : "https://news.ycombinator.com/item?id=48984254",
+  "answers" : [ ]
+}, {
+  "title" : "Agent swarms and the new model economics",
+  "description" : "Link: https://cursor.com/blog/agent-swarm-model-economics | Score: 159 | Comments: 67 | By: jlaneve",
+  "url" : "https://news.ycombinator.com/item?id=48982535",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+  "description" : "Score: 78 | Comments: 76 | By: alexsouthmayd",
+  "url" : "https://news.ycombinator.com/item?id=48981136",
+  "answers" : [ "Hi HN, I’m Alex Southmayd, the founder of Bloomy (<a href=\"https:&#x2F;&#x2F;bloomylearning.com\">https:&#x2F;&#x2F;bloomylearning.com</a>) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).<p>How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer.<p>The goal is to solve the Bloom 2-sigma problem (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bloom%27s_2_sigma_problem\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bloom%27s_2_sigma_problem</a>) with AI.<p>Short launch video: <a href=\"https:&#x2F;&#x2F;tinyurl.com&#x2F;bloomylearning\" rel=\"nofollow\">https:&#x2F;&#x2F;tinyurl.com&#x2F;bloomylearning</a><p>Longer product demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;XHvoKt6qMeo\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;XHvoKt6qMeo</a><p>Families access for Bloomy: <a href=\"https:&#x2F;&#x2F;bloomylearning.com&#x2F;families\">https:&#x2F;&#x2F;bloomylearning.com&#x2F;families</a><p>I started as a teacher. I taught 7th-grade English and writing with Teach For America, and every day I struggled to deliver differentiated instruction to 30 students with 30 different sets of needs. Some students needed remediation, some needed acceleration, and many needed a tutor sitting next to them helping them reason through the next step.\nBenjamin Bloom’s two-sigma result—that one-on-one tutoring can produce much better outcomes than conventional classroom instruction—always felt intuitively true to me. The hard part was making that kind of attention affordable and available to every child.<p>Then AI changed the cost curve. When I saw schools such as Alpha organize academics around mastery rather than seat time, the model clicked. If you’ve heard of Alpha School, that is directionally the kind of learning model that inspired us. But I kept thinking about the families and schools that already exist: homeschool families, microschools, hybrid schools, and regular classrooms where most children are today.<p>Most students and teachers see learning gaps at the wrong resolution. They get a grade, percentile, benchmark score, or broad standard—not “this is the next skill this student should learn.” Existing personalized-learning products often feel like digital worksheets: they provide plenty of practice, but not much diagnosis or teaching. Very few have AI tutors providing the core instruction.\nBloomy starts with a diagnostic—we integrate with third-party assessments and provide our own—and creates a learning path for each student. Students work one skill at a time, receive a short lesson, practice at an adaptive difficulty, and only move forward after demonstrating at least 90% mastery. The learning path updates as the student works, based on their performance and our knowledge graph of skill prerequisites (built in collaboration with Learning Commons &#x2F; Chan Zuckerberg Initiative).<p>Each skill has three stages. Base Camp teaches the concept with worked examples. Climb provides guided practice and Socratic support. Summit is an independent ten-question mastery assessment with no hints or AI assistance. Students need to achieve 90% on the Summit to advance. If they struggle too much, they’ll be routed to a different skill better suited for their level.<p>BloomyBot is not a blank chat window but rather a live, interactive, and observant digital tutor. During practice, it receives the active passage or problem, the question, the student’s attempt, an authored explanation, and relevant misconception context. It follows a scaffolded tutoring ladder: first asking what the student tried, then pointing toward the concept, suggesting a strategy, working through one step together, and only providing heavier scaffolding after the student has struggled, adapting to and learning from the student along the way. Students can interrupt it, and we’ve begun to roll out multilingual support for Spanish, French, and a few other more niche languages that customers have asked for.<p>We currently use a variety of Anthropic and OpenAI models for BloomyBot. The tutor is restricted to the current lesson, redirects unrelated questions, limits conversation length, and is unavailable during mastery assessments. The language model does not choose the curriculum or decide whether a student has mastered a skill.<p>That separation is important. A conventionally “helpful” AI response can be a bad tutoring response: if it gives away the answer, the student completes the task but may not learn anything. Our goal is not to build a homework-answering chatbot. It is to put AI inside a structured loop of diagnosis, instruction, practice, feedback, and independent mastery.<p>LLMs can still be wrong, and we do not claim our constraints eliminate that. We reduce the surface area by grounding BloomyBot in authored lesson content, keeping it on topic, logging conversations, and removing it from assessments. Teachers and parents can review tutoring activity, students can report problems, and safety signals trigger human alerts and a backup audit.\nWe also do not see Bloomy as a replacement for teachers, parents, or human tutors. A good human tutor is better. The narrower question we are testing is whether, during a bounded learning session a student would already be doing, a context-aware tutor can provide better help than static “correct&#x2F;incorrect” feedback. Longer term, the question becomes more whether a student would perform better with one-on-one AI tutoring (at least in certain aspects of the curriculum) than with many-to-one instruction in a medium- or large-sized classroom.<p>Bloomy is now being used across several settings: traditional districts, charter schools, hybrid schools, microschools, homeschools, and families looking for additional academic support. In an early pilot at a charter school in Massachusetts serving ~150 students in grades 6 through 8, students averaged roughly 1.8 times the expected winter-to-spring NWEA MAP growth. This was an observational pilot, not a randomized study, so we treat it as an encouraging signal rather than proof that Bloomy caused the difference.<p>Parents and teachers can see what a student has mastered, what is in progress, and where support may be needed. We have found that adults generally do not want another generic score; they want to know which small number of skills deserve attention this week.<p>Bloomy makes money through family subscriptions and school licensing. ELA costs $39&#x2F;month or $279&#x2F;year per learner, and Writing Studio costs $19&#x2F;month or $139&#x2F;year. Math is scheduled to launch July 31 at the same price as ELA. Schools and microschools pay per student, with pricing varying by subject coverage, enrollment, rostering, and implementation needs.<p>Because children use Bloomy, we collect learning responses, progress data, and tutoring conversations. We do not sell personal information, use child data for behavioral advertising, or permit model providers to train general-purpose models on identifiable child data sent by Bloomy. We have Zero Data Retention agreements with both Anthropic and OpenAI. Parents and schools can request access, export, correction, or deletion under the applicable account or school agreement.<p>More background on me: after Teach For America, I taught and designed GMAT and GRE curriculum for Manhattan Prep &#x2F; Kaplan, led the driver acquisition team for Lyft’s New England markets, completed an MBA at Stanford, and led AI transformation projects at McKinsey (so when models finally became good enough this past January to achieve the kinds of things I am pursuing with Bloomy, I was in the right place at the right time to begin building). Bloomy brings together the different parts of my career that I care most about: educational outcomes, learning design, building products, and getting useful technology into people’s hands.<p>I’d especially value feedback from parents, teachers, engineers working on child-facing AI, and people who have built tutoring, assessment, or adaptive-learning systems. Does the separation between guided AI help and independent mastery make sense? Where do you see the greatest potential with AI in education? Where are our safeguards insufficient? What evidence or product behavior would you need to trust something like this with a student?<p>Certainly there are many dangers and pitfalls we must beware of, too, but I believe we can really move the needle in K-12 (for the first time in a long time) if we use AI responsibly and intelligently." ]
+}, {
+  "title" : "China’s open-weights AI strategy is winning",
+  "description" : "Link: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ | Score: 1028 | Comments: 816 | By: benwerd",
+  "url" : "https://news.ycombinator.com/item?id=48979269",
+  "answers" : [ ]
+}, {
+  "title" : "Bash for Browser Front End",
+  "description" : "Link: https://alganet.github.io/terminal/?p=post:2026-07-21-00-Bash-for-Browser-Frontend&lang=en | Score: 3 | Comments: 0 | By: gaigalas",
+  "url" : "https://news.ycombinator.com/item?id=48987958",
+  "answers" : [ ]
+}, {
+  "title" : "LEDs’ potential to save our night skies",
+  "description" : "Link: https://spectrum.ieee.org/led-light-pollution | Score: 227 | Comments: 171 | By: defrost",
+  "url" : "https://news.ycombinator.com/item?id=48978350",
+  "answers" : [ ]
+}, {
+  "title" : "The Psychology of Software Teams",
+  "description" : "Link: https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389 | Score: 68 | Comments: 16 | By: dcre",
+  "url" : "https://news.ycombinator.com/item?id=48923130",
+  "answers" : [ ]
+}, {
+  "title" : "My two year old taught me constraint solving",
+  "description" : "Link: https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/ | Score: 56 | Comments: 21 | By: bambataa",
+  "url" : "https://news.ycombinator.com/item?id=48864176",
+  "answers" : [ ]
+}, {
+  "title" : "The Power of Awareness: Overcoming Surveillance Capitalism",
+  "description" : "Link: https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/ | Score: 77 | Comments: 8 | By: trinsic2",
+  "url" : "https://news.ycombinator.com/item?id=48984231",
+  "answers" : [ ]
+}, {
+  "title" : "Perfection is not over-engineering",
+  "description" : "Link: https://var0.xyz/posts/perfection-is-not-over-engineering.html | Score: 219 | Comments: 93 | By: var0xyz",
+  "url" : "https://news.ycombinator.com/item?id=48979120",
+  "answers" : [ ]
+}, {
+  "title" : "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+  "description" : "Link: https://nothings.org/gamedev/ssao/ | Score: 160 | Comments: 66 | By: firephox",
+  "url" : "https://news.ycombinator.com/item?id=48979931",
+  "answers" : [ ]
+}, {
+  "title" : "Hacker wipes Romania's land registry database",
+  "description" : "Link: https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/ | Score: 614 | Comments: 340 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=48978605",
+  "answers" : [ ]
+}, {
+  "title" : "GTFO VR Mod Postmortem",
+  "description" : "Link: https://dsprtn.dev/posts/GTFO-VR-Postmortem/ | Score: 4 | Comments: 0 | By: Dsprtn",
+  "url" : "https://news.ycombinator.com/item?id=48945465",
+  "answers" : [ ]
+}, {
+  "title" : "You only need the frontier model for one single edit",
+  "description" : "Link: https://stencil.so/blog/prewalk | Score: 98 | Comments: 25 | By: jxmorris12",
+  "url" : "https://news.ycombinator.com/item?id=48916512",
+  "answers" : [ ]
+}, {
+  "title" : "Shinjuku Station in 3D",
+  "description" : "Link: https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/ | Score: 181 | Comments: 37 | By: Gecko4072",
+  "url" : "https://news.ycombinator.com/item?id=48978792",
+  "answers" : [ ]
+}, {
+  "title" : "How we measured AI writing across arXiv, and where the measurement breaks",
+  "description" : "Link: https://unslop.run/blog/measuring-ai-writing-on-arxiv | Score: 203 | Comments: 149 | By: dopamine_daddy",
+  "url" : "https://news.ycombinator.com/item?id=48981206",
+  "answers" : [ ]
+} ]
