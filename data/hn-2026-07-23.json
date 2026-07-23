@@ -1,0 +1,151 @@
+[ {
+  "title" : "git's –end-of-options Flag",
+  "description" : "Link: https://nesbitt.io/2026/07/21/end-of-options.html | Score: 50 | Comments: 16 | By: Erenay09",
+  "url" : "https://news.ycombinator.com/item?id=48991882",
+  "answers" : [ ]
+}, {
+  "title" : "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+  "description" : "Link: https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56 | Score: 726 | Comments: 437 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=49010345",
+  "answers" : [ "<i>A digestion of the Jacobian conjecture counterexample</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362</a> - July 2026 (133 comments)<p><i>Claude Fable produced a counterexample to the Jacobian Conjecture</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869</a> - July 2026 (508 comments)" ]
+}, {
+  "title" : "Quality non-fiction books are the antithesis of AI slop",
+  "description" : "Link: https://resobscura.substack.com/p/quality-non-fiction-books-are-the | Score: 247 | Comments: 97 | By: benbreen",
+  "url" : "https://news.ycombinator.com/item?id=49007247",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;</a>" ]
+}, {
+  "title" : "GigaToken: ~1000x faster Language model tokenization",
+  "description" : "Link: https://github.com/marcelroed/gigatoken/ | Score: 423 | Comments: 85 | By: syrusakbary",
+  "url" : "https://news.ycombinator.com/item?id=49010167",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+  "description" : "Link: https://bento.page/slides/ | Score: 730 | Comments: 163 | By: starfallg",
+  "url" : "https://news.ycombinator.com/item?id=49008211",
+  "answers" : [ "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There&#x27;s no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn&#x27;t need to fetch anything once you got it.<p>Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn&#x27;t see any of the data.<p>Check it out at <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F;</a> which takes you straight to the editor.<p>Go to <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F;</a> to try out the live guestbook to experience share editing &#x2F; collab.<p>There is also a gallery with some sample decks on the website - <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;</a><p>All the code is MIT licensed and you can find it here - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento</a> . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code." ]
+}, {
+  "title" : "Restructuring GitHub's bug bounty program",
+  "description" : "Link: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/ | Score: 28 | Comments: 10 | By: soheilpro",
+  "url" : "https://news.ycombinator.com/item?id=49016099",
+  "answers" : [ ]
+}, {
+  "title" : "Everyone should know SIMD",
+  "description" : "Link: https://mitchellh.com/writing/everyone-should-know-simd | Score: 327 | Comments: 102 | By: WadeGrimridge",
+  "url" : "https://news.ycombinator.com/item?id=49010648",
+  "answers" : [ ]
+}, {
+  "title" : "Are AI labs pelicanmaxxing?",
+  "description" : "Link: https://dylancastillo.co/posts/pelicanmaxxing.html | Score: 443 | Comments: 173 | By: dcastm",
+  "url" : "https://news.ycombinator.com/item?id=49010129",
+  "answers" : [ ]
+}, {
+  "title" : "Medici family mystery may be solved after more than 400 years",
+  "description" : "Link: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria | Score: 99 | Comments: 23 | By: effects",
+  "url" : "https://news.ycombinator.com/item?id=49014007",
+  "answers" : [ ]
+}, {
+  "title" : "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+  "description" : "Link: https://github.com/exlee/ascdraw | Score: 18 | Comments: 4 | By: xlii",
+  "url" : "https://news.ycombinator.com/item?id=48984534",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+  "description" : "Link: https://github.com/cactus-compute/cactus-hybrid | Score: 97 | Comments: 14 | By: HenryNdubuaku",
+  "url" : "https://news.ycombinator.com/item?id=49010782",
+  "answers" : [ "Hey HN, Henry &amp; Roman here from Cactus.<p>A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it&#x27;s wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it&#x27;s high, hand off to a bigger cloud model when it&#x27;s low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemini 3.1 Flash-Lite on most benchmarks.<p>- ChartQA: 15-20%<p>- LibriSpeech: 25-30%<p>- MMBench, GigaSpeech, MMAU: 30-35%<p>- MMLU-Pro: 45-55%<p>We were always frustrated by the routing signals hybrid apps rely on: asking the model to rate itself in text (unreliable, and you&#x27;re parsing prose), or token entropy heuristics (barely better than a coin flip in our tests). So we did mechanistic studies on small models, Gemma 4 particularly, and found the hidden state for different layers carry meaningful self-awareness signal for various situations.<p>SO we extended the model with a 68k params probe layer (LayerNorm, low-rank projection, attention pooling, small MLP head) reads one intermediate layer during decoding and predicts p(wrong); confidence = 1 - p(wrong), returned as structured data, never parsed out of the answer text.<p>Across 12 hold-out benchmarks spanning text, vision and audio, the probe averages 0.814 AUROC vs 0.549 for token entropy. The result that convinced us this is real: the probe was trained on zero audio data, yet scores 0.79-0.88 AUROC on four audio benchmarks where entropy is near-random or worse (0.32-0.52). It&#x27;s reading a modality-independent correctness signal from the hidden state, not memorizing patterns from its training data.<p>We published all weights on HuggingFace and provide copy-pase codes to run it on Transformers, MLX, Llama.cpp or Cactus. With Ollama, vLLM, SGLang etc in the works. For llama.cpp we ship a patch series you compile in once (upstreaming is planned). The code is MIT licensed; Gemma model use remains subject to the Gemma terms.<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus-hybrid\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus-hybrid</a><p>Weights: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;Cactus-Compute&#x2F;cactus-hybrid-6a60da4551074db058e8bb64\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;Cactus-Compute&#x2F;cactus-hyb...</a><p>Some caveats:<p>- The probe scores single-sequence decoding only, up to the first 1024 generated tokens.<p>- Handoff works best when routing per task in a multi-step process, not per step.<p>- Hierarchical routing is still in the works: try on-device, then DeepSeek v4 Flash, before Fable&#x2F;GPT5.5&#x2F;Gemini&#x2F;Muse&#x2F;Grok.<p>- The technique is boutique for each model, we will share each weights as they roll out.<p>These issues are currently being tackled at Cactus and updated weights will be shipped directly into the HuggingFace collection and GitHub repository straight up. Please let us know your thoughts, it helps us find ways to improve the design progressively.<p>Thanks a million!" ]
+}, {
+  "title" : "John C. Dvorak has died",
+  "description" : "Link: https://twitter.com/na_announce/status/2079952538040672302 | Score: 669 | Comments: 215 | By: coleca",
+  "url" : "https://news.ycombinator.com/item?id=49012070",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302</a><p><a href=\"https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;20291\" rel=\"nofollow\">https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;2...</a><p><a href=\"https:&#x2F;&#x2F;www.facebook.com&#x2F;aric.mackey&#x2F;posts&#x2F;john-c-dvorak-19462026john-c-dvorak-a-pioneering-technology-journalist-podcaster&#x2F;10242625420121221&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.facebook.com&#x2F;aric.mackey&#x2F;posts&#x2F;john-c-dvorak-194...</a>" ]
+}, {
+  "title" : "So Reddit has decided that plain HTML is unsafe",
+  "description" : "Link: https://www.cole-k.com/2026/07/21/reddit/ | Score: 356 | Comments: 351 | By: montroser",
+  "url" : "https://news.ycombinator.com/item?id=49005747",
+  "answers" : [ ]
+}, {
+  "title" : "Malleable Computing, Emacs, and You",
+  "description" : "Link: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html | Score: 85 | Comments: 25 | By: kickingvegas",
+  "url" : "https://news.ycombinator.com/item?id=49013538",
+  "answers" : [ ]
+}, {
+  "title" : "The startup's Postgres survival guide",
+  "description" : "Link: https://hatchet.run/blog/postgres-survival-guide | Score: 358 | Comments: 176 | By: abelanger",
+  "url" : "https://news.ycombinator.com/item?id=49005787",
+  "answers" : [ ]
+}, {
+  "title" : "Making",
+  "description" : "Link: https://beej.us/blog/data/ai-making/ | Score: 311 | Comments: 117 | By: erikschoster",
+  "url" : "https://news.ycombinator.com/item?id=49008440",
+  "answers" : [ ]
+}, {
+  "title" : "Fairphone 6 wide camera experimental Linux support",
+  "description" : "Link: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/ | Score: 92 | Comments: 12 | By: helonaut",
+  "url" : "https://news.ycombinator.com/item?id=49012777",
+  "answers" : [ ]
+}, {
+  "title" : "Nobody knows what a used GPU cluster is worth",
+  "description" : "Link: https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster | Score: 199 | Comments: 182 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=48917135",
+  "answers" : [ ]
+}, {
+  "title" : "Petals: Run LLMs at home, BitTorrent-style",
+  "description" : "Link: https://petals.dev/ | Score: 85 | Comments: 28 | By: snorbleck",
+  "url" : "https://news.ycombinator.com/item?id=49015735",
+  "answers" : [ ]
+}, {
+  "title" : "Making ASCII Art in Vim",
+  "description" : "Link: https://alexyang.dev/vim-ascii-art/ | Score: 26 | Comments: 3 | By: evakhoury",
+  "url" : "https://news.ycombinator.com/item?id=48983076",
+  "answers" : [ ]
+}, {
+  "title" : "Codeberg Bans Cryptocurrency Projects",
+  "description" : "Link: https://codeberg.org/Codeberg/org/pulls/1254 | Score: 193 | Comments: 248 | By: intunderflow",
+  "url" : "https://news.ycombinator.com/item?id=49015588",
+  "answers" : [ ]
+}, {
+  "title" : "Businesses with ugly AI menu redesigns",
+  "description" : "Link: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ | Score: 219 | Comments: 163 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49005973",
+  "answers" : [ ]
+}, {
+  "title" : "Clarity didn't work, trying mysterianism (2012)",
+  "description" : "Link: https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html | Score: 60 | Comments: 27 | By: dboon",
+  "url" : "https://news.ycombinator.com/item?id=49011687",
+  "answers" : [ ]
+}, {
+  "title" : "What Rose Petals Teach Us about Induction",
+  "description" : "Link: https://www.oranlooney.com/post/rose-petals/ | Score: 27 | Comments: 2 | By: olooney",
+  "url" : "https://news.ycombinator.com/item?id=48958266",
+  "answers" : [ ]
+}, {
+  "title" : "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+  "description" : "Link: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/ | Score: 43 | Comments: 14 | By: shenli3514",
+  "url" : "https://news.ycombinator.com/item?id=49013995",
+  "answers" : [ ]
+}, {
+  "title" : "Back to Kagi",
+  "description" : "Link: https://blog.melashri.net/micro/back-to-kagi/ | Score: 230 | Comments: 179 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49006195",
+  "answers" : [ ]
+}, {
+  "title" : "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+  "description" : "Link: https://claytondorge.com/patterns-list | Score: 47 | Comments: 7 | By: toomuchtodo",
+  "url" : "https://news.ycombinator.com/item?id=49013924",
+  "answers" : [ ]
+}, {
+  "title" : "Ghost Cut – or why Cut and Paste is broken everywhere",
+  "description" : "Link: https://ishmael.textualize.io/blog/ghost-cut/ | Score: 145 | Comments: 97 | By: willm",
+  "url" : "https://news.ycombinator.com/item?id=49007626",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+  "description" : "Link: https://unlayer.com | Score: 48 | Comments: 33 | By: adeelraza",
+  "url" : "https://news.ycombinator.com/item?id=49008901",
+  "answers" : [ "Hi HN, We’re Adeel and Umair, co-founders of Unlayer (<a href=\"https:&#x2F;&#x2F;unlayer.com&#x2F;\">https:&#x2F;&#x2F;unlayer.com&#x2F;</a>). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.<p>Here’s a demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0HsDtNkdMpM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0HsDtNkdMpM</a>.<p>We started with an embeddable email editor because a lot of products eventually need one: CRMs, marketing tools, customer engagement platforms, marketplaces, internal tools, and vertical SaaS apps all run into this at some point. At first, it sounds like a small feature: &quot;just&quot; add a drag and drop editor. In practice, it turns into a big pain. You end up dealing with email rendering, Outlook quirks, responsive layouts, templates, merge tags, image uploads, exports, permissions, localization, versioning, and a long tail of edge cases that have nothing to do with your core product<p>Over time, we saw the same problem beyond email. Apps also need landing pages, invoices, proposals, reports, contracts, and PDFs. Some of this content is best created visually by end users. Some of it is better generated in code by developers. Increasingly, some of it is also generated by AI agents. Many teams eventually need all three workflows. That is the direction we have been working toward with Unlayer.<p>There are three parts we are showing today:<p>(1) <i>Unlayer Elements</i>. This is our open-source React component library for creating emails, pages, and documents in code (repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;unlayer&#x2F;elements\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unlayer&#x2F;elements</a>, more at <a href=\"https:&#x2F;&#x2F;unlayer.com&#x2F;elements\">https:&#x2F;&#x2F;unlayer.com&#x2F;elements</a>). Instead of hand-writing raw HTML templates, developers can compose content using React components, reuse sections like headers, footers, CTAs, invoice rows, and branded blocks, keep templates in Git, and render them into production output.<p>One newer use case we are seeing is AI-assisted content creation. If an AI agent is asked to create an email, invoice, report, or landing page, the output is usually raw HTML or markdown that becomes hard to maintain. With Elements, the agent can generate structured React components instead. A developer can review the result, refactor it, keep it in Git, and still pass the design into a visual builder later if someone needs to edit it.<p>(2) <i>Visual Builder</i>. This is the drag and drop editor (repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;unlayer&#x2F;react-email-editor\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unlayer&#x2F;react-email-editor</a>, more at <a href=\"https:&#x2F;&#x2F;unlayer.com&#x2F;email-builder\">https:&#x2F;&#x2F;unlayer.com&#x2F;email-builder</a>) that can be embedded inside an app so non-technical users can create or edit content. In the demo, we show the email builder and the AI assistant inside the builder. The goal is not to replace the developer workflow, but to connect it with a visual workflow when marketers, admins, customers, or internal teams need to make changes themselves.<p>(3) <i>Document Builder</i>. This is for structured documents such as proposals, reports, invoices, contracts, and PDFs. We have seen a lot of teams build separate systems for email templates, web pages, and document generation, even though the underlying primitives are similar: layout, content blocks, variables, assets, preview, export, and permissions. More: <a href=\"https:&#x2F;&#x2F;unlayer.com&#x2F;document-builder\">https:&#x2F;&#x2F;unlayer.com&#x2F;document-builder</a><p>The technical challenge is making these workflows share a common foundation. Developers should be able to build templates in code when that makes sense. End users should be able to edit visually when that makes sense. AI agents should be able to generate structured content instead of unmaintainable blobs. The final output should still be usable by the host application.<p>We make money by selling hosted builder, template, export, and platform features to companies embedding this into their products. Elements is open source. The commercial product is the broader hosted platform around builders, collaboration, storage, exports, and production use cases.<p>We were part of W22, so this is a late Launch HN. At the time, Unlayer was an embeddable email editor, and we did not think we had the right broader story for HN yet. Since then, the product has expanded into a more general content creation layer for products, including emails, pages, documents, APIs, open-source developer projects, and AI-assisted workflows. That felt like a better moment to bring it to HN and ask for feedback.<p>We&#x27;d really appreciate thoughts from HN. This is one of those areas where a lot of people have strong opinions because they’ve been burned by editors, email HTML, document editing, or “simple” content workflows before. We&#x27;d love to hear what resonates, what sounds wrong, and what you think we should be thinking harder about!" ]
+}, {
+  "title" : "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+  "description" : "Link: https://arxiv.org/abs/2607.20386 | Score: 9 | Comments: 0 | By: StatsAreFun",
+  "url" : "https://news.ycombinator.com/item?id=49015878",
+  "answers" : [ ]
+} ]
