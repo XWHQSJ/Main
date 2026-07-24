@@ -1,0 +1,151 @@
+[ {
+  "title" : "Writing by hand is good for your brain",
+  "description" : "Link: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your | Score: 1120 | Comments: 531 | By: dwwoelfel",
+  "url" : "https://news.ycombinator.com/item?id=49022152",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+  "description" : "Score: 290 | Comments: 147 | By: adam_rida",
+  "url" : "https://news.ycombinator.com/item?id=49026810",
+  "answers" : [ "I’ve been building Echo (<a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;</a>), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.<p>It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined.<p>That hypothetical system performed substantially better than any individual model in the pool. Of course, it is not something you can actually deploy because it relies on knowing which decisions were good after seeing the result. Echo is my attempt to recover some of that advantage without having that information in advance.<p>For each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts may only need a relatively small amount of inference, while others benefit from multiple models working on different parts of the problem.<p>One thing that surprised me while building it was how complementary the models are. A model that is clearly weaker overall can still be extremely useful on particular problems or as part of a combination.<p>On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. It also reached roughly the same aggregate result as Fable, which I used as one of the stronger comparison systems, at around one third of the inference cost.<p>There are still some cases where Echo makes the wrong allocation or combination decision. I’m currently spending a lot of time understanding those failures, as well as testing whether the same approach holds up on coding and agentic tasks where measuring the quality of each decision becomes much harder.<p>I built a chat interface (echo.tracerml.ai) and an OpenAI-compatible API (<a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;docs&#x2F;api\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;docs&#x2F;api</a>) so the system can be tested outside the evaluation setup.<p>Here is a short&#x2F;high level video on how it works: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lJFJSvOdXhg\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lJFJSvOdXhg</a><p>I wrote up the evaluation methodology, individual model results, costs and current limitations here: <a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;eval\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;eval</a><p>I would love for you to try it! Especially if you hit any weird failure cases or places where the allocation looks unintuitive." ]
+}, {
+  "title" : "The Beam Engine",
+  "description" : "Link: https://glinscott.github.io/beam-engine/ | Score: 234 | Comments: 66 | By: glinscott",
+  "url" : "https://news.ycombinator.com/item?id=49007221",
+  "answers" : [ ]
+}, {
+  "title" : "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+  "description" : "Link: https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992 | Score: 816 | Comments: 704 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=49023016",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;littletech.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;littletech.org&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0e5&#x2F;lta-open-weight-ai-letter-7-22-26.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...</a>" ]
+}, {
+  "title" : "What happened to TheNumbers.com",
+  "description" : "Link: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all | Score: 329 | Comments: 143 | By: nickthegreek",
+  "url" : "https://news.ycombinator.com/item?id=49024691",
+  "answers" : [ ]
+}, {
+  "title" : "What else do people draw on gradient.horse?",
+  "description" : "Link: https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/ | Score: 79 | Comments: 12 | By: spython",
+  "url" : "https://news.ycombinator.com/item?id=48959008",
+  "answers" : [ ]
+}, {
+  "title" : "Why Software Factories Fail (or: harness engineering is not enough)",
+  "description" : "Link: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md | Score: 234 | Comments: 178 | By: dhorthy",
+  "url" : "https://news.ycombinator.com/item?id=49023019",
+  "answers" : [ ]
+}, {
+  "title" : "98.css",
+  "description" : "Link: https://jdan.github.io/98.css/#status-bar | Score: 369 | Comments: 84 | By: lopespm",
+  "url" : "https://news.ycombinator.com/item?id=49028927",
+  "answers" : [ ]
+}, {
+  "title" : "Software rendering in 500 lines of bare C++",
+  "description" : "Link: https://haqr.eu/tinyrenderer/ | Score: 268 | Comments: 51 | By: mpweiher",
+  "url" : "https://news.ycombinator.com/item?id=49022038",
+  "answers" : [ ]
+}, {
+  "title" : "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+  "description" : "Link: https://learnopengl.com/ | Score: 209 | Comments: 107 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49022634",
+  "answers" : [ ]
+}, {
+  "title" : "Freeze-Casting",
+  "description" : "Link: https://en.wikipedia.org/wiki/Freeze-casting | Score: 16 | Comments: 4 | By: soupspaces",
+  "url" : "https://news.ycombinator.com/item?id=48973071",
+  "answers" : [ ]
+}, {
+  "title" : "Building on ATProto",
+  "description" : "Link: https://lukekanies.com/writing/building-on-atproto/ | Score: 144 | Comments: 69 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49025984",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+  "description" : "Link: https://github.com/palmier-io/palmier-pro | Score: 134 | Comments: 21 | By: harrisontin",
+  "url" : "https://news.ycombinator.com/item?id=49022911",
+  "answers" : [ "Hi HN, we are Marcos and Harrison, cofounders of Palmier (<a href=\"https:&#x2F;&#x2F;palmier.io\">https:&#x2F;&#x2F;palmier.io</a>). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos:<p>- Making some AI transitions: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hbM_-eR1GX4\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hbM_-eR1GX4</a><p>- Multicam editing with Codex: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=SjS2q2LT1q8\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=SjS2q2LT1q8</a><p>- Cutting long form clips into shorts: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PR66eN2ouuQ\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PR66eN2ouuQ</a><p>We built Palmier Pro as an internal tool when we were making AI launch videos for other startups. The main problem it solved in the beginning was the back-and-forth between AI generation platform and video editor. The iteration loop was awkward: AI videos → download → import to editor → edit → realize we need to change the AI video → repeat. So we built a minimal video editor where we could let Claude generate AI videos inside the editor.<p>As we gave more and more tools to the agent, we wanted to push to see what else agents can do in the video editing space. So today, your Claude&#x2F;Codex can:<p>- Manage projects inside Palmier Pro<p>- Import media from a public URL or filesystem to the project, and organize them in folders<p>- Search media (by embedding footages using SigLIP2 running locally)<p>- Edit the timeline (tracks&#x2F;clips&#x2F;keyframes operations)<p>- Generate images, videos, sound effects, captions, music<p>- Export videos<p>There are two ways for LLMs to interact with the editor: by connecting to the local MCP server, or using the in-app chat. Both use the same tools and APIs exposed by the video editor.<p>We have seen people using MCP server to connect to their own workflow to automate massive-scale video editing (e.g. given this same podcast style, replicate it with other footages that I have). We have also seen people using the in-app chat where it lives closer to the editor UI, with lower latency for faster iteration.<p>We don&#x27;t believe that AI is going to replace human creativity (nor should it), but where it can really help is in automating the gruntwork in video editing. Most work in the editing workflow is more mechanical than creative. Our vision is to build a video editor where AI can enable more individuals to create.<p>Throughout our experiments, AI is not very good at creative editing, but given a pattern (transcription-based, beat-based), it can do a decent job at rough cut.<p>We built Palmier Pro in Swift as an MVP because we wanted better performance and minimal dependencies (no nodejs&#x2F;webview), with some native macOS APIs like SpeechAnalyzer and CoreML for us to run some models locally. We use SpeechAnalyzer for local transcriber, SigLip2 to embed video frames, beat_this for beat detection, Silero VAD for silence detection, all running locally. The tradeoff is that we don&#x27;t support Linux or Windows at the moment.<p>Palmier Pro is open source and free to try out (macOS 26 only at the moment, though - we&#x27;ll support more platforms over time, but for now are focusing on iterating the core product).<p>No login required except for the AI generation features, which route requests to our backend. We are offering free credits on sign up so you can try out the AI generation as well.<p>We&#x27;d love to hear your feedback!" ]
+}, {
+  "title" : "DARPA, U.S. Air Force fly AI-controlled F-16",
+  "description" : "Link: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 | Score: 210 | Comments: 230 | By: r2sk5t",
+  "url" : "https://news.ycombinator.com/item?id=49021597",
+  "answers" : [ ]
+}, {
+  "title" : "Quickly rewrite Git repository history",
+  "description" : "Link: https://github.com/newren/git-filter-repo | Score: 6 | Comments: 0 | By: modinfo",
+  "url" : "https://news.ycombinator.com/item?id=48986703",
+  "answers" : [ ]
+}, {
+  "title" : "The Visual 6502",
+  "description" : "Link: http://visual6502.org/JSSim/index.html | Score: 74 | Comments: 20 | By: infiniteregrets",
+  "url" : "https://news.ycombinator.com/item?id=49029538",
+  "answers" : [ ]
+}, {
+  "title" : "Astronomers may have found the first exomoon",
+  "description" : "Link: https://www.eso.org/public/news/eso2610/ | Score: 206 | Comments: 76 | By: MarcoDewey",
+  "url" : "https://news.ycombinator.com/item?id=49021783",
+  "answers" : [ ]
+}, {
+  "title" : "Fields Medals 2026",
+  "description" : "Link: https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026 | Score: 151 | Comments: 76 | By: nill0",
+  "url" : "https://news.ycombinator.com/item?id=49022137",
+  "answers" : [ ]
+}, {
+  "title" : "I regret migrating to Codeberg",
+  "description" : "Link: https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/ | Score: 146 | Comments: 101 | By: boramalper",
+  "url" : "https://news.ycombinator.com/item?id=49021856",
+  "answers" : [ ]
+}, {
+  "title" : "Why Sony can't bring back its classic Walkman models",
+  "description" : "Link: https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman | Score: 60 | Comments: 54 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49025766",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+  "description" : "Score: 66 | Comments: 52 | By: louis030195",
+  "url" : "https://news.ycombinator.com/item?id=49024620",
+  "answers" : [ "Hi Hacker News, I&#x27;m Louis. I built Screenpipe (<a href=\"https:&#x2F;&#x2F;screenpipe.com\">https:&#x2F;&#x2F;screenpipe.com</a>), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you&#x27;ve seen, said, and heard. This makes it easier to automate your repetitive tasks, turn them into SOPs (Standard Operating Procedure) and so on.<p>I made a HN-style demo video at <a href=\"https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;build-your-ai-second-brain-with-screenpipe-e1j7\" rel=\"nofollow\">https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;build-your-ai-second-brain-with-s...</a> and there’s a marketing video at <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=c1jV6E9pyug\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=c1jV6E9pyug</a>.<p>I’ve been obsessed with this for a long time. I’ve been maintaining a “second brain” since 2020, in which I would store journals, handwritten notes, music I listen to, projects I&#x27;m working on, conversations I have with people, personal CRM etc. I experimented a lot of RAG in the early days with ParlAI, hundreds of fine-tuned GPT2 models, and GPT3 (<a href=\"https:&#x2F;&#x2F;forum.obsidian.md&#x2F;t&#x2F;fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian&#x2F;21849&#x2F;4\" rel=\"nofollow\">https:&#x2F;&#x2F;forum.obsidian.md&#x2F;t&#x2F;fine-tuning-openai-api-gpt3-on-y...</a>). Later I built Ava, the first Obsidian AI plugin, which grew to a few thousands of users quickly. It then became Embedbase, an API to make it easier to build AI apps powered by RAG.<p>What I learned from all this is how important it is for the models to have context about what you’re doing on your computer, in order to get them to do what you want.<p>In the early days there was fine tuning but it was too much pain, then there was tool calling so that AI can access software you use but still kinda not autonomous enough. needing micro management. Then MCP came, but it felt too static, and non technical users struggled to build and use MCP. Then we got skills. Most recently we’ve seen Karpathy’s LLM-maintained wiki, Garry&#x27;s GBrain, etc., where an agent incrementally maintains a persistent collection of Markdown pages. New sources update entity pages, strengthen or contradict existing claims, and improve a synthesis that compounds over time. I like this pattern, but it still begins with someone selecting and importing the sources. There is still no way AI can know what you and your company are doing every day, across apps, not just inside of apps.<p>Of course, not everyone wants this. But I do! I want AI to know what I&#x27;m doing and never lose memory ever again, and I want it to use the same software that humans do, without painful context switches.<p>I started building Screenpipe for myself in 2024 - a CLI to record your screen and plug this context into AI. An HN user posted it in 2024 (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=41695840\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=41695840</a>) and that discussion influenced the product. The most useful criticism concerned recording consent, local security, CPU usage, signal-to-noise, and whether agents could act on top of the data.<p>The naive implementation started from continuously recording video and running OCR over every frame. But that creates duplicate data, consumes substantial resources (it basically turns your computer into a space heater!), and discards structure the operating system already knows. Screenpipe now instead listens for events such as app switches, clicks, typing pauses, scrolling, and idle fallbacks. When something meaningful changes, it pairs a screenshot with the operating system’s accessibility tree at the same timestamp. OCR is used when structured accessibility data is unavailable. We also capture audio continuously, identify speakers and transcribe locally through Parakeet&#x2F;Whisper or using cloud models.<p>Everything is indexed in a local SQLite database, mp4 files, and sometimes md files. An AI friendly API on port 3030 is open for agents, with authentication and a MCP and skills.<p>Once Screenpipe has been up and running for a while, you can use it through our built-in chat, Claude, ChatGPT, Hermes, Openclaw, or any agent, to do things like:<p>- adding context to your current chat, e.g. &quot;gather all context about task X&quot;, then requiring less prompts to achieve your goal<p>- retrieve information, e.g. &quot;retrieve the tasks i was working on from 8 am to 4 pm, make a list of what got done and what&#x27;s left&quot;<p>- create and maintain a personal wiki &#x2F; second brain for your agents: &quot;every 1h organize everything i do in projects, people, tasks, meetings in my Obsidian vault as markdown files and folders&quot;<p>- create automations: whenever i visit someone&#x27;s profile on linkedin, update my crm<p>- find automation opportunities: look at everything my team has done this week and turn it into a list of automation opportunities<p>Screenpipe data is stored locally, though we also offer an enterprise plan to discover automation opportunities and for that the company decides where the data lives. We built our own AI PII model to redact sensitive information, it runs locally on Apple MLX or Windows DirectML, we also support cloud confidential inference for low end devices, although our local models are meant to use &lt;1% CPU and &lt;400 mb RAM. Users can set apps, windows, and urls to filter, in addition to browser incognito mode.<p>We also support recording schedules and other privacy features.<p>Most of our codebase is written in Rust, MLX, Onnx, we like cidre or direct C call for Apple APIs and windows-rs for Windows API. We also experimentally support Linux.<p>We have a desktop app (<a href=\"https:&#x2F;&#x2F;screenpipe.com&#x2F;how-to-install\">https:&#x2F;&#x2F;screenpipe.com&#x2F;how-to-install</a>) and a CLI:<p><pre><code>  npx screenpipe record\n</code></pre>\nYou can run that without creating an account. All the code is source-available at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;screenpipe&#x2F;screenpipe\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;screenpipe&#x2F;screenpipe</a>. We took the dreaded step of making our own Screenpipe Commercial License. I know HN strongly prefers OSI open source (MIT&#x2F;Apache&#x2F;etc.) but couldn’t find a sustainable way to keep developing Screenpipe while companies were using it commercially for free. So now personal non-commercial, nonprofit, educational, and research use is free, but commercial use requires a license.<p>Versions released before the license change remain available under MIT. We have a free tier, and other plans, including Enterprise which helps companies find automation opportunities.<p>Would love to hear any feedback, things you&#x27;ve done with screenpipe, or features you&#x27;d want" ]
+}, {
+  "title" : "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+  "description" : "Link: https://simonwillison.net/2026/Jul/22/openai-cyberattack/ | Score: 448 | Comments: 355 | By: abhisek",
+  "url" : "https://news.ycombinator.com/item?id=49015639",
+  "answers" : [ "<i>OpenAI and Hugging Face address security incident during model evaluation</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548</a> - July 2026 (1121 comments)" ]
+}, {
+  "title" : "Fractl.art – a fractal generator with 8 octillion different patterns",
+  "description" : "Link: https://fractl.art | Score: 26 | Comments: 4 | By: gilded-lilly",
+  "url" : "https://news.ycombinator.com/item?id=48974300",
+  "answers" : [ ]
+}, {
+  "title" : "A solid-state “atomic channel” for separating rare earth elements",
+  "description" : "Link: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements | Score: 81 | Comments: 23 | By: MarcoDewey",
+  "url" : "https://news.ycombinator.com/item?id=49025831",
+  "answers" : [ ]
+}, {
+  "title" : "The arguments against open source AI are bad",
+  "description" : "Link: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ | Score: 238 | Comments: 168 | By: jjfoooo4",
+  "url" : "https://news.ycombinator.com/item?id=49024643",
+  "answers" : [ ]
+}, {
+  "title" : "Mourning Dan Williams",
+  "description" : "Link: https://lwn.net/Articles/1084545/ | Score: 49 | Comments: 1 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49027052",
+  "answers" : [ ]
+}, {
+  "title" : "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+  "description" : "Link: https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public | Score: 291 | Comments: 170 | By: Shortness8",
+  "url" : "https://news.ycombinator.com/item?id=49027892",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Claude-thermos keeps your Claude session warm for you",
+  "description" : "Link: https://github.com/izeigerman/claude-thermos | Score: 91 | Comments: 75 | By: s0ck_r4w",
+  "url" : "https://news.ycombinator.com/item?id=49024882",
+  "answers" : [ ]
+}, {
+  "title" : "Zitron: The Subprime Datacenter Crisis",
+  "description" : "Link: https://www.wheresyoured.at/the-subprime-data-center-crisis/ | Score: 7 | Comments: 2 | By: benwen",
+  "url" : "https://news.ycombinator.com/item?id=49031262",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+  "description" : "Link: https://github.com/onecli/onecli | Score: 85 | Comments: 29 | By: Jonathanfishner",
+  "url" : "https://news.ycombinator.com/item?id=49023427",
+  "answers" : [ "hey HN, Jonathan and Guy here, creators of OneCLI (<a href=\"https:&#x2F;&#x2F;onecli.sh&#x2F;\">https:&#x2F;&#x2F;onecli.sh&#x2F;</a>). OneCLI is an open source vault for AI Agents.<p>Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe. We figured that in the agent&#x27;s world, this is not the case, as you don&#x27;t know what happens with the secret after it&#x27;s delivered to the agent, or where it was saved. Or maybe someone even manipulated them to hand them over...<p>From that understanding, we decided to build a network gateway that sits between your AI agents and the services they call. OneCLI matches the request by host&#x2F;path, verifies the agent should have access, swaps the placeholder for the real credential, and forwards the request. \nthe secrets set inside the OneCLI vault, encrypted on rest, or could fetch in realtime from your bitwarden &#x2F; 1password wallets.<p>Demo - <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=5e5pbPEzZfY\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=5e5pbPEzZfY</a>.<p>We started working on this by accident, even though our careers were in the security space. We were working on a devtool called ChartDB, an open-source DB tool. When OpenClaw took off back in January, we started using it to orchestrate agents on top of ChartDB. We quickly understood there is a big issue around auth. Agents need credentials to do real work, but to give them those secrets would not be the best idea. they keep them in their memory and also write them down to local files and their sessions as plain text. And we knew that agents can easily be fooled into giving up those API keys&#x2F;secrets. So we needed some way to control the agent and stop prompt injections from tricking it into using its services for an attacker&#x27;s benefit. Not providing the keys to the agent + adding alerts or human-in-the-loop for sensitive operations, in case someone manipulates the agent, and access logs are being audited.<p>We use it ourselves daily. My OpenClaw runs my day across Attio, Gmail, and my calendar, with human-in-the-loop approval on sensitive actions. The approval is enforced at the network layer, so it holds whether the agent goes through MCP, CLI, curl, or code it wrote on the fly. Guy uses it to review PRs but can&#x27;t merge without his approval.<p>Companies mostly use it for coding agents currently, which get creative about finding ways to elevate their permissions to reach the goal. With OneCLI, it doesn&#x27;t matter what the agent finds: if the request isn&#x27;t in policy, it will not go through.<p>The proxy is written in Rust, the dashboard is Next.js, and secrets are AES-256-GCM encrypted at rest. Everything runs in a Docker container. It works with any agent framework (Claude Code, Codex, Cursor, OpenClaw, Hermes or anything that can set an HTTPS_PROXY).<p>It won&#x27;t stop an agent from misusing access it legitimately has, so scope policies tightly!<p>happy to answer anything. We believe we can&#x27;t trust the model to behave and have to set deterministic rules to stay in control. Comments welcome!" ]
+} ]
