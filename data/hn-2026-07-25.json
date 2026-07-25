@@ -1,0 +1,151 @@
+[ {
+  "title" : "Claude Opus 5",
+  "description" : "Link: https://www.anthropic.com/news/claude-opus-5 | Score: 1409 | Comments: 768 | By: alvis",
+  "url" : "https://news.ycombinator.com/item?id=49038433",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card\" rel=\"nofollow\">https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card</a>" ]
+}, {
+  "title" : "Re: Bye Bye Gravatar",
+  "description" : "Link: https://unattributed.cc/re-bye-bye-gravatar | Score: 23 | Comments: 8 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49008618",
+  "answers" : [ ]
+}, {
+  "title" : "GC and Exceptions in Wasmtime",
+  "description" : "Link: https://bytecodealliance.org/articles/wasmtime-gc | Score: 11 | Comments: 0 | By: phickey",
+  "url" : "https://news.ycombinator.com/item?id=48981665",
+  "answers" : [ ]
+}, {
+  "title" : "Postgres LISTEN/NOTIFY actually scales",
+  "description" : "Link: https://www.dbos.dev/blog/postgres-listen-notify-scalability | Score: 249 | Comments: 45 | By: KraftyOne",
+  "url" : "https://news.ycombinator.com/item?id=49040296",
+  "answers" : [ ]
+}, {
+  "title" : "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+  "description" : "Link: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc | Score: 129 | Comments: 36 | By: JumpCrisscross",
+  "url" : "https://news.ycombinator.com/item?id=49044074",
+  "answers" : [ ]
+}, {
+  "title" : "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+  "description" : "Link: https://artificialanalysis.ai/models | Score: 207 | Comments: 127 | By: aarondong",
+  "url" : "https://news.ycombinator.com/item?id=49040741",
+  "answers" : [ ]
+}, {
+  "title" : "India's first privately-developed rocket reaches orbit on debut launch",
+  "description" : "Link: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/ | Score: 552 | Comments: 155 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=48973835",
+  "answers" : [ ]
+}, {
+  "title" : "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+  "description" : "Link: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ | Score: 69 | Comments: 6 | By: hhs",
+  "url" : "https://news.ycombinator.com/item?id=49042751",
+  "answers" : [ ]
+}, {
+  "title" : "My security camera shipped a GitHub admin token in its login page",
+  "description" : "Link: https://hhh.hn/hanwha-github-token/ | Score: 544 | Comments: 185 | By: hhh",
+  "url" : "https://news.ycombinator.com/item?id=49034292",
+  "answers" : [ ]
+}, {
+  "title" : "If coding has been solved, why does software keep getting worse?",
+  "description" : "Link: https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/ | Score: 645 | Comments: 495 | By: pchm",
+  "url" : "https://news.ycombinator.com/item?id=49033004",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+  "description" : "Link: https://globaloilnetwork.staffinganalytics.io/ | Score: 137 | Comments: 73 | By: eliotho",
+  "url" : "https://news.ycombinator.com/item?id=49020545",
+  "answers" : [ "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.<p>The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.<p>Insights:\nThe interesting part is the mechanics of how the crisis unfolds: for example, France receives 0 oil from Hormuz directly, yet their reserves are depleted faster because other countries reactively increase their safety oil stock, increasing oil price, making stockouts more expensive for everyone.<p>The model also gives price dynamics which are interesting on their own: the price increase is not immediate, it follows sequentially as countries reserves deplete.<p>Some caveats:\n1. For producer nodes, depletion means their export slack is reduced&#x2F;exhausted.\n2. No sanctioned trade (UN Comtrade data)<p>Technical Details:\nThe visualization is 600 lines of flask plus js frontend (LLM assisted visualization with ground-truth matching the original numerical exercise of the paper)<p>Paper with proofs&#x2F;theory:\n<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.17491\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.17491</a>" ]
+}, {
+  "title" : "Designing an Ethernet Switch ASIC",
+  "description" : "Link: https://essenceia.github.io/projects/ethernet_switch_asic/ | Score: 150 | Comments: 38 | By: random__duck",
+  "url" : "https://news.ycombinator.com/item?id=48985182",
+  "answers" : [ ]
+}, {
+  "title" : "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+  "description" : "Link: https://news.mit.edu/2026/three-sided-y-zipper-design-0504 | Score: 157 | Comments: 34 | By: crescit_eundo",
+  "url" : "https://news.ycombinator.com/item?id=49008512",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVIno\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVIno</a><p><a href=\"https:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-revive-40-year-old-triangular-zipper-concept-now-made-possible-by-3d-printing-creates-shape-shifting-robots-and-deployable-structures-3d-printed-y-zipper-turns-floppy-tentacles-into-rigid-beams-in-seconds\" rel=\"nofollow\">https:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...</a><p><a href=\"https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i...</a>" ]
+}, {
+  "title" : "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+  "description" : "Link: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize | Score: 20 | Comments: 6 | By: agnishom",
+  "url" : "https://news.ycombinator.com/item?id=49043724",
+  "answers" : [ ]
+}, {
+  "title" : "A concrete explanation of how a cache works",
+  "description" : "Link: https://parksb.github.io/en/article/29.html | Score: 15 | Comments: 2 | By: parksb",
+  "url" : "https://news.ycombinator.com/item?id=48992539",
+  "answers" : [ ]
+}, {
+  "title" : "Kimi K3 exploited the latest Redis server",
+  "description" : "Link: https://twitter.com/fried_rice/status/2080059356322918777 | Score: 177 | Comments: 49 | By: Alifatisk",
+  "url" : "https://news.ycombinator.com/item?id=49024938",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777</a>" ]
+}, {
+  "title" : "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+  "description" : "Link: https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html | Score: 565 | Comments: 253 | By: louiereederson",
+  "url" : "https://news.ycombinator.com/item?id=49035303",
+  "answers" : [ "Letter: <a href=\"https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-Leadership.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L...</a> [pdf]<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103</a><p><a href=\"https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-divided-over-chinese-ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI</a>" ]
+}, {
+  "title" : "Firefox Containers Preview",
+  "description" : "Link: https://blog.mozilla.org/en/firefox/firefox-containers-preview/ | Score: 271 | Comments: 91 | By: twapi",
+  "url" : "https://news.ycombinator.com/item?id=48995409",
+  "answers" : [ ]
+}, {
+  "title" : "Half-Life 2 running natively on HaikuOS",
+  "description" : "Link: https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18 | Score: 288 | Comments: 53 | By: m0do1",
+  "url" : "https://news.ycombinator.com/item?id=49034868",
+  "answers" : [ ]
+}, {
+  "title" : "Don't Take the Black Pill [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=zLZwpH5lCD4 | Score: 151 | Comments: 127 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=49038298",
+  "answers" : [ ]
+}, {
+  "title" : "Fil-C: Garbage In, Memory Safety Out [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=5F-2Y1LPRek | Score: 120 | Comments: 110 | By: Bootvis",
+  "url" : "https://news.ycombinator.com/item?id=49026933",
+  "answers" : [ ]
+}, {
+  "title" : "IRGC claims it destroyed Amazon's Bahrain data center",
+  "description" : "Link: https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/ | Score: 272 | Comments: 343 | By: thisislife2",
+  "url" : "https://news.ycombinator.com/item?id=49033240",
+  "answers" : [ ]
+}, {
+  "title" : "Future euro banknote design proposals",
+  "description" : "Link: https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html | Score: 149 | Comments: 130 | By: robin_reala",
+  "url" : "https://news.ycombinator.com/item?id=49033110",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;html&#x2F;design-proposals.en.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht...</a>" ]
+}, {
+  "title" : "Marimo now runs in PyCharm",
+  "description" : "Link: https://marimo.io/blog/pycharm | Score: 89 | Comments: 20 | By: cantdutchthis",
+  "url" : "https://news.ycombinator.com/item?id=49004464",
+  "answers" : [ ]
+}, {
+  "title" : "The case for MUDs in modern times (2018)",
+  "description" : "Link: https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times | Score: 91 | Comments: 73 | By: bw86",
+  "url" : "https://news.ycombinator.com/item?id=49034217",
+  "answers" : [ ]
+}, {
+  "title" : "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+  "description" : "Link: https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece | Score: 421 | Comments: 305 | By: rootkea",
+  "url" : "https://news.ycombinator.com/item?id=49036433",
+  "answers" : [ ]
+}, {
+  "title" : "Unitree As2-W",
+  "description" : "Link: https://www.unitree.com/As2-W/ | Score: 112 | Comments: 46 | By: MehrdadKhnzd",
+  "url" : "https://news.ycombinator.com/item?id=49038045",
+  "answers" : [ ]
+}, {
+  "title" : "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+  "description" : "Link: https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891 | Score: 243 | Comments: 167 | By: kristoff_it",
+  "url" : "https://news.ycombinator.com/item?id=49033099",
+  "answers" : [ ]
+}, {
+  "title" : "The footprints of every building in NYC",
+  "description" : "Link: https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/ | Score: 60 | Comments: 6 | By: jonathanmkeegan",
+  "url" : "https://news.ycombinator.com/item?id=48977849",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;CityOfNewYork&#x2F;nyc-geo-metadata&#x2F;blob&#x2F;main&#x2F;Metadata&#x2F;Metadata_BuildingFootprints.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;CityOfNewYork&#x2F;nyc-geo-metadata&#x2F;blob&#x2F;main&#x2F;...</a>" ]
+}, {
+  "title" : "Be skeptical of OpenAI's rogue hacker agent story",
+  "description" : "Link: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker | Score: 466 | Comments: 271 | By: rwmj",
+  "url" : "https://news.ycombinator.com/item?id=49038060",
+  "answers" : [ ]
+} ]
