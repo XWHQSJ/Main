@@ -1,0 +1,151 @@
+[ {
+  "title" : "JetZero",
+  "description" : "Link: https://www.jetzero.aero | Score: 117 | Comments: 78 | By: lisper",
+  "url" : "https://news.ycombinator.com/item?id=49054224",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I mapped every US golf course",
+  "description" : "Link: https://golfcoursebrowser.com/ | Score: 87 | Comments: 36 | By: rickmf",
+  "url" : "https://news.ycombinator.com/item?id=49054010",
+  "answers" : [ "I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;</a><p>It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.<p>It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them.<p>Still a lot of missing info, but I&#x27;m filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months.\nThe base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating&#x2F;slope, and public&#x2F;private status. User corrections from golfers who know their home course have beaten every commercial data source we check against." ]
+}, {
+  "title" : "An ESP32 based plane radar for my desk",
+  "description" : "Link: https://blog.ktz.me/esp32-plane-radar/ | Score: 57 | Comments: 10 | By: alexktz",
+  "url" : "https://news.ycombinator.com/item?id=49054107",
+  "answers" : [ ]
+}, {
+  "title" : "Humans haven't stopped evolving",
+  "description" : "Link: https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure | Score: 37 | Comments: 36 | By: ilamont",
+  "url" : "https://news.ycombinator.com/item?id=49054307",
+  "answers" : [ ]
+}, {
+  "title" : "The new rules of context engineering for Claude 5 generation models",
+  "description" : "Link: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models | Score: 242 | Comments: 153 | By: mellosouls",
+  "url" : "https://news.ycombinator.com/item?id=49051361",
+  "answers" : [ ]
+}, {
+  "title" : "Inflect-Micro-v2: complete voice in 9.36M parameters",
+  "description" : "Link: https://huggingface.co/owensong/Inflect-Micro-v2 | Score: 64 | Comments: 4 | By: nateb2022",
+  "url" : "https://news.ycombinator.com/item?id=49053375",
+  "answers" : [ ]
+}, {
+  "title" : "Cloudflare's new AI traffic options for customers",
+  "description" : "Link: https://blog.cloudflare.com/content-independence-day-ai-options/ | Score: 82 | Comments: 50 | By: alphabetatango",
+  "url" : "https://news.ycombinator.com/item?id=49052564",
+  "answers" : [ ]
+}, {
+  "title" : "Rethinking Legal Education in the AI Era",
+  "description" : "Link: https://www.law.uchicago.edu/news/ai-strategy-statement | Score: 43 | Comments: 6 | By: jjwiseman",
+  "url" : "https://news.ycombinator.com/item?id=49024980",
+  "answers" : [ ]
+}, {
+  "title" : "Clinical failure rates over the decades: yikes",
+  "description" : "Link: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes | Score: 78 | Comments: 44 | By: EA-3167",
+  "url" : "https://news.ycombinator.com/item?id=49052628",
+  "answers" : [ ]
+}, {
+  "title" : "Systems and Delays",
+  "description" : "Link: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html | Score: 45 | Comments: 10 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=49053382",
+  "answers" : [ ]
+}, {
+  "title" : "A shell colon does nothing. Use it anyway",
+  "description" : "Link: https://refp.se/articles/your-shell-and-the-magic-colon | Score: 14 | Comments: 2 | By: olexsmir",
+  "url" : "https://news.ycombinator.com/item?id=49047453",
+  "answers" : [ ]
+}, {
+  "title" : "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+  "description" : "Link: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/ | Score: 23 | Comments: 7 | By: spzx",
+  "url" : "https://news.ycombinator.com/item?id=49053708",
+  "answers" : [ ]
+}, {
+  "title" : "Running a 28.9M parameter LLM on an $8 microcontroller",
+  "description" : "Link: https://github.com/slvDev/esp32-ai | Score: 123 | Comments: 27 | By: boveyking",
+  "url" : "https://news.ycombinator.com/item?id=49050512",
+  "answers" : [ ]
+}, {
+  "title" : "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+  "description" : "Link: https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/ | Score: 10 | Comments: 3 | By: thunderbong",
+  "url" : "https://news.ycombinator.com/item?id=49015898",
+  "answers" : [ ]
+}, {
+  "title" : "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+  "description" : "Link: https://spectrum.ieee.org/sodium-ion-battery-peak-energy | Score: 161 | Comments: 62 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=49051947",
+  "answers" : [ ]
+}, {
+  "title" : "LLM Usage in Debian: Three Proposals",
+  "description" : "Link: https://www.debian.org/vote/2026/vote_002 | Score: 116 | Comments: 106 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49050859",
+  "answers" : [ ]
+}, {
+  "title" : "SIMD for Collision",
+  "description" : "Link: https://box2d.org/posts/2026/07/simd-for-collision/ | Score: 79 | Comments: 25 | By: birdculture",
+  "url" : "https://news.ycombinator.com/item?id=49013464",
+  "answers" : [ ]
+}, {
+  "title" : "Open-weight AI is having its Kubernetes moment",
+  "description" : "Link: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ | Score: 349 | Comments: 276 | By: tknaup",
+  "url" : "https://news.ycombinator.com/item?id=49048034",
+  "answers" : [ ]
+}, {
+  "title" : "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+  "description" : "Link: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/ | Score: 112 | Comments: 78 | By: gritzko",
+  "url" : "https://news.ycombinator.com/item?id=49050735",
+  "answers" : [ ]
+}, {
+  "title" : "Negative Resistance",
+  "description" : "Link: https://lcamtuf.substack.com/p/negative-resistance | Score: 9 | Comments: 2 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49029215",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I made some transistor animations",
+  "description" : "Link: https://brandonli.net/semisim/animations | Score: 149 | Comments: 17 | By: stunningllama",
+  "url" : "https://news.ycombinator.com/item?id=49039868",
+  "answers" : [ "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software. The desktop software also has less common devices like IBGTs and SCRs that have similar animations.<p>The last thread about my software was posted here about a year ago: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279</a>" ]
+}, {
+  "title" : "Retry Storm Lab",
+  "description" : "Link: https://github.com/telemetry-sh/retry-storm-lab | Score: 4 | Comments: 0 | By: flurly",
+  "url" : "https://news.ycombinator.com/item?id=49008001",
+  "answers" : [ ]
+}, {
+  "title" : "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+  "description" : "Link: https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/ | Score: 325 | Comments: 98 | By: hn_acker",
+  "url" : "https://news.ycombinator.com/item?id=49008396",
+  "answers" : [ ]
+}, {
+  "title" : "Stinkpot: SQLite-backed shell history",
+  "description" : "Link: https://tangled.org/oppi.li/stinkpot | Score: 6 | Comments: 1 | By: nerdypepper",
+  "url" : "https://news.ycombinator.com/item?id=49034777",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Brolly, a plain-text weather forecast site",
+  "description" : "Link: https://brolly.sh/forecast/RWFP2qW8 | Score: 160 | Comments: 48 | By: jsax",
+  "url" : "https://news.ycombinator.com/item?id=49049693",
+  "answers" : [ "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.<p>I made <a href=\"https:&#x2F;&#x2F;brolly.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh</a>, a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly rain, wind, temperature, conditions; Hourly UV, air quality and pollen, including pollen type specific forecasts within the EU &#x2F; UK; Location search and last 5 locations; Location specific units.<p>I mostly made the site for myself, if anyone else also benefits from it that’s an added advantage.<p>You can check out the weather in York, UK at <a href=\"https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8</a>, or search for a location at <a href=\"https:&#x2F;&#x2F;brolly.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh</a><p>The site is deliberately styled as a single long scrollable column, to work on mobile phones. You can view it on desktop too, there&#x27;s just a lot of horizontal padding. I naturally took a lot of inspiration from plaintextsports.com. Despite not being a sports fan, I love its aesthetic. But, you&#x27;ll hopefully see that this site isn&#x27;t a rip off, and has its own deliberate look and feel.<p>Visualisations are really important to showing information at a glance. I spent a lot of time designing the different visualisations and making them work with only characters. My favourite is the hourly heat map used for pollen count.<p>It&#x27;s also frustrating to have an interactive site, where you can&#x27;t share a page with a friend and have them see what you&#x27;re seeing. To solve this, all page state (i.e. location, selected day, expanded &#x2F; collapsed sections), is stored in the URL. You can share or bookmark the specific view, and know that you&#x27;ll always be able to come back to it.<p>The site uses PocketBase. It’s written in Go and plain HTML&#x2F;JavaScript&#x2F;CSS. All pages are backend rendered, with light JavaScript to handle re-loading content without page jumps when using interactive features like next &#x2F; previous day navigation. Weather forecasts are fetched from open-meteo.com, which has a very generous free tier. However, I also built a custom LRU cache on top of PocketBase’s SQLite DB to cache forecasts for 5 minutes, and avoid putting unnecessary pressure on the open-meteo API." ]
+}, {
+  "title" : "Turn And Face The Strange",
+  "description" : "Link: https://fly.io/blog/kurt-scott-money-sprites/ | Score: 174 | Comments: 120 | By: subarctic",
+  "url" : "https://news.ycombinator.com/item?id=49051369",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+  "description" : "Link: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf | Score: 119 | Comments: 83 | By: oliculipolicula",
+  "url" : "https://news.ycombinator.com/item?id=49052912",
+  "answers" : [ ]
+}, {
+  "title" : "Memory Safety Absolutists",
+  "description" : "Link: https://itsallaboutthebit.com/memory-safety-absolutists/ | Score: 76 | Comments: 99 | By: drogus",
+  "url" : "https://news.ycombinator.com/item?id=49050058",
+  "answers" : [ ]
+}, {
+  "title" : "Did They Ghost You?",
+  "description" : "Link: https://didtheyghostyou.com/ | Score: 347 | Comments: 155 | By: mooreds",
+  "url" : "https://news.ycombinator.com/item?id=49051120",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+  "description" : "Link: https://synaptale.com/graph?ch=100 | Score: 13 | Comments: 3 | By: ald0r",
+  "url" : "https://news.ycombinator.com/item?id=49053986",
+  "answers" : [ "The graph is free to explore and requires no registration.<p>SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships).\nThe graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.<p>The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter. By chapter 100, it still remembers a promise made in chapter 8 and turns the story into a set of source-verifiable facts.<p>The most interesting things can be found in the graph itself and in the Analytics tab. A few things I found:<p>1. The character with the highest kill count is the Tin Woodman—the same character who cries over a beetle he accidentally crushed. Dorothy comes second, with three killing events.\n2. Dorothy never deceives anyone during the first 100 chapters of the series.\n3. The Scarecrow’s debt to the stork has remained active for 92 chapters, starting in chapter 8.\n4. The Cowardly Lion ranks third by number of threats.\n5. The first 100 chapters contain 60 secrets and 254 dialogue events.<p>Technical details<p>1. Five different multi-agent pipelines combining LLMs and NLP: a prescan, ontology construction, chapter-by-chapter graph extraction, retrospective validation over spans of dozens of chapters, and a linguistic prescan for speech profiles and linguistic edges.<p>2. A living story needs a living graph. It has to account for time, because entities and the relationships between them evolve. A simple is_active field is not enough.<p>I ended up with three types of edges:<p>event: an instantaneous action;\nidentity: a fact;\nstate: a persistent action whose termination requires justification and a supporting quote from the text.<p>The vast majority of edges are events and end in the same chapter in which they began. This allows the system to scale well, since only a minority of state and identity edges remain continuously active.<p>3. Ontology. You cannot simply ask an LLM to extract entities and relationships into a graph. With every chapter, even the smartest model will keep inventing unimportant fields, creating new aliases for existing fields, and representing the same fields inconsistently.<p>Before extracting the graph, the system therefore performs an ontology scan across the entire story. It captures story-specific entity and edge types, along with their fields and descriptions.<p>4. Epistemics. Events are only one part of a story. It is also important to understand how information is distributed, which is difficult to represent using event edges alone.<p>I addressed this by introducing a new node type: epistemic nodes, which capture different entities’ perspectives on the same fact. Subtle hints can still be missed, the system is not yet perfect in this area." ]
+} ]
