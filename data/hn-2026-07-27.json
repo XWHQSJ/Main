@@ -1,0 +1,151 @@
+[ {
+  "title" : "PGSimCity - How PostgreSQL Works",
+  "description" : "Link: https://nikolays.github.io/PGSimCity/ | Score: 344 | Comments: 40 | By: jonbaer",
+  "url" : "https://news.ycombinator.com/item?id=49063754",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Physically accurate black hole you can put in your room",
+  "description" : "Link: https://blackhole.plav.in | Score: 176 | Comments: 50 | By: aplavin",
+  "url" : "https://news.ycombinator.com/item?id=49021270",
+  "answers" : [ "We have a black hole at home — with actual relativistic physics, live in your browser.<p>I&#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard&#x27;s Black Hole Initiative studying quasars and black hole environments. I work with raytracing&#x2F;radiative transfer simulations professionally, and wanted to make one anyone can play with — so I built this app.<p>Put the black hole onto your screen (any browser), or directly into your room with AR or VR (requires WebXR, for example Chrome on Android, or any VR headset). When looking around, pay attention to unintuitive relativistic effects: rays bending around the black hole, and special relativistic &quot;Doppler boosting&quot; changing brightness depending on the viewing angle — zoom out to see the fast jet where the latter effect is especially pronounced.\nFaint markers show where other viewers are standing right now.<p>Alternatively, put the black hole in front of your camera and watch it lens\nyour actual surroundings. Light winds around the hole, so you see both what&#x27;s in front of you and what&#x27;s behind you at once (when the device and browser allow both camera feeds). The closer to the black hole, the stronger the bending — and the longer the light-travel delay: wave at it and watch the changes propagate inward.\n(unfortunately, WebXR restrictions make AR passthrough and the camera feed mutually exclusive)<p>No signup, basic features work on every device, no data uploaded — the camera feed never leaves your device. Source code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;aplavin&#x2F;blackhole.plav.in\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;aplavin&#x2F;blackhole.plav.in</a>.<p>Enjoy having a black hole in your room, or use it for education&#x2F;outreach — any questions, feedback, or suggestions are welcome!" ]
+}, {
+  "title" : "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+  "description" : "Link: https://beyondloom.com/decker/ | Score: 273 | Comments: 70 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49060856",
+  "answers" : [ ]
+}, {
+  "title" : "French firefighters face 'pyrocumulonimbus' for first time",
+  "description" : "Link: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time | Score: 259 | Comments: 150 | By: saaaaaam",
+  "url" : "https://news.ycombinator.com/item?id=49060495",
+  "answers" : [ ]
+}, {
+  "title" : "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+  "description" : "Link: https://github.com/vercel-labs/scriptc | Score: 84 | Comments: 35 | By: maxloh",
+  "url" : "https://news.ycombinator.com/item?id=49063175",
+  "answers" : [ ]
+}, {
+  "title" : "US citizen charged after GrapheneOS phone wipes during airport search",
+  "description" : "Link: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html | Score: 460 | Comments: 296 | By: eecc",
+  "url" : "https://news.ycombinator.com/item?id=49063022",
+  "answers" : [ ]
+}, {
+  "title" : "We have proof automation now",
+  "description" : "Link: https://www.imperialviolet.org/2026/07/26/zstd-lean.html | Score: 133 | Comments: 30 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49062291",
+  "answers" : [ ]
+}, {
+  "title" : "I wanted a clock that never needed setting. Things escalated",
+  "description" : "Link: https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/ | Score: 68 | Comments: 69 | By: lee_ars",
+  "url" : "https://news.ycombinator.com/item?id=49020219",
+  "answers" : [ ]
+}, {
+  "title" : "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+  "description" : "Link: https://swag.htmx.org/en-cad/products/htmx-4-the-game | Score: 396 | Comments: 138 | By: rcy",
+  "url" : "https://news.ycombinator.com/item?id=49057241",
+  "answers" : [ ]
+}, {
+  "title" : "Introduction to Data-Oriented Design [pdf]",
+  "description" : "Link: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf | Score: 146 | Comments: 38 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49060724",
+  "answers" : [ ]
+}, {
+  "title" : "Design is compromise",
+  "description" : "Link: https://stephango.com/design-is-compromise | Score: 219 | Comments: 78 | By: ankitg12",
+  "url" : "https://news.ycombinator.com/item?id=49059367",
+  "answers" : [ ]
+}, {
+  "title" : "Simulate cassette tape audio profiles using FFmpeg",
+  "description" : "Link: https://github.com/AARomanov1985/Audio-Cassette-Simulation | Score: 100 | Comments: 44 | By: xterminal",
+  "url" : "https://news.ycombinator.com/item?id=49061887",
+  "answers" : [ ]
+}, {
+  "title" : "Fonts In Use – Find out where a font is used",
+  "description" : "Link: https://fontsinuse.com/ | Score: 37 | Comments: 3 | By: open_",
+  "url" : "https://news.ycombinator.com/item?id=49063523",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+  "description" : "Link: https://github.com/gmrandazzo/CheapSecurity | Score: 122 | Comments: 24 | By: zeldone",
+  "url" : "https://news.ycombinator.com/item?id=49059398",
+  "answers" : [ ]
+}, {
+  "title" : "The Usefulness of Useless Knowledge (1939) [pdf]",
+  "description" : "Link: https://faculty.lsu.edu/kharms/files/flexner_1939.pdf | Score: 46 | Comments: 3 | By: jxmorris12",
+  "url" : "https://news.ycombinator.com/item?id=49020842",
+  "answers" : [ ]
+}, {
+  "title" : "How to write English prose (2023)",
+  "description" : "Link: https://thelampmagazine.com/blog/how-to-write-english-prose | Score: 101 | Comments: 51 | By: geneticdrifts",
+  "url" : "https://news.ycombinator.com/item?id=49060295",
+  "answers" : [ ]
+}, {
+  "title" : "Go Analysis Framework: modular static analysis by go team",
+  "description" : "Link: https://pkg.go.dev/golang.org/x/tools/go/analysis | Score: 195 | Comments: 51 | By: AbuAssar",
+  "url" : "https://news.ycombinator.com/item?id=49057398",
+  "answers" : [ ]
+}, {
+  "title" : "Why care about programming languages",
+  "description" : "Link: https://ebellani.github.io/blog/2026/why-care-about-programming-languages/ | Score: 8 | Comments: 2 | By: b-man",
+  "url" : "https://news.ycombinator.com/item?id=49012339",
+  "answers" : [ ]
+}, {
+  "title" : "The relay market powering token resellers and fraud",
+  "description" : "Link: https://vectoral.com/blog/token-relay-market | Score: 178 | Comments: 104 | By: mlenhard",
+  "url" : "https://news.ycombinator.com/item?id=49058993",
+  "answers" : [ ]
+}, {
+  "title" : "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+  "description" : "Link: https://spectrum.ieee.org/space-debris-atmosphere-burn-up | Score: 52 | Comments: 31 | By: marc__1",
+  "url" : "https://news.ycombinator.com/item?id=49062120",
+  "answers" : [ ]
+}, {
+  "title" : "The New AI Superpowers: Focus and Followthrough",
+  "description" : "Link: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and | Score: 183 | Comments: 53 | By: mooreds",
+  "url" : "https://news.ycombinator.com/item?id=49057877",
+  "answers" : [ ]
+}, {
+  "title" : "History of John Backus's functional programming project (draft)",
+  "description" : "Link: https://softwarepreservation.computerhistory.org/FP/ | Score: 20 | Comments: 1 | By: cwbuilds",
+  "url" : "https://news.ycombinator.com/item?id=49038035",
+  "answers" : [ ]
+}, {
+  "title" : "Teaching Kids Forth",
+  "description" : "Link: https://gracefulliberty.com/articles/teaching-kids-forth/ | Score: 71 | Comments: 22 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=49062700",
+  "answers" : [ ]
+}, {
+  "title" : "How to Block Some of the Bots",
+  "description" : "Link: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/ | Score: 92 | Comments: 109 | By: Bender",
+  "url" : "https://news.ycombinator.com/item?id=49060945",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Reverse Minesweeper",
+  "description" : "Link: https://sunflowersgame.com/ | Score: 178 | Comments: 56 | By: pompomsheep",
+  "url" : "https://news.ycombinator.com/item?id=49057666",
+  "answers" : [ ]
+}, {
+  "title" : "Kill The Cookie Banner",
+  "description" : "Link: https://killthecookiebanner.eu/ | Score: 902 | Comments: 439 | By: rapnie",
+  "url" : "https://news.ycombinator.com/item?id=49057175",
+  "answers" : [ ]
+}, {
+  "title" : "I learned PCB design, 3D printing and C just to listen to music",
+  "description" : "Link: https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/ | Score: 190 | Comments: 40 | By: interfeco",
+  "url" : "https://news.ycombinator.com/item?id=49022355",
+  "answers" : [ ]
+}, {
+  "title" : "Some more things about Django I've been enjoying",
+  "description" : "Link: https://jvns.ca/blog/2026/07/21/more-nice-django-things/ | Score: 146 | Comments: 89 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=48997828",
+  "answers" : [ ]
+}, {
+  "title" : "What's Under Your Feet in New York City?",
+  "description" : "Link: https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city | Score: 176 | Comments: 40 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=49006049",
+  "answers" : [ ]
+}, {
+  "title" : "Using sed to make indexes for books (1997)",
+  "description" : "Link: https://www.pement.org/sed/make_indexes.txt | Score: 59 | Comments: 11 | By: TMWNN",
+  "url" : "https://news.ycombinator.com/item?id=49016917",
+  "answers" : [ ]
+} ]
