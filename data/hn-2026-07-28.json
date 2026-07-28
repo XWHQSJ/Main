@@ -1,0 +1,151 @@
+[ {
+  "title" : "Our position on open-weights models",
+  "description" : "Link: https://www.anthropic.com/news/position-open-weights-models | Score: 652 | Comments: 900 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49076057",
+  "answers" : [ ]
+}, {
+  "title" : "Using an open model feels surprisingly good",
+  "description" : "Link: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/ | Score: 131 | Comments: 48 | By: msaltz",
+  "url" : "https://news.ycombinator.com/item?id=49078583",
+  "answers" : [ ]
+}, {
+  "title" : "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+  "description" : "Link: https://fermisense.com/when-machines-take-the-wheel/ | Score: 75 | Comments: 23 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=49078454",
+  "answers" : [ ]
+}, {
+  "title" : "Benchmarking Opus 5 on SlopCodeBench",
+  "description" : "Link: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md | Score: 204 | Comments: 51 | By: dhorthy",
+  "url" : "https://news.ycombinator.com/item?id=49076391",
+  "answers" : [ ]
+}, {
+  "title" : "Astronauts describe persistent 'observer' sensation after 6 month missions",
+  "description" : "Link: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/ | Score: 143 | Comments: 70 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49076900",
+  "answers" : [ ]
+}, {
+  "title" : "RTX 2080 Ti Memory Upgrade to 22 GB",
+  "description" : "Link: https://gpusolutions.net/rbservices/graphics-card-upgrade/ | Score: 69 | Comments: 32 | By: wslh",
+  "url" : "https://news.ycombinator.com/item?id=49041256",
+  "answers" : [ ]
+}, {
+  "title" : "Why do we think we understand the world more than we actually do?",
+  "description" : "Link: https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth | Score: 11 | Comments: 6 | By: rramadass",
+  "url" : "https://news.ycombinator.com/item?id=49079175",
+  "answers" : [ ]
+}, {
+  "title" : "EYG: A Programming Language for Humans",
+  "description" : "Link: https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/ | Score: 40 | Comments: 16 | By: crowdhailer",
+  "url" : "https://news.ycombinator.com/item?id=49078463",
+  "answers" : [ ]
+}, {
+  "title" : "Watching Go's new garbage collector move through the heap",
+  "description" : "Link: https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html | Score: 188 | Comments: 18 | By: matheusmoreira",
+  "url" : "https://news.ycombinator.com/item?id=49045474",
+  "answers" : [ ]
+}, {
+  "title" : "Residential Proxies Are a National Security Threat",
+  "description" : "Link: https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/ | Score: 46 | Comments: 43 | By: joshbetz",
+  "url" : "https://news.ycombinator.com/item?id=49078266",
+  "answers" : [ ]
+}, {
+  "title" : "DConf 2026 in London",
+  "description" : "Link: https://dconf.org/2026/index.html | Score: 67 | Comments: 28 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=49076840",
+  "answers" : [ ]
+}, {
+  "title" : "C/C++ projects packaged for Zig",
+  "description" : "Link: https://github.com/allyourcodebase | Score: 44 | Comments: 23 | By: jcbhmr",
+  "url" : "https://news.ycombinator.com/item?id=49076791",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+  "description" : "Link: https://github.com/FrigadeHQ/yap | Score: 37 | Comments: 9 | By: pancomplex",
+  "url" : "https://news.ycombinator.com/item?id=49073834",
+  "answers" : [ "Hey HN! I wanted to share this OSS project I&#x27;ve been working on.<p>It&#x27;s called Yap and its a small menu-bar app for macOS that does voice to text for any input. You&#x27;ll set a hotkey, press it, talk, press it again, and the text gets pasted into whatever field you were in. Everything runs locally and never leaves your computer. Fully OSS and MIT licensed.<p>With macOS 26, Apple recently added two new APIs, SpeechAnalyzer and SpeechTranscriber, that do streaming on-device speech to text using models the OS ships and manages. So the app ships no model of its own and loads nothing before the first word. A recent benchmark put Apple&#x27;s model slightly ahead of Whisper Small on accuracy and about 3x faster (see: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48894752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48894752</a>). On Mac, there&#x27;s really no need anymore to download models or pay for expensive APIs.<p>A lot of existing dictation tools do one of a few things I wanted to avoid with this OSS project. They either:<p>- cost money (for something that&#x27;s literally built into the OS)<p>- bundle memory-intensive models (e.g. Whisper or Parakeet)<p>- webapps wrapped in Electron<p>- Intel macs straight up don&#x27;t work<p>- closed source<p>- use third-party APIs that will have access to all your transcripts<p>It&#x27;s around 3,000 lines of native Swift in a 4 MB app and idles near 60 MB of memory. Audio comes off AVAudioEngine into SpeechAnalyzer with volatile results turned on for the live preview, history is stored in SwiftData. There&#x27;s no network code in it at all.<p>Repo and a demo available here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;FrigadeHQ&#x2F;yap\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;FrigadeHQ&#x2F;yap</a><p>Happy to answer questions and would love to hear any feature requests!" ]
+}, {
+  "title" : "The age of token efficiency, the age of libraries",
+  "description" : "Link: https://golemui.com/blog/the-age-of-token-efficiency/ | Score: 5 | Comments: 0 | By: handfuloflight",
+  "url" : "https://news.ycombinator.com/item?id=49079146",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+  "description" : "Link: https://www.rise-reforming.com | Score: 65 | Comments: 30 | By: george_rose25",
+  "url" : "https://news.ycombinator.com/item?id=49074817",
+  "answers" : [ "Hi HN! This is George, Lucas, and Jona from Rise Reforming\n(<a href=\"https:&#x2F;&#x2F;www.rise-reforming.com&#x2F;\">https:&#x2F;&#x2F;www.rise-reforming.com&#x2F;</a>). We’re developing a process to convert gas produced at landfills, farms, and wastewater plants (“biogas”) into higher value chemicals. Our technology is modular, designed to be deployed and operated on-site. Think of us as a chemical project developer; we sit between biogas producers (suppliers) and chemical end users (customers). We pay biogas producers for their gas and we make money from selling our chemicals. We&#x27;re starting with dimethyl ether (DME) as our beachhead chemical because of its high-margin use case in the cosmetics industry and ultimately targeting methanol – a versatile and widely used industrial chemical.<p>Being in a two sided market allows us to target two large problems.<p>(1) On the chemical side: The multi-trillion dollar U.S. chemical and fuel industries are vulnerable to geopolitical conflicts and climate-driven natural disasters. The Iran war has caused global methanol prices to skyrocket – even in the U.S., a net exporter of methanol.\n(<a href=\"https:&#x2F;&#x2F;www.spglobal.com&#x2F;energy&#x2F;en&#x2F;news-research&#x2F;latest-news&#x2F;chemicals&#x2F;032026-global-methanol-prices-soar-in-response-to-middle-east-war#:~:text=the%20second%20quarter.-,Americas,-While\" rel=\"nofollow\">https:&#x2F;&#x2F;www.spglobal.com&#x2F;energy&#x2F;en&#x2F;news-research&#x2F;latest-news...</a> the US). In 2021, Winter Storm Uri wiped out 60% of U.S. organic chemicals production for at least a month (<a href=\"https:&#x2F;&#x2F;www.dallasfed.org&#x2F;research&#x2F;swe&#x2F;2021&#x2F;swe2102&#x2F;swe2102c#:~:text=other%20vehicle%20parts.-,As,-much%20as%2080\" rel=\"nofollow\">https:&#x2F;&#x2F;www.dallasfed.org&#x2F;research&#x2F;swe&#x2F;2021&#x2F;swe2102&#x2F;swe2102c...</a>). The problem? Centralized production and fossil-fuel dependence. The solution isn&#x27;t unknown; decentralized, fossil-free production could insulate supply chains from these shocks. But distributed green chemical production has yet to become cost-competitive with the status quo. Unlocking it requires the right feedstock paired with the right process and strategy.<p>Also, the chemical industry’s reliance on fossil fuels makes it responsible for 5-6% of global greenhouse gas emissions. About 40% of the industry’s well-to-gate emissions\ncome from just the extraction, processing, and transportation of these fossil fuels<p>(<a href=\"https:&#x2F;&#x2F;rmi.org&#x2F;resources&#x2F;chemistry-in-transition-charting-solutions-for-a-low-emissions-chemical-industry&#x2F;#:~:text=and%20energy%20use.-,Exhibit%205,-%3A%20Key%20Categories\" rel=\"nofollow\">https:&#x2F;&#x2F;rmi.org&#x2F;resources&#x2F;chemistry-in-transition-charting-s...</a>).<p>(2) Biogas is an ideal feedstock to address Problem 1. It is decentralized, plentiful, and a large part of it is not properly utilized. Biogas is a mixture of methane (CH4) and carbon dioxide (CO2), produced as a result of anaerobic digestion at landfills, farms, and wastewater plants, and can be used as a raw material in chemical manufacturing. The U.S. produces around 780 billion cubic feet of biogas a year – if we converted all that biogas into methanol, that’s about $20 billion a year. Currently, about 60% of this biogas is either burned for power&#x2F;heat (low-margin and unreliable) or flared altogether. The rest is used in the highly subsidized renewable natural gas (RNG) market\n(<a href=\"https:&#x2F;&#x2F;americanbiogascouncil.org&#x2F;abcs-data-digest-lite-july-2025-primary-end-use-of-biogas&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;americanbiogascouncil.org&#x2F;abcs-data-digest-lite-july...</a>).\nThe result: many biogas producers leave substantial revenue on the table and experience huge\noperational headaches.<p>Our modular technology takes in biogas, electricity, and water as inputs. Co-location with biogas\nproducers allows us to tap into their existing infrastructure and speeds up permitting vs a greenfield project. Our 3 step process is outlined below:<p>Step 1: We clean the biogas of contaminants. That means running the gas over specialized\nadsorbents that trap any nasty sulfur-containing and silicon-containing compounds we don’t\nwant in our process.<p>Step 2: We reform that biogas into an intermediate gas called syngas through the\nbi-reforming process, which combines the novel dry methane reforming reaction with the\nlegacy steam methane reforming reaction. Syngas is a versatile combination of H2 and CO and\nis the building block for many chemicals, allowing us to be a platform company.<p>Step 3: Lastly, we upgrade that syngas into our end chemicals. We do this step using\nconventional catalysts and operating conditions.<p>The modular approach paired with our patent-pending integrated process makes our solution one of the cheapest ways of making green chemicals.<p>Where are we today?<p>We’ve completed our proof-of-concept in the lab and just broke ground on our\npilot plant at a Chicagoland wastewater plant that currently flares all of its biogas. We will convert that wasted biogas into methanol. Estimated commissioning is Q1 2027.<p>We all met at the University of Chicago studying Molecular Engineering and started the company back in June 2024. Rise Reforming’s first iteration came after attending a talk from an Argonne National Laboratory researcher on low-carbon fuels. In that seminar, we heard about a reaction called “dry reforming” wherein one can react CH4 with CO2, effectively eliminating both pollutants and making useful syngas (CO + H2). We realized that this reaction could enable cheaper decarbonization of  chemicals than the legacy electrolysis pathway and started to build a technoeconomic analysis.<p>George has a background in energy generation, storage, and carbon capture. He was an early\nemployee at Highland Electric Fleets (now a unicorn) and later worked at Nexamp, GenH, and Mantel Capture – researching various battery chemistries, building a first-of-a-kind (FOAK) modular hydropower system, and helping prove a novel point-source capture prototype. He also conducted battery research at UChicago&#x27;s Patel Lab and Rowan Group, co-authoring two papers.<p>Lucas led the design, procurement, construction, and operation of Rise Reforming’s bench-scale reforming unit with controls that operated successfully for over 1800+ continuous hours. Prior to Rise, he worked at Avangrid (Iberdrola Group) with the offshore wind project services team and did transmutation research of spent nuclear fuel at Argonne National Laboratory.<p>Jona also studied Molecular Engineering at the University of Chicago. He grew up around the marine industry and brings deep knowledge of the space to the team. While at UChicago, he conducted research in the Patel Lab on batteries and sustainable polymer applications and built novel equipment for the lab, including a high-throughput cyclic voltammetry battery performance testing device. Our advisory board has 220+ combined years in aerosols, permitting&#x2F;safety, low-carbon fuels, catalysts, scale-up, automated modular chemical plants, and wastewater treatment.<p>Here’s our launch video if you want to put faces to the names: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;Bx_ASPapxlQ?si=PAlqvd1eUhW8kjJm\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;Bx_ASPapxlQ?si=PAlqvd1eUhW8kjJm</a>.<p>We’d appreciate any feedback, questions, or advice. Thank you for reading!\nGeorge, Lucas, and Jona" ]
+}, {
+  "title" : "Why I joined Blacksmith to work on storage again",
+  "description" : "Link: https://www.blacksmith.sh/blog/why-i-joined-blacksmith-to-work-on-storage-again | Score: 9 | Comments: 0 | By: piobio",
+  "url" : "https://news.ycombinator.com/item?id=49035714",
+  "answers" : [ ]
+}, {
+  "title" : "Vehicle Motion Cues",
+  "description" : "Link: https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios | Score: 37 | Comments: 17 | By: Austin_Conlon",
+  "url" : "https://news.ycombinator.com/item?id=49077999",
+  "answers" : [ ]
+}, {
+  "title" : "Three Theses on the Literacy Crisis",
+  "description" : "Link: https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis | Score: 33 | Comments: 26 | By: samclemens",
+  "url" : "https://news.ycombinator.com/item?id=49050021",
+  "answers" : [ ]
+}, {
+  "title" : "An Uncomplicated Man",
+  "description" : "Link: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man | Score: 24 | Comments: 5 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=49078575",
+  "answers" : [ ]
+}, {
+  "title" : "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+  "description" : "Link: https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07 | Score: 164 | Comments: 93 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=49020993",
+  "answers" : [ ]
+}, {
+  "title" : "Self-contained highly-portable Python distributions",
+  "description" : "Link: https://gregoryszorc.com/docs/python-build-standalone/main/ | Score: 128 | Comments: 29 | By: jcbhmr",
+  "url" : "https://news.ycombinator.com/item?id=49073942",
+  "answers" : [ ]
+}, {
+  "title" : "The Burau representation of the braid group is faithful for n = 4",
+  "description" : "Link: https://arxiv.org/abs/2607.05283 | Score: 29 | Comments: 9 | By: wglb",
+  "url" : "https://news.ycombinator.com/item?id=49077209",
+  "answers" : [ ]
+}, {
+  "title" : "Some combinatorial applications of spacefilling curves",
+  "description" : "Link: https://www2.isye.gatech.edu/~jjb/research/mow/mow.html | Score: 30 | Comments: 1 | By: shraiwi",
+  "url" : "https://news.ycombinator.com/item?id=49049724",
+  "answers" : [ ]
+}, {
+  "title" : "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+  "description" : "Link: https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/ | Score: 89 | Comments: 11 | By: LorenDB",
+  "url" : "https://news.ycombinator.com/item?id=49021007",
+  "answers" : [ ]
+}, {
+  "title" : "A Dying Art: The last of the morticians",
+  "description" : "Link: https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/ | Score: 14 | Comments: 1 | By: Petiver",
+  "url" : "https://news.ycombinator.com/item?id=49031322",
+  "answers" : [ ]
+}, {
+  "title" : "Securing Services with Rootless Containers",
+  "description" : "Link: https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/ | Score: 77 | Comments: 25 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49021024",
+  "answers" : [ ]
+}, {
+  "title" : "Netflix employee fired for sharing personal details in retreat trust exercise",
+  "description" : "Link: https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/ | Score: 236 | Comments: 187 | By: softwaredoug",
+  "url" : "https://news.ycombinator.com/item?id=49076923",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.inc.com&#x2F;amaya-nichole&#x2F;netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning&#x2F;91380349\" rel=\"nofollow\">https:&#x2F;&#x2F;www.inc.com&#x2F;amaya-nichole&#x2F;netflix-company-retreat-sp...</a>" ]
+}, {
+  "title" : "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+  "description" : "Link: https://up.codes/careers?utm_source=HN | Score: 1 | Comments: 0 | By: Old_Thrashbarg",
+  "url" : "https://news.ycombinator.com/item?id=49072523",
+  "answers" : [ ]
+}, {
+  "title" : "A missing underscore sent innocent man to prison for 18 months",
+  "description" : "Link: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/ | Score: 220 | Comments: 113 | By: quantified",
+  "url" : "https://news.ycombinator.com/item?id=49076116",
+  "answers" : [ ]
+}, {
+  "title" : "How real are real numbers? (2004)",
+  "description" : "Link: https://arxiv.org/abs/math/0411418 | Score: 63 | Comments: 48 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49071190",
+  "answers" : [ ]
+} ]
