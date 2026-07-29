@@ -1,0 +1,151 @@
+[ {
+  "title" : "Codex Security",
+  "description" : "Link: https://github.com/openai/codex-security | Score: 427 | Comments: 134 | By: bakigul",
+  "url" : "https://news.ycombinator.com/item?id=49089755",
+  "answers" : [ ]
+}, {
+  "title" : "More Tailscale tricks for your jailbroken Kindle",
+  "description" : "Link: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes | Score: 9 | Comments: 0 | By: Error6571",
+  "url" : "https://news.ycombinator.com/item?id=49093569",
+  "answers" : [ ]
+}, {
+  "title" : "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+  "description" : "Link: https://learnvector.ai/ | Score: 106 | Comments: 58 | By: ajhai",
+  "url" : "https://news.ycombinator.com/item?id=49092499",
+  "answers" : [ ]
+}, {
+  "title" : "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+  "description" : "Link: https://transformer-transformer.github.io/ | Score: 12 | Comments: 0 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=49093232",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+  "description" : "Link: https://github.com/twalichiewicz/HNewhere | Score: 203 | Comments: 62 | By: twalichiewicz",
+  "url" : "https://news.ycombinator.com/item?id=49090607",
+  "answers" : [ "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.<p>I figured there was probably a simpler way, so I threw together this userscript to merge the two.<p>1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn&#x27;t require your credentials, is resizable, and is easy to tweak if you want to customize it.<p>2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.<p>Feedback welcome." ]
+}, {
+  "title" : "Half-Life ported to Mac OS 9",
+  "description" : "Link: https://mac-classic.com/news/half-life-ported-to-mac-os-9/ | Score: 196 | Comments: 95 | By: freediver",
+  "url" : "https://news.ycombinator.com/item?id=49089814",
+  "answers" : [ ]
+}, {
+  "title" : "Substack writers, you need a website",
+  "description" : "Link: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/ | Score: 472 | Comments: 225 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49086788",
+  "answers" : [ ]
+}, {
+  "title" : "Multiple Mouse Cursors in Wayland",
+  "description" : "Link: https://blinry.org/multi-seat-wayland/ | Score: 64 | Comments: 39 | By: marvinborner",
+  "url" : "https://news.ycombinator.com/item?id=49092112",
+  "answers" : [ ]
+}, {
+  "title" : "Truth is not a direction: a Tarski attack on LLM probes",
+  "description" : "Link: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html | Score: 59 | Comments: 14 | By: abelaer",
+  "url" : "https://news.ycombinator.com/item?id=49069033",
+  "answers" : [ ]
+}, {
+  "title" : "Teach yourself programming in ten years (1998)",
+  "description" : "Link: https://www.norvig.com/21-days.html | Score: 89 | Comments: 33 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=49055816",
+  "answers" : [ ]
+}, {
+  "title" : "Hubble: Open-source notetaking app for you and your agents",
+  "description" : "Link: https://www.hubble.md/ | Score: 75 | Comments: 19 | By: handfuloflight",
+  "url" : "https://news.ycombinator.com/item?id=49091730",
+  "answers" : [ ]
+}, {
+  "title" : "User Interfaces of the Demo Scene",
+  "description" : "Link: https://www.datagubbe.se/scenegui/ | Score: 4 | Comments: 1 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49093434",
+  "answers" : [ ]
+}, {
+  "title" : "Beyond Greece and Rome",
+  "description" : "Link: https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome | Score: 19 | Comments: 6 | By: diodorus",
+  "url" : "https://news.ycombinator.com/item?id=49073357",
+  "answers" : [ ]
+}, {
+  "title" : "Hooray for the Sockets Interface",
+  "description" : "Link: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/ | Score: 17 | Comments: 8 | By: jruohonen",
+  "url" : "https://news.ycombinator.com/item?id=49092754",
+  "answers" : [ ]
+}, {
+  "title" : "ReFrame – The EPaper Camera",
+  "description" : "Link: https://reframe.camera/ | Score: 68 | Comments: 16 | By: phil294",
+  "url" : "https://news.ycombinator.com/item?id=49091379",
+  "answers" : [ ]
+}, {
+  "title" : "Steel Bank Common Lisp version 2.6.7",
+  "description" : "Link: https://sbcl.org/all-news.html?2.6.7 | Score: 213 | Comments: 90 | By: tmtvl",
+  "url" : "https://news.ycombinator.com/item?id=49086971",
+  "answers" : [ ]
+}, {
+  "title" : "Kimi K3 Architecture Overview and Notes",
+  "description" : "Link: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html | Score: 355 | Comments: 57 | By: ModelForge",
+  "url" : "https://news.ycombinator.com/item?id=49085698",
+  "answers" : [ ]
+}, {
+  "title" : "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+  "description" : "Link: https://www.slow-journalism.com/ | Score: 263 | Comments: 151 | By: speerer",
+  "url" : "https://news.ycombinator.com/item?id=49085731",
+  "answers" : [ ]
+}, {
+  "title" : "Cracking Windows Open: Porting RADV to Win32",
+  "description" : "Link: https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html | Score: 4 | Comments: 0 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49093435",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+  "description" : "Link: https://github.com/jagg-ix/zil-lean | Score: 11 | Comments: 1 | By: kbradero",
+  "url" : "https://news.ycombinator.com/item?id=49092730",
+  "answers" : [ "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.<p>Google&#x27;s Zanzibar paper:\n<a href=\"https:&#x2F;&#x2F;storage.googleapis.com&#x2F;gweb-research2023-media&#x2F;pubtools&#x2F;5068.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;storage.googleapis.com&#x2F;gweb-research2023-media&#x2F;pubto...</a>" ]
+}, {
+  "title" : "Log is non-monotonic in PHP and Lua",
+  "description" : "Link: https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/ | Score: 20 | Comments: 13 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49021756",
+  "answers" : [ ]
+}, {
+  "title" : "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+  "description" : "Link: https://www.apple.com/shop/iphone/iphone-upgrade-program | Score: 153 | Comments: 304 | By: lkurtz",
+  "url" : "https://news.ycombinator.com/item?id=49087306",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.apple.com&#x2F;shop&#x2F;apple-upgrade\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apple.com&#x2F;shop&#x2F;apple-upgrade</a>" ]
+}, {
+  "title" : "Interview with Boris Cherny [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=qyPCVqFUyDo | Score: 45 | Comments: 48 | By: knighthacker",
+  "url" : "https://news.ycombinator.com/item?id=49077040",
+  "answers" : [ ]
+}, {
+  "title" : "Zig's Incremental Compilation Internals",
+  "description" : "Link: https://mlugg.co.uk/posts/incremental-compilation-internals/ | Score: 214 | Comments: 148 | By: garyhtou",
+  "url" : "https://news.ycombinator.com/item?id=49085666",
+  "answers" : [ ]
+}, {
+  "title" : "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+  "description" : "Link: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html | Score: 19 | Comments: 2 | By: ejboy",
+  "url" : "https://news.ycombinator.com/item?id=49091895",
+  "answers" : [ ]
+}, {
+  "title" : "The Difference Between a Button and a Link",
+  "description" : "Link: https://unplannedobsolescence.com/blog/buttons-vs-links/ | Score: 54 | Comments: 38 | By: alexpetros",
+  "url" : "https://news.ycombinator.com/item?id=49091738",
+  "answers" : [ ]
+}, {
+  "title" : "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+  "description" : "Link: https://unawatch.com/ | Score: 163 | Comments: 110 | By: pimterry",
+  "url" : "https://news.ycombinator.com/item?id=49084813",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+  "description" : "Link: https://studio.academa.ai/ | Score: 45 | Comments: 15 | By: sinaatalay",
+  "url" : "https://news.ycombinator.com/item?id=49091703",
+  "answers" : [ "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.<p>We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU.<p>To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU through the browser.<p>The editor is Monaco (the editor that powers VS Code) with a live preview: write your Manim code on one side, watch the animation update on the other.<p>There&#x27;s also a built-in AI agent if you&#x27;d rather vibe-code your animations." ]
+}, {
+  "title" : "Pacing the frontier",
+  "description" : "Link: https://www.pacingthefrontier.com/ | Score: 109 | Comments: 109 | By: reducesuffering",
+  "url" : "https://news.ycombinator.com/item?id=49089240",
+  "answers" : [ ]
+}, {
+  "title" : "New HIV vaccine shows unprecedented success in preclinical study",
+  "description" : "Link: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/ | Score: 601 | Comments: 260 | By: codebyaditya",
+  "url" : "https://news.ycombinator.com/item?id=49083314",
+  "answers" : [ ]
+} ]
