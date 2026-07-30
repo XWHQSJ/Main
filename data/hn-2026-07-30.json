@@ -1,0 +1,151 @@
+[ {
+  "title" : "AI's top startups are barely publishing their research",
+  "description" : "Link: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research | Score: 306 | Comments: 167 | By: YeGoblynQueenne",
+  "url" : "https://news.ycombinator.com/item?id=49103285",
+  "answers" : [ ]
+}, {
+  "title" : "The coolest use for the Vision Pro",
+  "description" : "Link: https://christianselig.com/2026/07/vision-pro-house/ | Score: 492 | Comments: 214 | By: robbiet480",
+  "url" : "https://news.ycombinator.com/item?id=49102774",
+  "answers" : [ ]
+}, {
+  "title" : "NSF pilots 4-year PhDs with industry research placements",
+  "description" : "Link: https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four | Score: 55 | Comments: 47 | By: osnium123",
+  "url" : "https://news.ycombinator.com/item?id=49105642",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+  "description" : "Link: https://github.com/drumih/turbo-fieldfare | Score: 706 | Comments: 246 | By: gitpusher42",
+  "url" : "https://news.ycombinator.com/item?id=49098510",
+  "answers" : [ "Hi HN,<p>I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.<p>I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.<p>The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.<p>The trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer.<p>I ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.<p>It currently generates 5–6 tok&#x2F;s on an 8 GB M2 MacBook Air and 31–35 tok&#x2F;s on an M5 MacBook Pro.<p>I also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.<p>Try it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.<p>I would love any kind of feedback!" ]
+}, {
+  "title" : "Superlogical",
+  "description" : "Link: https://www.superlogical.com/ | Score: 587 | Comments: 368 | By: yan",
+  "url" : "https://news.ycombinator.com/item?id=49098965",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical\" rel=\"nofollow\">https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical</a>" ]
+}, {
+  "title" : "LLM Honeypot",
+  "description" : "Link: https://llm2human.pages.dev/ | Score: 126 | Comments: 45 | By: 8thom",
+  "url" : "https://news.ycombinator.com/item?id=49104117",
+  "answers" : [ ]
+}, {
+  "title" : "The Productivity Mirage",
+  "description" : "Link: https://frantic.im/mirage/ | Score: 118 | Comments: 32 | By: msephton",
+  "url" : "https://news.ycombinator.com/item?id=49104335",
+  "answers" : [ ]
+}, {
+  "title" : "Keychron announces first open-source firmware for gaming mice",
+  "description" : "Link: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice | Score: 325 | Comments: 127 | By: JLO64",
+  "url" : "https://news.ycombinator.com/item?id=49099715",
+  "answers" : [ ]
+}, {
+  "title" : "The Cold Email",
+  "description" : "Link: https://zachholman.com/posts/cold-email | Score: 140 | Comments: 52 | By: holman",
+  "url" : "https://news.ycombinator.com/item?id=49103089",
+  "answers" : [ ]
+}, {
+  "title" : "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+  "description" : "Link: https://huggingface.co/blog/agent-intrusion-technical-timeline | Score: 329 | Comments: 194 | By: artninja1988",
+  "url" : "https://news.ycombinator.com/item?id=49089500",
+  "answers" : [ ]
+}, {
+  "title" : "Logic for Programmers",
+  "description" : "Link: https://logicforprogrammers.com/ | Score: 41 | Comments: 1 | By: _doctor_love",
+  "url" : "https://news.ycombinator.com/item?id=49104937",
+  "answers" : [ ]
+}, {
+  "title" : "Kimi K3-256k",
+  "description" : "Link: https://www.kimi.com/code/docs/en/kimi-code/models | Score: 383 | Comments: 116 | By: monneyboi",
+  "url" : "https://news.ycombinator.com/item?id=49101852",
+  "answers" : [ ]
+}, {
+  "title" : "A.I. companies are recruiting electricians and carpenters by the thousands",
+  "description" : "Link: https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html | Score: 246 | Comments: 309 | By: thm",
+  "url" : "https://news.ycombinator.com/item?id=49098198",
+  "answers" : [ ]
+}, {
+  "title" : "Kuna: Decompiler Development in the Age of Coding Agents",
+  "description" : "Link: https://noelo.org/blog/kuna-release/ | Score: 13 | Comments: 1 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=49105563",
+  "answers" : [ ]
+}, {
+  "title" : "Darktable",
+  "description" : "Link: https://www.darktable.org/ | Score: 325 | Comments: 151 | By: siatko",
+  "url" : "https://news.ycombinator.com/item?id=49096654",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: CheapFoodMap – A map of good meals under $10",
+  "description" : "Link: https://cheapfoodmap.com/ | Score: 160 | Comments: 174 | By: jaep1",
+  "url" : "https://news.ycombinator.com/item?id=49100043",
+  "answers" : [ "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It&#x27;s inspried by 거지맵 (Begger&#x27;s Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https:&#x2F;&#x2F;cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!" ]
+}, {
+  "title" : "Turning a dumb AC unit smart (without losing my security deposit)",
+  "description" : "Link: https://prilik.com/blog/post/automating-ac-nyc/ | Score: 128 | Comments: 102 | By: austinallegro",
+  "url" : "https://news.ycombinator.com/item?id=49101198",
+  "answers" : [ ]
+}, {
+  "title" : "Angels in Coptic Magic I: Introduction",
+  "description" : "Link: https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/ | Score: 21 | Comments: 0 | By: jruohonen",
+  "url" : "https://news.ycombinator.com/item?id=49061213",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: A local merge queue for parallel Claude Code agents",
+  "description" : "Link: https://github.com/funador/claude-code-merge-queue | Score: 24 | Comments: 8 | By: funador",
+  "url" : "https://news.ycombinator.com/item?id=49104747",
+  "answers" : [ "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.<p>So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback." ]
+}, {
+  "title" : "Some thoughts about Anthropic's new cryptanalysis results",
+  "description" : "Link: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/ | Score: 120 | Comments: 66 | By: supermatou",
+  "url" : "https://news.ycombinator.com/item?id=49099804",
+  "answers" : [ ]
+}, {
+  "title" : "SalesPatriot (YC W25) Is Hiring FDEs",
+  "description" : "Link: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer | Score: 1 | Comments: 0 | By: maciejSz",
+  "url" : "https://news.ycombinator.com/item?id=49103026",
+  "answers" : [ ]
+}, {
+  "title" : "A Trampoline",
+  "description" : "Link: https://dogdogfish.com/blog/2026/07/29/a-trampoline/ | Score: 82 | Comments: 45 | By: matthewsharpe3",
+  "url" : "https://news.ycombinator.com/item?id=49102425",
+  "answers" : [ ]
+}, {
+  "title" : "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+  "description" : "Link: https://archive.org/details/mancomputerbyjoh0000john | Score: 31 | Comments: 11 | By: MilnerRoute",
+  "url" : "https://news.ycombinator.com/item?id=49104140",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+  "description" : "Link: https://usetokenless.com/ | Score: 56 | Comments: 50 | By: rohaga",
+  "url" : "https://news.ycombinator.com/item?id=49099143",
+  "answers" : [ "Hi HN, Rohit here from Tokenless (<a href=\"https:&#x2F;&#x2F;usetokenless.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;usetokenless.com&#x2F;</a>), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.<p>The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.<p>Frontier models are amazing for dev work, but are so expensive. Open-source models are cheap and rapidly improving, closing the gap with frontier models, but aren’t quite there yet.<p>Tokenless gets you the best of both worlds–routing harder turns to smarter models only when needed, which keeps costs low.<p>Before Tokenless, I was doing a PhD at Princeton. While using coding&#x2F;other agents, I constantly agonized over model choice, to make sure my AI spend was going as far as possible on my academic Cursor account.<p>At the same time, I was doing LLM research, and a small technique I developed while in recovery from NeurIPS submission season seemed to hit SOTA pretty fast. I was surprised that such simple ideas could do routing well.<p>We’ve been able to develop a version of the router that matches the performance of Claude Fable 5 at half the cost. The blog post on our website explores the technical details on how we did this (<a href=\"https:&#x2F;&#x2F;usetokenless.com&#x2F;blog&#x2F;building-tokenless&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;usetokenless.com&#x2F;blog&#x2F;building-tokenless&#x2F;</a>).<p>Highlights:\n- Our approach queries multiple models at once and uses their progress to make decisions (this technique is novel AFAIK, let us know if you know anyone else doing this).\n- Switching models doesn’t destroy the cache if the routing algorithm is aware of when the cache is hot&#x2F;cold.<p>To come:\n- Adding Kimi K3, all other GPT efforts and more to the router<p>Go ahead and sign up on usetokenless.com and try using Tokenless with your agent, you’ll get $20 of free credit. Here’s a demo on how to use it: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;sjZWriclcls\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;sjZWriclcls</a><p>Tokenless provides frontier-level intelligence for cheaper, so we’d love some feedback on how it feels to use, any corner cases that the router routes incorrectly, and whether you find the routing problem interesting!" ]
+}, {
+  "title" : "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+  "description" : "Link: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ | Score: 70 | Comments: 36 | By: cl42",
+  "url" : "https://news.ycombinator.com/item?id=49101529",
+  "answers" : [ ]
+}, {
+  "title" : "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
+  "description" : "Link: https://www.staszewski.xyz/blog/recursive-filters/ | Score: 22 | Comments: 5 | By: kamilstaszewski",
+  "url" : "https://news.ycombinator.com/item?id=49080031",
+  "answers" : [ ]
+}, {
+  "title" : "The Rust on ESP Book",
+  "description" : "Link: https://docs.espressif.com/projects/rust/book/ | Score: 135 | Comments: 15 | By: AlexeyBrin",
+  "url" : "https://news.ycombinator.com/item?id=49047351",
+  "answers" : [ ]
+}, {
+  "title" : "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+  "description" : "Link: https://iza.ac/posts/2026/07/the-journey-of-bamya/ | Score: 35 | Comments: 11 | By: infinitewalk",
+  "url" : "https://news.ycombinator.com/item?id=49062997",
+  "answers" : [ ]
+}, {
+  "title" : "Hamburg's Stadtpark: A Park Built to Be Used",
+  "description" : "Link: https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/ | Score: 123 | Comments: 30 | By: mertbio",
+  "url" : "https://news.ycombinator.com/item?id=49065785",
+  "answers" : [ ]
+}, {
+  "title" : "Flume Water Monitor 915 MHz Security Is Pretty Good",
+  "description" : "Link: https://waveformsecurity.com/blog/flume/ | Score: 24 | Comments: 13 | By: credibleconure",
+  "url" : "https://news.ycombinator.com/item?id=49105136",
+  "answers" : [ ]
+} ]
