@@ -1,0 +1,151 @@
+[ {
+  "title" : "libexpat now funded by the City of Munich for up to 6 months",
+  "description" : "Link: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ | Score: 223 | Comments: 28 | By: spyc",
+  "url" : "https://news.ycombinator.com/item?id=49176606",
+  "answers" : [ ]
+}, {
+  "title" : "Eight Myths on Software Engineering and GenAI",
+  "description" : "Link: https://queue.acm.org/detail.cfm?id=3807963 | Score: 139 | Comments: 91 | By: tchalla",
+  "url" : "https://news.ycombinator.com/item?id=49176830",
+  "answers" : [ ]
+}, {
+  "title" : "Pi's Minimalism Is Its Advantage",
+  "description" : "Link: https://earendil.com/posts/pi-autoresearch-and-databricks/ | Score: 207 | Comments: 79 | By: luispa",
+  "url" : "https://news.ycombinator.com/item?id=49176038",
+  "answers" : [ ]
+}, {
+  "title" : "Stateless MCP has recaptured my interest",
+  "description" : "Link: https://simonwillison.net/2026/Jul/31/stateless-mcp/ | Score: 31 | Comments: 13 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49131438",
+  "answers" : [ ]
+}, {
+  "title" : "The auto industry is building for a past that's never coming back",
+  "description" : "Link: https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/ | Score: 12 | Comments: 9 | By: avonmach",
+  "url" : "https://news.ycombinator.com/item?id=49178317",
+  "answers" : [ ]
+}, {
+  "title" : "The Golden Age of British Ice Cream",
+  "description" : "Link: https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream | Score: 6 | Comments: 0 | By: bryanrasmussen",
+  "url" : "https://news.ycombinator.com/item?id=49172784",
+  "answers" : [ ]
+}, {
+  "title" : "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+  "description" : "Link: https://www.asiae.co.kr/en/article/2026080416131786841 | Score: 60 | Comments: 40 | By: mapping365",
+  "url" : "https://news.ycombinator.com/item?id=49177554",
+  "answers" : [ ]
+}, {
+  "title" : "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+  "description" : "Link: https://mistral.ai/news/shieldstral/ | Score: 353 | Comments: 84 | By: riadsila",
+  "url" : "https://news.ycombinator.com/item?id=49171268",
+  "answers" : [ ]
+}, {
+  "title" : "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+  "description" : "Link: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ | Score: 71 | Comments: 9 | By: lapcat",
+  "url" : "https://news.ycombinator.com/item?id=49176697",
+  "answers" : [ ]
+}, {
+  "title" : "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+  "description" : "Link: https://arxiv.org/abs/2603.04221 | Score: 52 | Comments: 30 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=49176983",
+  "answers" : [ ]
+}, {
+  "title" : "Rio-vt and librio: Rio's terminal engine, now embeddable",
+  "description" : "Link: https://rioterm.com/blog/2026/07/27/rio-vt-and-librio | Score: 9 | Comments: 2 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=49084236",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Simple algorithm and color space to generate diverse skin tones",
+  "description" : "Link: https://toneyalexander.github.io/inclusive-color-space/ | Score: 485 | Comments: 90 | By: automatoney",
+  "url" : "https://news.ycombinator.com/item?id=49170165",
+  "answers" : [ "Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There&#x27;s lots of room for improvements (see the Future Work section), but I&#x27;m really happy with how it turned out." ]
+}, {
+  "title" : "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+  "description" : "Link: https://techascent.com/blog/just-ducking-around.html | Score: 71 | Comments: 10 | By: sourdecor",
+  "url" : "https://news.ycombinator.com/item?id=49175924",
+  "answers" : [ ]
+}, {
+  "title" : "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+  "description" : "Link: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/ | Score: 1156 | Comments: 62 | By: jdcampolargo",
+  "url" : "https://news.ycombinator.com/item?id=49173165",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+  "description" : "Link: https://deepgrove.ai/maple-preview | Score: 82 | Comments: 24 | By: edwardbzhang",
+  "url" : "https://news.ycombinator.com/item?id=49173984",
+  "answers" : [ ]
+}, {
+  "title" : "Bugtraq Is Back",
+  "description" : "Link: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ | Score: 31 | Comments: 7 | By: bashtoni",
+  "url" : "https://news.ycombinator.com/item?id=49176947",
+  "answers" : [ ]
+}, {
+  "title" : "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+  "description" : "Link: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/ | Score: 174 | Comments: 131 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=49175826",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cybercrime&#x2F;African-Cyberthreat-Assessment-Report-2026\" rel=\"nofollow\">https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cyberc...</a>" ]
+}, {
+  "title" : "Flowise is shutting down",
+  "description" : "Link: https://flowiseai.com/sunset | Score: 30 | Comments: 17 | By: llmgraph",
+  "url" : "https://news.ycombinator.com/item?id=49176920",
+  "answers" : [ ]
+}, {
+  "title" : "Video2NAND – Abusing video codecs for great computational power",
+  "description" : "Link: https://sharedobject.blog/posts/vp8-combinatorial-logic/ | Score: 50 | Comments: 10 | By: firer",
+  "url" : "https://news.ycombinator.com/item?id=49145037",
+  "answers" : [ ]
+}, {
+  "title" : "We finally learned to center a div, then browsers added sidebars",
+  "description" : "Link: https://seg6.space/posts/center-div/ | Score: 92 | Comments: 84 | By: seg6",
+  "url" : "https://news.ycombinator.com/item?id=49176055",
+  "answers" : [ ]
+}, {
+  "title" : "Waymo in Dallas",
+  "description" : "Link: https://waymo.com/blog/shorts/dallas-open-to-all/ | Score: 275 | Comments: 437 | By: xnx",
+  "url" : "https://news.ycombinator.com/item?id=49172836",
+  "answers" : [ ]
+}, {
+  "title" : "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+  "description" : "Link: https://twitter.com/gwern/status/2084739205071343837 | Score: 230 | Comments: 142 | By: mattsterett",
+  "url" : "https://news.ycombinator.com/item?id=49174900",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768</a><p><a href=\"https:&#x2F;&#x2F;gwern.net&#x2F;guardian-angel\" rel=\"nofollow\">https:&#x2F;&#x2F;gwern.net&#x2F;guardian-angel</a>" ]
+}, {
+  "title" : "Godox Transparent Viewfinder Camera C100",
+  "description" : "Link: https://www.godox.com/product-e/C100.html | Score: 20 | Comments: 12 | By: routeroff",
+  "url" : "https://news.ycombinator.com/item?id=49155605",
+  "answers" : [ ]
+}, {
+  "title" : "There Will Come Soft Rains (1950) [pdf]",
+  "description" : "Link: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf | Score: 367 | Comments: 388 | By: pmg101",
+  "url" : "https://news.ycombinator.com/item?id=49162653",
+  "answers" : [ ]
+}, {
+  "title" : "Don't stop early: Case-folding source code at memory speed",
+  "description" : "Link: https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/ | Score: 61 | Comments: 20 | By: sbulaev",
+  "url" : "https://news.ycombinator.com/item?id=49127983",
+  "answers" : [ ]
+}, {
+  "title" : "From boiling lead and black art: The history of mathematical typography (2017)",
+  "description" : "Link: http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html | Score: 10 | Comments: 3 | By: EndXA",
+  "url" : "https://news.ycombinator.com/item?id=49134241",
+  "answers" : [ ]
+}, {
+  "title" : "Oxide Computer raises $445M (SEC Form D)",
+  "description" : "Link: https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml | Score: 230 | Comments: 119 | By: depr",
+  "url" : "https://news.ycombinator.com/item?id=49174407",
+  "answers" : [ ]
+}, {
+  "title" : "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+  "description" : "Link: https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead | Score: 1 | Comments: 0 | By: truemetricsIngo",
+  "url" : "https://news.ycombinator.com/item?id=49171650",
+  "answers" : [ ]
+}, {
+  "title" : "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+  "description" : "Link: https://arxiv.org/abs/2602.16763 | Score: 87 | Comments: 90 | By: doppp",
+  "url" : "https://news.ycombinator.com/item?id=49170915",
+  "answers" : [ ]
+}, {
+  "title" : "Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s",
+  "description" : "Link: https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/ | Score: 32 | Comments: 8 | By: SanjayMehta",
+  "url" : "https://news.ycombinator.com/item?id=49177301",
+  "answers" : [ ]
+} ]
