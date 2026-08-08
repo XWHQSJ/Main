@@ -1,0 +1,151 @@
+[ {
+  "title" : "The Nixpkgs core team has disbanded",
+  "description" : "Link: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 | Score: 139 | Comments: 57 | By: Meleagris",
+  "url" : "https://news.ycombinator.com/item?id=49217993",
+  "answers" : [ ]
+}, {
+  "title" : "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+  "description" : "Link: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year | Score: 56 | Comments: 7 | By: wglb",
+  "url" : "https://news.ycombinator.com/item?id=49218179",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek V4 Flash 0731",
+  "description" : "Link: https://arcprize.org/results/deepseek-v4-flash-0731 | Score: 497 | Comments: 302 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49214008",
+  "answers" : [ ]
+}, {
+  "title" : "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+  "description" : "Link: https://genesisopenmodels.anl.gov/ | Score: 128 | Comments: 49 | By: moelf",
+  "url" : "https://news.ycombinator.com/item?id=49216946",
+  "answers" : [ ]
+}, {
+  "title" : "Assembly Hall of Shame",
+  "description" : "Link: https://github.com/xoreaxeaxeax/asm-hall-of-shame | Score: 272 | Comments: 65 | By: piotrgrabowski",
+  "url" : "https://news.ycombinator.com/item?id=49214098",
+  "answers" : [ ]
+}, {
+  "title" : "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+  "description" : "Link: https://ancientlibrary.net/ | Score: 163 | Comments: 55 | By: aagha",
+  "url" : "https://news.ycombinator.com/item?id=49214770",
+  "answers" : [ ]
+}, {
+  "title" : "What happens if an entire class of workers loses faith in their careers",
+  "description" : "Link: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/ | Score: 468 | Comments: 565 | By: RickJWagner",
+  "url" : "https://news.ycombinator.com/item?id=49209539",
+  "answers" : [ ]
+}, {
+  "title" : "SupererDuperer",
+  "description" : "Link: https://www.shirtpocket.com/blog/supererduperer | Score: 26 | Comments: 0 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49135261",
+  "answers" : [ ]
+}, {
+  "title" : "Managing AI Coding Costs at Scale",
+  "description" : "Link: https://www.databricks.com/blog/managing-ai-coding-costs-scale | Score: 179 | Comments: 178 | By: moonikakiss",
+  "url" : "https://news.ycombinator.com/item?id=49214468",
+  "answers" : [ ]
+}, {
+  "title" : "Responding to the next frontier of critical cyber capabilities",
+  "description" : "Link: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/ | Score: 165 | Comments: 168 | By: artninja1988",
+  "url" : "https://news.ycombinator.com/item?id=49213029",
+  "answers" : [ ]
+}, {
+  "title" : "Oracle bans AI-generated code from OpenJDK",
+  "description" : "Link: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code | Score: 406 | Comments: 275 | By: delduca",
+  "url" : "https://news.ycombinator.com/item?id=49213754",
+  "answers" : [ ]
+}, {
+  "title" : "An all-sky map of half a million supermassive black holes",
+  "description" : "Link: https://www.sdss.org/black-hole-mapper-release-20/ | Score: 149 | Comments: 37 | By: MarcoDewey",
+  "url" : "https://news.ycombinator.com/item?id=49211921",
+  "answers" : [ ]
+}, {
+  "title" : "2027 memory capacity is reportedly sold out",
+  "description" : "Link: https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out | Score: 272 | Comments: 256 | By: inigyou",
+  "url" : "https://news.ycombinator.com/item?id=49207236",
+  "answers" : [ ]
+}, {
+  "title" : "Water system controllers don't belong on the internet, says ex-NSA chief",
+  "description" : "Link: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070 | Score: 144 | Comments: 99 | By: Bender",
+  "url" : "https://news.ycombinator.com/item?id=49216362",
+  "answers" : [ ]
+}, {
+  "title" : "Guarded Methods in OCaml (2025)",
+  "description" : "Link: https://xvw.lol/en/articles/oop-refl.html | Score: 57 | Comments: 5 | By: birdculture",
+  "url" : "https://news.ycombinator.com/item?id=49157770",
+  "answers" : [ ]
+}, {
+  "title" : "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+  "description" : "Link: https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/ | Score: 259 | Comments: 123 | By: poly2it",
+  "url" : "https://news.ycombinator.com/item?id=49208535",
+  "answers" : [ ]
+}, {
+  "title" : "Psychological Warfare in Reverse Engineering (2015)",
+  "description" : "Link: https://github.com/xoreaxeaxeax/repsych | Score: 56 | Comments: 2 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=49214775",
+  "answers" : [ ]
+}, {
+  "title" : "Carl's Required Reading",
+  "description" : "Link: https://carlkolon.com/reading/ | Score: 113 | Comments: 13 | By: cckolon",
+  "url" : "https://news.ycombinator.com/item?id=49135457",
+  "answers" : [ ]
+}, {
+  "title" : "Kitesurf: Agent-first browser that runs in V8 isolates",
+  "description" : "Link: https://blog.cloudflare.com/kitesurf/ | Score: 172 | Comments: 44 | By: m3h",
+  "url" : "https://news.ycombinator.com/item?id=49208393",
+  "answers" : [ ]
+}, {
+  "title" : "Radical Study Suggests Life on Earth Arose Twice",
+  "description" : "Link: https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice | Score: 109 | Comments: 88 | By: jnord",
+  "url" : "https://news.ycombinator.com/item?id=49209572",
+  "answers" : [ ]
+}, {
+  "title" : "Captain Bible Reverse Engineering",
+  "description" : "Link: https://github.com/peterkelly/captain-bible-re | Score: 20 | Comments: 2 | By: peterkelly",
+  "url" : "https://news.ycombinator.com/item?id=49146540",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+  "description" : "Link: https://textlog.cc/about | Score: 147 | Comments: 62 | By: stagas",
+  "url" : "https://news.ycombinator.com/item?id=49208458",
+  "answers" : [ ]
+}, {
+  "title" : "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+  "description" : "Link: https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta | Score: 738 | Comments: 396 | By: boplicity",
+  "url" : "https://news.ycombinator.com/item?id=49204352",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p...</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexico-court-meta\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic...</a><p><a href=\"https:&#x2F;&#x2F;www.kob.com&#x2F;new-mexico&#x2F;nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.kob.com&#x2F;new-mexico&#x2F;nm-court-orders-meta-to-pay-5...</a><p><a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cd7lz3wr2rlo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cd7lz3wr2rlo</a><p><a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;meta-ordered-to-pay-942-million-to-...</a>" ]
+}, {
+  "title" : "Show HN: Wyzer Programming Language",
+  "description" : "Link: https://github.com/Wyzer-Lang/wyzer | Score: 180 | Comments: 100 | By: v0id_isgood",
+  "url" : "https://news.ycombinator.com/item?id=49209385",
+  "answers" : [ "So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear&#x2F;affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well<p>after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you&#x27;re most welcome!" ]
+}, {
+  "title" : "Why are all the amounts values negative?",
+  "description" : "Link: https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/ | Score: 35 | Comments: 12 | By: 4pkjai",
+  "url" : "https://news.ycombinator.com/item?id=49141521",
+  "answers" : [ ]
+}, {
+  "title" : "Möbius-Strip Crosswords",
+  "description" : "Link: https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/ | Score: 55 | Comments: 7 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49211660",
+  "answers" : [ ]
+}, {
+  "title" : "Curlese, Five Years Later",
+  "description" : "Link: https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later | Score: 13 | Comments: 2 | By: rovr138",
+  "url" : "https://news.ycombinator.com/item?id=49163202",
+  "answers" : [ ]
+}, {
+  "title" : "A year of fighting scrapers on my 1.5 million-page website",
+  "description" : "Link: https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/ | Score: 388 | Comments: 363 | By: petercooper",
+  "url" : "https://news.ycombinator.com/item?id=49211386",
+  "answers" : [ ]
+}, {
+  "title" : "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
+  "description" : "Link: https://londonist.com/london/history/oxford-street-beavers | Score: 55 | Comments: 32 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=49158302",
+  "answers" : [ ]
+}, {
+  "title" : "AMD acquires Taalas to boost inference performance by etching models in silicon",
+  "description" : "Link: https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344 | Score: 894 | Comments: 669 | By: itvision",
+  "url" : "https://news.ycombinator.com/item?id=49201970",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...</a><p><a href=\"https:&#x2F;&#x2F;chatjimmy.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;chatjimmy.ai&#x2F;</a>" ]
+} ]
