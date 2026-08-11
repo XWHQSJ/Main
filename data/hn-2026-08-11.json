@@ -1,0 +1,151 @@
+[ {
+  "title" : "The UK's War on Anonymity Has Come to America",
+  "description" : "Link: https://www.effort.news/uk-lobby | Score: 347 | Comments: 221 | By: slowin",
+  "url" : "https://news.ycombinator.com/item?id=49251411",
+  "answers" : [ ]
+}, {
+  "title" : "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+  "description" : "Link: https://github.com/antirez/h3.c | Score: 71 | Comments: 6 | By: swyx",
+  "url" : "https://news.ycombinator.com/item?id=49252179",
+  "answers" : [ ]
+}, {
+  "title" : "Chicken Scheme 6.0",
+  "description" : "Link: https://code.call-cc.org/releases/6.0.0/NEWS | Score: 87 | Comments: 9 | By: eatonphil",
+  "url" : "https://news.ycombinator.com/item?id=49251702",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+  "description" : "Link: https://everycube.alen.is/ | Score: 99 | Comments: 25 | By: Alen123",
+  "url" : "https://news.ycombinator.com/item?id=49251179",
+  "answers" : [ ]
+}, {
+  "title" : "The “mechanical miracle” that ruined Mark Twain’s life",
+  "description" : "Link: https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined | Score: 74 | Comments: 22 | By: benbreen",
+  "url" : "https://news.ycombinator.com/item?id=49184220",
+  "answers" : [ ]
+}, {
+  "title" : "Recycle – Floppydisks",
+  "description" : "Link: https://www.floppydisk.com/recycle | Score: 19 | Comments: 3 | By: calvinmorrison",
+  "url" : "https://news.ycombinator.com/item?id=49252462",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+  "description" : "Link: https://cactuscompute.com/needle | Score: 214 | Comments: 90 | By: HenryNdubuaku",
+  "url" : "https://news.ycombinator.com/item?id=49246804",
+  "answers" : [ "Hey HN,<p>Henry from Cactus here!<p>We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.<p>The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens&#x2F;sec decode speed on a Raspberry Pi 5, sits between 400-1,500 tokens&#x2F;sec on VR devices like Meta Quest 3S and Apple Vision Pro, and ranges 300-700 on sub-$200 phones such as the Samsung A-Series.<p>On the tool call and mobile device use benchmarks, Needle 2 trades wins with closest small models like LFM2.5 230M and Apple Foundation Model, at 5x to 70x smaller, both at f16 vs Needle 2 at 2bit. Needle is based on Simple Attention Networks from our paper (<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.18363\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.18363</a>).<p>Edge AI has lately meant Macs and PCs, but that is just 1.5 billion of over 21 billion connected IoT devices in the world today, and in emerging markets most phones ship under $200, no NPU, cheap GPUs. These include budget phones, Raspberry Pis, microcontrollers, wearables, small robots like Reachy Mini, and connected home devices.<p>A conventional transformer of Needle&#x27;s width and depth spends 164 MFLOPs per token, and even one squeezed down to Needle&#x27;s parameter count spends 87, Needle spends 70. Even on a high-end phone, an always-on assistant lives inside a power budget; every MFLOP is milliwatt-hours, and Needle spends 7x to 85x fewer of them per token than the smallest performant LLMs. More about the architecture in the link.<p>When we structure intelligence for consumer devices as functions with typed parameters, the only hard part is mapping a messy sentence onto them; which function, with which values. Our research found that when framed that way, the problem needs no world knowledge and no open-ended prose, which is why 45M parameters suffice.<p>Needle 2 expands to structured extraction where the schema can be passed in-place of tools and the model returns structured output. You can use Needle as a text-classification model with an enum field, as a summarization model by providing a schema that extracts key fields, everything but free-range decode.<p>Every product has its own tool vocabulary and fine-tuning needle helps it achieve frontier-level performance on custom tasks, so using the python package (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle</a>), Needle can be fine-tuned Needle on a Mac&#x2F;PC in minutes to a few hours, with automated data-generation pipeline, just pass a couple samples.<p>Nonetheless, every response carries a learned confidence score based our Cactus Hybrid technique. If above your threshold, act, below it, escalate to the cloud or bigger model. Combining Needle 2 with a private DeepSeek-v4-Flash deployment works particularly well for enterprise-level tasks at barely any cost, we can help with this setup.<p>We have put a lot of thoughts into Needle 2 but might still be missing quite a lot, please use the playground in the provided link to test Needle and share your thoughts, always appreciated!" ]
+}, {
+  "title" : "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+  "description" : "Link: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878 | Score: 409 | Comments: 400 | By: root-parent",
+  "url" : "https://news.ycombinator.com/item?id=49243880",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;20LOJ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;20LOJ</a><p><a href=\"https:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;</a>" ]
+}, {
+  "title" : "Rust SIMD on the GPU",
+  "description" : "Link: https://www.vectorware.com/blog/simd-on-gpu/ | Score: 148 | Comments: 63 | By: sagacity",
+  "url" : "https://news.ycombinator.com/item?id=49247477",
+  "answers" : [ ]
+}, {
+  "title" : "World Train Map – 1247 train routes around the world",
+  "description" : "Link: https://worldtrainmap.com/ | Score: 64 | Comments: 22 | By: Flightmussy",
+  "url" : "https://news.ycombinator.com/item?id=49250894",
+  "answers" : [ ]
+}, {
+  "title" : "Sonic Pi v5",
+  "description" : "Link: https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392 | Score: 327 | Comments: 80 | By: samaaron",
+  "url" : "https://news.ycombinator.com/item?id=49208296",
+  "answers" : [ ]
+}, {
+  "title" : "Publishing Schematics Before “Open Source” Was a Word",
+  "description" : "Link: https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704 | Score: 75 | Comments: 18 | By: extralongdivisi",
+  "url" : "https://news.ycombinator.com/item?id=49212449",
+  "answers" : [ ]
+}, {
+  "title" : "Stowaway – Take the window seat on any plane or satellite overhead",
+  "description" : "Link: https://stowaway.live/ | Score: 156 | Comments: 16 | By: thunderbong",
+  "url" : "https://news.ycombinator.com/item?id=49209918",
+  "answers" : [ ]
+}, {
+  "title" : "Confessions of a Long-Distance Sailor",
+  "description" : "Link: https://arachnoid.com/lutusp/sailbook.html | Score: 78 | Comments: 20 | By: AntiRush",
+  "url" : "https://news.ycombinator.com/item?id=49249555",
+  "answers" : [ ]
+}, {
+  "title" : "Stop Killing Games: It's time to sue Sony, join us",
+  "description" : "Link: https://www.massaschadeconsument.nl/collectieve-acties/playstation/ | Score: 213 | Comments: 92 | By: EDM115",
+  "url" : "https://news.ycombinator.com/item?id=49249481",
+  "answers" : [ ]
+}, {
+  "title" : "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+  "description" : "Link: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model | Score: 1059 | Comments: 585 | By: riordan",
+  "url" : "https://news.ycombinator.com/item?id=49241679",
+  "answers" : [ ]
+}, {
+  "title" : "Squeak 6.1",
+  "description" : "Link: https://squeak.org/release_notes/6.1/ | Score: 236 | Comments: 118 | By: fniephaus",
+  "url" : "https://news.ycombinator.com/item?id=49242653",
+  "answers" : [ ]
+}, {
+  "title" : "Humanising LLM Outputs Is Dumb",
+  "description" : "Link: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb | Score: 175 | Comments: 104 | By: kuberwastaken",
+  "url" : "https://news.ycombinator.com/item?id=49243474",
+  "answers" : [ ]
+}, {
+  "title" : "Exploiting System Management Mode with a very long interrupt",
+  "description" : "Link: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii | Score: 141 | Comments: 49 | By: WhiteDawn",
+  "url" : "https://news.ycombinator.com/item?id=49245491",
+  "answers" : [ ]
+}, {
+  "title" : "The Story of Mac: A Just-So Story",
+  "description" : "Link: https://gigamonkeys.com/book/macros-defining-your-own | Score: 17 | Comments: 2 | By: kscarlet",
+  "url" : "https://news.ycombinator.com/item?id=49178868",
+  "answers" : [ ]
+}, {
+  "title" : "US President hid in catering cart for secret flight in Turkey amid Iran threat",
+  "description" : "Link: https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return | Score: 26 | Comments: 11 | By: Jimmc414",
+  "url" : "https://news.ycombinator.com/item?id=49252912",
+  "answers" : [ ]
+}, {
+  "title" : "What's the best programming language for coding agents?",
+  "description" : "Link: http://danluu.com/pl-tokens/ | Score: 84 | Comments: 61 | By: chaychoong",
+  "url" : "https://news.ycombinator.com/item?id=49245936",
+  "answers" : [ "Related: <i>Which programming languages are most token-efficient?</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46582728\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46582728</a> - Jan 2026 (91 comments)" ]
+}, {
+  "title" : "Hyperspace",
+  "description" : "Link: https://hypercritical.co/hyperspace/ | Score: 3 | Comments: 0 | By: swyx",
+  "url" : "https://news.ycombinator.com/item?id=49252493",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+  "description" : "Link: https://www.stoaexchange.com | Score: 69 | Comments: 43 | By: erenberke",
+  "url" : "https://news.ycombinator.com/item?id=49246057",
+  "answers" : [ "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (<a href=\"https:&#x2F;&#x2F;www.stoaexchange.com\">https:&#x2F;&#x2F;www.stoaexchange.com</a>), a marketplace for new and used GPUs and AI servers.<p>GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute.<p>If that company is a hyperscaler, the financing can look investment grade. If it’s a smaller cloud or startup, terms get expensive fast, even with the same hardware as collateral.<p>The lender’s problem is pretty reasonable. If the borrower defaults and we need to sell these servers, what can we actually get for them? There isn’t a good answer today.<p>We started brokering GPU deals to understand why. It was much more manual than we expected. The hardware is still traded through phone calls, forwarded spreadsheets and long email threads.<p>One week, a seller quoted us $200k for a server node and another quoted $240k for what looked like the same thing. Neither was necessarily wrong. They had different information and could only see their own corner of the market.<p>Before we could compare the quotes, we had to sort out the configuration, condition, warranty, location and delivery terms. It’s the same information Kelley Blue Book attaches to a used-car price through the year, trim, mileage and condition. “An H100 server” isn’t enough information to know what something is worth, just as “a used BMW” isn’t.<p>This is also just a bad way to buy or sell hardware. A buyer looking for the best price shouldn’t have to contact several brokers and dealers separately, repeat the same request and then untangle a pile of different quotes. Sellers shouldn’t have to search for demand one buyer at a time. A market of this size deserves better liquidity.<p>Stoa puts the request into one format and sends it to dealers that have gone through know-your-business (KYB) checks. We verify the company, who owns it and who is allowed to trade for it. Before the request goes out, the buyer confirms the exact configuration, quantity, condition, warranty, location, delivery terms and what will be checked during inspection. Dealers return firm quotes against that same request without seeing each other’s bids. Once a quote is accepted, payment, shipping, delivery and inspection are then tracked through settlement. We don’t take possession of the hardware.<p>We got more than $300M in requests for quotes (RFQs) during our first month.<p>The immediate goal is to make buying and selling this hardware less painful. As trades build up, they also leave lenders with actual resale evidence instead of list prices and one off appraisals.<p>We knew from the beginning that this couldn’t be a software only marketplace. GPU trading runs on relationships, and inventory isn’t shown to just anyone. Dealers need to trust the people bringing them clients, and clients need to trust that quotes will actually turn into trades. We built those relationships over time by brokering deals ourselves. Stoa gives people a cleaner way to trade, from the first RFQ through settlement, but it doesn’t replace the trust underneath. Those relationships, and the history of who actually follows through, are a big part of our process.<p>We’ve known each other for more than ten years. We have founded companies, traded interest rate derivatives, built trading and pricing systems for oil and gas. We learned GPU trading by doing the deals ourselves, and Stoa grew out of the problems we kept running into.<p>We charge a tiered fee on completed trades, with lower fees at higher volumes. It’s free to sign up at <a href=\"https:&#x2F;&#x2F;www.stoaexchange.com&#x2F;signup\">https:&#x2F;&#x2F;www.stoaexchange.com&#x2F;signup</a>. If you’ve bought, sold, financed or had to liquidate GPUs, would be great to hear your take!" ]
+}, {
+  "title" : "Choral: Choreographic Programming for Java",
+  "description" : "Link: https://www.choral-lang.org/ | Score: 6 | Comments: 1 | By: dplyukhin",
+  "url" : "https://news.ycombinator.com/item?id=49215111",
+  "answers" : [ ]
+}, {
+  "title" : "The Psychedelic Toad of the Sonoran Desert",
+  "description" : "Link: https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert | Score: 88 | Comments: 58 | By: simonebrunozzi",
+  "url" : "https://news.ycombinator.com/item?id=49172319",
+  "answers" : [ ]
+}, {
+  "title" : "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+  "description" : "Link: https://ethw.org/Milestones:Parametron,_1954 | Score: 201 | Comments: 49 | By: xeonmc",
+  "url" : "https://news.ycombinator.com/item?id=49241846",
+  "answers" : [ ]
+}, {
+  "title" : "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+  "description" : "Link: https://openai.com/index/responsible-ai-infrastructure-texas/ | Score: 99 | Comments: 180 | By: hackerBanana",
+  "url" : "https://news.ycombinator.com/item?id=49244308",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
+  "description" : "Score: 156 | Comments: 53 | By: BoxOfRain",
+  "url" : "https://news.ycombinator.com/item?id=49213660",
+  "answers" : [ "TL;DR I&#x27;m looking for advice regarding browser-based frontend development from people with practical e-ink UI experience. My specific device is a Bigme Hibreak Pro BW but I&#x27;m aiming for relatively broad compatibility.<p>I&#x27;ve recently switched to a black-and-white e-ink smartphone with the motivation of withdrawing from the attention economy somewhat and it&#x27;s a genuinely cool piece of hardware. While the majority of my needs are met by this device there are a few things I&#x27;d like to have which don&#x27;t work terribly well with the e-ink screen. I&#x27;m planning to implement a couple of projects to fill these gaps, at the moment I&#x27;m planning a Lemmy frontend and an OpenRouter frontend specifically for e-ink. Both are to be browser-based rather than native, to maximise compatibility and because I&#x27;m much more familiar with the web than Android development.<p>I would like to study the principles of sound e-ink UI design before approaching these projects to avoid creating unusable slop, in particular I am not entirely sure how to approach treating the refreshes as a first-class aspect of the design when I can&#x27;t control them from the browser, and how to apply comprehensible UI conventions when a greyscale, high-contrast display is the target.<p>Some specific problems I have out of the gate are:<p>* Streaming LLM output to the screen is basically the worst-case scenario for e-ink, I need to buffer it and paint it in chunks without this becoming horrible to use.<p>* Ghosting is a serious problem, browsing HN on the device is a particularly obvious example. Ideally I want to avoid scrolling as far as possible and rely on pagination instead, which I feel has the potential to become annoying if not done well.<p>* Given I must rely exclusively on layout and type to carry the UI, what design languages emphasise these qualities best? My gut says the early Mac OS versions wouldn&#x27;t be a bad place to start, this seems relevant given the display constraints of the early macs.<p>I would greatly appreciate any advice on the design and implementation of e-ink UIs from people with practical experience in this area. This is purely to scratch a personal itch, once they&#x27;re nailed down I&#x27;ll put them out in the wild under the GPL." ]
+}, {
+  "title" : "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+  "description" : "Link: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs | Score: 120 | Comments: 14 | By: sshh12",
+  "url" : "https://news.ycombinator.com/item?id=49244085",
+  "answers" : [ ]
+} ]
