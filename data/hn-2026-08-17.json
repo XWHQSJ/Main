@@ -1,0 +1,151 @@
+[ {
+  "title" : "The Life and Death of Direct File [pdf]",
+  "description" : "Link: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf | Score: 95 | Comments: 29 | By: ronbenton",
+  "url" : "https://news.ycombinator.com/item?id=49325185",
+  "answers" : [ ]
+}, {
+  "title" : "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+  "description" : "Link: https://simonwillison.net/2026/Aug/16/qwen-38-27b/ | Score: 92 | Comments: 39 | By: bilsbie",
+  "url" : "https://news.ycombinator.com/item?id=49324985",
+  "answers" : [ ]
+}, {
+  "title" : "AGI-64 Brings Sierra Adventures to the Commodore 64",
+  "description" : "Link: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64 | Score: 12 | Comments: 0 | By: erickhill",
+  "url" : "https://news.ycombinator.com/item?id=49325714",
+  "answers" : [ ]
+}, {
+  "title" : "Rhombus 1.1 is now available",
+  "description" : "Link: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html | Score: 23 | Comments: 9 | By: spdegabrielle",
+  "url" : "https://news.ycombinator.com/item?id=49325384",
+  "answers" : [ ]
+}, {
+  "title" : "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+  "description" : "Link: https://rvembedded.com/blog_post/12/ | Score: 393 | Comments: 209 | By: Narishma",
+  "url" : "https://news.ycombinator.com/item?id=49321717",
+  "answers" : [ ]
+}, {
+  "title" : "Claude: System Prompts",
+  "description" : "Link: https://platform.claude.com/docs/en/release-notes/system-prompts | Score: 561 | Comments: 234 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49319556",
+  "answers" : [ ]
+}, {
+  "title" : "Reticulum – Decentralized Mesh Network",
+  "description" : "Link: https://reticulum.network/ | Score: 24 | Comments: 6 | By: sudo_cowsay",
+  "url" : "https://news.ycombinator.com/item?id=49325061",
+  "answers" : [ ]
+}, {
+  "title" : "Interview with Amit Patel, Creator of \"Solar Realms Elite\"",
+  "description" : "Link: https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/ | Score: 16 | Comments: 1 | By: bananaboy",
+  "url" : "https://news.ycombinator.com/item?id=49231418",
+  "answers" : [ ]
+}, {
+  "title" : "Low-Tech Ceramic Water Filter",
+  "description" : "Link: https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en | Score: 103 | Comments: 31 | By: Bluestein",
+  "url" : "https://news.ycombinator.com/item?id=49259980",
+  "answers" : [ ]
+}, {
+  "title" : "SIMD in the 90s: Programming Intel's Pentium MMX",
+  "description" : "Link: https://pikuma.com/blog/programming-intel-pentium-mmx-simd | Score: 76 | Comments: 35 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49285096",
+  "answers" : [ ]
+}, {
+  "title" : "Protobuf has LSP support. You're welcome",
+  "description" : "Link: https://buf.build/blog/protobuf-lsp | Score: 122 | Comments: 81 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=49322573",
+  "answers" : [ ]
+}, {
+  "title" : "Dancing with friends and enemies: boids' swarm intelligence",
+  "description" : "Link: https://community.wolfram.com/groups/-/m/t/122095 | Score: 17 | Comments: 1 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49257362",
+  "answers" : [ ]
+}, {
+  "title" : "The federal keyword lists that canceled billions in research funding",
+  "description" : "Link: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/ | Score: 107 | Comments: 10 | By: walrus01",
+  "url" : "https://news.ycombinator.com/item?id=49325159",
+  "answers" : [ ]
+}, {
+  "title" : "The AI Credit Resale Economy",
+  "description" : "Link: https://vectoral.com/blog/who-are-the-token-brokers | Score: 236 | Comments: 92 | By: mlenhard",
+  "url" : "https://news.ycombinator.com/item?id=49320611",
+  "answers" : [ ]
+}, {
+  "title" : "MathCode, Mathematical Coding Agent",
+  "description" : "Link: https://math-ai-org.github.io/mathcode/ | Score: 67 | Comments: 23 | By: homarp",
+  "url" : "https://news.ycombinator.com/item?id=49322330",
+  "answers" : [ ]
+}, {
+  "title" : "Clamiga: Common Lisp for the Amiga",
+  "description" : "Link: https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga | Score: 90 | Comments: 10 | By: emptybits",
+  "url" : "https://news.ycombinator.com/item?id=49281352",
+  "answers" : [ ]
+}, {
+  "title" : "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+  "description" : "Link: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ | Score: 120 | Comments: 46 | By: root-parent",
+  "url" : "https://news.ycombinator.com/item?id=49323686",
+  "answers" : [ ]
+}, {
+  "title" : "Anton Chekhov played at love most of his life",
+  "description" : "Link: https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/ | Score: 68 | Comments: 14 | By: lermontov",
+  "url" : "https://news.ycombinator.com/item?id=49306021",
+  "answers" : [ ]
+}, {
+  "title" : "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=-y8bGBE71yw | Score: 52 | Comments: 15 | By: tobr",
+  "url" : "https://news.ycombinator.com/item?id=49313920",
+  "answers" : [ ]
+}, {
+  "title" : "Models Are Getting Dumber on Purpose",
+  "description" : "Link: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose | Score: 280 | Comments: 158 | By: hruvhwe",
+  "url" : "https://news.ycombinator.com/item?id=49322695",
+  "answers" : [ ]
+}, {
+  "title" : "A quick look at zero-knowledge proofs",
+  "description" : "Link: https://bernsteinbear.com/blog/zkp/ | Score: 53 | Comments: 21 | By: evakhoury",
+  "url" : "https://news.ycombinator.com/item?id=49303776",
+  "answers" : [ ]
+}, {
+  "title" : "Firefox for iOS now has a native adblocker",
+  "description" : "Link: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios | Score: 552 | Comments: 229 | By: pentagrama",
+  "url" : "https://news.ycombinator.com/item?id=49319633",
+  "answers" : [ ]
+}, {
+  "title" : "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+  "description" : "Link: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion | Score: 217 | Comments: 149 | By: zacharyozer",
+  "url" : "https://news.ycombinator.com/item?id=49323381",
+  "answers" : [ ]
+}, {
+  "title" : "The FastLanes Unified Transport Layout",
+  "description" : "Link: https://blog.dave.tf/post/fastlanes-utl/ | Score: 3 | Comments: 0 | By: raggi",
+  "url" : "https://news.ycombinator.com/item?id=49263928",
+  "answers" : [ ]
+}, {
+  "title" : "Red queen hypothesis – a new way forward for self-improving AI",
+  "description" : "Link: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai | Score: 15 | Comments: 2 | By: hardlianotion",
+  "url" : "https://news.ycombinator.com/item?id=49323136",
+  "answers" : [ ]
+}, {
+  "title" : "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+  "description" : "Score: 304 | Comments: 74 | By: stagas",
+  "url" : "https://news.ycombinator.com/item?id=49322107",
+  "answers" : [ "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this." ]
+}, {
+  "title" : "A True Telnet BBS on a Casio Calculator",
+  "description" : "Link: https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/ | Score: 91 | Comments: 9 | By: austinallegro",
+  "url" : "https://news.ycombinator.com/item?id=49319349",
+  "answers" : [ ]
+}, {
+  "title" : "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+  "description" : "Link: https://tasklet.ai/careers/head-of-design-engineering | Score: 1 | Comments: 0 | By: mayop100",
+  "url" : "https://news.ycombinator.com/item?id=49319892",
+  "answers" : [ ]
+}, {
+  "title" : "Asynchronous I/O in DuckDB: Work, Thread, Work",
+  "description" : "Link: https://duckdb.org/2026/07/31/asynchronous-io | Score: 273 | Comments: 31 | By: pdet",
+  "url" : "https://news.ycombinator.com/item?id=49243061",
+  "answers" : [ ]
+}, {
+  "title" : "Before Rightmove, there was the Cosmorama",
+  "description" : "Link: https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/ | Score: 26 | Comments: 3 | By: brod_ie",
+  "url" : "https://news.ycombinator.com/item?id=49260268",
+  "answers" : [ ]
+} ]
