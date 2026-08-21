@@ -1,0 +1,151 @@
+[ {
+  "title" : "The August 17 outage",
+  "description" : "Link: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ | Score: 351 | Comments: 399 | By: 0xedb",
+  "url" : "https://news.ycombinator.com/item?id=49378957",
+  "answers" : [ ]
+}, {
+  "title" : "I like 'em thick: an apology to my English teachers",
+  "description" : "Link: https://www.experimental-history.com/p/i-like-em-thick | Score: 591 | Comments: 262 | By: Ariarule",
+  "url" : "https://news.ycombinator.com/item?id=49347543",
+  "answers" : [ ]
+}, {
+  "title" : "Consumer Rights Wiki",
+  "description" : "Link: https://consumerrights.wiki/w/Main_Page | Score: 244 | Comments: 34 | By: gregsadetsky",
+  "url" : "https://news.ycombinator.com/item?id=49378243",
+  "answers" : [ ]
+}, {
+  "title" : "Berkeley Law prohibits AI use in classes (by default)",
+  "description" : "Link: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/ | Score: 20 | Comments: 9 | By: hackerBanana",
+  "url" : "https://news.ycombinator.com/item?id=49382614",
+  "answers" : [ ]
+}, {
+  "title" : "HTML Can Do That",
+  "description" : "Link: https://chrisburnell.com/html-can-do-that/ | Score: 601 | Comments: 167 | By: encyclopedism",
+  "url" : "https://news.ycombinator.com/item?id=49362689",
+  "answers" : [ ]
+}, {
+  "title" : "There's no such thing as a small software team anymore",
+  "description" : "Link: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ | Score: 29 | Comments: 45 | By: mooreslaw",
+  "url" : "https://news.ycombinator.com/item?id=49382152",
+  "answers" : [ ]
+}, {
+  "title" : "I should have loved biology (2020)",
+  "description" : "Link: https://jsomers.net/i-should-have-loved-biology/ | Score: 204 | Comments: 76 | By: tyre",
+  "url" : "https://news.ycombinator.com/item?id=49377853",
+  "answers" : [ ]
+}, {
+  "title" : "Malicious Rust crate Arrayref runs a build-time payload",
+  "description" : "Link: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/ | Score: 407 | Comments: 367 | By: abhisek",
+  "url" : "https://news.ycombinator.com/item?id=49374269",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on-arrayref&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on...</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161</a>" ]
+}, {
+  "title" : "Stealth Model",
+  "description" : "Link: https://openrouter.ai/stealth/ox-alpha | Score: 46 | Comments: 30 | By: mtokmak06",
+  "url" : "https://news.ycombinator.com/item?id=49381896",
+  "answers" : [ ]
+}, {
+  "title" : "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+  "description" : "Link: https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh | Score: 11 | Comments: 0 | By: supermagnet",
+  "url" : "https://news.ycombinator.com/item?id=49304409",
+  "answers" : [ ]
+}, {
+  "title" : "CIA funding helped keep NeXT afloat in the 80s",
+  "description" : "Link: https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink | Score: 350 | Comments: 214 | By: EwanG",
+  "url" : "https://news.ycombinator.com/item?id=49368886",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;JfB5V\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;JfB5V</a>" ]
+}, {
+  "title" : "Show HN: I trained a 125M model to autocomplete piano on-device",
+  "description" : "Link: https://simedw.com/2026/08/20/midi-autocomplete/ | Score: 528 | Comments: 109 | By: simedw",
+  "url" : "https://news.ycombinator.com/item?id=49373456",
+  "answers" : [ "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes&#x2F;sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn&#x27;t work." ]
+}, {
+  "title" : "Why aren't smart people happier? (2022)",
+  "description" : "Link: https://www.experimental-history.com/p/why-arent-smart-people-happier | Score: 95 | Comments: 151 | By: rafaelc",
+  "url" : "https://news.ycombinator.com/item?id=49378446",
+  "answers" : [ ]
+}, {
+  "title" : "Copyright does not protect AI-generated content in EU",
+  "description" : "Link: https://mathstodon.xyz/@maxpool/117128107757895678 | Score: 142 | Comments: 126 | By: u1hcw9nx",
+  "url" : "https://news.ycombinator.com/item?id=49382041",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Huzzah – a novel approach to coding with AI",
+  "description" : "Link: https://www.danielvaughn.dev/posts/huzzah/ | Score: 228 | Comments: 134 | By: danielvaughn",
+  "url" : "https://news.ycombinator.com/item?id=49378768",
+  "answers" : [ "Hello everyone. I&#x27;ve been working on this experimental editor called Huzzah.<p>I&#x27;ve been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They&#x27;re great, but I&#x27;m finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there&#x27;s a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I&#x27;d like to go back to writing code, but I don&#x27;t want to go all the way back to fully manual coding. So I&#x27;ve come up with this interaction paradigm where you:<p><pre><code>  1. write pseudocode in whatever way makes the most sense to you\n  2. on save, the editor synchronizes your work to real source code\n  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.\n</code></pre>\nIt may not work for every use case, but in my initial playthroughs I&#x27;ve found it very enjoyable.<p>Right now it&#x27;s just a proof of concept - installation instructions are here in the readme: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;danielvaughn&#x2F;hz\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;danielvaughn&#x2F;hz</a><p>You can also watch a video of it in action here: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;danielvaughn&#x2F;status&#x2F;2090456808431165715\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;danielvaughn&#x2F;status&#x2F;2090456808431165715</a><p>Cheers!" ]
+}, {
+  "title" : "Vomit: Clean up Claude 5's token output with a separate LLM",
+  "description" : "Link: https://github.com/zachahn/vomit | Score: 195 | Comments: 211 | By: Bluestein",
+  "url" : "https://news.ycombinator.com/item?id=49375996",
+  "answers" : [ ]
+}, {
+  "title" : "Linux 7.2",
+  "description" : "Link: https://www.igalia.com/2026/08/19/Linux-72-Released.html | Score: 199 | Comments: 73 | By: mariuz",
+  "url" : "https://news.ycombinator.com/item?id=49376265",
+  "answers" : [ ]
+}, {
+  "title" : "Detecting scraper bots through scroll behaviour",
+  "description" : "Link: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour | Score: 28 | Comments: 10 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=49381311",
+  "answers" : [ ]
+}, {
+  "title" : "SpacetimeDB: A Short Technical Review",
+  "description" : "Link: https://strn.cat/posts/spacetime/ | Score: 62 | Comments: 15 | By: hurrrr",
+  "url" : "https://news.ycombinator.com/item?id=49378933",
+  "answers" : [ ]
+}, {
+  "title" : "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+  "description" : "Link: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html | Score: 910 | Comments: 295 | By: emctech",
+  "url" : "https://news.ycombinator.com/item?id=49372583",
+  "answers" : [ ]
+}, {
+  "title" : "Mojo is now open source",
+  "description" : "Link: https://www.modular.com/blog/mojo-open-source | Score: 350 | Comments: 81 | By: visheshdembla",
+  "url" : "https://news.ycombinator.com/item?id=49348079",
+  "answers" : [ ]
+}, {
+  "title" : "How to compromise your system with a job interview",
+  "description" : "Link: https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview | Score: 123 | Comments: 105 | By: codedge",
+  "url" : "https://news.ycombinator.com/item?id=49376332",
+  "answers" : [ ]
+}, {
+  "title" : "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+  "description" : "Link: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ | Score: 1111 | Comments: 242 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49379550",
+  "answers" : [ ]
+}, {
+  "title" : "Anti-AI fonts are useless and harmful",
+  "description" : "Link: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ | Score: 120 | Comments: 85 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49375719",
+  "answers" : [ ]
+}, {
+  "title" : "Git at any scale",
+  "description" : "Link: https://cursor.com/blog/git-at-any-scale | Score: 285 | Comments: 94 | By: meetpateltech",
+  "url" : "https://news.ycombinator.com/item?id=49348141",
+  "answers" : [ ]
+}, {
+  "title" : "Sixtyfour (YC P25) Is Hiring",
+  "description" : "Link: https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern | Score: 1 | Comments: 0 | By: HPMOR",
+  "url" : "https://news.ycombinator.com/item?id=49377248",
+  "answers" : [ ]
+}, {
+  "title" : "Speeding Up (Small) Ruby Hashes",
+  "description" : "Link: https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html | Score: 23 | Comments: 0 | By: arto",
+  "url" : "https://news.ycombinator.com/item?id=49295112",
+  "answers" : [ ]
+}, {
+  "title" : "DiffusionGemma Technical Report",
+  "description" : "Link: https://arxiv.org/abs/2608.00146 | Score: 137 | Comments: 34 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=49374287",
+  "answers" : [ ]
+}, {
+  "title" : "Every Model Cheats",
+  "description" : "Link: https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/ | Score: 81 | Comments: 67 | By: vga805",
+  "url" : "https://news.ycombinator.com/item?id=49374635",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.21763\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.21763</a>" ]
+}, {
+  "title" : "Hacking with Claude on a $27 smart watch",
+  "description" : "Link: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html | Score: 87 | Comments: 47 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49374772",
+  "answers" : [ ]
+} ]
