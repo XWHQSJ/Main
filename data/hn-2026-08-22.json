@@ -1,0 +1,151 @@
+[ {
+  "title" : "There's no reason for software to be slow anymore",
+  "description" : "Link: https://danluu.com/perf-opt/ | Score: 81 | Comments: 72 | By: Jach",
+  "url" : "https://news.ycombinator.com/item?id=49395628",
+  "answers" : [ ]
+}, {
+  "title" : "Felony Bench",
+  "description" : "Link: https://www.felonybench.com/ | Score: 555 | Comments: 230 | By: colinprince",
+  "url" : "https://news.ycombinator.com/item?id=49389430",
+  "answers" : [ ]
+}, {
+  "title" : "Kobo can run apps now",
+  "description" : "Link: https://bandarlabs.github.io/Cobalt/ | Score: 449 | Comments: 151 | By: thepoet",
+  "url" : "https://news.ycombinator.com/item?id=49390427",
+  "answers" : [ ]
+}, {
+  "title" : "Initial focus for our partnership with Motorola is a regular non-folding device",
+  "description" : "Link: https://grapheneos.social/@GrapheneOS/117136278553665985 | Score: 22 | Comments: 7 | By: Cider9986",
+  "url" : "https://news.ycombinator.com/item?id=49395605",
+  "answers" : [ ]
+}, {
+  "title" : "Rust Glancer: Rust LSP using 100x less RAM",
+  "description" : "Link: https://rust-glancer.github.io/blog/hello-world/ | Score: 46 | Comments: 19 | By: matklad",
+  "url" : "https://news.ycombinator.com/item?id=49393052",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html\" rel=\"nofollow\">https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html</a>" ]
+}, {
+  "title" : "Three important steps in my maturation process",
+  "description" : "Link: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ | Score: 68 | Comments: 17 | By: tdullien",
+  "url" : "https://news.ycombinator.com/item?id=49394496",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+  "description" : "Link: https://ozbrain.com | Score: 48 | Comments: 20 | By: dariusmonsef",
+  "url" : "https://news.ycombinator.com/item?id=49394827",
+  "answers" : [ "I think agent-first chat interfaces will be a primary software modality and busy dashboard&#x2F;UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow&#x2F;go with me.<p>A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools &amp; tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work.<p>What I built OzBrain to do:\n+ Create a central place for agent reasoned knowledge to live\n+ Be agnostic about what apps&#x2F;agents connect to it\n+ Capture everything and track it so I can audit it\n+ Enable teams, collaborators or partners to share brains\n+ Handle conflicts so many agents in the same article doesn’t blow up\n+ Refactor knowledge into more token friendly chunks and map the index well\n+ Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link\n+ Keep user data safe and secure\n++ Be easy enough to use that you don’t have to have any technical knowledge<p>Some among us will always build their own custom solutions, but there are millions of tech professionals and small business owners that will use agents heavily and need a solution. So I’m trying to build that.<p>Isn’t this like gBrain? Yes, similar. I think it’s like AWS vs Vercel. AWS is very powerful, configurable, and useful if you’re technical and want to invest the time into really fine tuning your system… but if you just want your web deploy&#x2F;hosting to just work and be easy to deal with you use Vercel.<p>&#x2F;&#x2F; WHY I MADE IT<p>I’ve been enjoying getting back to my technical roots, as I lost my coding skills more than a decade ago, but with AI I can focus on the system and the product in partnership with agent coding workflows.<p>I recently built a Voice AI for older people. To build it I created an agentic engineering workflow (feel free to rip that up as I’m always looking to improve systems: <a href=\"https:&#x2F;&#x2F;ozbrain.com&#x2F;resources&#x2F;eng-flow\" rel=\"nofollow\">https:&#x2F;&#x2F;ozbrain.com&#x2F;resources&#x2F;eng-flow</a>) My approach with coding agents is trust but verify, and I’m trying to replace the parts where a human would review with an adversarial or specialized agent who would give a better answer&#x2F;review.<p>I have workflows that will go high level task to shipped PR running in Claude cloud sessions. I use Claude Code locally and Cursor when I want a tighter loop on doing visual work like UI or layout. And Codex to either load balance usage for TokenThriffting or when I want a different llm to think thru something.<p>It was a pain in the ass passing .md files around and keep track of which version was the most recent, so I built a hosted .md storage right in Supabase and any of my agents already have Supabase access. This let me build a solid, scalable, secure voice AI from my phone at the gym. All my agents have access to our knowledge, can write to it, update and refer to it as we build and improve the product and the systems we use.<p>Out of 75 founder friends I asked about how they manage shared knowledge, 26 built their own custom knowledge systems… Obsidian vaults with 7k files synced through a VPS, markdown repos behind their own MCP servers, cron jobs stitching Supabase to a skills file… each a different Frankenstein they have to maintain. 32 said they felt the pain of moving static files around but didn’t have any solution for it.<p>So I rebuilt my brain better and used it to build it.<p>&#x2F;&#x2F; HOW YOU CAN HELP<p>Would love to have you try it out. The maintenance loop is still in alpha so not running it on customer data yet.<p>If you built your own brain I’d love to hear how you did it. What criteria was most important for you in its design &amp; function.<p>If you are tired of shuffling .md files around I’d love to have you try out OzBrain and to give feedback, just ask your agent to put it in the shared bugs &amp; features brain!<p>Cheers!\nBubs.co" ]
+}, {
+  "title" : "Scientists release biggest 2D map of the universe",
+  "description" : "Link: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/ | Score: 157 | Comments: 50 | By: NKosmatos",
+  "url" : "https://news.ycombinator.com/item?id=49392200",
+  "answers" : [ "Direct link to Legacy Survey Sky Viewer: <a href=\"https:&#x2F;&#x2F;viewer.legacysurvey.org\" rel=\"nofollow\">https:&#x2F;&#x2F;viewer.legacysurvey.org</a>" ]
+}, {
+  "title" : "Kagi added a setting for removing paywalled links from search results",
+  "description" : "Link: https://kagi.com/changelog#11296 | Score: 1028 | Comments: 346 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49388154",
+  "answers" : [ ]
+}, {
+  "title" : "Felony charges for citizen deleting phone data at US Border",
+  "description" : "Link: https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html | Score: 601 | Comments: 770 | By: floathub",
+  "url" : "https://news.ycombinator.com/item?id=49386895",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;SflVC\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;SflVC</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_2rokxux5cU\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_2rokxux5cU</a>" ]
+}, {
+  "title" : "I accidentally logged hundreds of thousands of phone calls to military bases",
+  "description" : "Link: https://lina.sh/blog/hijacking-e164-arpa | Score: 461 | Comments: 52 | By: gavide",
+  "url" : "https://news.ycombinator.com/item?id=49387570",
+  "answers" : [ ]
+}, {
+  "title" : "OTel isn't going well (and I made a spreadsheet about it)",
+  "description" : "Link: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/ | Score: 39 | Comments: 8 | By: hn_acker",
+  "url" : "https://news.ycombinator.com/item?id=49391553",
+  "answers" : [ ]
+}, {
+  "title" : "AI boosted homework scores, then exam scores dropped: study",
+  "description" : "Link: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning | Score: 244 | Comments: 293 | By: dash2",
+  "url" : "https://news.ycombinator.com/item?id=49357530",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;w1eng\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;w1eng</a><p><a href=\"https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=6868618\" rel=\"nofollow\">https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=6868618</a>" ]
+}, {
+  "title" : "HN: The Good Parts (2016)",
+  "description" : "Link: https://danluu.com/hn-comments/ | Score: 23 | Comments: 6 | By: adletbalzhanov",
+  "url" : "https://news.ycombinator.com/item?id=49395171",
+  "answers" : [ ]
+}, {
+  "title" : "People of ACM – Russ Cox",
+  "description" : "Link: https://www.acm.org/articles/people-of-acm/2026/russ-cox | Score: 96 | Comments: 11 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=49327408",
+  "answers" : [ ]
+}, {
+  "title" : "Autolith: A programming agent with a live runtime",
+  "description" : "Link: https://www.lambda-symbolics.com/autolith | Score: 30 | Comments: 7 | By: vismit2000",
+  "url" : "https://news.ycombinator.com/item?id=49376197",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Rex, a parallel functional language for scientific workflows",
+  "description" : "Link: https://github.com/peterkelly/rex | Score: 14 | Comments: 2 | By: peterkelly",
+  "url" : "https://news.ycombinator.com/item?id=49326852",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;peterkelly.github.io&#x2F;rex&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;peterkelly.github.io&#x2F;rex&#x2F;</a>" ]
+}, {
+  "title" : "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+  "description" : "Link: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer | Score: 1 | Comments: 0 | By: maciejSz",
+  "url" : "https://news.ycombinator.com/item?id=49393733",
+  "answers" : [ ]
+}, {
+  "title" : "Everyone says assembly is untyped—everyone is wrong",
+  "description" : "Link: https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/ | Score: 49 | Comments: 15 | By: adamrezich",
+  "url" : "https://news.ycombinator.com/item?id=49376769",
+  "answers" : [ ]
+}, {
+  "title" : "How we made a text-to-speech model respond in sub-50 ms",
+  "description" : "Link: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ | Score: 111 | Comments: 28 | By: toebee",
+  "url" : "https://news.ycombinator.com/item?id=49389952",
+  "answers" : [ ]
+}, {
+  "title" : "Early-life stress leaves a 'scar' inside brain cells in mice",
+  "description" : "Link: https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/ | Score: 53 | Comments: 18 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=49380303",
+  "answers" : [ ]
+}, {
+  "title" : "Claudette: Make Claude stop talking like a BuzzFeed article",
+  "description" : "Link: https://github.com/adnanakil/nobuzz/blob/main/README.md | Score: 211 | Comments: 150 | By: aakil",
+  "url" : "https://news.ycombinator.com/item?id=49388752",
+  "answers" : [ ]
+}, {
+  "title" : "A look under our trunk: what's in our compute",
+  "description" : "Link: https://waymo.com/blog/2026/08/look-under-our-trunk/ | Score: 101 | Comments: 56 | By: ra7",
+  "url" : "https://news.ycombinator.com/item?id=49374853",
+  "answers" : [ ]
+}, {
+  "title" : "US Debt-to-GDP Ratio",
+  "description" : "Link: https://www.us-debt-clock.com/debt-to-gdp | Score: 9 | Comments: 0 | By: NordStreamYacht",
+  "url" : "https://news.ycombinator.com/item?id=49395663",
+  "answers" : [ ]
+}, {
+  "title" : "I ran Photoshop on a £0.60 computer chip",
+  "description" : "Link: https://pointinthecloud.com/2026-08-19-144600.html | Score: 120 | Comments: 33 | By: colinprince",
+  "url" : "https://news.ycombinator.com/item?id=49389441",
+  "answers" : [ ]
+}, {
+  "title" : "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+  "description" : "Link: https://precastreinforced.co.uk/2026/08/16/new-worlds/ | Score: 209 | Comments: 154 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49387525",
+  "answers" : [ ]
+}, {
+  "title" : "Tumble Forth – from assembly to OS with C compiler (2023)",
+  "description" : "Link: https://tumbleforth.hardcoded.net/ | Score: 62 | Comments: 8 | By: vicek22",
+  "url" : "https://news.ycombinator.com/item?id=49392465",
+  "answers" : [ ]
+}, {
+  "title" : "GitHub, autoscaling, and the component substitution fallacy",
+  "description" : "Link: https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/ | Score: 34 | Comments: 0 | By: jonemi",
+  "url" : "https://news.ycombinator.com/item?id=49379026",
+  "answers" : [ ]
+}, {
+  "title" : "I'm becoming AI-blind",
+  "description" : "Link: https://cymerys.com/w/im-becoming-ai-blind | Score: 282 | Comments: 299 | By: rcymerys",
+  "url" : "https://news.ycombinator.com/item?id=49386699",
+  "answers" : [ ]
+}, {
+  "title" : "The coolest anti-surveillance tools at Defcon [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=-2uAsJ5EPAw | Score: 165 | Comments: 12 | By: neom",
+  "url" : "https://news.ycombinator.com/item?id=49346444",
+  "answers" : [ ]
+} ]
