@@ -1,0 +1,151 @@
+[ {
+  "title" : "Apple introduces M6 and M5 Ultra",
+  "description" : "Link: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ | Score: 987 | Comments: 923 | By: interpol_p",
+  "url" : "https://news.ycombinator.com/item?id=49433292",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...</a><p><a href=\"https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he...</a>" ]
+}, {
+  "title" : "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+  "description" : "Link: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar | Score: 299 | Comments: 150 | By: sunnynagra",
+  "url" : "https://news.ycombinator.com/item?id=49439017",
+  "answers" : [ ]
+}, {
+  "title" : "The brain may be about to have its Ozempic moment",
+  "description" : "Link: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment | Score: 42 | Comments: 24 | By: Anon84",
+  "url" : "https://news.ycombinator.com/item?id=49442743",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI Jalapeño: Better than Nvidia Blackwell",
+  "description" : "Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia | Score: 354 | Comments: 248 | By: bmulholland",
+  "url" : "https://news.ycombinator.com/item?id=49434378",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr</a>" ]
+}, {
+  "title" : "New Mac Studio with M5 Max and M5 Ultra",
+  "description" : "Link: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ | Score: 712 | Comments: 471 | By: interpol_p",
+  "url" : "https://news.ycombinator.com/item?id=49433316",
+  "answers" : [ ]
+}, {
+  "title" : "Black hole singularity is a surface not a point",
+  "description" : "Link: https://arxiv.org/abs/2608.21590 | Score: 201 | Comments: 135 | By: raattgift",
+  "url" : "https://news.ycombinator.com/item?id=49437210",
+  "answers" : [ ]
+}, {
+  "title" : "When str.lower() is a security vulnerability in Python – Seth Larson",
+  "description" : "Link: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability | Score: 75 | Comments: 32 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=49440410",
+  "answers" : [ ]
+}, {
+  "title" : "New Mac mini, featuring M6 and M5 Pro",
+  "description" : "Link: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ | Score: 444 | Comments: 272 | By: runako",
+  "url" : "https://news.ycombinator.com/item?id=49433450",
+  "answers" : [ ]
+}, {
+  "title" : "C2PA Cameras Do Not Survive Contact with Reality",
+  "description" : "Link: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html | Score: 91 | Comments: 40 | By: Retr0id",
+  "url" : "https://news.ycombinator.com/item?id=49439499",
+  "answers" : [ ]
+}, {
+  "title" : "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+  "description" : "Link: https://github.com/runetes/maiao | Score: 34 | Comments: 16 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49441666",
+  "answers" : [ ]
+}, {
+  "title" : "Queryable Executables",
+  "description" : "Link: https://fzakaria.com/2026/08/24/actually-queryable-executables | Score: 25 | Comments: 3 | By: rguiscard",
+  "url" : "https://news.ycombinator.com/item?id=49442589",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+  "description" : "Link: https://github.com/swimmingbrain/texbrain | Score: 55 | Comments: 11 | By: swimmingbrain",
+  "url" : "https://news.ycombinator.com/item?id=49441375",
+  "answers" : [ "I&#x27;m a master&#x27;s engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn&#x27;t want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and the files stay all in one folder on my disk.<p>TeXbrain is a static site with no backend. pdfTeX is compiled to WebAssembly (SwiftLaTeX) and runs in your browser. The editor can read and write your project folder through the File System Access API, so you can use git, any local TeX install, local AI Agents, or any other editor on the same files. Git is built in through isomorphic-git for anyone who would rather not touch a terminal and clone, branch, commit, push or pull via commands. No account is needed, no analytics, and everything works offline after the first load.<p>Try it out: <a href=\"https:&#x2F;&#x2F;tex.swimmingbrain.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;tex.swimmingbrain.dev&#x2F;</a> (Chromium browsers get direct folder access, while Firefox or Safari fall back to a virtual filesystem)<p>Or for self-hosting&#x2F;contributing: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;swimmingbrain&#x2F;texbrain\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;swimmingbrain&#x2F;texbrain</a> (MIT, the pdfTeX engine is EPL 2.0 &#x2F; GPL 2.0 and is listed in the THIRD_PARTY_LICENSES file).<p>The part I&#x27;m most proud of getting to work is the package loading. The engine itself is only 1.8 MB. When it asks for a file it doesn&#x27;t have, then a service worker intercepts the request and resolves it through Cache Storage first, then a small bundled subset, then a TeX Live tree mirrored on jsDelivr, then a SwiftLaTeX style server as a last resort. Every file is fetched once at most and after the first successful compilation, the core subset is prefetched in the background so that the offline story actually holds. Only file names go over the network, never any document content.<p>So far, it only supports pdfTeX (no XeTeX or LuaTeX), so fontspec or polyglossia won&#x27;t work, packages are pinned to the TeX Live 2020 era to stay coherent with the engine&#x27;s format file and there is no bibtex or biber in the engine yet, which is maybe the roughest edge.<p>This is should be a good solution for people on a work laptop, a Chromebook, or a university lab PC where installing TeX Live isn&#x27;t always an option, and people who don&#x27;t want to maintain a TeX install at all. If you already have a local setup you like, keep it. This isn&#x27;t necessarily thought as a replacement for that.<p>Some people have already used it for their thesis in the past months and their bug reports (which I would never have hit on my own) were then most of the summer&#x27;s work. The first outside PR also landed recently, so if something doesn&#x27;t compile for you, an issue with the package name or the bug itself is the most useful thing you can send me!" ]
+}, {
+  "title" : "Nitter and XCancel receive cease and desist notices",
+  "description" : "Link: https://github.com/zedeus/nitter/issues/1442 | Score: 685 | Comments: 590 | By: Banditoz",
+  "url" : "https://news.ycombinator.com/item?id=49437283",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;</a>" ]
+}, {
+  "title" : "Run OpenBSD on DigitalOcean for $4/month",
+  "description" : "Link: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ | Score: 132 | Comments: 61 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49437483",
+  "answers" : [ ]
+}, {
+  "title" : "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+  "description" : "Link: https://e360.yale.edu/digest/bomb-fishing-coral-reefs | Score: 281 | Comments: 145 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49434820",
+  "answers" : [ ]
+}, {
+  "title" : "Building a backyard office, the build and cost breakdown",
+  "description" : "Link: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown | Score: 278 | Comments: 196 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49434645",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: LatticeDB – Like SQLite but for graph databases",
+  "description" : "Link: https://github.com/jeffhajewski/latticedb | Score: 118 | Comments: 35 | By: smiths1999",
+  "url" : "https://news.ycombinator.com/item?id=49437049",
+  "answers" : [ "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better." ]
+}, {
+  "title" : "Tooltips need a delay, and then they need to skip it",
+  "description" : "Link: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ | Score: 123 | Comments: 30 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49436786",
+  "answers" : [ ]
+}, {
+  "title" : "Don't Wordle",
+  "description" : "Link: https://dontwordle.com/ | Score: 319 | Comments: 117 | By: Hbruz0",
+  "url" : "https://news.ycombinator.com/item?id=49432319",
+  "answers" : [ ]
+}, {
+  "title" : "Dolly Parton has died",
+  "description" : "Link: https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead | Score: 1277 | Comments: 195 | By: helsinkiandrew",
+  "url" : "https://news.ycombinator.com/item?id=49438052",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-death\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-dead.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;w4vsE\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;w4vsE</a><p><a href=\"https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-parton-dead-country-music-1236680877&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-par...</a>" ]
+}, {
+  "title" : "Show HN: I made a Raspberry with Qwen my local car AI",
+  "description" : "Link: https://github.com/ThinkOffApp/CarWatch | Score: 111 | Comments: 25 | By: petruspennanen",
+  "url" : "https://news.ycombinator.com/item?id=49435675",
+  "answers" : [ "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer&#x27;s cloud service for stuff like changing AC or opening&#x2F; locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room!<p>So now it can answer car questions such as &quot;when should I add oil and what kind of oil?&quot; and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them.<p>For example, if car breaks and can&#x27;t move  the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something." ]
+}, {
+  "title" : "My Friend Aaron",
+  "description" : "Link: https://rorz.io/writing/my-friend-aaron | Score: 468 | Comments: 127 | By: sarreph",
+  "url" : "https://news.ycombinator.com/item?id=49437069",
+  "answers" : [ ]
+}, {
+  "title" : "Letter from Dolly Parton to Eminem",
+  "description" : "Link: https://twitter.com/Eminem/status/2092367272891310482 | Score: 20 | Comments: 1 | By: tibbar",
+  "url" : "https://news.ycombinator.com/item?id=49443331",
+  "answers" : [ ]
+}, {
+  "title" : "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+  "description" : "Link: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer | Score: 1 | Comments: 0 | By: gfavvas",
+  "url" : "https://news.ycombinator.com/item?id=49437566",
+  "answers" : [ ]
+}, {
+  "title" : "Firefox 157 will include JPEG XL by default on all platforms",
+  "description" : "Link: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 | Score: 299 | Comments: 79 | By: yboris",
+  "url" : "https://news.ycombinator.com/item?id=49437946",
+  "answers" : [ ]
+}, {
+  "title" : "A brief history of federal lift ticket regulation",
+  "description" : "Link: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket | Score: 40 | Comments: 1 | By: CGMthrowaway",
+  "url" : "https://news.ycombinator.com/item?id=49439296",
+  "answers" : [ ]
+}, {
+  "title" : "Visualizing Binary Files",
+  "description" : "Link: https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html | Score: 88 | Comments: 17 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49423878",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+  "description" : "Link: https://fdeploy.com/ | Score: 24 | Comments: 10 | By: dt3ft",
+  "url" : "https://news.ycombinator.com/item?id=49430259",
+  "answers" : [ "Seven years in the making (I admit that I did get a kid at some point which slowed down progress and brought it to a halt quite a few times), I decided to finaly release it, with a rather drastic change to the now (I believe) generous licensing model.<p>Unlike current major players in this field, I decided to go with uncrippled, free version for commercial use for corps with up to 1M USD ARR. I poured my heart and soul into this, not because I was looking for financial success, but because I felt it just had to be done, given the price hikes wherever you look today.\nWhile my wife and kid were enjoying the beach during a vacation, I was using the time to figure out how to best tackle the problem with variable substitution and snapshots, a rather important part of the software. Pulling your hair kind of thing, many of you have likely been there, but darn does it feel good once you solve it!\nI know, not the best use of my time, but on the other hand, I hate the beach, so I guess this was an escape mechanism for me at that time :)<p>I had received quite a few encouraging emails from people eager to try fDeploy  back when I only had a tiny landing page out, but life has its own course and it took a while to even gather the courage to publish the first beta!<p>As everything that sounds too good to be true in this day and age, fDeploy is no different. It does not support multi tenancy (a rather big feature which I&#x27;d love to work down the road) and a few other things may be missing which some companies may find crucial.\nEither way, I see this covering the needs of a large chunk of small to medium sized companies, so some &quot;assembly&quot; may be required. If only HN had the crowd which likes to get their hands dirty and find ways to make things work ;)<p>I&#x27;d love to hear your thoughts and if you could take it for a spin. No signups, should be a smooth ride to get up and running and experimenting in minutes.Thanks!" ]
+}, {
+  "title" : "Python's pre-declared constants are kinda weird",
+  "description" : "Link: https://sebsite.pw/w/20260801-pythonconstants.html | Score: 157 | Comments: 146 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=49441033",
+  "answers" : [ ]
+}, {
+  "title" : "Tracking Costco gas prices",
+  "description" : "Link: https://www.jack.bio/blog/costco-gas-tracking | Score: 88 | Comments: 86 | By: lafond",
+  "url" : "https://news.ycombinator.com/item?id=49423045",
+  "answers" : [ ]
+} ]
