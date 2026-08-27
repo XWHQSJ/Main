@@ -1,0 +1,151 @@
+[ {
+  "title" : "Air Conditioning Is Not a Luxury, It Is a Necessity",
+  "description" : "Link: https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/ | Score: 28 | Comments: 23 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49463367",
+  "answers" : [ ]
+}, {
+  "title" : "Nvidia agrees to acquire Hugging Face for $13B",
+  "description" : "Link: https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8 | Score: 1294 | Comments: 573 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=49458161",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?utm_campaign=article_email&amp;utm_content=article-17723\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;nvidia-agrees-buy-op...</a> (paywalled)<p><a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in-talks-to-be-acquired-for-13b&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in...</a>" ]
+}, {
+  "title" : "Pollen Robotics (Hugging Face) Microduck",
+  "description" : "Link: https://pollen-robotics.com/microduck/ | Score: 43 | Comments: 8 | By: robotswantdata",
+  "url" : "https://news.ycombinator.com/item?id=49462763",
+  "answers" : [ ]
+}, {
+  "title" : "Tell HN: PayPal Blocks GrapheneOS",
+  "description" : "Score: 108 | Comments: 42 | By: leumon",
+  "url" : "https://news.ycombinator.com/item?id=49462253",
+  "answers" : [ "It seems like the PayPal app now refuses to run on GrapheneOS. I don&#x27;t know if it&#x27;s only because I have enabled the PayPal card for contacless NFC payments, but when opening the app it crashes with the following exception: com.paypal.oslo.app.rasp.RootDetectionSecurityException: Security policy violation: s=root" ]
+}, {
+  "title" : "Mechanical Turk shutting down September 30",
+  "description" : "Link: https://www.mturk.com/ | Score: 408 | Comments: 124 | By: tmp10423288442",
+  "url" : "https://news.ycombinator.com/item?id=49457545",
+  "answers" : [ ]
+}, {
+  "title" : "GLM-5.3-Flash",
+  "description" : "Link: https://z.ai/blog/glm-5.3-flash | Score: 1062 | Comments: 537 | By: Philpax",
+  "url" : "https://news.ycombinator.com/item?id=49449507",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49450353\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49450353</a>" ]
+}, {
+  "title" : "Adentris (YC P25) Is Hiring",
+  "description" : "Link: https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python | Score: 1 | Comments: 0 | By: SergeyYudovskiy",
+  "url" : "https://news.ycombinator.com/item?id=49463361",
+  "answers" : [ ]
+}, {
+  "title" : "U.S. State Department pauses immigrant visa applications",
+  "description" : "Link: https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23 | Score: 589 | Comments: 876 | By: sss111",
+  "url" : "https://news.ycombinator.com/item?id=49452709",
+  "answers" : [ ]
+}, {
+  "title" : "Tailcat – Like netcat, but over Tailscale’s data plane",
+  "description" : "Link: https://github.com/tailscale/tailcat | Score: 598 | Comments: 108 | By: nderjung",
+  "url" : "https://news.ycombinator.com/item?id=49452990",
+  "answers" : [ ]
+}, {
+  "title" : "Asahi Linux Progress Report: Linux 7.2",
+  "description" : "Link: https://asahilinux.org/2026/08/progress-report-7-2/ | Score: 310 | Comments: 138 | By: pizzaiolo",
+  "url" : "https://news.ycombinator.com/item?id=49456851",
+  "answers" : [ ]
+}, {
+  "title" : "An ongoing 3D-printer AGPL violation",
+  "description" : "Link: https://lwn.net/SubscriberLink/1089390/46116614cc74b814/ | Score: 426 | Comments: 179 | By: Velocifyer",
+  "url" : "https://news.ycombinator.com/item?id=49452980",
+  "answers" : [ ]
+}, {
+  "title" : "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+  "description" : "Link: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html | Score: 211 | Comments: 143 | By: totetsu",
+  "url" : "https://news.ycombinator.com/item?id=49456929",
+  "answers" : [ ]
+}, {
+  "title" : "CEO fired developers to make room for AI. Developers create open source AI CEO",
+  "description" : "Link: https://github.com/SenteLabsAI/OpenExecutive | Score: 694 | Comments: 462 | By: GrumpySciGuy",
+  "url" : "https://news.ycombinator.com/item?id=49458418",
+  "answers" : [ ]
+}, {
+  "title" : "Stripe acquires Clerky",
+  "description" : "Link: https://www.clerky.com/blog/clerky-is-joining-stripe | Score: 194 | Comments: 38 | By: zakshay",
+  "url" : "https://news.ycombinator.com/item?id=49455956",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;darbyw&#x2F;status&#x2F;2092718828405096955\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;darbyw&#x2F;status&#x2F;2092718828405096955</a>" ]
+}, {
+  "title" : "Twitter Viewer – View Twitter Without Account",
+  "description" : "Link: https://twitterwebviewer.com/ | Score: 494 | Comments: 302 | By: motownphilly",
+  "url" : "https://news.ycombinator.com/item?id=49449576",
+  "answers" : [ ]
+}, {
+  "title" : "Zohran and the Short Link",
+  "description" : "Link: https://iamwillwang.com/notes/zohran-and-the-short-link/ | Score: 227 | Comments: 87 | By: wxw",
+  "url" : "https://news.ycombinator.com/item?id=49457512",
+  "answers" : [ ]
+}, {
+  "title" : "Laion Big Video Dataset",
+  "description" : "Link: https://projects.laion.ai/bvd/ | Score: 68 | Comments: 21 | By: ks2048",
+  "url" : "https://news.ycombinator.com/item?id=49458478",
+  "answers" : [ ]
+}, {
+  "title" : "The Hugging Face incident and the road ahead",
+  "description" : "Link: https://openai.com/index/hugging-face-incident-and-the-road-ahead/ | Score: 272 | Comments: 365 | By: amrrs",
+  "url" : "https://news.ycombinator.com/item?id=49454314",
+  "answers" : [ ]
+}, {
+  "title" : "Nebula Sans",
+  "description" : "Link: https://www.nebulasans.com | Score: 437 | Comments: 172 | By: GavinAnderegg",
+  "url" : "https://news.ycombinator.com/item?id=49450448",
+  "answers" : [ ]
+}, {
+  "title" : "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+  "description" : "Link: https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/ | Score: 293 | Comments: 69 | By: gedankenstuecke",
+  "url" : "https://news.ycombinator.com/item?id=49452671",
+  "answers" : [ ]
+}, {
+  "title" : "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
+  "description" : "Link: https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer | Score: 236 | Comments: 60 | By: leopoldj",
+  "url" : "https://news.ycombinator.com/item?id=49451675",
+  "answers" : [ ]
+}, {
+  "title" : "The Harness Is the Thing",
+  "description" : "Link: https://scott-fryxell.github.io/blog/the-harness-is-the-thing/ | Score: 140 | Comments: 56 | By: sfryxell",
+  "url" : "https://news.ycombinator.com/item?id=49452346",
+  "answers" : [ ]
+}, {
+  "title" : "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+  "description" : "Link: https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone | Score: 143 | Comments: 105 | By: porridgeraisin",
+  "url" : "https://news.ycombinator.com/item?id=49455471",
+  "answers" : [ ]
+}, {
+  "title" : "The turbulent AI era is here",
+  "description" : "Link: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make | Score: 283 | Comments: 279 | By: LVB",
+  "url" : "https://news.ycombinator.com/item?id=49451313",
+  "answers" : [ ]
+}, {
+  "title" : "Mold: A Massively Parallel Linker",
+  "description" : "Link: https://arxiv.org/abs/2608.23228 | Score: 152 | Comments: 21 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=49455530",
+  "answers" : [ ]
+}, {
+  "title" : "Serve Markdown to AI Agents with Accept Headers",
+  "description" : "Link: https://acceptmarkdown.com/ | Score: 153 | Comments: 89 | By: tilt",
+  "url" : "https://news.ycombinator.com/item?id=49454764",
+  "answers" : [ ]
+}, {
+  "title" : "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+  "description" : "Link: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu | Score: 164 | Comments: 81 | By: dsalzman",
+  "url" : "https://news.ycombinator.com/item?id=49454419",
+  "answers" : [ ]
+}, {
+  "title" : "Kusama Yayoi has died",
+  "description" : "Link: https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html | Score: 202 | Comments: 16 | By: phantomathkg",
+  "url" : "https://news.ycombinator.com/item?id=49458709",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;axjMF\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;axjMF</a><p><a href=\"https:&#x2F;&#x2F;yayoi-kusama.jp&#x2F;en&#x2F;news4518&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;yayoi-kusama.jp&#x2F;en&#x2F;news4518&#x2F;</a>" ]
+}, {
+  "title" : "Taylor Farms: How One Company's Reach Became a National Risk",
+  "description" : "Link: https://farmaction.us/taylorfarmsreport/ | Score: 283 | Comments: 192 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49449749",
+  "answers" : [ ]
+}, {
+  "title" : "AWS Acquires DuckLabs",
+  "description" : "Link: https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws | Score: 1062 | Comments: 307 | By: onderkalaci",
+  "url" : "https://news.ycombinator.com/item?id=49448321",
+  "answers" : [ ]
+} ]
