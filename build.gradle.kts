@@ -21,7 +21,7 @@ repositories {
 
 dependencies {
     // HTTP parsing
-    implementation("org.jsoup:jsoup:1.17.2")
+    implementation("org.jsoup:jsoup:1.22.1")
 
     // CLI
     implementation("info.picocli:picocli:4.7.5")
