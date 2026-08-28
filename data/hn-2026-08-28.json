@@ -1,0 +1,151 @@
+[ {
+  "title" : "OpenAI: Migrating to HTTPX2",
+  "description" : "Link: https://github.com/openai/openai-python/blob/main/httpx2.md | Score: 65 | Comments: 23 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49477212",
+  "answers" : [ ]
+}, {
+  "title" : "\"IT WoRKs BeTter in the App \"",
+  "description" : "Link: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/ | Score: 33 | Comments: 3 | By: blenderob",
+  "url" : "https://news.ycombinator.com/item?id=49477600",
+  "answers" : [ ]
+}, {
+  "title" : "U.S. Sanctions Against the a/I Collective",
+  "description" : "Link: https://www.inventati.org/ | Score: 28 | Comments: 7 | By: exiguus",
+  "url" : "https://news.ycombinator.com/item?id=49477854",
+  "answers" : [ ]
+}, {
+  "title" : "Hilariously Fast Volume Computation with the Divergence Theorem",
+  "description" : "Link: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html | Score: 141 | Comments: 30 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=49476143",
+  "answers" : [ ]
+}, {
+  "title" : "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+  "description" : "Link: https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/ | Score: 155 | Comments: 51 | By: softwaredoug",
+  "url" : "https://news.ycombinator.com/item?id=49477055",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: SubSmith – Turn your own videos into language-learning material",
+  "description" : "Link: https://subsmith.app | Score: 27 | Comments: 31 | By: IbrahimF96",
+  "url" : "https://news.ycombinator.com/item?id=49476894",
+  "answers" : [ "I&#x27;ve been learning Japanese for a few years and kept running into a similar problem. I&#x27;d find a video I wanted to learn from, hear a useful sentence, and then realise that turning that sentence into something I could study later was both time consuming and draining at times.<p>I would end up jumping between a video player, subtitles&#x2F;transcription, a dictionary, screenshots, audio clips and Anki. So I built SubSmith to bring that workflow together.<p>You can drop a video or audio file into it, generate a transcript locally and then use the transcript alongside the media to:<p>* look up words and sentences\n* replay individual lines\n* edit the transcript\n* save useful sentences with their original context&#x2F;audio\n* export them as Anki cards<p>The important part for me is that it works with your own media. It isn&#x27;t tied to a particular streaming service or library, so I can use the random anime episode, podcast, lecture, etc. that I&#x27;m actually interested in studying.<p>It&#x27;s an offline-first desktop app, and transcription happens locally rather than sending the media to a transcription API.<p>I&#x27;m sharing it here because I&#x27;m now more interested in finding out where this workflow breaks down for other people rather than adding features randomly now that I have solid core&#x2F;base.<p>For example:<p>* Would you actually save sentences from your own media?\n* Which part of this process feels like too much work?\n* Does having the audio&#x2F;context attached make creating an Anki card more useful?\n* Would you prefer this to work inside your existing video player&#x2F;browser?\n* Is installing a desktop app a significant barrier?\n* And does requiring an account before starting the free trial make you give up?<p>The current version does require an account to start the trial, and I&#x27;m trying to work out whether that&#x27;s meaningful friction for the people who would actually use this.<p>It&#x27;s free to try, and I&#x27;d particularly appreciate feedback from people who already learn languages through their own videos, anime, films, podcasts or other media.<p>I&#x27;m the developer, so I&#x27;ll be around in the comments to answer questions and discuss how it works.<p><a href=\"https:&#x2F;&#x2F;subsmith.app\" rel=\"nofollow\">https:&#x2F;&#x2F;subsmith.app</a>" ]
+}, {
+  "title" : "EPA says power for data centers can sidestep pollution laws",
+  "description" : "Link: https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers | Score: 21 | Comments: 5 | By: Levitating",
+  "url" : "https://news.ycombinator.com/item?id=49478103",
+  "answers" : [ ]
+}, {
+  "title" : "Luanti removed from Google Play due to baseless AI copyright notice",
+  "description" : "Link: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ | Score: 132 | Comments: 38 | By: miniBill",
+  "url" : "https://news.ycombinator.com/item?id=49475079",
+  "answers" : [ ]
+}, {
+  "title" : "Interactive pattern discovery in binaries (FF-16-TUI)",
+  "description" : "Link: https://github.com/HexLasso/FF-16-TUI | Score: 4 | Comments: 0 | By: HexLasso",
+  "url" : "https://news.ycombinator.com/item?id=49477925",
+  "answers" : [ ]
+}, {
+  "title" : "Inception-style curved map for turn-by-turn directions",
+  "description" : "Link: https://www.orbify.eu/demo/ | Score: 9 | Comments: 5 | By: smoser",
+  "url" : "https://news.ycombinator.com/item?id=49477564",
+  "answers" : [ ]
+}, {
+  "title" : "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+  "description" : "Link: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/ | Score: 830 | Comments: 245 | By: TangerineDream",
+  "url" : "https://news.ycombinator.com/item?id=49468083",
+  "answers" : [ ]
+}, {
+  "title" : "Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis",
+  "description" : "Link: https://cartographia40k.com/ | Score: 52 | Comments: 12 | By: gbxyz",
+  "url" : "https://news.ycombinator.com/item?id=49475979",
+  "answers" : [ ]
+}, {
+  "title" : "Small Models Have Arrived",
+  "description" : "Link: https://calv.info/small-models-have-arrived | Score: 708 | Comments: 310 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49466917",
+  "answers" : [ ]
+}, {
+  "title" : "Smaller reactors bring nuclear power closer to fulfilling its promise",
+  "description" : "Link: https://www.nature.com/articles/d41586-026-02506-4 | Score: 23 | Comments: 18 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=49477559",
+  "answers" : [ ]
+}, {
+  "title" : "What Running Kafka on VMs Taught Us About Systems Thinking",
+  "description" : "Link: https://engineering.moniepoint.com/what-running-kafka-on-vms-taught-us-about-systems-thinking | Score: 4 | Comments: 2 | By: yeame",
+  "url" : "https://news.ycombinator.com/item?id=49477428",
+  "answers" : [ ]
+}, {
+  "title" : "Sovereign Tech Agency invests €500k in Flatpak",
+  "description" : "Link: https://modal.cx/blog/announcing-flatpak-sta/ | Score: 205 | Comments: 117 | By: eigenspace",
+  "url" : "https://news.ycombinator.com/item?id=49474786",
+  "answers" : [ ]
+}, {
+  "title" : "507 Mechanical Movements",
+  "description" : "Link: https://507movements.com/ | Score: 622 | Comments: 76 | By: helloplanets",
+  "url" : "https://news.ycombinator.com/item?id=49465169",
+  "answers" : [ "Book (1868): <a href=\"https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala</a>" ]
+}, {
+  "title" : "Bhartrhari's Paradox",
+  "description" : "Link: https://www.futilitycloset.com/2026/08/18/bhartrharis-paradox/ | Score: 5 | Comments: 0 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49477292",
+  "answers" : [ ]
+}, {
+  "title" : "Doctors are finally learning to manage antidepressant withdrawal",
+  "description" : "Link: https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/ | Score: 201 | Comments: 216 | By: eutropheon",
+  "url" : "https://news.ycombinator.com/item?id=49472090",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260826205502&#x2F;https:&#x2F;&#x2F;www.newscientist.com&#x2F;article&#x2F;2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260826205502&#x2F;https:&#x2F;&#x2F;www.newsc...</a><p><a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;zahjc\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;zahjc</a>" ]
+}, {
+  "title" : "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+  "description" : "Link: https://github.com/elyosh/OpenTIE/ | Score: 195 | Comments: 48 | By: elyosh",
+  "url" : "https://news.ycombinator.com/item?id=49471965",
+  "answers" : [ ]
+}, {
+  "title" : "Advertisers Could Soon Demand 'Verified Clicks'",
+  "description" : "Link: https://www.amediaoperator.com/news/advertisers-could-soon-demand-verified-clicks/ | Score: 4 | Comments: 1 | By: thm",
+  "url" : "https://news.ycombinator.com/item?id=49477231",
+  "answers" : [ ]
+}, {
+  "title" : "GoGoGrandparent (YC S16) is hiring back end engineers",
+  "description" : "Link: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer | Score: 1 | Comments: 0 | By: davidchl",
+  "url" : "https://news.ycombinator.com/item?id=49474060",
+  "answers" : [ ]
+}, {
+  "title" : "Microduck",
+  "description" : "Link: https://pollen-robotics.com/microduck/ | Score: 721 | Comments: 229 | By: robotswantdata",
+  "url" : "https://news.ycombinator.com/item?id=49462763",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Talos – An AI agent with a permission kernel between model and shell",
+  "description" : "Link: https://talos-agent.ch/ | Score: 7 | Comments: 2 | By: kurdman_007",
+  "url" : "https://news.ycombinator.com/item?id=49477530",
+  "answers" : [ ]
+}, {
+  "title" : "Gemini-3.5-Transcribe",
+  "description" : "Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/ | Score: 323 | Comments: 109 | By: k9294",
+  "url" : "https://news.ycombinator.com/item?id=49468818",
+  "answers" : [ ]
+}, {
+  "title" : "Terry Rozier and the Teleprompt Operator",
+  "description" : "Link: https://iainschmitt.com/post/terry-rozier-and-the-teleprompt-operator | Score: 4 | Comments: 0 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49477481",
+  "answers" : [ ]
+}, {
+  "title" : "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+  "description" : "Link: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290 | Score: 269 | Comments: 234 | By: dclavijo",
+  "url" : "https://news.ycombinator.com/item?id=49468642",
+  "answers" : [ ]
+}, {
+  "title" : "ALMA Reveals Long-Lived Hotspots on Betelgeuse's Bubbling Surface",
+  "description" : "Link: https://www.almaobservatory.org/en/audiences/alma-reveals-long-lived-hotspots-on-betelgeuses-bubbling-surface/ | Score: 5 | Comments: 0 | By: layer8",
+  "url" : "https://news.ycombinator.com/item?id=49477302",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: The load-bearing vocabulary of Claude",
+  "description" : "Link: https://louisabraham.github.io/load-bearing/ | Score: 607 | Comments: 294 | By: Labo333",
+  "url" : "https://news.ycombinator.com/item?id=49461817",
+  "answers" : [ ]
+}, {
+  "title" : "Gemini Omni 1.1 Flash",
+  "description" : "Link: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/ | Score: 281 | Comments: 207 | By: saretup",
+  "url" : "https://news.ycombinator.com/item?id=49467922",
+  "answers" : [ ]
+} ]
