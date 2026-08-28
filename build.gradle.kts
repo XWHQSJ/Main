@@ -41,7 +41,7 @@ dependencies {
     implementation("org.xerial:sqlite-jdbc:3.45.2.0")
 
     // robots.txt parsing
-    implementation("com.github.crawler-commons:crawler-commons:1.4")
+    implementation("com.github.crawler-commons:crawler-commons:1.6")
 
     // Testing
     testImplementation("org.junit.jupiter:junit-jupiter:5.10.2")
