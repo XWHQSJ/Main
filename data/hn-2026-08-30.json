@@ -1,0 +1,151 @@
+[ {
+  "title" : "Bug Blindness",
+  "description" : "Link: https://danluu.com/bug-blind/ | Score: 206 | Comments: 103 | By: davidmckenna",
+  "url" : "https://news.ycombinator.com/item?id=49494520",
+  "answers" : [ ]
+}, {
+  "title" : "RISC-V is now officially supported by CPython",
+  "description" : "Link: https://blog.python.org/2026/08/riscv-now-officially-supported/ | Score: 120 | Comments: 23 | By: lumpa",
+  "url" : "https://news.ycombinator.com/item?id=49425252",
+  "answers" : [ ]
+}, {
+  "title" : "Hy4 preview",
+  "description" : "Link: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ | Score: 269 | Comments: 171 | By: shenli3514",
+  "url" : "https://news.ycombinator.com/item?id=49492632",
+  "answers" : [ ]
+}, {
+  "title" : "FreeCORE TrueNAS Core – Continued",
+  "description" : "Link: https://freecore.org/ | Score: 81 | Comments: 50 | By: sashk",
+  "url" : "https://news.ycombinator.com/item?id=49494856",
+  "answers" : [ ]
+}, {
+  "title" : "California lawmakers unanimously pass Linux exemption from age-verification law",
+  "description" : "Link: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt | Score: 187 | Comments: 50 | By: shscs911",
+  "url" : "https://news.ycombinator.com/item?id=49495372",
+  "answers" : [ ]
+}, {
+  "title" : "Benchmarking Pocket-Scale Inference",
+  "description" : "Link: https://artificialanalysis.ai/hardware-inference-stack/mobile-phones | Score: 36 | Comments: 2 | By: sys42590",
+  "url" : "https://news.ycombinator.com/item?id=49469786",
+  "answers" : [ ]
+}, {
+  "title" : "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+  "description" : "Link: https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html | Score: 35 | Comments: 8 | By: Bluestein",
+  "url" : "https://news.ycombinator.com/item?id=49433554",
+  "answers" : [ ]
+}, {
+  "title" : "Tether: iMessage, SMS, etc. on Linux",
+  "description" : "Link: https://zackbartel.com/blog/2026/08/tether/ | Score: 441 | Comments: 176 | By: zackb",
+  "url" : "https://news.ycombinator.com/item?id=49415386",
+  "answers" : [ ]
+}, {
+  "title" : "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+  "description" : "Link: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/ | Score: 47 | Comments: 14 | By: cisc",
+  "url" : "https://news.ycombinator.com/item?id=49494751",
+  "answers" : [ ]
+}, {
+  "title" : "Nancy Grace Roman Space Telescope",
+  "description" : "Link: https://science.nasa.gov/mission/roman-space-telescope/ | Score: 181 | Comments: 73 | By: JumpCrisscross",
+  "url" : "https://news.ycombinator.com/item?id=49490870",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\" rel=\"nofollow\">https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grac...</a><p><a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nancy_Grace_Roman\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nancy_Grace_Roman</a>" ]
+}, {
+  "title" : "The Rise and Fall of Agent Civilizations",
+  "description" : "Link: https://www.dwarkesh.com/p/openai-huggingface | Score: 64 | Comments: 31 | By: consumer451",
+  "url" : "https://news.ycombinator.com/item?id=49494301",
+  "answers" : [ ]
+}, {
+  "title" : "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+  "description" : "Link: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ | Score: 266 | Comments: 140 | By: DeepLogin",
+  "url" : "https://news.ycombinator.com/item?id=49494182",
+  "answers" : [ ]
+}, {
+  "title" : "SQLite as a Document Database (2020)",
+  "description" : "Link: https://dgl.cx/2020/06/sqlite-json-support | Score: 199 | Comments: 48 | By: lioeters",
+  "url" : "https://news.ycombinator.com/item?id=49426995",
+  "answers" : [ ]
+}, {
+  "title" : "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+  "description" : "Link: https://github.com/mk6i/open-oscar-server | Score: 31 | Comments: 9 | By: gregsadetsky",
+  "url" : "https://news.ycombinator.com/item?id=49494571",
+  "answers" : [ ]
+}, {
+  "title" : "Is it safe to call print in a Python signal handler?",
+  "description" : "Link: https://iafisher.com/2026/08/sigprint | Score: 39 | Comments: 20 | By: hellerve",
+  "url" : "https://news.ycombinator.com/item?id=49450248",
+  "answers" : [ ]
+}, {
+  "title" : "Functional State Machines in Rust: Typestate and Newtype Patterns",
+  "description" : "Link: https://dl.acm.org/doi/10.1145/3830438.3830958 | Score: 78 | Comments: 34 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=49492368",
+  "answers" : [ ]
+}, {
+  "title" : "EVE Online moves to Python 3",
+  "description" : "Link: https://www.eveonline.com/news/view/the-move-to-python-3-begins | Score: 338 | Comments: 185 | By: TylerJaacks",
+  "url" : "https://news.ycombinator.com/item?id=49433328",
+  "answers" : [ ]
+}, {
+  "title" : "Glacier Mice",
+  "description" : "Link: https://en.wikipedia.org/wiki/Glacier_mice | Score: 285 | Comments: 57 | By: ostacke",
+  "url" : "https://news.ycombinator.com/item?id=49424320",
+  "answers" : [ ]
+}, {
+  "title" : "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+  "description" : "Link: https://tucker.wales/writing/bias-towards-action/ | Score: 146 | Comments: 56 | By: tuckerwales",
+  "url" : "https://news.ycombinator.com/item?id=49491714",
+  "answers" : [ ]
+}, {
+  "title" : "A few feral cats in an ALGOL trenchcoat.",
+  "description" : "Link: https://wiki.xxiivv.com/site/pop2.html | Score: 13 | Comments: 1 | By: bmacho",
+  "url" : "https://news.ycombinator.com/item?id=49484520",
+  "answers" : [ ]
+}, {
+  "title" : "Pop-2000, a lingua-franca POP-2 dialect",
+  "description" : "Link: https://hitogata.neocities.org/POP-2000 | Score: 6 | Comments: 0 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49447719",
+  "answers" : [ ]
+}, {
+  "title" : "Algorithmic rent-pricing litigation expands under new state and local laws",
+  "description" : "Link: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws | Score: 68 | Comments: 36 | By: toomuchtodo",
+  "url" : "https://news.ycombinator.com/item?id=49495127",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+  "description" : "Link: https://github.com/gbin/defragger | Score: 53 | Comments: 40 | By: gbin",
+  "url" : "https://news.ycombinator.com/item?id=49438865",
+  "answers" : [ ]
+}, {
+  "title" : "Daycare Pseudoscience",
+  "description" : "Link: https://worksinprogress.co/issue/daycare-pseudoscience/ | Score: 30 | Comments: 5 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49477697",
+  "answers" : [ ]
+}, {
+  "title" : "Samsung's Processing-in-Memory (PIM)",
+  "description" : "Link: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing | Score: 259 | Comments: 99 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=49487341",
+  "answers" : [ ]
+}, {
+  "title" : "Good Culture Is the Biggest Productivity Hack, Not AI",
+  "description" : "Link: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity | Score: 363 | Comments: 81 | By: gpi",
+  "url" : "https://news.ycombinator.com/item?id=49491568",
+  "answers" : [ ]
+}, {
+  "title" : "Boot a Virtual iPhone via Apple's Virtualization.framework",
+  "description" : "Link: https://github.com/Lakr233/vphone-cli | Score: 399 | Comments: 106 | By: hentrep",
+  "url" : "https://news.ycombinator.com/item?id=49485267",
+  "answers" : [ ]
+}, {
+  "title" : "DHS is using obscure law to snoop on journalists, non-profits, unions",
+  "description" : "Link: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits | Score: 390 | Comments: 78 | By: firefax",
+  "url" : "https://news.ycombinator.com/item?id=49492219",
+  "answers" : [ ]
+}, {
+  "title" : "Domain-Driven Agents",
+  "description" : "Link: https://coldtake.dev/blog/domain-driven-agents | Score: 75 | Comments: 16 | By: AlarQ",
+  "url" : "https://news.ycombinator.com/item?id=49492584",
+  "answers" : [ ]
+}, {
+  "title" : "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+  "description" : "Link: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest | Score: 53 | Comments: 8 | By: mooreds",
+  "url" : "https://news.ycombinator.com/item?id=49491175",
+  "answers" : [ ]
+} ]
