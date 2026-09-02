@@ -1,0 +1,151 @@
+[ {
+  "title" : "Claude Fable 5.1 and Claude Mythos 5.1",
+  "description" : "Link: https://www.anthropic.com/claude-fable-and-mythos-5-1 | Score: 1125 | Comments: 1037 | By: denysvitali",
+  "url" : "https://news.ycombinator.com/item?id=49525378",
+  "answers" : [ "What&#x27;s new in Claude Fable 5.1\n – <a href=\"https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1\" rel=\"nofollow\">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32c215d14235&#x2F;Claude%20Fable%205.1%20&amp;%20Claude%20Mythos%205.1%20System%20Card.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32...</a>" ]
+}, {
+  "title" : "The Emergent Symbolic Structure of Artificial Neural Networks",
+  "description" : "Link: https://arxiv.org/abs/2608.29530 | Score: 52 | Comments: 8 | By: schmuhblaster",
+  "url" : "https://news.ycombinator.com/item?id=49531651",
+  "answers" : [ ]
+}, {
+  "title" : "True Rate of Unemployment",
+  "description" : "Link: https://www.lisep.org/tru | Score: 152 | Comments: 96 | By: ptrhvns",
+  "url" : "https://news.ycombinator.com/item?id=49530989",
+  "answers" : [ ]
+}, {
+  "title" : "How accurate have Ed Zitron's AI skeptic predictions been?",
+  "description" : "Link: https://danluu.com/zitron/ | Score: 603 | Comments: 675 | By: jatins",
+  "url" : "https://news.ycombinator.com/item?id=49526069",
+  "answers" : [ ]
+}, {
+  "title" : "WebFPGA",
+  "description" : "Link: https://webfpga.io/ | Score: 36 | Comments: 19 | By: gurjeet",
+  "url" : "https://news.ycombinator.com/item?id=49531525",
+  "answers" : [ ]
+}, {
+  "title" : "Salad Theory",
+  "description" : "Link: https://saladtheory.github.io/ | Score: 16 | Comments: 5 | By: colinprince",
+  "url" : "https://news.ycombinator.com/item?id=49505170",
+  "answers" : [ ]
+}, {
+  "title" : "FBI Probes Service Selling 153M+ Drivers Licenses",
+  "description" : "Link: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ | Score: 142 | Comments: 51 | By: tatersolid",
+  "url" : "https://news.ycombinator.com/item?id=49529621",
+  "answers" : [ ]
+}, {
+  "title" : "My local model setup on an M4 Pro Mac Mini",
+  "description" : "Link: https://lws.io/blog/my-local-model-setup/ | Score: 146 | Comments: 68 | By: raybb",
+  "url" : "https://news.ycombinator.com/item?id=49529132",
+  "answers" : [ ]
+}, {
+  "title" : "Introducing Ad Blocker for Firefox on iOS",
+  "description" : "Link: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/ | Score: 397 | Comments: 132 | By: HieronymusBosch",
+  "url" : "https://news.ycombinator.com/item?id=49521973",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+  "description" : "Link: https://masteranza.github.io/weedout/ | Score: 102 | Comments: 42 | By: masteranza",
+  "url" : "https://news.ycombinator.com/item?id=49528895",
+  "answers" : [ "I&#x27;m the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube&#x27;s label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;masteranza&#x2F;weedout-for-youtube\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;masteranza&#x2F;weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks." ]
+}, {
+  "title" : "The efficient frontier of LLM inference",
+  "description" : "Link: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ | Score: 93 | Comments: 23 | By: philipkiely",
+  "url" : "https://news.ycombinator.com/item?id=49529898",
+  "answers" : [ ]
+}, {
+  "title" : "Sonic Pi",
+  "description" : "Link: https://sonic-pi.net/ | Score: 98 | Comments: 15 | By: Bluestein",
+  "url" : "https://news.ycombinator.com/item?id=49482099",
+  "answers" : [ ]
+}, {
+  "title" : "Fine, I'll build my own text editor",
+  "description" : "Link: https://dbushell.com/2026/09/01/text-editor/ | Score: 56 | Comments: 47 | By: Alephinitesimal",
+  "url" : "https://news.ycombinator.com/item?id=49524863",
+  "answers" : [ ]
+}, {
+  "title" : "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+  "description" : "Link: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ | Score: 349 | Comments: 154 | By: timpera",
+  "url" : "https://news.ycombinator.com/item?id=49527396",
+  "answers" : [ ]
+}, {
+  "title" : "Path to Astra: critical capabilities and frontier safeguards",
+  "description" : "Link: https://openai.com/index/path-to-astra/ | Score: 128 | Comments: 54 | By: jithinraj",
+  "url" : "https://news.ycombinator.com/item?id=49527595",
+  "answers" : [ ]
+}, {
+  "title" : "Refurbishing a Tektronix TDS7104 Oscilloscope",
+  "description" : "Link: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html | Score: 111 | Comments: 50 | By: jwise0",
+  "url" : "https://news.ycombinator.com/item?id=49527232",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+  "description" : "Link: https://www.norirobotics.com/ | Score: 137 | Comments: 43 | By: AntonioLi",
+  "url" : "https://news.ycombinator.com/item?id=49525153",
+  "answers" : [ "Hey HN, I’m Antonio from Nori Robotics (<a href=\"https:&#x2F;&#x2F;norirobotics.com\">https:&#x2F;&#x2F;norirobotics.com</a>). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.<p>I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots.<p>So I built my own. After seven iterations the latest Nori has:<p>* 19 degrees of freedom<p>* Two 7+1 DOF arms with a 1.5 kg payload per arm<p>* A 55 kg telescoping lift<p>* A differential wheeled base<p>* Four 720p, 30 fps RGB cameras<p>* 2D lidar<p>* A dual microphone array with full-duplex voice communication<p>* A 432 Wh battery<p>* A Raspberry Pi 5 with 4 GB RAM (SLAM and safeties are run on board, heavier ACT and VLAs must be run from a computer via LAN or a server via WAN)<p>Getting this under $2,000 was the main engineering challenge. Nori has more than 100 moving and structural parts, so costs add up quickly across actuators, bearings, wiring, power delivery, and assembly. Some main choices we made to get the cost low was using high-ratio servos instead of QDD motors, and using a wheel base instead of legs.<p>We assemble each robot in San Francisco and have designed it to be easy to manufacture and repair (we offer 3D files to print repairs).<p>Our open SDK includes teleoperation and demonstration tools: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;Nori-Robotics&#x2F;nori-sdk-py\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Nori-Robotics&#x2F;nori-sdk-py</a><p>We also built a browser-based simulator so you can try it out: <a href=\"https:&#x2F;&#x2F;lab.norirobotics.com&#x2F;nori&#x2F;model\">https:&#x2F;&#x2F;lab.norirobotics.com&#x2F;nori&#x2F;model</a><p>We’ve shipped our first robot and are building the next batch. Eventually, we want people without robotics experience to teach Nori tasks and share them with other owners.<p>Currently the hardware is already capable of basic cleaning tasks, opening drawers, restocking shelves and pouring beers. Here is a video of Nori doing things: <a href=\"https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;VRfVXHfQvD8\" rel=\"nofollow\">https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;VRfVXHfQvD8</a><p>We make money by selling the hardware for $1,688, with optional paid software on top. Parts of hardware are open source. More details are in our hardware paper: <a href=\"https:&#x2F;&#x2F;doi.org&#x2F;10.48550&#x2F;arXiv.2605.16537\" rel=\"nofollow\">https:&#x2F;&#x2F;doi.org&#x2F;10.48550&#x2F;arXiv.2605.16537</a><p>If you work in robotics, what would you build with a robot at this price? What would you change about the hardware?" ]
+}, {
+  "title" : "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+  "description" : "Link: https://hnmatchmaker.com/ | Score: 72 | Comments: 31 | By: all2",
+  "url" : "https://news.ycombinator.com/item?id=49528057",
+  "answers" : [ "Hi!<p>Every month the &quot;Who Wants to Be Hired?&quot; and &quot;Who&#x27;s Hiring?&quot; Threads come through I would think to myself, &quot;there should be a match maker for these two threads&quot;.<p>So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote&#x2F;onsite, etc., and then eliminate incompatible postings, like &#x27;looking for remote work&#x27; and &#x27;onsite only&#x27;. The result is two views: jobs-by-user and user-by-jobs.<p>If you&#x27;ve submitted a post to this month&#x27;s &#x27;Who Wants to Be Hired?&quot;, you can find your matching job listings at <a href=\"https:&#x2F;&#x2F;hnmatchmaker.com&#x2F;user&#x2F;:user_name\" rel=\"nofollow\">https:&#x2F;&#x2F;hnmatchmaker.com&#x2F;user&#x2F;:user_name</a>, for example <a href=\"https:&#x2F;&#x2F;hnmatchmaker.com&#x2F;user&#x2F;G4Vi\" rel=\"nofollow\">https:&#x2F;&#x2F;hnmatchmaker.com&#x2F;user&#x2F;G4Vi</a><p>---<p>Some observations when looking at the matches pair up right now:<p>Poke around, let me know what you think!<p>Ultimately, I hope this is actually helpful to some folks." ]
+}, {
+  "title" : "Movie Scene Map – 13,312 films, series, games, anime and manga",
+  "description" : "Link: https://moviescenemap.com/ | Score: 208 | Comments: 30 | By: Flightmussy",
+  "url" : "https://news.ycombinator.com/item?id=49524320",
+  "answers" : [ ]
+}, {
+  "title" : "Ambient CSS v3 – Blender meets CSS",
+  "description" : "Link: https://ambientcss.vercel.app/ | Score: 232 | Comments: 72 | By: kikkupico",
+  "url" : "https://news.ycombinator.com/item?id=49523387",
+  "answers" : [ ]
+}, {
+  "title" : "Forgotten History of Small Nuclear Reactors (2015)",
+  "description" : "Link: https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors | Score: 29 | Comments: 3 | By: derriz",
+  "url" : "https://news.ycombinator.com/item?id=49484796",
+  "answers" : [ ]
+}, {
+  "title" : "The creator of Jujutsu has joined ERSC",
+  "description" : "Link: https://ersc.io/blog/martin-joins-ersc | Score: 217 | Comments: 165 | By: steveklabnik",
+  "url" : "https://news.ycombinator.com/item?id=49525297",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+  "description" : "Link: https://github.com/carloslfu/slotstream | Score: 192 | Comments: 93 | By: carloslfu",
+  "url" : "https://news.ycombinator.com/item?id=49524447",
+  "answers" : [ "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory&#x2F;RAM, thanks to expert-offloading&#x2F;ssd-streaming. Easy to install&#x2F;update, and mac-native using MLX and Swift.<p>It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I&#x27;ll be implementing and porting the MTP module for speculative decoding next" ]
+}, {
+  "title" : "Top Web Design Styles of 1993",
+  "description" : "Link: https://contemporary-home-computing.org/prof-dr-style/ | Score: 28 | Comments: 3 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=49516117",
+  "answers" : [ ]
+}, {
+  "title" : "Solving the Flat Cube",
+  "description" : "Link: https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/ | Score: 28 | Comments: 3 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49508619",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Who is hiring? (September 2026)",
+  "description" : "Score: 208 | Comments: 227 | By: whoishiring",
+  "url" : "https://news.ycombinator.com/item?id=49522897",
+  "answers" : [ "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about\nsomething. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-who-is-hiring\" rel=\"nofollow\">https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-who-is-hiring</a>, <a href=\"https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;</a>,\n<a href=\"http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;hnjobs.emilburzo.com\" rel=\"nofollow\">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>.<p>Don&#x27;t miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49522896\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49522896</a>" ]
+}, {
+  "title" : "Atlas: A World Model for Spatial Intelligence",
+  "description" : "Link: https://www.worldlabs.ai/blog/atlas | Score: 201 | Comments: 48 | By: johnsutor",
+  "url" : "https://news.ycombinator.com/item?id=49525160",
+  "answers" : [ ]
+}, {
+  "title" : "Building Autonomous Goal Loops That Deliver",
+  "description" : "Link: https://jx0.ca/building-autonomous-goal-loops-that-deliver/ | Score: 32 | Comments: 5 | By: jarredkenny",
+  "url" : "https://news.ycombinator.com/item?id=49489098",
+  "answers" : [ ]
+}, {
+  "title" : "Building an interactive instrument for a one-of-a-kind festival",
+  "description" : "Link: https://benholmen.com/blog/halfmoon-chimes/ | Score: 37 | Comments: 5 | By: tjwds",
+  "url" : "https://news.ycombinator.com/item?id=49479909",
+  "answers" : [ ]
+}, {
+  "title" : "Play Store blocks AuroraStore, hurting GrapheneOS users",
+  "description" : "Link: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566 | Score: 505 | Comments: 209 | By: erikvanoosten",
+  "url" : "https://news.ycombinator.com/item?id=49523754",
+  "answers" : [ ]
+} ]
