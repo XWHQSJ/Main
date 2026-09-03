@@ -1,0 +1,151 @@
+[ {
+  "title" : "Muse Spark 1.3",
+  "description" : "Link: https://developer.meta.com/ai/models/muse-spark/ | Score: 512 | Comments: 348 | By: bvaldivielso",
+  "url" : "https://news.ycombinator.com/item?id=49541256",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3\" rel=\"nofollow\">https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3</a>" ]
+}, {
+  "title" : "Gemini 3.8 Flash and 3.8 Flash Cyber",
+  "description" : "Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/ | Score: 955 | Comments: 541 | By: bratao",
+  "url" : "https://news.ycombinator.com/item?id=49537553",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-8-flash&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-8-flash&#x2F;</a>" ]
+}, {
+  "title" : "The Computer Museum of America reclamation project",
+  "description" : "Link: https://computer-museum.org/wp/ | Score: 17 | Comments: 6 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=49511493",
+  "answers" : [ ]
+}, {
+  "title" : "Google avoids a breakup of its ad tech business",
+  "description" : "Link: https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html | Score: 349 | Comments: 249 | By: donohoe",
+  "url" : "https://news.ycombinator.com/item?id=49537131",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;rlAbY\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;rlAbY</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;litigation&#x2F;google-defeats-us-bid-force-ad-tech-sale-2026-09-02&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;litigation&#x2F;google-defeats-us-b...</a>" ]
+}, {
+  "title" : "Holden's Lightning Flight",
+  "description" : "Link: https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight | Score: 128 | Comments: 20 | By: ColinWright",
+  "url" : "https://news.ycombinator.com/item?id=49508405",
+  "answers" : [ ]
+}, {
+  "title" : "Creating Backup Storage Sucks",
+  "description" : "Link: https://smarmelling.com/posts/creating-backup-storage-sucks.html | Score: 28 | Comments: 19 | By: smarmelling",
+  "url" : "https://news.ycombinator.com/item?id=49509606",
+  "answers" : [ ]
+}, {
+  "title" : "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+  "description" : "Link: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ | Score: 372 | Comments: 174 | By: jakobgreenfeld",
+  "url" : "https://news.ycombinator.com/item?id=49536375",
+  "answers" : [ ]
+}, {
+  "title" : "LLMs and Self-Referentiality",
+  "description" : "Link: https://scottaaronson.blog/?p=10046 | Score: 6 | Comments: 1 | By: mavdol04",
+  "url" : "https://news.ycombinator.com/item?id=49530169",
+  "answers" : [ ]
+}, {
+  "title" : "Higher Multipoles of the Cow",
+  "description" : "Link: https://arxiv.org/abs/2504.00506 | Score: 49 | Comments: 12 | By: MrOrelliOReilly",
+  "url" : "https://news.ycombinator.com/item?id=49519792",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+  "description" : "Score: 49 | Comments: 58 | By: lloydarmbrust",
+  "url" : "https://news.ycombinator.com/item?id=49543530",
+  "answers" : [ "Hi HN,<p>I’m Lloyd, one of two founders of RonanRx (<a href=\"https:&#x2F;&#x2F;ronanrx.com&#x2F;\">https:&#x2F;&#x2F;ronanrx.com&#x2F;</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.<p>The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks.<p>I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough.<p>Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication.<p>For me, losing weight was only the beginning. &quot;Food noise&quot; was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I&#x27;d need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80.<p>This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn&#x27;t want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all.<p>GLP-1s come in a handful of predefined doses, but patients obviously aren&#x27;t standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It&#x27;s our goal to connect those pieces with RonanRx.<p>Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution.<p>The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop.<p>We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step.<p>We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing.<p>We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested." ]
+}, {
+  "title" : "Can I opt out of my input or output data being used for training?",
+  "description" : "Link: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training | Score: 418 | Comments: 180 | By: teekert",
+  "url" : "https://news.ycombinator.com/item?id=49535284",
+  "answers" : [ ]
+}, {
+  "title" : "Reverse Engineering Unknown File Formats with ImHex",
+  "description" : "Link: https://werwolv.net/posts/file_format_reverse_engineering/ | Score: 165 | Comments: 34 | By: carlos-menezes",
+  "url" : "https://news.ycombinator.com/item?id=49508608",
+  "answers" : [ ]
+}, {
+  "title" : "The shrinking landscape of linguistic diversity in the age of LLMs",
+  "description" : "Link: https://www.nature.com/articles/s41562-026-02550-0 | Score: 117 | Comments: 88 | By: Anon84",
+  "url" : "https://news.ycombinator.com/item?id=49497996",
+  "answers" : [ ]
+}, {
+  "title" : "Fable 5.1 World Modeling",
+  "description" : "Link: https://github.com/PhiloLabs/fable51-worlds | Score: 203 | Comments: 62 | By: surreal_",
+  "url" : "https://news.ycombinator.com/item?id=49541458",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: OwnTime – a chess clock for your day's priorities",
+  "description" : "Link: https://owntime.app/ | Score: 49 | Comments: 20 | By: fmos",
+  "url" : "https://news.ycombinator.com/item?id=49528506",
+  "answers" : [ "I made OwnTime to balance between competing priorities in my life. The idea is based on two main influences: the concept of &quot;roles&quot; from &quot;The 5 Choices&quot; (2015), and my repeated failure to effectively implement time blocking due to the necessary flexibility in my role.<p>The app allows you to define time budgets, which are not much more than a few mutually exclusive countdown timers. The UX is essentially that of a chess clock for an arbitrary number of players with configurable time.<p>The whole point of the app is to kick you out of the running role&#x2F;priority when its time is up. One feature that was essential for me was AlarmKit alarms, which only became possible last year (&gt;= iOS 26.1). Another was watchOS support, as a natural surface for time-related matters.<p>The current version is strictly focussed. The timers track time allocation during one day. All timers are reset at midnight. I didn&#x27;t build any statistics - you can export the raw internal SQLite store and make any evaluation or dashboard you want from there.<p>I don&#x27;t plan to extend the app nor to convert it into a service. All data stays local on your devices (synced between phone and watch locally) and fully open to you. No need for an account or subscription. Thus, I ask for a small one-time fee of $1.99.<p>The website has a short video and rendered preview: <a href=\"https:&#x2F;&#x2F;owntime.app\" rel=\"nofollow\">https:&#x2F;&#x2F;owntime.app</a><p>If you want to go straight to the App Store: <a href=\"https:&#x2F;&#x2F;apps.apple.com&#x2F;app&#x2F;id6770125662\">https:&#x2F;&#x2F;apps.apple.com&#x2F;app&#x2F;id6770125662</a><p>I look forward to your comments and feedback." ]
+}, {
+  "title" : "Biggest dark matter detector spots a single weird particle",
+  "description" : "Link: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle | Score: 272 | Comments: 91 | By: randycupertino",
+  "url" : "https://news.ycombinator.com/item?id=49536079",
+  "answers" : [ ]
+}, {
+  "title" : "Wendell Berry has died",
+  "description" : "Link: https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html | Score: 171 | Comments: 92 | By: Curiositry",
+  "url" : "https://news.ycombinator.com/item?id=49517018",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;YP8Uz\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;YP8Uz</a><p><a href=\"https:&#x2F;&#x2F;kentuckylantern.com&#x2F;2026&#x2F;08&#x2F;31&#x2F;kentucky-writer-farmer-and-advocate-wendell-berry-dies-at-92&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;kentuckylantern.com&#x2F;2026&#x2F;08&#x2F;31&#x2F;kentucky-writer-farme...</a><p><a href=\"https:&#x2F;&#x2F;www.nbcnews.com&#x2F;news&#x2F;us-news&#x2F;wendell-berry-kentucky-born-author-advocated-simpler-life-died-92-rcna595476\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nbcnews.com&#x2F;news&#x2F;us-news&#x2F;wendell-berry-kentucky-...</a><p><a href=\"https:&#x2F;&#x2F;www.honest-broker.com&#x2F;p&#x2F;wendell-berrys-nine-rules\" rel=\"nofollow\">https:&#x2F;&#x2F;www.honest-broker.com&#x2F;p&#x2F;wendell-berrys-nine-rules</a>" ]
+}, {
+  "title" : "Aging brains blend memories together instead of just forgetting them",
+  "description" : "Link: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ | Score: 253 | Comments: 114 | By: mdp2021",
+  "url" : "https://news.ycombinator.com/item?id=49535548",
+  "answers" : [ ]
+}, {
+  "title" : "Engineering of the fastest WebAssembly interpreters",
+  "description" : "Link: https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/ | Score: 77 | Comments: 5 | By: herobird",
+  "url" : "https://news.ycombinator.com/item?id=49521031",
+  "answers" : [ ]
+}, {
+  "title" : "Qantas Airbus A380 engine failure in 2010 (2023)",
+  "description" : "Link: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 | Score: 114 | Comments: 69 | By: gumby",
+  "url" : "https://news.ycombinator.com/item?id=49540565",
+  "answers" : [ ]
+}, {
+  "title" : "Exit the Cave",
+  "description" : "Link: https://turtlespace.blog/p/exit-the-cave | Score: 241 | Comments: 87 | By: akkartik",
+  "url" : "https://news.ycombinator.com/item?id=49536606",
+  "answers" : [ ]
+}, {
+  "title" : "Reasons robotics is hard",
+  "description" : "Link: https://secondthoughts.ai/p/14-reasons-robotics-is-hard | Score: 75 | Comments: 40 | By: ddp26",
+  "url" : "https://news.ycombinator.com/item?id=49543191",
+  "answers" : [ ]
+}, {
+  "title" : "Async Rust vs RTOS showdown (2022)",
+  "description" : "Link: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ | Score: 75 | Comments: 41 | By: kooi",
+  "url" : "https://news.ycombinator.com/item?id=49540415",
+  "answers" : [ ]
+}, {
+  "title" : "A Selection of Los Alamos Rolodex Business Cards",
+  "description" : "Link: https://clui.org/collections/los-alamos-business-cards/selection-cards | Score: 156 | Comments: 40 | By: 1970-01-01",
+  "url" : "https://news.ycombinator.com/item?id=49513856",
+  "answers" : [ ]
+}, {
+  "title" : "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+  "description" : "Link: https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/ | Score: 235 | Comments: 165 | By: ck2",
+  "url" : "https://news.ycombinator.com/item?id=49524428",
+  "answers" : [ ]
+}, {
+  "title" : "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+  "description" : "Link: https://nango.dev/careers | Score: 1 | Comments: 0 | By: bastienbeurier",
+  "url" : "https://news.ycombinator.com/item?id=49542486",
+  "answers" : [ ]
+}, {
+  "title" : "We could save petabytes of cache storage with Zstandard and Pingora",
+  "description" : "Link: https://blog.cloudflare.com/cache-transcoding/ | Score: 97 | Comments: 36 | By: torutofu",
+  "url" : "https://news.ycombinator.com/item?id=49521909",
+  "answers" : [ ]
+}, {
+  "title" : "Poisson Disk Sampling",
+  "description" : "Link: https://stripeacross.com/posts/poisson-disk-sampling/ | Score: 150 | Comments: 19 | By: vismit2000",
+  "url" : "https://news.ycombinator.com/item?id=49536177",
+  "answers" : [ ]
+}, {
+  "title" : "WebLLM: high-performance in-browser LLM inference engine",
+  "description" : "Link: https://github.com/mlc-ai/web-llm | Score: 105 | Comments: 17 | By: saikatsg",
+  "url" : "https://news.ycombinator.com/item?id=49536411",
+  "answers" : [ ]
+}, {
+  "title" : "Altair Basic Interpreter Source Code (1975) [pdf]",
+  "description" : "Link: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf | Score: 53 | Comments: 33 | By: Eridanus2",
+  "url" : "https://news.ycombinator.com/item?id=49541754",
+  "answers" : [ ]
+} ]
