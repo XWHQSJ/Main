@@ -1,0 +1,151 @@
+[ {
+  "title" : "GPT-6 Astra",
+  "description" : "Link: https://openai.com/index/gpt-6-astra/ | Score: 1635 | Comments: 1412 | By: kibae",
+  "url" : "https://news.ycombinator.com/item?id=49554643",
+  "answers" : [ "System Card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147</a>" ]
+}, {
+  "title" : ".name Termination",
+  "description" : "Link: https://neil.fraser.name/news/2026/09/03/ | Score: 1641 | Comments: 416 | By: pavel_lishin",
+  "url" : "https://news.ycombinator.com/item?id=49550772",
+  "answers" : [ ]
+}, {
+  "title" : "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+  "description" : "Link: https://inference-docs.cerebras.ai/models/overview | Score: 520 | Comments: 166 | By: altertable",
+  "url" : "https://news.ycombinator.com/item?id=49554520",
+  "answers" : [ ]
+}, {
+  "title" : "Project Xanadu: Even More Hindsight (2025)",
+  "description" : "Link: https://gwern.net/xanadu | Score: 67 | Comments: 9 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=49559522",
+  "answers" : [ ]
+}, {
+  "title" : "The largest electric aircraft just flew [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=nM86DBOqgPM | Score: 265 | Comments: 194 | By: feb",
+  "url" : "https://news.ycombinator.com/item?id=49526453",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-electric-aircraft-just-flew\">https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-e...</a>" ]
+}, {
+  "title" : "How an MIT research project became the Julia programming language",
+  "description" : "Link: https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831 | Score: 69 | Comments: 14 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=49507072",
+  "answers" : [ ]
+}, {
+  "title" : "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+  "description" : "Link: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california | Score: 221 | Comments: 66 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49552572",
+  "answers" : [ ]
+}, {
+  "title" : "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+  "description" : "Link: https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/ | Score: 255 | Comments: 72 | By: rabahs",
+  "url" : "https://news.ycombinator.com/item?id=49550375",
+  "answers" : [ "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.<p>I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screenshots of my 1993 map editor is the first I have run it since then. The one thing I never verified myself is the 108-byte explanation.<p>&quot;Before starting everything, the model assembled the code using vasm on my Mac, and kept going till the binary is byte-identical to the binaries I had in my original game. Even after that, the there was mismatch of about 108 bytes. I originally used AsmOne  which assembles into memory, and the game saved into the disk by saving that memory after running the game. So the original shipped files are a snapshot of the game that had already been running, not clean asm-one output.&quot;<p>Please post any questions. I am also releasing the original game for free." ]
+}, {
+  "title" : "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+  "description" : "Link: https://armature.tech/blog/which-tools-coding-agents-install | Score: 172 | Comments: 67 | By: screm",
+  "url" : "https://news.ycombinator.com/item?id=49557206",
+  "answers" : [ ]
+}, {
+  "title" : "From Hookswitch to Grave",
+  "description" : "Link: https://computer.rip/2026-06-14-hookswitch-to-grave.html | Score: 20 | Comments: 1 | By: Sniffnoy",
+  "url" : "https://news.ycombinator.com/item?id=49559901",
+  "answers" : [ ]
+}, {
+  "title" : "Any Human Ever – One life, drawn at random from all who have ever lived",
+  "description" : "Link: https://anyhumanever.com/ | Score: 548 | Comments: 260 | By: thinkingemote",
+  "url" : "https://news.ycombinator.com/item?id=49550698",
+  "answers" : [ ]
+}, {
+  "title" : "K2 Horizon: A connected fleet of six open models",
+  "description" : "Link: https://ifm.ai/blog/k2/ | Score: 287 | Comments: 93 | By: karimf",
+  "url" : "https://news.ycombinator.com/item?id=49551760",
+  "answers" : [ ]
+}, {
+  "title" : "A mysterious kidney disease has arrived in Texas",
+  "description" : "Link: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/ | Score: 69 | Comments: 45 | By: johntfella",
+  "url" : "https://news.ycombinator.com/item?id=49559992",
+  "answers" : [ ]
+}, {
+  "title" : "New type of dice guarantees no tie when deciding who goes first",
+  "description" : "Link: https://www.cbc.ca/lite/story/9.7328614 | Score: 101 | Comments: 70 | By: colinprince",
+  "url" : "https://news.ycombinator.com/item?id=49530807",
+  "answers" : [ ]
+}, {
+  "title" : "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+  "description" : "Link: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 | Score: 260 | Comments: 76 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=49544762",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Reactor Atlas",
+  "description" : "Link: https://reactoratlas.com | Score: 18 | Comments: 4 | By: fedecaccia",
+  "url" : "https://news.ycombinator.com/item?id=49549148",
+  "answers" : [ "Hi HN, I&#x27;m a nuclear engineer and tech entrepreneur. After working for 3 years in the National Atomic Energy Commision (CNEA) in HPC software for nuclear simulations, I co-founded ratherlabs.com, a software company providing blockchain solutions for startups. Rather Labs business reached ~6 million usd in annual revenue in 2024; now demand is decreasing as our niche clients are using AI to launch their MVPs.<p>Now I&#x27;m joining my scientific background with my entrepreneurial inclinations to think of problems related to the energy industry. Nuclear is experiencing a renaissance now (it was in a dark age when I was studying after the Fukushima event) so I think this is the right moment for me to jump again into the field.<p>Reactor atlas is an interactive nuclear reactor map and an intelligence layer on top of it. The basic layer indexes:<p><pre><code>  - power reactors\n  - research reactors\n  - fuel facilities\n</code></pre>\nwith their history and projection, by country. The project is solving a fragmented information ecosystem, where operational and commercial data is hard to conciliate. Also, I&#x27;m monitoring nuclear news associated with each of the facilities, political declarations that may affect the nuclear landscape and geo-phisical news (like earthquakes) that could affect operation. On top of the operational + news layer, I&#x27;m creating an intelligence layer that will help institutions of different types make faster decisions by subscribing to very specific alerts.<p>As an engineer, I used to code in fortran and c++ when I was working at CNEA, and later I participated in the first Rather Labs projects architecting complex async systems, mostly using MERN stack. I&#x27;m no longer coding anymore. I&#x27;m focused on designing robust systems with AI agents.<p>I mainly used Claude Fable 5.1 to develop reactoratlas.com, deploying on vercel and using mostly nextjs, threejs, postgreSQL and some cron jobs to query and update data. I miss coding as in the old days, but I haven&#x27;t code a single line in this project. And I strongly believe we humans shouldn&#x27;t code anymore: our responsibility is now on designing and supervising AI systems.<p>Thanks for your attention!" ]
+}, {
+  "title" : "GPS glitched across the US by as much as 33 feet",
+  "description" : "Link: https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before | Score: 166 | Comments: 96 | By: thread_id",
+  "url" : "https://news.ycombinator.com/item?id=49544618",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Who is using MCP in production?",
+  "description" : "Score: 45 | Comments: 60 | By: sukit",
+  "url" : "https://news.ycombinator.com/item?id=49548600",
+  "answers" : [ "I’ve been following MCP since it first came out.\nIt got a lot of attention early on, but I haven’t come across many people using it in production.\nI may simply have missed them.<p>If you’re using MCP in production, what are you using it for?\nWhat advantages have you found over a normal API or direct tool integration or just CLI?" ]
+}, {
+  "title" : "Grep beats LSP? Why coding agents ignore your fancier tools",
+  "description" : "Link: https://www.agentconnect.md/blog/grep-beat-lsp-harness/ | Score: 62 | Comments: 38 | By: kaonashi-tyc-01",
+  "url" : "https://news.ycombinator.com/item?id=49560260",
+  "answers" : [ ]
+}, {
+  "title" : "Xanadu was waiting for agents",
+  "description" : "Link: https://zed.dev/blog/agentic-xanadu | Score: 113 | Comments: 43 | By: nsm",
+  "url" : "https://news.ycombinator.com/item?id=49526298",
+  "answers" : [ ]
+}, {
+  "title" : "Virtual Threads for a scripting language in Java 8 without Loom",
+  "description" : "Link: https://jactl.io/blog/2026/08/28/jactl-virtual-threads | Score: 24 | Comments: 1 | By: jaccomo",
+  "url" : "https://news.ycombinator.com/item?id=49522611",
+  "answers" : [ ]
+}, {
+  "title" : "Unusual Suspects",
+  "description" : "Link: https://neal.fun/unusual-suspects/ | Score: 147 | Comments: 27 | By: beeperboy95",
+  "url" : "https://news.ycombinator.com/item?id=49538069",
+  "answers" : [ ]
+}, {
+  "title" : "A PCB business card with a batteryless LED, powered by the phone that taps it",
+  "description" : "Link: https://www.kevin.md/the-business-card-that-lights-up.md/ | Score: 71 | Comments: 20 | By: thekevintang",
+  "url" : "https://news.ycombinator.com/item?id=49527967",
+  "answers" : [ ]
+}, {
+  "title" : "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+  "description" : "Link: https://tasklet.ai/careers/customer-success-engineer | Score: 1 | Comments: 0 | By: mayop100",
+  "url" : "https://news.ycombinator.com/item?id=49556922",
+  "answers" : [ ]
+}, {
+  "title" : "GLP-1s are being linked to fewer serious infections, including TB",
+  "description" : "Link: https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796 | Score: 100 | Comments: 54 | By: gumby",
+  "url" : "https://news.ycombinator.com/item?id=49558086",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260903235256&#x2F;https:&#x2F;&#x2F;gizmodo.com&#x2F;ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260903235256&#x2F;https:&#x2F;&#x2F;gizmodo.c...</a>" ]
+}, {
+  "title" : "Sing-song: a speakable encoding for long numbers and keys",
+  "description" : "Link: https://blog.vrypan.net/2026/08/19/260819-sing-song/ | Score: 12 | Comments: 6 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49515966",
+  "answers" : [ ]
+}, {
+  "title" : "The asteroid currently hitting front end web development",
+  "description" : "Link: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ | Score: 131 | Comments: 146 | By: codechicago277",
+  "url" : "https://news.ycombinator.com/item?id=49555233",
+  "answers" : [ ]
+}, {
+  "title" : "The true horror of Edgar Allan Poe’s stories lies in their confessions",
+  "description" : "Link: https://yalereview.org/article/emily-ogden-edgar-allan-poe | Score: 66 | Comments: 31 | By: lermontov",
+  "url" : "https://news.ycombinator.com/item?id=49537632",
+  "answers" : [ ]
+}, {
+  "title" : "The browser's main thread is expensive",
+  "description" : "Link: https://kciter.so/posts/the-expensive-main-thread/en/ | Score: 392 | Comments: 137 | By: kciter",
+  "url" : "https://news.ycombinator.com/item?id=49522137",
+  "answers" : [ ]
+}, {
+  "title" : "How concerned should we be about Astra's recurrent architecture?",
+  "description" : "Link: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent | Score: 123 | Comments: 79 | By: yurivish",
+  "url" : "https://news.ycombinator.com/item?id=49553321",
+  "answers" : [ ]
+} ]
