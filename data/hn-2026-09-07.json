@@ -1,0 +1,151 @@
+[ {
+  "title" : "Keep Our Servers Running",
+  "description" : "Link: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ | Score: 256 | Comments: 58 | By: sonicrocketman",
+  "url" : "https://news.ycombinator.com/item?id=49593563",
+  "answers" : [ ]
+}, {
+  "title" : "Making a Python interpreter in 1024 bytes",
+  "description" : "Link: https://austinhenley.com/blog/python1024.html | Score: 184 | Comments: 69 | By: azhenley",
+  "url" : "https://news.ycombinator.com/item?id=49591876",
+  "answers" : [ ]
+}, {
+  "title" : "I'm a seeing-eye dog for a computer",
+  "description" : "Link: https://claytonwramsey.com/blog/seeing-eye/ | Score: 49 | Comments: 25 | By: claytonwramsey",
+  "url" : "https://news.ycombinator.com/item?id=49550276",
+  "answers" : [ ]
+}, {
+  "title" : "It took a year to ship WebAssembly in Anubis",
+  "description" : "Link: https://anubis.techaro.lol/blog/2026/anubis-wasm/ | Score: 230 | Comments: 118 | By: xena",
+  "url" : "https://news.ycombinator.com/item?id=49590611",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: How do you manage skills files?",
+  "description" : "Score: 76 | Comments: 62 | By: imadtaieber",
+  "url" : "https://news.ycombinator.com/item?id=49589914",
+  "answers" : [ "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?<p>I believe skills will eventually be eating by model capabilities, but until then I&#x27;m just looking for a better way to manage things." ]
+}, {
+  "title" : "Ask HN: Fable hacked my piano, can I release the results?",
+  "description" : "Score: 96 | Comments: 52 | By: jmpman",
+  "url" : "https://news.ycombinator.com/item?id=49577129",
+  "answers" : [ "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French composer, which I bought. Curious if I could have just used AI to create these files, I began experimenting with Astra and Fable. Feeding the output of one into the other to critique. After an hour of LLM discussion of Rubato and fermata, solenoid response times and proper sustain pedal technique, they settled on their ultimate version of Gymnopedie No 1.<p>I then asked Fable to compare it to the open source version I&#x27;d downloaded from Mutopia, which it promptly ripped apart. No sustain, zero rubato, upside down balance.<p>Ok, what about the version I&#x27;d just bought?<p>The PianoDisc versions are mp3s encoded with the right channel carrying MIDI to be played on the piano, and the left channel containing any accompanying music to be played through attached speakers (who doesn&#x27;t want the harmonica on Piano Man?)<p>I gave the mp3 to Fable, which promptly decoded the format, identifying the right channel carrying MIDI using a 2004.5 Hz square wave.<p>It then went on to analyze the nuance of pedal lift and melody relative to the chords.<p>Fable then asked if I wanted it to build an encoder to write my own MIDI files into the right channel of mp3s.<p>Sounds great, and I instructed it to write the encoder.<p>What it came back with was a python encoder PLUS a decoder.<p>In the verbose explanation, it mentioned decoy notes.<p>Curious, I asked it to explain the decoy notes.<p>Apparently PianoDisc adds obfuscation into their format which is handled properly by their decoder, but would leave naively extracted MIDI unplayable on other systems.<p>Fable created an encoder which adds those decoy notes, and a decoder which removes them.<p>Am I allowed to publish the decoder? The encoder?" ]
+}, {
+  "title" : "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+  "description" : "Link: https://rfd.shared.oxide.computer/rfd/0301 | Score: 19 | Comments: 1 | By: cyb0rg0",
+  "url" : "https://news.ycombinator.com/item?id=49593066",
+  "answers" : [ ]
+}, {
+  "title" : "I refused to train the AI that could replace me",
+  "description" : "Link: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ | Score: 46 | Comments: 31 | By: colinprince",
+  "url" : "https://news.ycombinator.com/item?id=49593959",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Would you read a statistics textbook?",
+  "description" : "Score: 56 | Comments: 26 | By: usernametaken29",
+  "url" : "https://news.ycombinator.com/item?id=49583440",
+  "answers" : [ "I had a classic Bayesian statistical education throughout my undergraduate and grad years and I’ve come to conclude that the plethora of books offered are pretty bad.<p>For me personally statistics is intuitive if illustrated properly. \nA great example is <a href=\"https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;</a><p>I was wondering whether it would make sense to turn the intuitions behind statistics into a book. Would anyone read it? Do people still read stats books or would it be mostly a waste of effort?\nIf you wanted to teach&#x2F;help people understand statistics, what resources would you consider?" ]
+}, {
+  "title" : "Nitter and XCancel resume service after legal advice",
+  "description" : "Link: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3 | Score: 644 | Comments: 300 | By: zImPatrick",
+  "url" : "https://news.ycombinator.com/item?id=49588988",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;cdclegal\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;cdclegal</a><p><a href=\"https:&#x2F;&#x2F;nitter.net&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nitter.net&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;</a>" ]
+}, {
+  "title" : "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+  "description" : "Link: https://babylonian-collection.yale.edu/about/babylonian-cooking | Score: 127 | Comments: 82 | By: yubblegum",
+  "url" : "https://news.ycombinator.com/item?id=49554622",
+  "answers" : [ ]
+}, {
+  "title" : "The NX bit is not just about security",
+  "description" : "Link: https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/ | Score: 58 | Comments: 34 | By: torutofu",
+  "url" : "https://news.ycombinator.com/item?id=49564609",
+  "answers" : [ ]
+}, {
+  "title" : "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+  "description" : "Link: https://grapheneos.social/@GrapheneOS/117225539756835649 | Score: 262 | Comments: 188 | By: Cider9986",
+  "url" : "https://news.ycombinator.com/item?id=49590512",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: GET Together – A social network where you don't need POST to Post",
+  "description" : "Link: https://gettogether.dev | Score: 36 | Comments: 12 | By: nchudleigh",
+  "url" : "https://news.ycombinator.com/item?id=49592840",
+  "answers" : [ ]
+}, {
+  "title" : "Signing TLS handshakes inside a TPM",
+  "description" : "Link: https://bschaatsbergen.com/posts/go-tpm-tls/ | Score: 20 | Comments: 15 | By: bschaatsbergen",
+  "url" : "https://news.ycombinator.com/item?id=49590946",
+  "answers" : [ ]
+}, {
+  "title" : "TiVo to charge money for skipping commercials in your own recordings",
+  "description" : "Link: https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/ | Score: 34 | Comments: 5 | By: dmitrygr",
+  "url" : "https://news.ycombinator.com/item?id=49593971",
+  "answers" : [ ]
+}, {
+  "title" : "Harnessing the Universal Geometry of Embeddings",
+  "description" : "Link: https://arxiv.org/abs/2505.12540 | Score: 67 | Comments: 25 | By: ur-whale",
+  "url" : "https://news.ycombinator.com/item?id=49590595",
+  "answers" : [ ]
+}, {
+  "title" : "Every Novel Is Boring–Until It Isn't",
+  "description" : "Link: https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/ | Score: 45 | Comments: 32 | By: samclemens",
+  "url" : "https://news.ycombinator.com/item?id=49555114",
+  "answers" : [ ]
+}, {
+  "title" : "Research acceleration: The view inside OpenAI",
+  "description" : "Link: https://openai.com/index/research-acceleration-view-inside-openai | Score: 155 | Comments: 102 | By: iamsyr",
+  "url" : "https://news.ycombinator.com/item?id=49587217",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+  "description" : "Link: https://github.com/timgordontg/engrim | Score: 8 | Comments: 1 | By: timgordontg",
+  "url" : "https://news.ycombinator.com/item?id=49594008",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+  "description" : "Link: https://github.com/marsbos/mador | Score: 85 | Comments: 26 | By: bosmarcel",
+  "url" : "https://news.ycombinator.com/item?id=49590738",
+  "answers" : [ ]
+}, {
+  "title" : "An Alien Mind",
+  "description" : "Link: https://openai.com/index/an-alien-mind/ | Score: 390 | Comments: 341 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49588080",
+  "answers" : [ ]
+}, {
+  "title" : "Asahi Linux on M3",
+  "description" : "Link: https://asahilinux.org/2026/09/m2-episode-1/ | Score: 418 | Comments: 255 | By: mdp2021",
+  "url" : "https://news.ycombinator.com/item?id=49586698",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.phoronix.com&#x2F;news&#x2F;Asahi-Linux-Official-M3\" rel=\"nofollow\">https:&#x2F;&#x2F;www.phoronix.com&#x2F;news&#x2F;Asahi-Linux-Official-M3</a>" ]
+}, {
+  "title" : "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+  "description" : "Link: https://itsfoss.com/news/switzerland-replace-microssoft-pilot/ | Score: 14 | Comments: 2 | By: ivell",
+  "url" : "https://news.ycombinator.com/item?id=49594251",
+  "answers" : [ ]
+}, {
+  "title" : "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
+  "description" : "Link: https://www.atlasobscura.com/places/black-hole-of-los-alamos | Score: 59 | Comments: 15 | By: Bluestein",
+  "url" : "https://news.ycombinator.com/item?id=49540637",
+  "answers" : [ ]
+}, {
+  "title" : "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
+  "description" : "Link: https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette | Score: 68 | Comments: 79 | By: high_na_euv",
+  "url" : "https://news.ycombinator.com/item?id=49548196",
+  "answers" : [ ]
+}, {
+  "title" : "Is mathematics about to enter the conservatory?",
+  "description" : "Link: https://mbmccoy.dev/posts/mathematical-conservatory/ | Score: 32 | Comments: 54 | By: _alternator_",
+  "url" : "https://news.ycombinator.com/item?id=49591793",
+  "answers" : [ ]
+}, {
+  "title" : "NetBSD 9.5 released and EOL for NetBSD-9",
+  "description" : "Link: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and | Score: 125 | Comments: 12 | By: jaypatelani",
+  "url" : "https://news.ycombinator.com/item?id=49587636",
+  "answers" : [ ]
+}, {
+  "title" : "Reverse engineering the storage format for an undocumented database",
+  "description" : "Link: https://blog.glazer.ee/posts/converting-cronos/ | Score: 43 | Comments: 3 | By: pintprint",
+  "url" : "https://news.ycombinator.com/item?id=49561514",
+  "answers" : [ ]
+}, {
+  "title" : "Study Math with Kusama",
+  "description" : "Link: https://medium.com/counterarts/study-math-with-kusama-6008df7c2abd | Score: 4 | Comments: 0 | By: cadeos",
+  "url" : "https://news.ycombinator.com/item?id=49538741",
+  "answers" : [ ]
+} ]
