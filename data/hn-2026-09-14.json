@@ -1,0 +1,151 @@
+[ {
+  "title" : "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+  "description" : "Link: https://www.vals.ai/blogs/fable-solves-cyphral-distich | Score: 799 | Comments: 332 | By: u1hcw9nx",
+  "url" : "https://news.ycombinator.com/item?id=49688695",
+  "answers" : [ ]
+}, {
+  "title" : "Spaceships (Reverse Asteroid)",
+  "description" : "Link: https://spaceships.treybastian.com/ | Score: 178 | Comments: 34 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49638510",
+  "answers" : [ ]
+}, {
+  "title" : "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
+  "description" : "Link: https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/ | Score: 15 | Comments: 2 | By: bryanrasmussen",
+  "url" : "https://news.ycombinator.com/item?id=49692765",
+  "answers" : [ ]
+}, {
+  "title" : "Registration without a phone number on Signal will use zero-knowledge proofs",
+  "description" : "Link: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 | Score: 216 | Comments: 100 | By: Cider9986",
+  "url" : "https://news.ycombinator.com/item?id=49689048",
+  "answers" : [ ]
+}, {
+  "title" : "Apple's Dimensional Drawings",
+  "description" : "Link: https://developer.apple.com/accessories/dimensional-drawings/ | Score: 146 | Comments: 49 | By: herbertl",
+  "url" : "https://news.ycombinator.com/item?id=49690174",
+  "answers" : [ ]
+}, {
+  "title" : "The case against JPEG XL",
+  "description" : "Link: https://giannirosato.com/blog/post/case-against-jxl/ | Score: 114 | Comments: 152 | By: contact9879",
+  "url" : "https://news.ycombinator.com/item?id=49690554",
+  "answers" : [ ]
+}, {
+  "title" : "Rope, twine and thread: Invisible technologies of the Stone Age",
+  "description" : "Link: https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads | Score: 49 | Comments: 5 | By: knowablemag",
+  "url" : "https://news.ycombinator.com/item?id=49662246",
+  "answers" : [ ]
+}, {
+  "title" : "Data collected by cars and sold to third parties",
+  "description" : "Link: https://www.theverge.com/column/994172/your-car-is-selling-your-data | Score: 397 | Comments: 205 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=49683953",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260913134705&#x2F;https:&#x2F;&#x2F;www.theverge.com&#x2F;column&#x2F;994172&#x2F;your-car-is-selling-your-data\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260913134705&#x2F;https:&#x2F;&#x2F;www.theve...</a><p><a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;TWEVZ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;TWEVZ</a>" ]
+}, {
+  "title" : "Julia 1.13 highlights",
+  "description" : "Link: https://julialang.org/blog/2026/09/julia-1.13-highlights/ | Score: 211 | Comments: 19 | By: eigenspace",
+  "url" : "https://news.ycombinator.com/item?id=49642645",
+  "answers" : [ ]
+}, {
+  "title" : "The Malicious Use of Artificial Intelligence",
+  "description" : "Link: https://arxiv.org/abs/1802.07228 | Score: 51 | Comments: 10 | By: rasengan0",
+  "url" : "https://news.ycombinator.com/item?id=49690678",
+  "answers" : [ ]
+}, {
+  "title" : "Mullenweg has returned as CEO after attempted board ouster",
+  "description" : "Link: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ | Score: 123 | Comments: 172 | By: ilamont",
+  "url" : "https://news.ycombinator.com/item?id=49688259",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: What are you working on? (September 2026)",
+  "description" : "Score: 142 | Comments: 421 | By: david927",
+  "url" : "https://news.ycombinator.com/item?id=49686380",
+  "answers" : [ "What are you working on? What have you been curious about lately?" ]
+}, {
+  "title" : "Why is Google still serving dodgy ads?",
+  "description" : "Link: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads | Score: 767 | Comments: 345 | By: iamflimflam1",
+  "url" : "https://news.ycombinator.com/item?id=49686445",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+  "description" : "Link: https://eterdb.com/ | Score: 26 | Comments: 3 | By: fdeth",
+  "url" : "https://news.ycombinator.com/item?id=49645654",
+  "answers" : [ "Hey everyone, a few months ago, after recovering from a Clade-generated bug, I was thinking to myself “wouldn’t it be nice if prod DB writes were easy to roll back”. I’ve put something together: it’s a two-container deploy plus a CLI tool. It’s far from being production ready, so please be gentle. All feedback welcome!<p>The nitty gritty: <a href=\"https:&#x2F;&#x2F;eterdb.com&#x2F;tech\" rel=\"nofollow\">https:&#x2F;&#x2F;eterdb.com&#x2F;tech</a><p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;eterdb&#x2F;eterdb\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;eterdb&#x2F;eterdb</a>" ]
+}, {
+  "title" : "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+  "description" : "Link: https://danluu.com/exercise-7/ | Score: 18 | Comments: 2 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=49655621",
+  "answers" : [ ]
+}, {
+  "title" : "Flawed routers flood University of Wisconsin internet time server (2003)",
+  "description" : "Link: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ | Score: 79 | Comments: 9 | By: walrus01",
+  "url" : "https://news.ycombinator.com/item?id=49688391",
+  "answers" : [ ]
+}, {
+  "title" : "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+  "description" : "Link: https://calif.io/research/oempocalypse | Score: 31 | Comments: 6 | By: negura",
+  "url" : "https://news.ycombinator.com/item?id=49691152",
+  "answers" : [ ]
+}, {
+  "title" : "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+  "description" : "Link: https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee | Score: 66 | Comments: 24 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=49649164",
+  "answers" : [ ]
+}, {
+  "title" : "Writing a better reality: The case for optimistic sci-fi (2022)",
+  "description" : "Link: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/ | Score: 65 | Comments: 42 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=49690279",
+  "answers" : [ ]
+}, {
+  "title" : "Open-source AI and open models reading list",
+  "description" : "Link: https://www.interconnects.ai/p/open-source-ai-reading-list | Score: 90 | Comments: 9 | By: simonpure",
+  "url" : "https://news.ycombinator.com/item?id=49690260",
+  "answers" : [ ]
+}, {
+  "title" : "Five Words from Vanishing Fleece",
+  "description" : "Link: https://blog.wordnik.com/five-words-from-vanishing-fleece | Score: 3 | Comments: 0 | By: dan353hehe",
+  "url" : "https://news.ycombinator.com/item?id=49660631",
+  "answers" : [ ]
+}, {
+  "title" : "CUDA for AMD on Windows",
+  "description" : "Link: https://github.com/Speedstu/CUDA-for-AMD-Windows | Score: 157 | Comments: 83 | By: chiassedu80",
+  "url" : "https://news.ycombinator.com/item?id=49684356",
+  "answers" : [ ]
+}, {
+  "title" : "Who gets to define the rules for AI?",
+  "description" : "Link: https://cohere.com/blog/who-gets-to-define-the-rules-for-ai | Score: 22 | Comments: 20 | By: throwworhtthrow",
+  "url" : "https://news.ycombinator.com/item?id=49692118",
+  "answers" : [ ]
+}, {
+  "title" : "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+  "description" : "Link: https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/ | Score: 83 | Comments: 89 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=49691343",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;8NmSg\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;8NmSg</a>" ]
+}, {
+  "title" : "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
+  "description" : "Link: https://zenodo.org/records/1430991 | Score: 25 | Comments: 5 | By: akkartik",
+  "url" : "https://news.ycombinator.com/item?id=49667916",
+  "answers" : [ ]
+}, {
+  "title" : "Astra and Fable still hack on simple variants of alignment evals from 2025",
+  "description" : "Link: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment | Score: 426 | Comments: 199 | By: Levitating",
+  "url" : "https://news.ycombinator.com/item?id=49684393",
+  "answers" : [ ]
+}, {
+  "title" : "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+  "description" : "Link: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts | Score: 29 | Comments: 20 | By: sbulaev",
+  "url" : "https://news.ycombinator.com/item?id=49690139",
+  "answers" : [ ]
+}, {
+  "title" : "Airbnb Preventing the Use of BnB",
+  "description" : "Link: https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival | Score: 17 | Comments: 2 | By: cycomanic",
+  "url" : "https://news.ycombinator.com/item?id=49692344",
+  "answers" : [ ]
+}, {
+  "title" : "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
+  "description" : "Link: https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html | Score: 43 | Comments: 15 | By: kristianp",
+  "url" : "https://news.ycombinator.com/item?id=49691584",
+  "answers" : [ ]
+}, {
+  "title" : "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+  "description" : "Link: https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace | Score: 79 | Comments: 19 | By: rzk",
+  "url" : "https://news.ycombinator.com/item?id=49653311",
+  "answers" : [ ]
+} ]
