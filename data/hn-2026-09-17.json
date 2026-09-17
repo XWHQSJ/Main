@@ -1,0 +1,151 @@
+[ {
+  "title" : "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+  "description" : "Link: https://ryan.science/blog/keys-not-included | Score: 124 | Comments: 47 | By: Ryan5453",
+  "url" : "https://news.ycombinator.com/item?id=49735930",
+  "answers" : [ ]
+}, {
+  "title" : "Nvidia announces native GPU programming in Rust",
+  "description" : "Link: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/ | Score: 571 | Comments: 209 | By: nonmaskable",
+  "url" : "https://news.ycombinator.com/item?id=49724881",
+  "answers" : [ ]
+}, {
+  "title" : "Comparison of Malloc() Algorithms",
+  "description" : "Link: https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html | Score: 38 | Comments: 0 | By: egberts1",
+  "url" : "https://news.ycombinator.com/item?id=49715318",
+  "answers" : [ ]
+}, {
+  "title" : "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+  "description" : "Link: https://jakeasmith.com/blog/http-build-url/ | Score: 28 | Comments: 5 | By: jakeasmith",
+  "url" : "https://news.ycombinator.com/item?id=49718773",
+  "answers" : [ ]
+}, {
+  "title" : "Training a 4B model to produce 81% faster query plans than Postgres",
+  "description" : "Link: https://rohanbansal.com/qorl | Score: 507 | Comments: 106 | By: polyphilz",
+  "url" : "https://news.ycombinator.com/item?id=49731285",
+  "answers" : [ ]
+}, {
+  "title" : "Xiaomi Mimo 2.6 live post-training dashboard",
+  "description" : "Link: https://mimo.xiaomi.com/rl/ | Score: 395 | Comments: 100 | By: krackers",
+  "url" : "https://news.ycombinator.com/item?id=49732270",
+  "answers" : [ ]
+}, {
+  "title" : "Backups Aren't Simple",
+  "description" : "Link: https://filipovski.net/2026/09/16/backups-arent-simple.html | Score: 190 | Comments: 104 | By: afilipovski",
+  "url" : "https://news.ycombinator.com/item?id=49732513",
+  "answers" : [ ]
+}, {
+  "title" : "A 32-year-old bug walks into a Telnet server",
+  "description" : "Link: https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/ | Score: 43 | Comments: 13 | By: paimapi",
+  "url" : "https://news.ycombinator.com/item?id=49721291",
+  "answers" : [ ]
+}, {
+  "title" : "Developing provably correct Rust code with Verus",
+  "description" : "Link: https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus | Score: 87 | Comments: 11 | By: Betelbuddy",
+  "url" : "https://news.ycombinator.com/item?id=49700153",
+  "answers" : [ ]
+}, {
+  "title" : "Small programming tricks",
+  "description" : "Link: https://will-keleher.com/posts/small-programming-tricks-matter/ | Score: 490 | Comments: 216 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=49729000",
+  "answers" : [ ]
+}, {
+  "title" : "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "description" : "Link: https://arxiv.org/abs/2609.16338 | Score: 189 | Comments: 28 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=49732931",
+  "answers" : [ ]
+}, {
+  "title" : "The engineering behind the US Strategic Petroleum Reserve",
+  "description" : "Link: https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve | Score: 178 | Comments: 69 | By: johnjwang",
+  "url" : "https://news.ycombinator.com/item?id=49719596",
+  "answers" : [ ]
+}, {
+  "title" : "OpenSpec – A lightweight and configurable AI spec framework",
+  "description" : "Link: https://openspec.dev/ | Score: 123 | Comments: 51 | By: etoxin",
+  "url" : "https://news.ycombinator.com/item?id=49734264",
+  "answers" : [ ]
+}, {
+  "title" : "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+  "description" : "Link: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/ | Score: 71 | Comments: 35 | By: gumby",
+  "url" : "https://news.ycombinator.com/item?id=49734929",
+  "answers" : [ ]
+}, {
+  "title" : "AWS says it can't restore some data from mideast facilities struck by Iran",
+  "description" : "Link: https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d | Score: 349 | Comments: 285 | By: berkeleyjunk",
+  "url" : "https://news.ycombinator.com/item?id=49719249",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;Ay7RJ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;Ay7RJ</a>" ]
+}, {
+  "title" : "Performance Improvements in .NET 11",
+  "description" : "Link: https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/ | Score: 264 | Comments: 47 | By: soheilpro",
+  "url" : "https://news.ycombinator.com/item?id=49711424",
+  "answers" : [ ]
+}, {
+  "title" : "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+  "description" : "Link: https://harnesstax.github.io/ | Score: 102 | Comments: 35 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=49733726",
+  "answers" : [ ]
+}, {
+  "title" : "PCB is brought to you by Fable 5",
+  "description" : "Link: https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/ | Score: 72 | Comments: 27 | By: jasonpeacock",
+  "url" : "https://news.ycombinator.com/item?id=49695689",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+  "description" : "Link: https://github.com/arnegiacomo/fugleramme | Score: 2139 | Comments: 243 | By: arnemunthekaas",
+  "url" : "https://news.ycombinator.com/item?id=49711544",
+  "answers" : [ "See also: <i>Avian Visitors</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424</a> - May 2026 (20 comments)" ]
+}, {
+  "title" : "Reversing Factorio's RNG",
+  "description" : "Link: https://gegell.github.io/posts/factorio-rng/ | Score: 190 | Comments: 23 | By: jheitmann",
+  "url" : "https://news.ycombinator.com/item?id=49674451",
+  "answers" : [ ]
+}, {
+  "title" : "Japan's book scene is moving from bookstores to libraries",
+  "description" : "Link: https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving | Score: 166 | Comments: 71 | By: herbertl",
+  "url" : "https://news.ycombinator.com/item?id=49677916",
+  "answers" : [ ]
+}, {
+  "title" : "Part-human part-mouse brain developed in science breakthrough",
+  "description" : "Link: https://www.bbc.com/news/articles/c60m3k28j81mo | Score: 27 | Comments: 19 | By: marc__1",
+  "url" : "https://news.ycombinator.com/item?id=49735367",
+  "answers" : [ ]
+}, {
+  "title" : "Anecdotally, programmers dislike \"reduce\"",
+  "description" : "Link: https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/ | Score: 137 | Comments: 211 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=49692844",
+  "answers" : [ ]
+}, {
+  "title" : "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+  "description" : "Link: https://github.com/browser-use/jev-ultrafast | Score: 21 | Comments: 2 | By: rahimnathwani",
+  "url" : "https://news.ycombinator.com/item?id=49735979",
+  "answers" : [ ]
+}, {
+  "title" : "Cloudflare/Security-Audit-Skill",
+  "description" : "Link: https://github.com/cloudflare/security-audit-skill | Score: 14 | Comments: 2 | By: donk8r",
+  "url" : "https://news.ycombinator.com/item?id=49736466",
+  "answers" : [ ]
+}, {
+  "title" : "Reverse-engineered Jev-like model",
+  "description" : "Link: https://github.com/vinnylarouge/jevlike | Score: 113 | Comments: 16 | By: rochansinha",
+  "url" : "https://news.ycombinator.com/item?id=49731282",
+  "answers" : [ ]
+}, {
+  "title" : "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+  "description" : "Link: https://arxiv.org/abs/2609.14858 | Score: 197 | Comments: 49 | By: bananaflag",
+  "url" : "https://news.ycombinator.com/item?id=49726955",
+  "answers" : [ ]
+}, {
+  "title" : "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
+  "description" : "Link: https://www.vanityfair.com/news/2008/05/monsanto200805 | Score: 61 | Comments: 21 | By: kamaraju",
+  "url" : "https://news.ycombinator.com/item?id=49735692",
+  "answers" : [ ]
+}, {
+  "title" : "Anatomy of a Texture",
+  "description" : "Link: https://agentlien.github.io/texture/ | Score: 89 | Comments: 15 | By: Agentlien",
+  "url" : "https://news.ycombinator.com/item?id=49727592",
+  "answers" : [ "I just uploaded a new article describing how a modern video game texture is stored in graphics memory, why it&#x27;s done this way, and how it may differ between platforms.<p>It is called Anatomy of a Texture." ]
+}, {
+  "title" : "Hackers Got Inside a Flock Camera",
+  "description" : "Link: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/ | Score: 518 | Comments: 236 | By: driverdan",
+  "url" : "https://news.ycombinator.com/item?id=49726586",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;micahflee.com&#x2F;flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;micahflee.com&#x2F;flock-cameras-are-riddled-with-securit...</a>" ]
+} ]
