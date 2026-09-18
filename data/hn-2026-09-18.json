@@ -1,0 +1,151 @@
+[ {
+  "title" : "Hacking OpenAI",
+  "description" : "Link: https://www.hacktron.ai/blog/hacking-openai | Score: 248 | Comments: 83 | By: Handy-Man",
+  "url" : "https://news.ycombinator.com/item?id=49749656",
+  "answers" : [ ]
+}, {
+  "title" : "Jemalloc 5.4.0",
+  "description" : "Link: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 | Score: 39 | Comments: 5 | By: gkfasdfasdf",
+  "url" : "https://news.ycombinator.com/item?id=49750152",
+  "answers" : [ ]
+}, {
+  "title" : "Astra for Law",
+  "description" : "Link: https://openai.com/index/astra-for-law/ | Score: 440 | Comments: 465 | By: vertigoruntime",
+  "url" : "https://news.ycombinator.com/item?id=49745940",
+  "answers" : [ ]
+}, {
+  "title" : "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+  "description" : "Link: https://prismml.com/news/bonsai-2-27b | Score: 372 | Comments: 115 | By: JonSchneider",
+  "url" : "https://news.ycombinator.com/item?id=49746618",
+  "answers" : [ ]
+}, {
+  "title" : "The scourge of x86 emulation",
+  "description" : "Link: https://fex-emu.com/Scourge-of-emulation/ | Score: 44 | Comments: 1 | By: dagmx",
+  "url" : "https://news.ycombinator.com/item?id=49750094",
+  "answers" : [ ]
+}, {
+  "title" : "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+  "description" : "Link: https://bend-lang.com/ | Score: 411 | Comments: 198 | By: nicolas-siplis",
+  "url" : "https://news.ycombinator.com/item?id=49746163",
+  "answers" : [ ]
+}, {
+  "title" : "Pre-Greek: The lost language hidden within Ancient Greek",
+  "description" : "Link: https://linguisticdiscovery.com/posts/pre-greek/ | Score: 49 | Comments: 15 | By: axiologist",
+  "url" : "https://news.ycombinator.com/item?id=49749771",
+  "answers" : [ ]
+}, {
+  "title" : "Hister: A private search engine for the pages you visit and the files you keep",
+  "description" : "Link: https://github.com/asciimoo/hister | Score: 561 | Comments: 150 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=49743097",
+  "answers" : [ ]
+}, {
+  "title" : "Qwen 3.8 Omni Flash",
+  "description" : "Link: https://qwen.ai/blog?id=qwen3.8-omni-flash | Score: 153 | Comments: 49 | By: jjcm",
+  "url" : "https://news.ycombinator.com/item?id=49747925",
+  "answers" : [ ]
+}, {
+  "title" : "Wax motor",
+  "description" : "Link: https://en.wikipedia.org/wiki/Wax_motor | Score: 337 | Comments: 62 | By: mhb",
+  "url" : "https://news.ycombinator.com/item?id=49726007",
+  "answers" : [ ]
+}, {
+  "title" : "Waymo in Singapore",
+  "description" : "Link: https://waymo.com/waymo-in-singapore/ | Score: 89 | Comments: 73 | By: ramanan",
+  "url" : "https://news.ycombinator.com/item?id=49749981",
+  "answers" : [ ]
+}, {
+  "title" : "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+  "description" : "Link: https://global.fujitsu/en-global/pr/news/2026/09/14-02 | Score: 566 | Comments: 212 | By: my123",
+  "url" : "https://news.ycombinator.com/item?id=49715813",
+  "answers" : [ ]
+}, {
+  "title" : "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+  "description" : "Link: https://byteshape.com/blogs/Qwen3.8-27B/ | Score: 41 | Comments: 4 | By: syntaxing",
+  "url" : "https://news.ycombinator.com/item?id=49749393",
+  "answers" : [ ]
+}, {
+  "title" : "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
+  "description" : "Link: https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/ | Score: 32 | Comments: 3 | By: nkurz",
+  "url" : "https://news.ycombinator.com/item?id=49725404",
+  "answers" : [ ]
+}, {
+  "title" : "Telstra outage: The night a network decided the year was 2006",
+  "description" : "Link: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 | Score: 44 | Comments: 17 | By: TMWNN",
+  "url" : "https://news.ycombinator.com/item?id=49748957",
+  "answers" : [ ]
+}, {
+  "title" : "How to Write with an LLM",
+  "description" : "Link: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ | Score: 111 | Comments: 73 | By: joeriddles",
+  "url" : "https://news.ycombinator.com/item?id=49747070",
+  "answers" : [ ]
+}, {
+  "title" : "Flet 1.0 – Build cross-platform apps in Python",
+  "description" : "Link: https://flet.dev/ | Score: 97 | Comments: 46 | By: absqueued",
+  "url" : "https://news.ycombinator.com/item?id=49746290",
+  "answers" : [ ]
+}, {
+  "title" : "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
+  "description" : "Link: https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/ | Score: 25 | Comments: 8 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=49689770",
+  "answers" : [ ]
+}, {
+  "title" : "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+  "description" : "Link: https://askamonk.online | Score: 28 | Comments: 17 | By: 13613288957",
+  "url" : "https://news.ycombinator.com/item?id=49749171",
+  "answers" : [ ]
+}, {
+  "title" : "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+  "description" : "Link: https://www.sci.news/paleontology/spanish-diplodocus-15064.html | Score: 55 | Comments: 33 | By: embedding-shape",
+  "url" : "https://news.ycombinator.com/item?id=49710447",
+  "answers" : [ ]
+}, {
+  "title" : "The most important product decision is what you don't build",
+  "description" : "Link: https://liamnugent.me/posts/what-you-dont-build/ | Score: 87 | Comments: 27 | By: ChrisArchitect",
+  "url" : "https://news.ycombinator.com/item?id=49746407",
+  "answers" : [ ]
+}, {
+  "title" : "Khipu (Quipu) Field Guide",
+  "description" : "Link: https://www.khipufieldguide.com/ | Score: 9 | Comments: 1 | By: SanjayMehta",
+  "url" : "https://news.ycombinator.com/item?id=49721122",
+  "answers" : [ ]
+}, {
+  "title" : "How Uber Protects Against Retry Storms",
+  "description" : "Link: https://www.uber.com/us/en/blog/protecting-against-retry-storms/ | Score: 85 | Comments: 33 | By: iscmt",
+  "url" : "https://news.ycombinator.com/item?id=49746628",
+  "answers" : [ ]
+}, {
+  "title" : "Why I didn’t sign the Fields medallists’ letter",
+  "description" : "Link: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ | Score: 239 | Comments: 340 | By: simianwords",
+  "url" : "https://news.ycombinator.com/item?id=49738091",
+  "answers" : [ ]
+}, {
+  "title" : "CrowdSec Source Code Leak",
+  "description" : "Link: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure | Score: 145 | Comments: 43 | By: eccgecko",
+  "url" : "https://news.ycombinator.com/item?id=49742355",
+  "answers" : [ ]
+}, {
+  "title" : "Code Scans",
+  "description" : "Link: https://devin.ai/blog/introducing-code-scans | Score: 15 | Comments: 4 | By: geoffbp",
+  "url" : "https://news.ycombinator.com/item?id=49749744",
+  "answers" : [ ]
+}, {
+  "title" : "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+  "description" : "Link: https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy | Score: 103 | Comments: 86 | By: jjgreen",
+  "url" : "https://news.ycombinator.com/item?id=49715936",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+  "description" : "Link: https://snapdrop.me | Score: 64 | Comments: 31 | By: Capira",
+  "url" : "https://news.ycombinator.com/item?id=49746346",
+  "answers" : [ ]
+}, {
+  "title" : "Minimal Phone 2",
+  "description" : "Link: https://minimalcompany.com/ | Score: 30 | Comments: 15 | By: nashashmi",
+  "url" : "https://news.ycombinator.com/item?id=49749369",
+  "answers" : [ ]
+}, {
+  "title" : "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+  "description" : "Link: https://arxiv.org/abs/2609.18842 | Score: 135 | Comments: 38 | By: Betelbuddy",
+  "url" : "https://news.ycombinator.com/item?id=49743483",
+  "answers" : [ ]
+} ]
