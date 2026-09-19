@@ -1,0 +1,151 @@
+[ {
+  "title" : "Human brain is two separate organs, Stanford Medicine-led research finds",
+  "description" : "Link: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html | Score: 76 | Comments: 10 | By: emigre",
+  "url" : "https://news.ycombinator.com/item?id=49763697",
+  "answers" : [ ]
+}, {
+  "title" : "San Francisco Onion Futures Company",
+  "description" : "Link: https://onionfutures.com/ | Score: 138 | Comments: 51 | By: z-mach9",
+  "url" : "https://news.ycombinator.com/item?id=49763296",
+  "answers" : [ ]
+}, {
+  "title" : "If math is more than proof, we need to better celebrate the rest of it",
+  "description" : "Link: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ | Score: 14 | Comments: 1 | By: num42",
+  "url" : "https://news.ycombinator.com/item?id=49763928",
+  "answers" : [ ]
+}, {
+  "title" : "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+  "description" : "Link: https://grapheneos.social/@GrapheneOS/117282080803799576 | Score: 756 | Comments: 361 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=49758736",
+  "answers" : [ ]
+}, {
+  "title" : "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+  "description" : "Link: https://github.com/awlevin/typesafe-computer-use | Score: 54 | Comments: 17 | By: rahimnathwani",
+  "url" : "https://news.ycombinator.com/item?id=49733647",
+  "answers" : [ ]
+}, {
+  "title" : "SDCC – Small Device C Compiler",
+  "description" : "Link: https://sdcc.sourceforge.net/ | Score: 55 | Comments: 15 | By: lioeters",
+  "url" : "https://news.ycombinator.com/item?id=49762744",
+  "answers" : [ ]
+}, {
+  "title" : "Science Is Open Software",
+  "description" : "Link: https://jepedersen.dk/blog/202505_research/ | Score: 60 | Comments: 25 | By: jegp",
+  "url" : "https://news.ycombinator.com/item?id=49762687",
+  "answers" : [ ]
+}, {
+  "title" : "Cloudflare Quick Tunnels",
+  "description" : "Link: https://try.cloudflare.com/ | Score: 675 | Comments: 272 | By: jcbhmr",
+  "url" : "https://news.ycombinator.com/item?id=49754785",
+  "answers" : [ ]
+}, {
+  "title" : "Why building a Rust LSP is hard",
+  "description" : "Link: https://rust-glancer.github.io/blog/why-lsp-is-hard/ | Score: 45 | Comments: 22 | By: agluszak",
+  "url" : "https://news.ycombinator.com/item?id=49734131",
+  "answers" : [ ]
+}, {
+  "title" : "Saving another 100TB of RAM",
+  "description" : "Link: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ | Score: 325 | Comments: 62 | By: f311a",
+  "url" : "https://news.ycombinator.com/item?id=49758580",
+  "answers" : [ ]
+}, {
+  "title" : "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+  "description" : "Link: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ | Score: 11 | Comments: 1 | By: noobplus",
+  "url" : "https://news.ycombinator.com/item?id=49763379",
+  "answers" : [ ]
+}, {
+  "title" : "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "description" : "Link: https://spectrum.ieee.org/llms-for-chip-design | Score: 105 | Comments: 76 | By: maxall4",
+  "url" : "https://news.ycombinator.com/item?id=49761432",
+  "answers" : [ ]
+}, {
+  "title" : "How to Write with an LLM",
+  "description" : "Link: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ | Score: 465 | Comments: 313 | By: joeriddles",
+  "url" : "https://news.ycombinator.com/item?id=49747070",
+  "answers" : [ ]
+}, {
+  "title" : "Ctenophores: Wonders of Biology",
+  "description" : "Link: https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/ | Score: 7 | Comments: 4 | By: randomImmigrant",
+  "url" : "https://news.ycombinator.com/item?id=49735541",
+  "answers" : [ ]
+}, {
+  "title" : "Goroutine Leak Profiles",
+  "description" : "Link: https://go.dev/blog/goroutine-leak-profiles | Score: 22 | Comments: 2 | By: torutofu",
+  "url" : "https://news.ycombinator.com/item?id=49726773",
+  "answers" : [ ]
+}, {
+  "title" : "The first new cat species discovered in 100 years",
+  "description" : "Link: https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years | Score: 253 | Comments: 90 | By: ohjeez",
+  "url" : "https://news.ycombinator.com/item?id=49744704",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;cgMTM\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;cgMTM</a>" ]
+}, {
+  "title" : "You can run Git on object storage if you re-make packfiles",
+  "description" : "Link: https://www.tigrisdata.com/blog/objgit-packfiles/ | Score: 19 | Comments: 5 | By: evacchi",
+  "url" : "https://news.ycombinator.com/item?id=49730069",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+  "description" : "Link: https://cactuscompute.com/needle | Score: 194 | Comments: 85 | By: HenryNdubuaku",
+  "url" : "https://news.ycombinator.com/item?id=49748553",
+  "answers" : [ "Hey HN, Henry from Cactus here.<p>We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I&#x27;d love to hear what you think again.<p>The key features:<p>1) Automation (tool calls &amp; structured JSON output): Needle still doesn&#x27;t chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo).<p>2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens&#x2F;sec and prefills at up to 10k.<p>3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost.<p>4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple&#x27;s on-device model at 57.6, all at f16. More results on the link, we do not win everywhere ofc.<p>5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming.<p>6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on &quot;narrow task&quot;, we found that production users often prefer tuning before production.<p>7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives.<p>8) Confidence: Every response also carries a calibrated confidence score, the minimum of a judgement on the finished call and its decode probability. Act above your threshold, show the call and ask below it, or escalate to a bigger model.<p>9) Supported Platforms: macOS, Linux on x86-64, ARM64, ARMv7, RISC-V and MIPS32, Windows x64 and ARM, Android, iOS, watchOS, tvOS, the browser as WebAssembly, and a WASI component.<p>Thanks for reading and as always, thoughts appreciated!" ]
+}, {
+  "title" : "OpenJev",
+  "description" : "Link: https://openjev.com/ | Score: 604 | Comments: 257 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=49752041",
+  "answers" : [ ]
+}, {
+  "title" : "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+  "description" : "Link: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ | Score: 184 | Comments: 66 | By: synack",
+  "url" : "https://news.ycombinator.com/item?id=49757050",
+  "answers" : [ ]
+}, {
+  "title" : "The Farnese letter",
+  "description" : "Link: https://simonklee.dk/farnese-letter | Score: 40 | Comments: 6 | By: grigolin",
+  "url" : "https://news.ycombinator.com/item?id=49744036",
+  "answers" : [ ]
+}, {
+  "title" : "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+  "description" : "Link: https://arxiv.org/abs/2510.03215 | Score: 82 | Comments: 12 | By: rochansinha",
+  "url" : "https://news.ycombinator.com/item?id=49758615",
+  "answers" : [ ]
+}, {
+  "title" : "Xcode 27.1 Beta Release Notes",
+  "description" : "Link: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes | Score: 135 | Comments: 95 | By: CameronBanga",
+  "url" : "https://news.ycombinator.com/item?id=49758419",
+  "answers" : [ ]
+}, {
+  "title" : "Minimal Phone 2",
+  "description" : "Link: https://minimalcompany.com/ | Score: 244 | Comments: 208 | By: nashashmi",
+  "url" : "https://news.ycombinator.com/item?id=49749369",
+  "answers" : [ ]
+}, {
+  "title" : "Cyclomatic Complexity in C#",
+  "description" : "Link: https://blog.ndepend.com/understanding-cyclomatic-complexity/ | Score: 53 | Comments: 18 | By: gone35",
+  "url" : "https://news.ycombinator.com/item?id=49731413",
+  "answers" : [ ]
+}, {
+  "title" : "Inside ZCode: Silently uploading your Git history to the cloud",
+  "description" : "Link: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ | Score: 289 | Comments: 97 | By: csmantle",
+  "url" : "https://news.ycombinator.com/item?id=49750694",
+  "answers" : [ ]
+}, {
+  "title" : "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+  "description" : "Link: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 | Score: 136 | Comments: 49 | By: succinct_ideas",
+  "url" : "https://news.ycombinator.com/item?id=49749724",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Code now reads AGENTS.md if there is no Claude.md",
+  "description" : "Link: https://code.claude.com/docs/en/changelog | Score: 624 | Comments: 221 | By: datadrivenangel",
+  "url" : "https://news.ycombinator.com/item?id=49760187",
+  "answers" : [ ]
+}, {
+  "title" : "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+  "description" : "Link: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions | Score: 107 | Comments: 12 | By: yogthos",
+  "url" : "https://news.ycombinator.com/item?id=49761840",
+  "answers" : [ ]
+}, {
+  "title" : "LispBM is a concurrent Lisp for microcontrollers with message passing",
+  "description" : "Link: https://www.lispbm.com/ | Score: 26 | Comments: 3 | By: so-cal-schemer",
+  "url" : "https://news.ycombinator.com/item?id=49733523",
+  "answers" : [ ]
+} ]
