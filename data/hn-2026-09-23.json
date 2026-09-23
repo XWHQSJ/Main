@@ -1,0 +1,151 @@
+[ {
+  "title" : "GPT-6 Sol and Luna",
+  "description" : "Link: https://openai.com/index/introducing-gpt-6-sol-and-luna/ | Score: 1438 | Comments: 695 | By: OfficialTurkey",
+  "url" : "https://news.ycombinator.com/item?id=49805509",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Opus 5.5",
+  "description" : "Link: https://www.anthropic.com/claude-opus-5-5 | Score: 1448 | Comments: 909 | By: km144",
+  "url" : "https://news.ycombinator.com/item?id=49803892",
+  "answers" : [ ]
+}, {
+  "title" : "Transit rewards",
+  "description" : "Link: https://waymo.com/blog/2026/09/transit-rewards/ | Score: 107 | Comments: 94 | By: raybb",
+  "url" : "https://news.ycombinator.com/item?id=49811065",
+  "answers" : [ ]
+}, {
+  "title" : "Data-only attacks are easier than you think (2024)",
+  "description" : "Link: https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think | Score: 37 | Comments: 14 | By: segfaultbuserr",
+  "url" : "https://news.ycombinator.com/item?id=49811429",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+  "description" : "Link: https://www.cryptocellar.org/bgac/the-mvueh-break.html | Score: 641 | Comments: 381 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=49801324",
+  "answers" : [ ]
+}, {
+  "title" : "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+  "description" : "Link: https://foxscript.org/ | Score: 285 | Comments: 169 | By: boredjohnny",
+  "url" : "https://news.ycombinator.com/item?id=49808023",
+  "answers" : [ "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?" ]
+}, {
+  "title" : "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+  "description" : "Link: https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/ | Score: 565 | Comments: 388 | By: spenvo",
+  "url" : "https://news.ycombinator.com/item?id=49805278",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>" ]
+}, {
+  "title" : "ReBarUEFI: Resizable BAR for almost any UEFI system",
+  "description" : "Link: https://github.com/xCuri0/ReBarUEFI | Score: 130 | Comments: 41 | By: nateb2022",
+  "url" : "https://news.ycombinator.com/item?id=49781862",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+  "description" : "Link: https://github.com/hsfzxjy/npunlock | Score: 5 | Comments: 1 | By: hsfzxjy",
+  "url" : "https://news.ycombinator.com/item?id=49800513",
+  "answers" : [ ]
+}, {
+  "title" : "What California is learning from solar panels built over irrigation canals",
+  "description" : "Link: https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals | Score: 193 | Comments: 310 | By: Jtsummers",
+  "url" : "https://news.ycombinator.com/item?id=49796379",
+  "answers" : [ ]
+}, {
+  "title" : "SAML: A fractal of bad design",
+  "description" : "Link: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ | Score: 219 | Comments: 128 | By: aray07",
+  "url" : "https://news.ycombinator.com/item?id=49806335",
+  "answers" : [ ]
+}, {
+  "title" : "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+  "description" : "Link: https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/ | Score: 19 | Comments: 5 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=49795337",
+  "answers" : [ ]
+}, {
+  "title" : "How did AMD Ryzen get 50% faster in two years?",
+  "description" : "Link: https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/ | Score: 297 | Comments: 114 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49758709",
+  "answers" : [ ]
+}, {
+  "title" : "WordPress: Unauthenticated path traversal leading to conditional RCE",
+  "description" : "Link: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp | Score: 183 | Comments: 93 | By: vntok",
+  "url" : "https://news.ycombinator.com/item?id=49803959",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+  "description" : "Link: https://artificialanalysis.ai/models/claude-opus-5-5 | Score: 273 | Comments: 82 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=49804316",
+  "answers" : [ ]
+}, {
+  "title" : "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+  "description" : "Link: https://www.bloomberg.com/graphics/2026-iran-school-attack/ | Score: 585 | Comments: 292 | By: devonnull",
+  "url" : "https://news.ycombinator.com/item?id=49806430",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>" ]
+}, {
+  "title" : "Unreal Agent",
+  "description" : "Link: https://unreallabs.ai/blog/unreal-agent/ | Score: 170 | Comments: 99 | By: trollied",
+  "url" : "https://news.ycombinator.com/item?id=49805748",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent</a>" ]
+}, {
+  "title" : "The softness of metal",
+  "description" : "Link: https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal | Score: 27 | Comments: 5 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=49795053",
+  "answers" : [ ]
+}, {
+  "title" : "Grammarly will send unhinged messages to all your users if you try to cancel",
+  "description" : "Link: https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/ | Score: 81 | Comments: 16 | By: ksec",
+  "url" : "https://news.ycombinator.com/item?id=49811484",
+  "answers" : [ ]
+}, {
+  "title" : "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+  "description" : "Link: https://engineering.fb.com/2022/05/04/data-infrastructure/delta/ | Score: 23 | Comments: 1 | By: grep_it",
+  "url" : "https://news.ycombinator.com/item?id=49794844",
+  "answers" : [ ]
+}, {
+  "title" : "The current balance of power in open models",
+  "description" : "Link: https://www.interconnects.ai/p/the-current-balance-of-power-in-open | Score: 77 | Comments: 25 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=49808816",
+  "answers" : [ ]
+}, {
+  "title" : "People hooked on vapes try a new way to quit: cigarettes",
+  "description" : "Link: https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke | Score: 158 | Comments: 170 | By: alephnerd",
+  "url" : "https://news.ycombinator.com/item?id=49795686",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;FvOhx\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;FvOhx</a>" ]
+}, {
+  "title" : "OpenAI is well positioned to fast-follow Jev",
+  "description" : "Link: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/ | Score: 286 | Comments: 204 | By: JohnBerryman",
+  "url" : "https://news.ycombinator.com/item?id=49802161",
+  "answers" : [ ]
+}, {
+  "title" : "Obscura: VPN that can't log your activity",
+  "description" : "Link: https://obscura.com/#faq-technical | Score: 120 | Comments: 91 | By: Flimm",
+  "url" : "https://news.ycombinator.com/item?id=49807003",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: JevBench, a reproducible benchmark for typed decision models",
+  "description" : "Link: https://benchmarkheaven.com/jev-models | Score: 97 | Comments: 24 | By: florianstandhar",
+  "url" : "https://news.ycombinator.com/item?id=49800574",
+  "answers" : [ "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.<p>JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.<p>A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibration, Speed and Cost.<p>Leaderboard right now:<p><pre><code>  #1 - Jev            74.4\n  #2 - SemIf          73.1\n  #3 - djev           73.0\n  #4 - Winnow-12B Q8  71.2\n  #5 reflex 4B        70.3.\n</code></pre>\nMIT harness, public items, frozen artifacts, scoring code and public per-task outcomes:<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;fstandhartinger&#x2F;jevbench\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;fstandhartinger&#x2F;jevbench</a><p>Two no-signup demos:<p><a href=\"https:&#x2F;&#x2F;who-is-right.app.mintapis.com\" rel=\"nofollow\">https:&#x2F;&#x2F;who-is-right.app.mintapis.com</a><p><a href=\"https:&#x2F;&#x2F;is-it-ai-slop.app.mintapis.com\" rel=\"nofollow\">https:&#x2F;&#x2F;is-it-ai-slop.app.mintapis.com</a><p>Limitations: English-only; latency from one German server; local&#x2F;demo latency gets a disclosed ×2 adjustment (+150 ms on my servers) which is an informed assumption; held-out prompts still reach evaluated services; ~1-point gaps can be noise.<p>Wdyt?" ]
+}, {
+  "title" : "Side-stepping the Secretary Problem, unwittingly",
+  "description" : "Link: https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html | Score: 76 | Comments: 13 | By: pvdebbe",
+  "url" : "https://news.ycombinator.com/item?id=49796260",
+  "answers" : [ ]
+}, {
+  "title" : "Markdown in /src",
+  "description" : "Link: https://htmx.org/essays/markdown-in-src/ | Score: 122 | Comments: 60 | By: perrygeo",
+  "url" : "https://news.ycombinator.com/item?id=49794478",
+  "answers" : [ ]
+}, {
+  "title" : "Native apps written in TypeScript and CSS",
+  "description" : "Link: https://github.com/geastack/examples | Score: 107 | Comments: 36 | By: arbayi",
+  "url" : "https://news.ycombinator.com/item?id=49807021",
+  "answers" : [ ]
+}, {
+  "title" : "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+  "description" : "Link: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy | Score: 698 | Comments: 505 | By: MC995",
+  "url" : "https://news.ycombinator.com/item?id=49801939",
+  "answers" : [ ]
+}, {
+  "title" : "16-bit Intel 8088 chip (c. 1985)",
+  "description" : "Link: https://allpoetry.com/16-bit-Intel-8088-chip | Score: 118 | Comments: 15 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=49803635",
+  "answers" : [ ]
+} ]
