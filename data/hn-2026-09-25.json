@@ -1,0 +1,151 @@
+[ {
+  "title" : "F-Droid 2.0",
+  "description" : "Link: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html | Score: 1137 | Comments: 301 | By: daveoc64",
+  "url" : "https://news.ycombinator.com/item?id=49831968",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Make cursed fonts like Times New Bastard",
+  "description" : "Link: https://bastardica.mitpit.com | Score: 616 | Comments: 86 | By: MitPitt",
+  "url" : "https://news.ycombinator.com/item?id=49823738",
+  "answers" : [ "A joke tool that abuses OpenType&#x27;s ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM." ]
+}, {
+  "title" : "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+  "description" : "Link: https://github.com/devdotfast/whiteboard | Score: 271 | Comments: 109 | By: sidharthkmenon",
+  "url" : "https://news.ycombinator.com/item?id=49833867",
+  "answers" : [ "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (<a href=\"https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;\">https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;</a>), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard</a>.<p>We were missing the feeling of a “whiteboard session” with another dev where you leave with a deep understanding of a system, so we built this app for ourselves. Whiteboard plugs into the tools you already use - e.g. Claude Code, Codex, etc. – and gives your agent an SDK to draw on an in-app canvas to describe its work. We began with an MVP based on HTML artifacts and started rethinking the app as we ran into limitations:<p>1. Built on top of CodeOSS: We found that in pure HTML tools it was hard to connect a spec or diagram to code. In Whiteboard, when you click on visualizations like a sequence diagram, an entity relationship diagram, or a quote from the agent’s trace, you can jump to the underlying code directly. When navigating code, you get keybindings and LSP support from VSCode out of the box. We’ve found this is especially valuable because tradeoffs are often only discovered after a first pass at implementation (re: slop)<p>2. Semantic diff viewer: we wrote a semantic, AST-aware diff viewer in Rust so you can only view the code changes which are relevant to you [1]. We’ve set up some sane defaults: large added functions are summarized as pseudocode, and things like unit tests and large documentation changes are collapsed &#x2F; hidden. This is all customizable with a WASM-based plugin system.<p>3. Decision Log: We found it difficult to reason about what set of decisions our agents made autonomously. So we built tools for agents to query and link their own traces to the Whiteboard, so you can understand how the requirements that you set were implemented, and understand what decisions your agent made autonomously.<p>Here’s a quick demo video explaining more: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=ChPn3ftULWE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=ChPn3ftULWE</a><p>Folks at companies like Salesforce and Modal are using Whiteboard today as a review tool for architecture or spec-level changes – really any change where they want to be involved:<p>1. Reviewing your own coding agent’s work: because Whiteboard makes it easier to review large amounts of code, folks will typically have their AI agents create a prototype and a corresponding Whiteboard session so they can iterate on the design.<p>2. Reviewing other people’s changes: We’ve found that Whiteboard is particularly helpful when composed with tools like Greptile. For example, you can run an automated code reviewer on small changes and escalate to a Whiteboard session for the changes that require human judgement.<p>Why we built this: we’re four buddies from college who quit our jobs as tech leads right before agentic coding became industry standard. As we iterated towards an MVP for a previous idea, we struggled to maintain a comprehensible codebase while reaping all the velocity benefits of agentic coding. As more PRs were merged without our understanding, we felt a ‘cognitive debt’ begin to seep in, until it became difficult for us to even contribute to the system [2].<p>We’re releasing our desktop app under an MIT license. Please poke through and feel free to contribute! Eventually we’ll charge companies for a hosted web version that manages whiteboard session creation alongside features like trajectory storage and multiplayer reviews. Everything will always remain self-hostable.<p>Thanks for reading, and we hope you try it out! We would love to hear any feedback and to learn from your expertise.<p>Here’s are the project links again: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard</a>, and you can install (for MacOS + Linux) at <a href=\"https:&#x2F;&#x2F;install.dev.fast\">https:&#x2F;&#x2F;install.dev.fast</a><p>[1] diffs library: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;diffr\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;diffr</a>\n[2] Credit for the term ‘cognitive debt’ goes to  <a href=\"https:&#x2F;&#x2F;www.geoffreylitt.com&#x2F;2026&#x2F;07&#x2F;02&#x2F;understanding-is-the-new-bottleneck\" rel=\"nofollow\">https:&#x2F;&#x2F;www.geoffreylitt.com&#x2F;2026&#x2F;07&#x2F;02&#x2F;understanding-is-the...</a>" ]
+}, {
+  "title" : "Why is the liver so weirdly regenerative?",
+  "description" : "Link: https://dynomight.substack.com/p/liver | Score: 364 | Comments: 188 | By: jbotz",
+  "url" : "https://news.ycombinator.com/item?id=49832938",
+  "answers" : [ ]
+}, {
+  "title" : "2DWillNeverDie",
+  "description" : "Link: https://2dwillneverdie.com/ | Score: 199 | Comments: 32 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49801436",
+  "answers" : [ ]
+}, {
+  "title" : "Fearless SIMD v1.0",
+  "description" : "Link: https://linebender.org/blog/fearless-simd-1-0/ | Score: 242 | Comments: 34 | By: verdagon",
+  "url" : "https://news.ycombinator.com/item?id=49800085",
+  "answers" : [ ]
+}, {
+  "title" : "Rails World 2026 Opening Keynote [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=vDjW_dRyKXY | Score: 306 | Comments: 336 | By: an0malous",
+  "url" : "https://news.ycombinator.com/item?id=49817680",
+  "answers" : [ ]
+}, {
+  "title" : "Toyota is taking the Corolla electric",
+  "description" : "Link: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/ | Score: 297 | Comments: 496 | By: cisc",
+  "url" : "https://news.ycombinator.com/item?id=49823568",
+  "answers" : [ ]
+}, {
+  "title" : "My weird new hobby: Wandering around Tokyo on Google Maps",
+  "description" : "Link: https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/ | Score: 294 | Comments: 127 | By: ahmedhossamdev",
+  "url" : "https://news.ycombinator.com/item?id=49805344",
+  "answers" : [ ]
+}, {
+  "title" : "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+  "description" : "Link: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical | Score: 114 | Comments: 20 | By: benbreen",
+  "url" : "https://news.ycombinator.com/item?id=49835531",
+  "answers" : [ ]
+}, {
+  "title" : "Goodbye Google",
+  "description" : "Link: https://robert.ocallahan.org/2026/09/goodbye-google.html | Score: 149 | Comments: 147 | By: Murmuring9087",
+  "url" : "https://news.ycombinator.com/item?id=49840314",
+  "answers" : [ ]
+}, {
+  "title" : "Google’s Project Suncatcher to put ML infrastructure in space",
+  "description" : "Link: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/ | Score: 166 | Comments: 305 | By: xnx",
+  "url" : "https://news.ycombinator.com/item?id=49830606",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;24&#x2F;technology&#x2F;google-suncatcher-ai-data-center-space.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;24&#x2F;technology&#x2F;google-suncatc...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;BGFnP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;BGFnP</a>)" ]
+}, {
+  "title" : "Two-tier encryption in the UK",
+  "description" : "Link: https://macanorak.com/two-tier-encryption-in-the-uk/ | Score: 421 | Comments: 387 | By: ReturnoftheHack",
+  "url" : "https://news.ycombinator.com/item?id=49828731",
+  "answers" : [ ]
+}, {
+  "title" : "Writing Parquet files using Haskell",
+  "description" : "Link: https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html | Score: 50 | Comments: 5 | By: cosmic_quanta",
+  "url" : "https://news.ycombinator.com/item?id=49802510",
+  "answers" : [ ]
+}, {
+  "title" : "Opus 5.5 is good at explainer videos",
+  "description" : "Link: https://launchvideo.io | Score: 213 | Comments: 115 | By: iacguy",
+  "url" : "https://news.ycombinator.com/item?id=49836374",
+  "answers" : [ ]
+}, {
+  "title" : "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+  "description" : "Link: https://ahelwer.ca/post/2026-09-21-concurrency-textbook/ | Score: 113 | Comments: 37 | By: ahelwer",
+  "url" : "https://news.ycombinator.com/item?id=49787759",
+  "answers" : [ ]
+}, {
+  "title" : "The Board Game of the Alpha Nerds (2014)",
+  "description" : "Link: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ | Score: 77 | Comments: 28 | By: neonate",
+  "url" : "https://news.ycombinator.com/item?id=49836590",
+  "answers" : [ ]
+}, {
+  "title" : "California is chasing wealth that has feet",
+  "description" : "Link: https://blog.landeconomics.org/p/california-is-chasing-wealth-that | Score: 220 | Comments: 585 | By: idbnstra",
+  "url" : "https://news.ycombinator.com/item?id=49836419",
+  "answers" : [ ]
+}, {
+  "title" : "Security auditing in the age of (good enough) AI",
+  "description" : "Link: https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/ | Score: 84 | Comments: 12 | By: aray07",
+  "url" : "https://news.ycombinator.com/item?id=49793957",
+  "answers" : [ ]
+}, {
+  "title" : "Sourcehut account takeover via build logs (XSS in ansi2html)",
+  "description" : "Link: https://blog.arusekk.pl/posts/srht-account-takeover/ | Score: 98 | Comments: 19 | By: arusekk",
+  "url" : "https://news.ycombinator.com/item?id=49835996",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+  "description" : "Link: https://cms-sfx-demo.apeleg.com/ | Score: 61 | Comments: 18 | By: emurlin",
+  "url" : "https://news.ycombinator.com/item?id=49827375",
+  "answers" : [ "Air-gapped file encryption packed into a single, self-decrypting HTML page. Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;ApelegHQ&#x2F;ts-cms-ep-sfx\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ApelegHQ&#x2F;ts-cms-ep-sfx</a><p>I was inspired by self-extracting archives. I wanted to share files with basically no dependencies. The goal was:<p><pre><code>  1. Something that didn&#x27;t require any installation (assuming a web browser)\n  2. Have a single file with no network that could self-decrypt\n  3. Be fully auditable\n</code></pre>\nThe second point is done by having (sort of(*)) reproducible builds and embedded OpenPGP signatures.<p>The first point is made by cleverly manipulating the HTML structure so that it can decrypt without breaking the PGP signature. It can even decrypt using bare openssl (which was a design goal too, though getting the exact structure right took some work and bug reports).<p>The third point is accomplished by the first two, and by the source being freely available.<p>(*) Depends on the OS at the moment." ]
+}, {
+  "title" : "The forgotten battle of East Lansing",
+  "description" : "Link: https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/ | Score: 95 | Comments: 16 | By: rmason",
+  "url" : "https://news.ycombinator.com/item?id=49792652",
+  "answers" : [ ]
+}, {
+  "title" : "WaveDigger: Dig into wireless signals to discover their physical locations",
+  "description" : "Link: https://github.com/christianrowlands/wavedigger | Score: 106 | Comments: 20 | By: 882542F3884314B",
+  "url" : "https://news.ycombinator.com/item?id=49815370",
+  "answers" : [ ]
+}, {
+  "title" : "Nokia Design Archive (2025)",
+  "description" : "Link: https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c | Score: 223 | Comments: 121 | By: pillars",
+  "url" : "https://news.ycombinator.com/item?id=49828385",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Koi.rest – watch some fish and regain your balance",
+  "description" : "Link: https://koi.rest | Score: 174 | Comments: 42 | By: hxii",
+  "url" : "https://news.ycombinator.com/item?id=49837006",
+  "answers" : [ "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It&#x27;s an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don&#x27;t have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said &quot;fuck it&quot; and used AI to make the thing I really wanted to make.<p>I realized I didn&#x27;t want &quot;perfect&quot;. I wanted &quot;good enough&quot;.<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn&#x27;t the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me." ]
+}, {
+  "title" : "The Bayeux Tapestry: Woven by the Victors",
+  "description" : "Link: https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors | Score: 23 | Comments: 6 | By: prismatic",
+  "url" : "https://news.ycombinator.com/item?id=49823113",
+  "answers" : [ ]
+}, {
+  "title" : "Geothermal heat map of US hot springs",
+  "description" : "Link: https://www.soakingsprings.com/hot-springs/geothermal-map | Score: 98 | Comments: 39 | By: armenarmen",
+  "url" : "https://news.ycombinator.com/item?id=49821835",
+  "answers" : [ ]
+}, {
+  "title" : "Stable (YC W20) Is Hiring Product Engineers",
+  "description" : "Link: https://www.usestable.com/careers/product-engineer | Score: 1 | Comments: 0 | By: collinpham",
+  "url" : "https://news.ycombinator.com/item?id=49834893",
+  "answers" : [ ]
+}, {
+  "title" : "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+  "description" : "Link: https://eprint.iacr.org/2026/2131.pdf | Score: 60 | Comments: 11 | By: int0x29",
+  "url" : "https://news.ycombinator.com/item?id=49831098",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;security&#x2F;2026&#x2F;09&#x2F;theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;security&#x2F;2026&#x2F;09&#x2F;theres-a-new-way-to...</a>" ]
+}, {
+  "title" : "Motor Characterization for Small Running Robots (2016)",
+  "description" : "Link: https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/ | Score: 41 | Comments: 3 | By: loughnane",
+  "url" : "https://news.ycombinator.com/item?id=49794824",
+  "answers" : [ ]
+} ]
