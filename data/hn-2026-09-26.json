@@ -1,0 +1,151 @@
+[ {
+  "title" : "Revealing the details of how OpenAI agents hacked Hugging Face",
+  "description" : "Link: https://swarmtraces.org/ | Score: 398 | Comments: 240 | By: specked-citrus",
+  "url" : "https://news.ycombinator.com/item?id=49849985",
+  "answers" : [ ]
+}, {
+  "title" : "A single function Jev-like wrapper for LLMs, including vision models",
+  "description" : "Link: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html | Score: 37 | Comments: 2 | By: allanrbo",
+  "url" : "https://news.ycombinator.com/item?id=49853175",
+  "answers" : [ ]
+}, {
+  "title" : "Plan mode is dead",
+  "description" : "Link: https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html | Score: 248 | Comments: 219 | By: jmvldz",
+  "url" : "https://news.ycombinator.com/item?id=49840054",
+  "answers" : [ ]
+}, {
+  "title" : "Ollaya – Ollama for open-source, Jev-style decision models",
+  "description" : "Link: https://ollaya.dev/ | Score: 405 | Comments: 112 | By: Ardakilic",
+  "url" : "https://news.ycombinator.com/item?id=49848269",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Jev Plays Pokémon Red",
+  "description" : "Link: https://jev-pokemon.vercel.app/ | Score: 185 | Comments: 78 | By: pancomplex",
+  "url" : "https://news.ycombinator.com/item?id=49845172",
+  "answers" : [ "Hey HN! Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon.<p>I&#x27;ve spent endless hours playing this game as a child so building this was a ton of fun.<p>I open sourced everything in case you want to hack on it yourself here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;christianmat&#x2F;jev-pokemon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;christianmat&#x2F;jev-pokemon</a><p>The game is being streamed live including the tokens and cost - hopefully we get all the badges and don&#x27;t get stuck in a cave :)" ]
+}, {
+  "title" : "What even is an OS now?",
+  "description" : "Link: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/ | Score: 158 | Comments: 250 | By: fratellobigio",
+  "url" : "https://news.ycombinator.com/item?id=49850305",
+  "answers" : [ ]
+}, {
+  "title" : "Postgres SELECT DISTINCT Does Not Scale",
+  "description" : "Link: https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale | Score: 57 | Comments: 16 | By: KraftyOne",
+  "url" : "https://news.ycombinator.com/item?id=49835096",
+  "answers" : [ ]
+}, {
+  "title" : "The Murky History of Soviet-Born Tetris",
+  "description" : "Link: https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/ | Score: 26 | Comments: 5 | By: EA-3167",
+  "url" : "https://news.ycombinator.com/item?id=49838040",
+  "answers" : [ ]
+}, {
+  "title" : "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+  "description" : "Link: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/ | Score: 179 | Comments: 34 | By: pseudolus",
+  "url" : "https://news.ycombinator.com/item?id=49852302",
+  "answers" : [ ]
+}, {
+  "title" : "How I changed teaching after AI managed to do all my homework assignments",
+  "description" : "Link: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed | Score: 34 | Comments: 3 | By: azhenley",
+  "url" : "https://news.ycombinator.com/item?id=49836579",
+  "answers" : [ ]
+}, {
+  "title" : "Gravity seems holographic. What does that mean for reality?",
+  "description" : "Link: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ | Score: 168 | Comments: 158 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49845998",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+  "description" : "Link: https://hackeratlas.com/ | Score: 45 | Comments: 12 | By: andrearitossa",
+  "url" : "https://news.ycombinator.com/item?id=49844497",
+  "answers" : [ "I built a tool to explore HN topics and how they change over time.<p>Currently covers 2024 to today. Is it useful? What&#x27;s missing?" ]
+}, {
+  "title" : "A new world airport and its baggage",
+  "description" : "Link: https://computer.rip/2026-09-20-denver-baggage.html | Score: 6 | Comments: 0 | By: firloop",
+  "url" : "https://news.ycombinator.com/item?id=49823490",
+  "answers" : [ ]
+}, {
+  "title" : "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+  "description" : "Link: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide | Score: 151 | Comments: 55 | By: HotGarbage",
+  "url" : "https://news.ycombinator.com/item?id=49852065",
+  "answers" : [ ]
+}, {
+  "title" : "Fourier Analysis: Drawing Llamas with Circles",
+  "description" : "Link: https://adekau.github.io/posts/2020/llamas.html | Score: 26 | Comments: 1 | By: cebert",
+  "url" : "https://news.ycombinator.com/item?id=49829472",
+  "answers" : [ ]
+}, {
+  "title" : "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+  "description" : "Link: https://spectrum.ieee.org/serotonin-stress-smart-contact-lens | Score: 39 | Comments: 6 | By: marc__1",
+  "url" : "https://news.ycombinator.com/item?id=49850781",
+  "answers" : [ ]
+}, {
+  "title" : "Excel now supports multiple values in a single cell",
+  "description" : "Link: https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395 | Score: 156 | Comments: 110 | By: luispa",
+  "url" : "https://news.ycombinator.com/item?id=49849832",
+  "answers" : [ "Related: <a href=\"https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;blog&#x2F;excelblog&#x2F;excel-now-supports-multiple-values-in-a-single-cell&#x2F;4549756\" rel=\"nofollow\">https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;blog&#x2F;excelblog&#x2F;excel-now...</a>" ]
+}, {
+  "title" : "Two and a half years without a gallbladder",
+  "description" : "Link: https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/ | Score: 25 | Comments: 17 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49830434",
+  "answers" : [ ]
+}, {
+  "title" : "We're gonna need a lot more mathematicians",
+  "description" : "Link: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/ | Score: 85 | Comments: 83 | By: srcreigh",
+  "url" : "https://news.ycombinator.com/item?id=49852717",
+  "answers" : [ ]
+}, {
+  "title" : "HomelabFest will be in St. Louis in September 2027",
+  "description" : "Link: https://www.homelabfest.org | Score: 18 | Comments: 8 | By: geerlingguy",
+  "url" : "https://news.ycombinator.com/item?id=49852462",
+  "answers" : [ ]
+}, {
+  "title" : "First Principles Thinking",
+  "description" : "Link: https://sunilsadasivan.com/writing/first-principles-thinking/ | Score: 252 | Comments: 107 | By: sunils34",
+  "url" : "https://news.ycombinator.com/item?id=49844736",
+  "answers" : [ ]
+}, {
+  "title" : "I wrote a ray tracer in Brainfuck",
+  "description" : "Link: https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/ | Score: 60 | Comments: 15 | By: epestr",
+  "url" : "https://news.ycombinator.com/item?id=49842409",
+  "answers" : [ ]
+}, {
+  "title" : "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+  "description" : "Link: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html | Score: 433 | Comments: 745 | By: cramer4next",
+  "url" : "https://news.ycombinator.com/item?id=49845977",
+  "answers" : [ ]
+}, {
+  "title" : "Remembering Johannes Doerfert",
+  "description" : "Link: https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/ | Score: 76 | Comments: 2 | By: sdko",
+  "url" : "https://news.ycombinator.com/item?id=49838247",
+  "answers" : [ ]
+}, {
+  "title" : "Microsoft abandons personal AI chatbot race with Copilot reboot",
+  "description" : "Link: https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot | Score: 114 | Comments: 103 | By: sbulaev",
+  "url" : "https://news.ycombinator.com/item?id=49844896",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;XJG5V\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;XJG5V</a>" ]
+}, {
+  "title" : "How video games inspire great UX (2019)",
+  "description" : "Link: https://jenson.org/games/ | Score: 121 | Comments: 17 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=49777121",
+  "answers" : [ ]
+}, {
+  "title" : "What happens when you analyze your favorite college football team like the CIA?",
+  "description" : "Link: https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia | Score: 53 | Comments: 30 | By: adam",
+  "url" : "https://news.ycombinator.com/item?id=49844642",
+  "answers" : [ ]
+}, {
+  "title" : "How we learned to stop worrying and love campus surveillance",
+  "description" : "Link: https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/ | Score: 180 | Comments: 106 | By: cdrnsf",
+  "url" : "https://news.ycombinator.com/item?id=49849141",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Make math automatic with Mathy",
+  "description" : "Link: https://gmays.com/making-math-automatic-with-mathy/ | Score: 90 | Comments: 25 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=49788014",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;mathy.game&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mathy.game&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;mathy.game&#x2F;app\" rel=\"nofollow\">https:&#x2F;&#x2F;mathy.game&#x2F;app</a><p><a href=\"https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;mathy-build-math-automaticity&#x2F;id6804888736\">https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;mathy-build-math-automaticity&#x2F;...</a>" ]
+}, {
+  "title" : "Platform-independent SIMD in Go",
+  "description" : "Link: https://go.dev/blog/simd-experiment | Score: 379 | Comments: 137 | By: yurivish",
+  "url" : "https://news.ycombinator.com/item?id=49843269",
+  "answers" : [ ]
+} ]
