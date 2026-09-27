@@ -1,0 +1,151 @@
+[ {
+  "title" : "Does Georgism work? Five years later",
+  "description" : "Link: https://www.astralcodexten.com/p/does-georgism-work-five-years-later | Score: 279 | Comments: 184 | By: silveraxe93",
+  "url" : "https://news.ycombinator.com/item?id=49844657",
+  "answers" : [ ]
+}, {
+  "title" : "Go Concurrency Distilled",
+  "description" : "Link: https://antonz.org/go-concurrency-distilled/ | Score: 181 | Comments: 55 | By: chmaynard",
+  "url" : "https://news.ycombinator.com/item?id=49856988",
+  "answers" : [ ]
+}, {
+  "title" : "Flip Fluid on Flip Dots",
+  "description" : "Link: https://mitxela.com/projects/flipflip | Score: 34 | Comments: 2 | By: blutack",
+  "url" : "https://news.ycombinator.com/item?id=49854219",
+  "answers" : [ ]
+}, {
+  "title" : "PipePipe: NewPipe hard fork implementing SponsorBlock",
+  "description" : "Link: https://github.com/InfinityLoop1308/PipePipe | Score: 387 | Comments: 213 | By: Qision",
+  "url" : "https://news.ycombinator.com/item?id=49842764",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek Elastic Compute (DSec)",
+  "description" : "Link: https://arxiv.org/abs/2609.22978 | Score: 232 | Comments: 77 | By: shenli3514",
+  "url" : "https://news.ycombinator.com/item?id=49859112",
+  "answers" : [ ]
+}, {
+  "title" : "Improving site performance by shipping more CSS",
+  "description" : "Link: https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/ | Score: 26 | Comments: 10 | By: torutofu",
+  "url" : "https://news.ycombinator.com/item?id=49856193",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Reladraw – A diagram language where you decide where to place things",
+  "description" : "Link: https://github.com/reladraw/reladraw | Score: 280 | Comments: 78 | By: jpwalsh234",
+  "url" : "https://news.ycombinator.com/item?id=49858513",
+  "answers" : [ "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don&#x27;t let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).<p>I wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.<p>I also wanted this to work well for humans and agents.<p>On the Github link, there&#x27;s a playground where you can try it out without installation. There&#x27;s also instructions for a simple npm install and for installing a skill you can use with Claude or other agents." ]
+}, {
+  "title" : "What is the size of Yemen? (2024)",
+  "description" : "Link: https://theborys.substack.com/p/what-is-the-size-of-yemen | Score: 129 | Comments: 23 | By: kspacewalk2",
+  "url" : "https://news.ycombinator.com/item?id=49862809",
+  "answers" : [ ]
+}, {
+  "title" : "A searchable library of forgotten public-domain film clips from 1915 onward",
+  "description" : "Link: https://www.movingimagearchive.com/ | Score: 155 | Comments: 26 | By: momentmaker",
+  "url" : "https://news.ycombinator.com/item?id=49832768",
+  "answers" : [ ]
+}, {
+  "title" : "Biology might not be quantum, but its math is quantumlike",
+  "description" : "Link: https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/ | Score: 55 | Comments: 19 | By: pseudolus",
+  "url" : "https://news.ycombinator.com/item?id=49839438",
+  "answers" : [ ]
+}, {
+  "title" : "Evolving programming languages in the AI era",
+  "description" : "Link: https://dashbit.co/blog/evolving-ai-era | Score: 83 | Comments: 51 | By: pjm331",
+  "url" : "https://news.ycombinator.com/item?id=49839567",
+  "answers" : [ ]
+}, {
+  "title" : "ASML says it sold 'absolutely nothing' in Europe in 2026",
+  "description" : "Link: https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand | Score: 243 | Comments: 577 | By: MC995",
+  "url" : "https://news.ycombinator.com/item?id=49844663",
+  "answers" : [ ]
+}, {
+  "title" : "Fifteen years later, the Apple Cards origin story",
+  "description" : "Link: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story | Score: 388 | Comments: 95 | By: ksec",
+  "url" : "https://news.ycombinator.com/item?id=49854693",
+  "answers" : [ ]
+}, {
+  "title" : "Drawgent: Coding agent on a live Excalidraw canvas",
+  "description" : "Link: https://tangled.org/yanndegat.tngl.sh/drawgent | Score: 142 | Comments: 39 | By: parasitid",
+  "url" : "https://news.ycombinator.com/item?id=49857729",
+  "answers" : [ ]
+}, {
+  "title" : "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+  "description" : "Link: https://www.righto.com/2026/09/8087-tangent-cordic.html | Score: 71 | Comments: 9 | By: pwg",
+  "url" : "https://news.ycombinator.com/item?id=49858676",
+  "answers" : [ ]
+}, {
+  "title" : "An agent used DNS to reach an external chatbot",
+  "description" : "Link: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/ | Score: 79 | Comments: 85 | By: apsec112",
+  "url" : "https://news.ycombinator.com/item?id=49853137",
+  "answers" : [ ]
+}, {
+  "title" : "Snap Wants to be a State Actor??–Kansas v. Snap",
+  "description" : "Link: https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm | Score: 43 | Comments: 10 | By: hn_acker",
+  "url" : "https://news.ycombinator.com/item?id=49847247",
+  "answers" : [ ]
+}, {
+  "title" : "Turning GLM-5.3-Flash into a Jev-like decision model",
+  "description" : "Link: https://www.privatemode.ai/blog/system-one-from-glm-flash | Score: 82 | Comments: 29 | By: flxflx",
+  "url" : "https://news.ycombinator.com/item?id=49857656",
+  "answers" : [ "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.<p>The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass.<p>In the blog post, we describe the approach in detail for GLM-5.3-Flash and vLLM. We benchmark this setup against Jev and Laya. We find that our setup is on-par with Jev in terms of accuracy and speed and that it substantially outperforms Laya.<p>Still, in terms of costs per decision, Jev is several x better than our setup. In turn, our setup supports vision inputs." ]
+}, {
+  "title" : "Bob Mackie dressed stars–if they were brave enough",
+  "description" : "Link: https://www.economist.com/obituary/2026/09/24/bob-mackie-dressed-stars-if-they-were-brave-enough | Score: 6 | Comments: 1 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=49851555",
+  "answers" : [ ]
+}, {
+  "title" : "How I changed teaching after AI managed to do all my homework assignments",
+  "description" : "Link: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed | Score: 186 | Comments: 168 | By: azhenley",
+  "url" : "https://news.ycombinator.com/item?id=49836579",
+  "answers" : [ ]
+}, {
+  "title" : "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+  "description" : "Link: https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html | Score: 48 | Comments: 24 | By: geox",
+  "url" : "https://news.ycombinator.com/item?id=49852905",
+  "answers" : [ ]
+}, {
+  "title" : "Exploding variance of means of exponentials: least-squares to the rescue",
+  "description" : "Link: https://francisbach.com/spectral_log_density_estimation/ | Score: 22 | Comments: 0 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=49850991",
+  "answers" : [ ]
+}, {
+  "title" : "We Should Be Able to Change Our Languages",
+  "description" : "Link: http://jimmyhmiller.com/change-our-languages | Score: 40 | Comments: 16 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49844037",
+  "answers" : [ ]
+}, {
+  "title" : "How to keep enjoying programming in a world of LLMs",
+  "description" : "Link: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 | Score: 210 | Comments: 260 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=49854875",
+  "answers" : [ ]
+}, {
+  "title" : "Real-time feedback: My closing move in every interview",
+  "description" : "Link: https://mgrebler.substack.com/p/real-time-feedback-my-closing-move | Score: 27 | Comments: 23 | By: fagnerbrack",
+  "url" : "https://news.ycombinator.com/item?id=49862244",
+  "answers" : [ ]
+}, {
+  "title" : "Modern Object Pascal Introduction for Programmers",
+  "description" : "Link: https://castle-engine.io/modern_pascal | Score: 167 | Comments: 69 | By: birdculture",
+  "url" : "https://news.ycombinator.com/item?id=49829202",
+  "answers" : [ ]
+}, {
+  "title" : "Generate fonts where every LLM token is the same width",
+  "description" : "Link: https://ampdot.mesh.host/token-space-fonts.html | Score: 53 | Comments: 12 | By: z-mach9",
+  "url" : "https://news.ycombinator.com/item?id=49851883",
+  "answers" : [ ]
+}, {
+  "title" : "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+  "description" : "Link: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/ | Score: 65 | Comments: 12 | By: bucket2015",
+  "url" : "https://news.ycombinator.com/item?id=49860074",
+  "answers" : [ ]
+}, {
+  "title" : "The Evolution of Vending Machines",
+  "description" : "Link: https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/ | Score: 31 | Comments: 10 | By: ohjeez",
+  "url" : "https://news.ycombinator.com/item?id=49858424",
+  "answers" : [ ]
+}, {
+  "title" : "LA Metro has some of the slowest escalators",
+  "description" : "Link: https://basin.la/articles/ninety-feet-a-minute.html | Score: 99 | Comments: 81 | By: big_toast",
+  "url" : "https://news.ycombinator.com/item?id=49833444",
+  "answers" : [ ]
+} ]
