@@ -1,0 +1,151 @@
+[ {
+  "title" : "Phyllotaxis: An audio-reactive LED display",
+  "description" : "Link: https://jagi.studio/posts/phyllotaxis/ | Score: 110 | Comments: 11 | By: evakhoury",
+  "url" : "https://news.ycombinator.com/item?id=49880411",
+  "answers" : [ ]
+}, {
+  "title" : "The systems that no one will test",
+  "description" : "Link: https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/ | Score: 25 | Comments: 5 | By: perone",
+  "url" : "https://news.ycombinator.com/item?id=49876052",
+  "answers" : [ ]
+}, {
+  "title" : "US Forces Exit Iraq",
+  "description" : "Link: https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/ | Score: 35 | Comments: 20 | By: cod1r",
+  "url" : "https://news.ycombinator.com/item?id=49889275",
+  "answers" : [ ]
+}, {
+  "title" : "Pirating the Pirates",
+  "description" : "Link: https://mubi.com/en/notebook/posts/pirating-the-pirates | Score: 541 | Comments: 267 | By: piotrgrabowski",
+  "url" : "https://news.ycombinator.com/item?id=49880036",
+  "answers" : [ ]
+}, {
+  "title" : "California farmers are struggling to sell grapes as demand for wine drops",
+  "description" : "Link: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops | Score: 189 | Comments: 403 | By: randycupertino",
+  "url" : "https://news.ycombinator.com/item?id=49883539",
+  "answers" : [ ]
+}, {
+  "title" : "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+  "description" : "Link: https://stateofutopia.com/experiments/microllmlab/ | Score: 220 | Comments: 81 | By: logicallee",
+  "url" : "https://news.ycombinator.com/item?id=49882781",
+  "answers" : [ ]
+}, {
+  "title" : "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+  "description" : "Link: https://github.com/firelex/jeff | Score: 467 | Comments: 175 | By: firelex",
+  "url" : "https://news.ycombinator.com/item?id=49883844",
+  "answers" : [ ]
+}, {
+  "title" : "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+  "description" : "Link: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster | Score: 87 | Comments: 16 | By: nkko",
+  "url" : "https://news.ycombinator.com/item?id=49884625",
+  "answers" : [ ]
+}, {
+  "title" : "12,000-year-old Göbeklitepe burials explain scattered bones",
+  "description" : "Link: https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/ | Score: 128 | Comments: 30 | By: yusufaytas",
+  "url" : "https://news.ycombinator.com/item?id=49855059",
+  "answers" : [ ]
+}, {
+  "title" : "Tank Body Problem",
+  "description" : "Link: http://www.jimsitu.com | Score: 81 | Comments: 18 | By: jimbooonooo",
+  "url" : "https://news.ycombinator.com/item?id=49886482",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+  "description" : "Link: https://jonclegg.github.io/pacman-bakeoff/ | Score: 44 | Comments: 31 | By: thefourthchime",
+  "url" : "https://news.ycombinator.com/item?id=49885493",
+  "answers" : [ "Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:<p>“Create a Pac-Man game in a single HTML page”<p>Each model gets one shot — no follow-up prompts or fixes." ]
+}, {
+  "title" : "Sonnet 5.5",
+  "description" : "Link: https://www.anthropic.com/claude-sonnet-5-5 | Score: 746 | Comments: 499 | By: D2OQZG8l5BI1S06",
+  "url" : "https://news.ycombinator.com/item?id=49881850",
+  "answers" : [ ]
+}, {
+  "title" : "Hijacking the PS5's RTMP stream",
+  "description" : "Link: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/ | Score: 246 | Comments: 78 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49879702",
+  "answers" : [ ]
+}, {
+  "title" : "Who Killed Paulina Borsook's Career?",
+  "description" : "Link: https://www.wired.com/story/paulina-borsook-profile/ | Score: 43 | Comments: 12 | By: danielmorozoff",
+  "url" : "https://news.ycombinator.com/item?id=49866903",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Museum of Numbers",
+  "description" : "Link: https://numbermuseum.com/2147483647 | Score: 19 | Comments: 6 | By: rhl314",
+  "url" : "https://news.ycombinator.com/item?id=49858756",
+  "answers" : [ ]
+}, {
+  "title" : "Scientists solve 1840s space weather mystery",
+  "description" : "Link: https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/ | Score: 101 | Comments: 46 | By: gumby",
+  "url" : "https://news.ycombinator.com/item?id=49883536",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+  "description" : "Link: https://twitter.com/thsottiaux/status/2104823812042940713 | Score: 16 | Comments: 11 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49889306",
+  "answers" : [ ]
+}, {
+  "title" : "1996 chat room simulator connected to Win95 and System 7 web desktops",
+  "description" : "Link: https://lolchat.rip/ | Score: 106 | Comments: 44 | By: henrychannel",
+  "url" : "https://news.ycombinator.com/item?id=49886195",
+  "answers" : [ ]
+}, {
+  "title" : "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+  "description" : "Link: https://www.thisamericanlife.org/897/transcript | Score: 379 | Comments: 209 | By: simonpure",
+  "url" : "https://news.ycombinator.com/item?id=49879697",
+  "answers" : [ ]
+}, {
+  "title" : "Simulating Airband Am Radios",
+  "description" : "Link: https://bitbashing.io/am-radio.html | Score: 27 | Comments: 3 | By: shellpipe",
+  "url" : "https://news.ycombinator.com/item?id=49862602",
+  "answers" : [ ]
+}, {
+  "title" : "World Labs Is Joining AMD",
+  "description" : "Link: https://www.worldlabs.ai/blog/amd-announcement | Score: 264 | Comments: 110 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=49883760",
+  "answers" : [ ]
+}, {
+  "title" : "Nvidia wants to put a watchdog chip next to every AI agent",
+  "description" : "Link: https://www.cnbc.com/2026/09/28/nvidia-releases.html | Score: 158 | Comments: 198 | By: jonbaer",
+  "url" : "https://news.ycombinator.com/item?id=49879883",
+  "answers" : [ ]
+}, {
+  "title" : "Updated Google Maps shows destruction of the city of Rafah",
+  "description" : "Link: https://twitter.com/AliAbunimah/status/2103890594137309425 | Score: 475 | Comments: 290 | By: slowin",
+  "url" : "https://news.ycombinator.com/item?id=49879645",
+  "answers" : [ ]
+}, {
+  "title" : "Does Reddit have an astroturfing problem? What the data suggests",
+  "description" : "Link: https://www.petervijeh.com/projects/reddit-astroturf | Score: 196 | Comments: 248 | By: p-s-v",
+  "url" : "https://news.ycombinator.com/item?id=49877678",
+  "answers" : [ ]
+}, {
+  "title" : "It's Time to Investigate the AI Labs",
+  "description" : "Link: https://calnewport.com/its-time-to-investigate-the-ai-labs/ | Score: 448 | Comments: 172 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49883471",
+  "answers" : [ ]
+}, {
+  "title" : "How to win a beer with high-dimensional statistics",
+  "description" : "Link: https://jamiesimon.io/blog/how-to-win-a-beer-with-high-dimensional-statistics/ | Score: 63 | Comments: 8 | By: jamie-simon",
+  "url" : "https://news.ycombinator.com/item?id=49858193",
+  "answers" : [ ]
+}, {
+  "title" : "What is the best shape of a city? Modelling effect of urban form on distance",
+  "description" : "Link: https://journals.sagepub.com/doi/10.1177/23998083261458842 | Score: 33 | Comments: 18 | By: rustoo",
+  "url" : "https://news.ycombinator.com/item?id=49858643",
+  "answers" : [ ]
+}, {
+  "title" : "What reversing, modernising old games tells us about the economic impact of AI",
+  "description" : "Link: https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/ | Score: 113 | Comments: 58 | By: keeda",
+  "url" : "https://news.ycombinator.com/item?id=49861755",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: HN.watch – Videos of all Hacker News posts",
+  "description" : "Link: https://hn.watch/ | Score: 161 | Comments: 90 | By: mrborgen",
+  "url" : "https://news.ycombinator.com/item?id=49879401",
+  "answers" : [ "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”.<p>To demo this technology for Hacker News, we built HN.watch. It’s like HN, but with explainer videos instead of articles. We create them on-the-fly the first time someone clicks on a link.<p>While there are obvious visual drawbacks of using HTML instead of diffusion models, there are three big benefits: - Speed: Much faster to generate than pixel-based videos (just a few seconds from click to playback) - Cost: Our cost per video is ~$0.04. (Excluding image generation, which some videos utilize. Quickly blows up the cost) - Easy editing: the above benefits also make AI-assisted editing cheap &amp; fast<p>Our hypothesis is that if video creation goes from “dollars and minutes” to “cents and seconds”, a bunch of new use cases will be unlocked. Here are some we see already: - A video explanation of every single Pull Request (we do this internally) - Give every page in your internal&#x2F;extrernal docs a video - Turn a complex article into a video in ~4 seconds (via our Chrome extension) - Course creators can quickly draft lessons before recording the real thing - People also create a lot of personal stuff stories for their kids, wedding invitations, birthdays, etc<p>The stack is based on an open-source programming language (Imba) created by our CTO, Sindre Aarsæther. It compiles to JavaScript, so it interoperates fully with the npm + node ecosystem. You can learn more here: <a href=\"https:&#x2F;&#x2F;imba.io&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;imba.io&#x2F;</a><p>We’ve also built our own sync engine (OP), and a context management system for agents (Q). We feared this would make the LLMs struggle when writing code for us, as neither is in their training data (there’s very little Imba in there too). However, we’ve been pleasantly surprised to see that LLMs actually are really good at our stack. This is probably because the stack is extremely dense. Imba is compact, and so is OP, where a single declaration sets storage, sync, permissions, UI, and what the AI sees. This means there’s no translations between frontend, API, db and JSON where the model can get confused and get things wrong.<p>Simply said, instead of using React.js, Express, Supabase, and LangChain, we built it all from scratch. Definitely suffering from the “not invented here” syndrome, lol! As for the models, we use Gemini, GPTs, Inworld, ElevenLabs, and a few others.<p>If you want to try it out, just take your pick: - The Web UI (scrimba.com&#x2F;explain) - MCP (add it to your coding agent) - ChatGPT Plugin - Chrome Extension<p>You can find a link to all of the above in our docs: <a href=\"https:&#x2F;&#x2F;docs.scrimba.com&#x2F;explain&#x2F;introduction\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.scrimba.com&#x2F;explain&#x2F;introduction</a><p>And finally, a real pixel-based video of the tool: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=k6rbHmBxSEs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=k6rbHmBxSEs</a><p>Would love to hear your feedback and if anyone has ideas for other use cases.<p>PS: I expect quite a bit of pushback from HN for this launch, given how fan of text the HN crowd is. This kind of tool is not for everyone. But there are a lot of people today who prefer videos over text, especially in the younger generations." ]
+}, {
+  "title" : "The Art Forger Who Became a National Hero",
+  "description" : "Link: https://priceonomics.com/the-art-forger-who-became-a-national-hero/ | Score: 39 | Comments: 9 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=49857231",
+  "answers" : [ ]
+} ]
