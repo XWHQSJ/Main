@@ -1,0 +1,151 @@
+[ {
+  "title" : "Gemini 4 Argon",
+  "description" : "Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ | Score: 1328 | Comments: 845 | By: bradleyg223",
+  "url" : "https://news.ycombinator.com/item?id=49913571",
+  "answers" : [ "See also: <i>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236</a>" ]
+}, {
+  "title" : "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+  "description" : "Link: https://www.thespacereview.com/article/4951/1 | Score: 207 | Comments: 95 | By: Bluestein",
+  "url" : "https://news.ycombinator.com/item?id=49915082",
+  "answers" : [ ]
+}, {
+  "title" : "Why the Bronze Age Collapsed",
+  "description" : "Link: https://www.worksinprogress.news/p/why-really-caused-the-bronze-age | Score: 200 | Comments: 103 | By: AnodicElegy",
+  "url" : "https://news.ycombinator.com/item?id=49890732",
+  "answers" : [ ]
+}, {
+  "title" : "Surprisingly complex waves reveal the brain's inner workings",
+  "description" : "Link: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ | Score: 174 | Comments: 56 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49912955",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+  "description" : "Link: https://github.com/magnitudedev/magnitude | Score: 156 | Comments: 77 | By: anerli",
+  "url" : "https://news.ycombinator.com/item?id=49911995",
+  "answers" : [ "Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.<p>We&#x27;re both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.<p>Inference engines today all make a performance tradeoff. They are either:<p>- Built for batched inference on datacenter hardware at the cost of single-session performance (vLLM, SGLang)\n- Designed for broad compatibility instead of optimizing for specific hardware (llama.cpp, Ollama)\n- Specialized for specific hardware or models but lacking engine completeness (oMLX, ds4)<p>Plus none of them are designed for running agents locally. Sessions are long, several often run at once, and you still want to use your computer for other things.<p>Magnitude is built for maximum performance on your hardware and running local agents:<p>- On-device compilation and tuning: Kernels are written with flexible parameters that are tuned on your actual device before the model runs. This gives you broad hardware compatibility with the same performance ceiling as hardware-specific kernels.<p>- Focus on best architectures: We write our tunable, highly efficient kernels for the most popular open-weights families. This allows us to achieve and surpass the performance of hardware or model specialized engines, without forcing ourselves to over-generalize at the cost of performance.<p>- Dynamic memory allocation: Magnitude reserves only enough memory up front to hold model weights. As your agent sessions grow, the memory heap dynamically increases, and frees itself when agents stop. Your hardware can still be used for other stuff while agents run.<p>- Hybrid paged attention: We borrow the best ideas from engines like SGLang to allow concurrent sessions to share prefix caches, but optimize placement for memory-adjacency so single-session performance doesn&#x27;t suffer.<p>Magnitude is fully open source (Apache 2.0). We built it in Rust, including a custom GPU kernel runtime and autotuner. We take inspiration from the best innovations in inference from academics (e.g. FlashAttention, FlashInfer, TurboQuant) as well as other engines (e.g. SGLang radix attention) to reach the performance ceiling.<p>Benchmarked against llama.cpp with Qwen 3.6 35B A3B (4 bit), 64k context, no speculative decoding:<p>Metal (Mac M4 Pro 48 GB)\n- 92% faster decode (30 tok&#x2F;s → 57 tok&#x2F;s)\n- 9% faster prefill (466 tok&#x2F;s → 507 tok&#x2F;s)\n- 28% less per-agent memory usage<p>CUDA (DGX Spark)\n- 19% faster decode (49 tok&#x2F;s → 58 tok&#x2F;s)\n- 23% faster prefill (2,033 tok&#x2F;s → 2,507 tok&#x2F;s)\n- 27% less per-agent memory usage<p>Magnitude ships as a desktop app that you can easily connect with whatever agents you already use (Pi, OpenCode, Hermes, Codex, and more). It automatically runs models on demand when these agents actually need them, and shuts them down after inactivity.\nHere&#x27;s what it looks like: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0qE8BWEZu7o\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0qE8BWEZu7o</a><p>We&#x27;re excited to push Magnitude further to let you run bigger models on the same hardware while continuing to improve performance. Our plans include:<p>- Expert streaming: store experts on RAM or disk and load them just-in-time. This lets you run models bigger than what otherwise would fit on your GPU.<p>- Kernel compiler: our current kernels tune a few parameters to fit your hardware. We can take this further with a fully custom compiler that automatically chooses how to fuse kernels and which implementations to use, to make it fit to your hardware even better.<p>- Multi-device utilization: Make the best possible use of all hardware on a system (CPU, GPUs, RAM, disk) by detecting these and automatically solving for the best model layout.<p>We&#x27;d love for more people to try it out and give us feedback. Feel free to comment here, we&#x27;ll be around all day!" ]
+}, {
+  "title" : "Halfspace experimental IDE for solid modeling with distance fields",
+  "description" : "Link: https://www.mattkeeter.com/projects/halfspace/ | Score: 122 | Comments: 9 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=49913350",
+  "answers" : [ ]
+}, {
+  "title" : "EDG C++ front-end goes public",
+  "description" : "Link: https://edgcpp.org/#transition | Score: 210 | Comments: 94 | By: iandinwoodie",
+  "url" : "https://news.ycombinator.com/item?id=49913192",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;edgcpp&#x2F;compiler\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;edgcpp&#x2F;compiler</a>" ]
+}, {
+  "title" : "A brief history of the Bloomberg terminal",
+  "description" : "Link: https://spectrum.ieee.org/bloomberg-terminal | Score: 272 | Comments: 117 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=49909583",
+  "answers" : [ ]
+}, {
+  "title" : "Before pixels: Modular industrial dashboards",
+  "description" : "Link: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ | Score: 116 | Comments: 24 | By: leephillips",
+  "url" : "https://news.ycombinator.com/item?id=49912792",
+  "answers" : [ ]
+}, {
+  "title" : "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+  "description" : "Link: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ | Score: 164 | Comments: 63 | By: jbott",
+  "url" : "https://news.ycombinator.com/item?id=49912444",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Ledge.sh – Runnable Markdown Notes",
+  "description" : "Link: https://ledge.sh | Score: 121 | Comments: 51 | By: dancablam",
+  "url" : "https://news.ycombinator.com/item?id=49902382",
+  "answers" : [ "Hi HN,<p>Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.<p>I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a split brain between my notes and frequently run commands. I&#x27;ve been daily-driving it for the past few weeks and use it for deploys, API calls, smoke tests, etc.<p>Ledge runs your real shell just like a terminal app and can be hosted locally or remotely over SSH using ledge-server. I&#x27;ve been building it since July and have recently added support for all the major platforms: Mac (Silicon), Windows (WSL required), Linux, iOS, Android. Mobile devices require SSH access to a ledge-server and Android is still in beta and looking for beta testers (see link on website)!<p>It&#x27;s built on Bun and Electrobun and is free and open-source. Feel free to review the code and contribute at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;ledgesh&#x2F;ledge\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ledgesh&#x2F;ledge</a><p>Feedback is very much welcome. Any must-have features that are missing?" ]
+}, {
+  "title" : "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "description" : "Link: https://www.chompiclub.com/opensource | Score: 74 | Comments: 16 | By: lashkari",
+  "url" : "https://news.ycombinator.com/item?id=49912048",
+  "answers" : [ ]
+}, {
+  "title" : "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+  "description" : "Link: https://twitter.com/tuakdotsol/status/2105105417760391258 | Score: 360 | Comments: 303 | By: rzk",
+  "url" : "https://news.ycombinator.com/item?id=49906432",
+  "answers" : [ "Related: <a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cqzjzr893yv4o\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cqzjzr893yv4o</a>" ]
+}, {
+  "title" : "What TLA+ can and can't check",
+  "description" : "Link: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/ | Score: 183 | Comments: 41 | By: b-man",
+  "url" : "https://news.ycombinator.com/item?id=49909056",
+  "answers" : [ ]
+}, {
+  "title" : "56k.rip – the 1996 dial-up internet experience",
+  "description" : "Link: https://56k.rip/ | Score: 161 | Comments: 77 | By: adunk",
+  "url" : "https://news.ycombinator.com/item?id=49915126",
+  "answers" : [ ]
+}, {
+  "title" : "The last time my family was replaced by technology",
+  "description" : "Link: https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/ | Score: 227 | Comments: 479 | By: megalomanu",
+  "url" : "https://news.ycombinator.com/item?id=49908394",
+  "answers" : [ ]
+}, {
+  "title" : "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+  "description" : "Link: https://bookofshapes.com/ | Score: 9 | Comments: 0 | By: eustoria",
+  "url" : "https://news.ycombinator.com/item?id=49894430",
+  "answers" : [ ]
+}, {
+  "title" : "Doing a Machine Learning PhD While Working in Japan",
+  "description" : "Link: https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan | Score: 89 | Comments: 33 | By: pwim",
+  "url" : "https://news.ycombinator.com/item?id=49905644",
+  "answers" : [ ]
+}, {
+  "title" : "Burning Man death rates – A short lesson in statistics",
+  "description" : "Link: https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson | Score: 136 | Comments: 166 | By: viraj_shah",
+  "url" : "https://news.ycombinator.com/item?id=49882754",
+  "answers" : [ ]
+}, {
+  "title" : "Responsible Release of AI-Generated Mathematics",
+  "description" : "Link: https://agmai.org/general-sep29/ | Score: 93 | Comments: 115 | By: aureianimus",
+  "url" : "https://news.ycombinator.com/item?id=49903713",
+  "answers" : [ ]
+}, {
+  "title" : "Coltrane's Tone Circle",
+  "description" : "Link: https://jtomschroeder.com/blog/tone-circle/ | Score: 56 | Comments: 17 | By: jtomschroeder",
+  "url" : "https://news.ycombinator.com/item?id=49909908",
+  "answers" : [ ]
+}, {
+  "title" : "Functional Ultrasound Imaging (fUSI) from scratch",
+  "description" : "Link: https://www.neuroai.science/p/functional-ultrasound-imaging-from | Score: 45 | Comments: 8 | By: pminimax",
+  "url" : "https://news.ycombinator.com/item?id=49913604",
+  "answers" : [ ]
+}, {
+  "title" : "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+  "description" : "Link: https://www.software3d.com/MillersMonster.php | Score: 65 | Comments: 8 | By: cobbzilla",
+  "url" : "https://news.ycombinator.com/item?id=49911534",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Yantra – an LALR(1) parser generator for C++",
+  "description" : "Link: https://github.com/TantrixAuto/yantra | Score: 23 | Comments: 14 | By: renjipanicker",
+  "url" : "https://news.ycombinator.com/item?id=49916997",
+  "answers" : [ "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.<p>Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.<p>That means at the time a rule&#x27;s action runs, you don&#x27;t yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or defer a decision until more context is available.<p>On the other hand, Yantra always builds the whole AST first, then walks it top-down in a separate pass, calling your semantic actions as it goes. A parent rule&#x27;s action can run before its children are visited.<p>A single grammar can define more than one walker. For example, one that emits C++, another that emits Java, from the same parse. The AST and the walker classes are both generated for you.<p>A small example (full version, with compile commands, in the README):<p><pre><code>  start := expr;\n\n  expr := expr(a) PLUS expr(b)\n  %{\n      std::cout &lt;&lt; &quot;Adding&quot; &lt;&lt; std::endl;\n  %}\n\n  expr := NUMBER(N)\n  %{\n      std::cout &lt;&lt; &quot;Number: &quot; &lt;&lt; N.text &lt;&lt; std::endl;\n  %}\n\n  NUMBER := &quot;\\d+&quot;;\n  PLUS := &quot;\\+&quot;;\n  WS := &quot;\\s+&quot;!;\n</code></pre>\nRunning this on &quot;1 + 2 + 3&quot; prints:<p><pre><code>  Adding\n  Number: 1\n  Adding\n  Number: 2\n  Number: 3\n</code></pre>\nThe outer &quot;Adding&quot;, the root of the tree, prints first, before either of its children. That&#x27;s only possible because the whole tree exists before any action runs.<p>Some other things about it: integrated lexer with mode support (for things like nested comments), an optional amalgamated single-file output mode with a generated main(), C++23, MIT licensed.<p>It&#x27;s young (0.5.1, pre-1.0) and single-maintainer, so treat it as early.\nI&#x27;d rather know what breaks than have it look more finished than it is.<p>Known gaps are listed at\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;TantrixAuto&#x2F;yantra&#x2F;blob&#x2F;main&#x2F;docs&#x2F;known_limitations.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;TantrixAuto&#x2F;yantra&#x2F;blob&#x2F;main&#x2F;docs&#x2F;known_l...</a><p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;TantrixAuto&#x2F;yantra\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;TantrixAuto&#x2F;yantra</a><p>Feedback and questions are all welcome. I&#x27;ll be around." ]
+}, {
+  "title" : "LinkedIn Larpmaxxing",
+  "description" : "Link: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/ | Score: 181 | Comments: 160 | By: BurnerBurner",
+  "url" : "https://news.ycombinator.com/item?id=49904314",
+  "answers" : [ ]
+}, {
+  "title" : "PlayBook: A Programmable Paper Notebook [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=GurWDZ8ENpA | Score: 12 | Comments: 2 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=49895221",
+  "answers" : [ ]
+}, {
+  "title" : "SDF Public Access Unix System ... est. 1987",
+  "description" : "Link: https://sdf.org/ | Score: 93 | Comments: 23 | By: kmstout",
+  "url" : "https://news.ycombinator.com/item?id=49909610",
+  "answers" : [ ]
+}, {
+  "title" : "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+  "description" : "Link: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/ | Score: 146 | Comments: 58 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49908962",
+  "answers" : [ ]
+}, {
+  "title" : "You said no MCP",
+  "description" : "Link: https://earendil.com/posts/you-said-no-mcp/ | Score: 638 | Comments: 350 | By: yarapavan",
+  "url" : "https://news.ycombinator.com/item?id=49906637",
+  "answers" : [ ]
+}, {
+  "title" : "Solving Factorio Quality",
+  "description" : "Link: https://exyr.org/2026/solving-factorio-quality/ | Score: 260 | Comments: 99 | By: laurenth",
+  "url" : "https://news.ycombinator.com/item?id=49887343",
+  "answers" : [ ]
+} ]
