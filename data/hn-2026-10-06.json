@@ -1,0 +1,151 @@
+[ {
+  "title" : "German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism",
+  "description" : "Link: https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/ | Score: 19 | Comments: 19 | By: AmazingTurtle",
+  "url" : "https://news.ycombinator.com/item?id=49975484",
+  "answers" : [ ]
+}, {
+  "title" : "Beam: Reflection's 501B open-weight model",
+  "description" : "Link: https://reflection.ai/blog/introducing-beam | Score: 436 | Comments: 136 | By: Philpax",
+  "url" : "https://news.ycombinator.com/item?id=49969183",
+  "answers" : [ ]
+}, {
+  "title" : "Accountability mechanisms can be joyful",
+  "description" : "Link: https://liquidbrain.net/blog/accountability-and-joy/ | Score: 28 | Comments: 1 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=49951155",
+  "answers" : [ ]
+}, {
+  "title" : "Find the flattest route between any two points in SF",
+  "description" : "Link: https://flattensf.com/ | Score: 187 | Comments: 64 | By: ishan0102",
+  "url" : "https://news.ycombinator.com/item?id=49971230",
+  "answers" : [ ]
+}, {
+  "title" : "Dust: Pretraining Transformers Without Backpropagation",
+  "description" : "Link: https://qlabs.sh/research/dust | Score: 173 | Comments: 42 | By: E-Reverance",
+  "url" : "https://news.ycombinator.com/item?id=49970871",
+  "answers" : [ ]
+}, {
+  "title" : "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+  "description" : "Link: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors | Score: 342 | Comments: 223 | By: outlier99",
+  "url" : "https://news.ycombinator.com/item?id=49970667",
+  "answers" : [ ]
+}, {
+  "title" : "Friendship ended with Deno, now Node is my best friend",
+  "description" : "Link: https://dbushell.com/2026/10/03/deno-to-node/ | Score: 154 | Comments: 83 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49971719",
+  "answers" : [ ]
+}, {
+  "title" : "Resurrecting iChat Audio and Video Conferencing",
+  "description" : "Link: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ | Score: 41 | Comments: 12 | By: thepipetogrep",
+  "url" : "https://news.ycombinator.com/item?id=49973878",
+  "answers" : [ ]
+}, {
+  "title" : "Example.com just launched the biggest redesign in decades",
+  "description" : "Link: https://www.debugbear.com/blog/example-dot-com-redesign-history | Score: 211 | Comments: 133 | By: jgx0",
+  "url" : "https://news.ycombinator.com/item?id=49971921",
+  "answers" : [ ]
+}, {
+  "title" : "Web Search API",
+  "description" : "Link: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ | Score: 538 | Comments: 244 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=49963171",
+  "answers" : [ ]
+}, {
+  "title" : "An algorithmic failure beneath the secret ballot",
+  "description" : "Link: https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/ | Score: 76 | Comments: 38 | By: leecoursey",
+  "url" : "https://news.ycombinator.com/item?id=49945588",
+  "answers" : [ ]
+}, {
+  "title" : "Testing 12 different Zigbee temperature/humidity sensors",
+  "description" : "Link: https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/ | Score: 103 | Comments: 46 | By: walrus01",
+  "url" : "https://news.ycombinator.com/item?id=49950653",
+  "answers" : [ ]
+}, {
+  "title" : "Competitive Programmer's Handbook (2018) [pdf]",
+  "description" : "Link: https://cses.fi/book/book.pdf | Score: 189 | Comments: 43 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=49944049",
+  "answers" : [ ]
+}, {
+  "title" : "Why Common Lisp is now the best programming language",
+  "description" : "Link: https://www.vivienhenz.com/common-lisp | Score: 142 | Comments: 190 | By: misterchocolat",
+  "url" : "https://news.ycombinator.com/item?id=49973598",
+  "answers" : [ ]
+}, {
+  "title" : "We are going to kill \"unalive\"",
+  "description" : "Link: https://www.anildash.com/2026/10/06/kill-unalive/ | Score: 66 | Comments: 42 | By: Tomte",
+  "url" : "https://news.ycombinator.com/item?id=49975083",
+  "answers" : [ ]
+}, {
+  "title" : "Global Solar Atlas: summary of solar power potential globally",
+  "description" : "Link: https://globalsolaratlas.info/ | Score: 51 | Comments: 30 | By: stratts",
+  "url" : "https://news.ycombinator.com/item?id=49971782",
+  "answers" : [ ]
+}, {
+  "title" : "The complement of true is true, except when it's false",
+  "description" : "Link: https://dryperspective.github.io/posts/complement-of-true/ | Score: 7 | Comments: 0 | By: aw1621107",
+  "url" : "https://news.ycombinator.com/item?id=49953344",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Photoc – Command-line tools for photographers",
+  "description" : "Link: https://github.com/ahmetomerv/photoc | Score: 30 | Comments: 4 | By: ahmetomer",
+  "url" : "https://news.ycombinator.com/item?id=49944196",
+  "answers" : [ ]
+}, {
+  "title" : "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+  "description" : "Link: https://github.com/dfd-tud/deda | Score: 61 | Comments: 6 | By: greyface-",
+  "url" : "https://news.ycombinator.com/item?id=49953195",
+  "answers" : [ ]
+}, {
+  "title" : "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+  "description" : "Link: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/ | Score: 412 | Comments: 299 | By: rdmuser",
+  "url" : "https://news.ycombinator.com/item?id=49971846",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Entombed in a Raycaster",
+  "description" : "Link: https://www.stelabouras.com/blog/entombed-raycaster/ | Score: 18 | Comments: 4 | By: stelabouras",
+  "url" : "https://news.ycombinator.com/item?id=49943598",
+  "answers" : [ ]
+}, {
+  "title" : "Samon: Designing a Zen Garden Raking Puzzle",
+  "description" : "Link: https://gwern.net/doc/design/2026-10-03-gwern-samon.html | Score: 41 | Comments: 19 | By: networked",
+  "url" : "https://news.ycombinator.com/item?id=49972211",
+  "answers" : [ ]
+}, {
+  "title" : "The lamps in my house",
+  "description" : "Link: https://arslan.io/2026/10/05/the-lamps-in-my-house/ | Score: 190 | Comments: 88 | By: farslan",
+  "url" : "https://news.ycombinator.com/item?id=49965152",
+  "answers" : [ ]
+}, {
+  "title" : "Ephemeral Testing",
+  "description" : "Link: https://lemire.me/blog/2026/10/05/ephemeral-testing/ | Score: 53 | Comments: 18 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=49972008",
+  "answers" : [ ]
+}, {
+  "title" : "Apple and a hacker's future",
+  "description" : "Link: https://stratechery.com/2026/apple-and-a-hackers-future/ | Score: 250 | Comments: 213 | By: maguay",
+  "url" : "https://news.ycombinator.com/item?id=49962857",
+  "answers" : [ ]
+}, {
+  "title" : "Texas city demands $2M for public records on Flock usage",
+  "description" : "Link: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/ | Score: 194 | Comments: 29 | By: 01-_-",
+  "url" : "https://news.ycombinator.com/item?id=49971523",
+  "answers" : [ ]
+}, {
+  "title" : "Making a GTK application in Haskell, part 1",
+  "description" : "Link: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ | Score: 154 | Comments: 40 | By: Vosporos",
+  "url" : "https://news.ycombinator.com/item?id=49965308",
+  "answers" : [ ]
+}, {
+  "title" : "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+  "description" : "Link: https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech | Score: 189 | Comments: 125 | By: 0xedb",
+  "url" : "https://news.ycombinator.com/item?id=49961861",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;Axpbl\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;Axpbl</a><p><a href=\"https:&#x2F;&#x2F;www.huawei.com&#x2F;en&#x2F;news&#x2F;2026&#x2F;10&#x2F;qualcomm-broad-patent-agreement\" rel=\"nofollow\">https:&#x2F;&#x2F;www.huawei.com&#x2F;en&#x2F;news&#x2F;2026&#x2F;10&#x2F;qualcomm-broad-patent...</a>" ]
+}, {
+  "title" : "Ocean the Man Who Listens to Whales",
+  "description" : "Link: https://blue-continuum.com/the-man-who-listens-to-whales | Score: 11 | Comments: 4 | By: dnetesn",
+  "url" : "https://news.ycombinator.com/item?id=49952464",
+  "answers" : [ ]
+}, {
+  "title" : "The first fully implanted cochlear implant reaches patients",
+  "description" : "Link: https://spectrum.ieee.org/fully-implantable-cochlear-implant | Score: 88 | Comments: 71 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=49920785",
+  "answers" : [ ]
+} ]
