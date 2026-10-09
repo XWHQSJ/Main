@@ -1,0 +1,151 @@
+[ {
+  "title" : "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+  "description" : "Link: https://opentelemetry.io/blog/2026/otel-native-by-design/ | Score: 28 | Comments: 2 | By: dhruv_ahuja",
+  "url" : "https://news.ycombinator.com/item?id=50016974",
+  "answers" : [ ]
+}, {
+  "title" : "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "description" : "Link: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ | Score: 692 | Comments: 563 | By: jonotime",
+  "url" : "https://news.ycombinator.com/item?id=50000488",
+  "answers" : [ ]
+}, {
+  "title" : "Whistle: Speech to Text in 16.9 MB",
+  "description" : "Link: https://cactuscompute.com/blog/whistle | Score: 738 | Comments: 146 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50008427",
+  "answers" : [ ]
+}, {
+  "title" : "Keyboard differences between Windows and Macs",
+  "description" : "Link: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ | Score: 112 | Comments: 93 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=50015515",
+  "answers" : [ ]
+}, {
+  "title" : "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+  "description" : "Link: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/ | Score: 659 | Comments: 389 | By: ck2",
+  "url" : "https://news.ycombinator.com/item?id=49995495",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;NomadsGalaxy&#x2F;status&#x2F;2107284088247689290\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;NomadsGalaxy&#x2F;status&#x2F;2107284088247689290</a>" ]
+}, {
+  "title" : "Theranos.world",
+  "description" : "Link: https://www.theranos.world/ | Score: 425 | Comments: 147 | By: kbyatnal",
+  "url" : "https://news.ycombinator.com/item?id=50009295",
+  "answers" : [ ]
+}, {
+  "title" : "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+  "description" : "Link: https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my | Score: 592 | Comments: 107 | By: soheilpro",
+  "url" : "https://news.ycombinator.com/item?id=49986882",
+  "answers" : [ ]
+}, {
+  "title" : "Yes, and",
+  "description" : "Link: https://htmx.org/essays/yes-and/ | Score: 390 | Comments: 115 | By: Michelangelo11",
+  "url" : "https://news.ycombinator.com/item?id=50003796",
+  "answers" : [ ]
+}, {
+  "title" : "MXC - a sandboxed code execution system",
+  "description" : "Link: https://github.com/microsoft/mxc | Score: 10 | Comments: 1 | By: nreece",
+  "url" : "https://news.ycombinator.com/item?id=50016489",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Quake ported to safe Rust, playable in browser",
+  "description" : "Link: https://quake-srp.pages.dev/ | Score: 138 | Comments: 113 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=50016312",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI, the Partition Principle, and Mathematics",
+  "description" : "Link: https://karagila.org/2026/openai-pp/ | Score: 110 | Comments: 154 | By: md224",
+  "url" : "https://news.ycombinator.com/item?id=50013902",
+  "answers" : [ ]
+}, {
+  "title" : "The value of not getting to the point (2015)",
+  "description" : "Link: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ | Score: 159 | Comments: 54 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=50010470",
+  "answers" : [ ]
+}, {
+  "title" : "Reducing undefined behavior in the C language",
+  "description" : "Link: https://lwn.net/Articles/1095811/ | Score: 107 | Comments: 90 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=50015074",
+  "answers" : [ ]
+}, {
+  "title" : "AI-ready biological data: $1.8B global commitment",
+  "description" : "Link: https://biohub.org/news/virtual-biology-initiative-expansion/ | Score: 118 | Comments: 18 | By: ray__",
+  "url" : "https://news.ycombinator.com/item?id=50011999",
+  "answers" : [ ]
+}, {
+  "title" : "ETH-68: Ethernet Audio Interface for Linux",
+  "description" : "Link: https://naturalsystems.io/eth68 | Score: 150 | Comments: 86 | By: chabad360",
+  "url" : "https://news.ycombinator.com/item?id=49992994",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+  "description" : "Score: 220 | Comments: 335 | By: mariocesar",
+  "url" : "https://news.ycombinator.com/item?id=49985548",
+  "answers" : [ "DHH&#x27;s &quot;AI shed&quot; idea got me thinking about getting a small $5–10&#x2F;month VPS.<p>I&#x27;m a Linux guy and have on many points of my life have a personal server. So I like the idea of having something always on, but I’m not sure the maintenance is worth it when most things can just run on my laptop.<p>That said, I tend to do things myself and only later realize I could have automated or delegated them, so I may have a blind spot here.<p>If you have a cheap VPS or mini PC, what actually ended up being useful long-term? Anything that saved enough time or replaced enough subscriptions to justify keeping it around?" ]
+}, {
+  "title" : "Beauty in DVD Menus",
+  "description" : "Link: https://vale.rocks/posts/dvd-menus | Score: 297 | Comments: 158 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=50005527",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: OldRoll, a free vintage photo editor for the browser",
+  "description" : "Link: https://www.oldroll.io/ | Score: 6 | Comments: 1 | By: awa11",
+  "url" : "https://news.ycombinator.com/item?id=50016840",
+  "answers" : [ "OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use." ]
+}, {
+  "title" : "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+  "description" : "Link: http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html | Score: 159 | Comments: 30 | By: scottbez1",
+  "url" : "https://news.ycombinator.com/item?id=50008047",
+  "answers" : [ ]
+}, {
+  "title" : "A Terminal Protocol for Program Status (OSC 7501)",
+  "description" : "Link: https://mitchellh.com/writing/program-status-osc7501 | Score: 143 | Comments: 47 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=49984159",
+  "answers" : [ ]
+}, {
+  "title" : "DuckDB Ducklake",
+  "description" : "Link: https://github.com/duckdb/ducklake | Score: 171 | Comments: 23 | By: saikatsg",
+  "url" : "https://news.ycombinator.com/item?id=49996149",
+  "answers" : [ ]
+}, {
+  "title" : "What should we tell our students?",
+  "description" : "Link: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ | Score: 101 | Comments: 103 | By: sajid",
+  "url" : "https://news.ycombinator.com/item?id=50015236",
+  "answers" : [ ]
+}, {
+  "title" : "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+  "description" : "Link: https://www.nature.com/articles/s41586-026-10546-z | Score: 130 | Comments: 9 | By: bryanrasmussen",
+  "url" : "https://news.ycombinator.com/item?id=49996639",
+  "answers" : [ ]
+}, {
+  "title" : "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+  "description" : "Link: https://openrouter.ai/stepfun/step-5-preview | Score: 125 | Comments: 30 | By: AnneWodell",
+  "url" : "https://news.ycombinator.com/item?id=50007764",
+  "answers" : [ ]
+}, {
+  "title" : "Bevy 0.20",
+  "description" : "Link: https://bevy.org/news/bevy-0-20/ | Score: 152 | Comments: 28 | By: Philpax",
+  "url" : "https://news.ycombinator.com/item?id=50013610",
+  "answers" : [ ]
+}, {
+  "title" : "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+  "description" : "Link: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full | Score: 286 | Comments: 180 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=50011928",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI withdraws three mathematical results",
+  "description" : "Link: https://twitter.com/danintheory/status/2108065033070789090 | Score: 300 | Comments: 572 | By: sashank_1509",
+  "url" : "https://news.ycombinator.com/item?id=50002650",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;blob&#x2F;main&#x2F;history.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;blob&#x2F;main&#x2F;history.md</a>" ]
+}, {
+  "title" : "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+  "description" : "Link: https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/ | Score: 130 | Comments: 55 | By: Hooke",
+  "url" : "https://news.ycombinator.com/item?id=49998992",
+  "answers" : [ ]
+}, {
+  "title" : "Scaling and benchmarking a critical message bus using a new indexing strategy",
+  "description" : "Link: https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/ | Score: 41 | Comments: 3 | By: eatonphil",
+  "url" : "https://news.ycombinator.com/item?id=50009066",
+  "answers" : [ ]
+}, {
+  "title" : "Orkut.com",
+  "description" : "Link: https://orkut.com/ | Score: 187 | Comments: 137 | By: andreynering",
+  "url" : "https://news.ycombinator.com/item?id=50006012",
+  "answers" : [ ]
+} ]
