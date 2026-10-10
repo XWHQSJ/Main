@@ -1,0 +1,151 @@
+[ {
+  "title" : "REA Reverse – Engineer Anything",
+  "description" : "Link: https://rea.tools/ | Score: 345 | Comments: 119 | By: modinfo",
+  "url" : "https://news.ycombinator.com/item?id=50028275",
+  "answers" : [ ]
+}, {
+  "title" : "Telegram Desktop vulnerability allowed any user's file to be stolen",
+  "description" : "Link: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ | Score: 108 | Comments: 46 | By: g-b-r",
+  "url" : "https://news.ycombinator.com/item?id=50029123",
+  "answers" : [ ]
+}, {
+  "title" : "Cloudflare acquires Deno",
+  "description" : "Link: https://deno.com/blog/cloudflare | Score: 1190 | Comments: 607 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=50019911",
+  "answers" : [ ]
+}, {
+  "title" : "Triple-A Minesweeper",
+  "description" : "Link: https://minesweeper.mikelacher.com/ | Score: 907 | Comments: 174 | By: robin_reala",
+  "url" : "https://news.ycombinator.com/item?id=50022292",
+  "answers" : [ ]
+}, {
+  "title" : "Computers Cannot Make Decisions",
+  "description" : "Link: https://wiki.cateat.fish/art:computers_cannot_make_decisions | Score: 22 | Comments: 10 | By: heavensteeth",
+  "url" : "https://news.ycombinator.com/item?id=50029982",
+  "answers" : [ ]
+}, {
+  "title" : "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+  "description" : "Link: https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo | Score: 117 | Comments: 26 | By: ortusdux",
+  "url" : "https://news.ycombinator.com/item?id=49997481",
+  "answers" : [ ]
+}, {
+  "title" : "Typesafe AI raises $870M at $7.5B",
+  "description" : "Link: https://typesafe.ai/blog/series-ai | Score: 352 | Comments: 259 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=50023450",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+  "description" : "Link: https://carrierexplode.com/ | Score: 303 | Comments: 39 | By: simplyalec",
+  "url" : "https://news.ycombinator.com/item?id=50024499",
+  "answers" : [ "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups." ]
+}, {
+  "title" : "Can you use autoregressive diffusion to generate market data?",
+  "description" : "Link: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/ | Score: 68 | Comments: 23 | By: jsomers",
+  "url" : "https://news.ycombinator.com/item?id=50021410",
+  "answers" : [ ]
+}, {
+  "title" : "How to head into VR without wearing a headset",
+  "description" : "Link: https://www.kyushu-u.ac.jp/en/researches/view/414/ | Score: 20 | Comments: 7 | By: Betelbuddy",
+  "url" : "https://news.ycombinator.com/item?id=49981264",
+  "answers" : [ ]
+}, {
+  "title" : "Compiling Rust to readable C with Eurydice",
+  "description" : "Link: https://lwn.net/Articles/1055211/ | Score: 63 | Comments: 11 | By: peter_d_sherman",
+  "url" : "https://news.ycombinator.com/item?id=50027853",
+  "answers" : [ ]
+}, {
+  "title" : "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+  "description" : "Link: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ | Score: 139 | Comments: 73 | By: piratebroadcast",
+  "url" : "https://news.ycombinator.com/item?id=50019056",
+  "answers" : [ ]
+}, {
+  "title" : "Clinical trial of a prion disease drug candidate begins enrolling participants",
+  "description" : "Link: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants | Score: 48 | Comments: 10 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=50028027",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Proton Drive for Linux",
+  "description" : "Link: https://oss.lsantos.dev/proton-drive-linux-fs/ | Score: 70 | Comments: 25 | By: khaosdoctor",
+  "url" : "https://news.ycombinator.com/item?id=50003545",
+  "answers" : [ "Hello everyone, I wanted to share this small project that I have.\nIt&#x27;s born out of a necessity that I had, because Proton doesn&#x27;t ship a Linux version of the drive yet (it&#x27;s apparently coming out later this year but who knows?) and all the current solutions are hacky and wonky at best. But for the time being I really needed to mount my Proton drive on my Linux machine the way I mounted it on my Mac, so I (and my faithful AI slave) did this small utility that allows you to mount your Proton Drive in a FUSE FS like if it is a local folder.<p>It&#x27;s fully written in Go because Proton&#x27;s drive SDK and API libs are all in Go, and there&#x27;s a community project on top of the reverse engineered proton API there too. I am not a Go developer, I know the foundations, so of course I used AI quite a lot, I am not super proud of it, but I am using it daily and testing it myself for a few months before releasing here.<p>Hope you like it, feedbacks are welcome, just please be mindful of the person on the other side :)" ]
+}, {
+  "title" : "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+  "description" : "Link: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 | Score: 548 | Comments: 302 | By: gumby",
+  "url" : "https://news.ycombinator.com/item?id=50026555",
+  "answers" : [ ]
+}, {
+  "title" : "Scam American companies are using to manipulate ingredient lists",
+  "description" : "Link: https://twitter.com/WallStreetApes/status/2108594998656807078 | Score: 104 | Comments: 111 | By: bilsbie",
+  "url" : "https://news.ycombinator.com/item?id=50023995",
+  "answers" : [ ]
+}, {
+  "title" : "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+  "description" : "Link: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ | Score: 97 | Comments: 18 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=50024090",
+  "answers" : [ ]
+}, {
+  "title" : "Communication Between the Compiler, the Build System, and Beyond",
+  "description" : "Link: https://shrub.industries/words/problem.html | Score: 10 | Comments: 2 | By: shrub900",
+  "url" : "https://news.ycombinator.com/item?id=49980208",
+  "answers" : [ ]
+}, {
+  "title" : "Our $445M Series D",
+  "description" : "Link: https://oxide.computer/blog/our-445m-series-d | Score: 644 | Comments: 294 | By: ahlCVA",
+  "url" : "https://news.ycombinator.com/item?id=50020014",
+  "answers" : [ ]
+}, {
+  "title" : "I tried to move my notes out of Emacs. I failed. Again",
+  "description" : "Link: https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/ | Score: 8 | Comments: 12 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=49998350",
+  "answers" : [ ]
+}, {
+  "title" : "The role of cat eye narrowing movements in cat–human communication (2020)",
+  "description" : "Link: https://www.nature.com/articles/s41598-020-73426-0 | Score: 75 | Comments: 31 | By: bushwart",
+  "url" : "https://news.ycombinator.com/item?id=49984854",
+  "answers" : [ ]
+}, {
+  "title" : "Vegetative Electron Microscopy WTF? (2025)",
+  "description" : "Link: https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html | Score: 5 | Comments: 0 | By: adunk",
+  "url" : "https://news.ycombinator.com/item?id=50006734",
+  "answers" : [ ]
+}, {
+  "title" : "Sorry, I'm in a meeting",
+  "description" : "Link: https://iminafleeting.com/ | Score: 875 | Comments: 247 | By: splintersio",
+  "url" : "https://news.ycombinator.com/item?id=50018088",
+  "answers" : [ ]
+}, {
+  "title" : "'Wallace and Gromit,' 90% Alone",
+  "description" : "Link: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone | Score: 197 | Comments: 24 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=50020533",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: The rarest tech books and docs you've probably never read",
+  "description" : "Link: https://readrare.com/ | Score: 116 | Comments: 43 | By: miletus",
+  "url" : "https://news.ycombinator.com/item?id=50024055",
+  "answers" : [ ]
+}, {
+  "title" : "Food processing influences metabolism and brain activity",
+  "description" : "Link: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html | Score: 8 | Comments: 5 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50029830",
+  "answers" : [ ]
+}, {
+  "title" : "Atari Falcon",
+  "description" : "Link: https://atarimuseum.nl/atari-falcon/ | Score: 43 | Comments: 16 | By: debo_",
+  "url" : "https://news.ycombinator.com/item?id=50027590",
+  "answers" : [ ]
+}, {
+  "title" : "100+ reactions to 100+ solutions",
+  "description" : "Link: https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/ | Score: 65 | Comments: 57 | By: jacobedawson",
+  "url" : "https://news.ycombinator.com/item?id=50019499",
+  "answers" : [ ]
+}, {
+  "title" : "Put a price on breakthroughs",
+  "description" : "Link: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ | Score: 14 | Comments: 5 | By: ketothekingdom",
+  "url" : "https://news.ycombinator.com/item?id=50028982",
+  "answers" : [ ]
+}, {
+  "title" : "Programming Isn't Special",
+  "description" : "Link: https://blog.glyph.im/2026/10/programming-isnt-special.html | Score: 201 | Comments: 227 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=50017357",
+  "answers" : [ ]
+} ]
