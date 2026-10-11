@@ -1,0 +1,151 @@
+[ {
+  "title" : "3rd Yandex Cloud Data Center Was Hit",
+  "description" : "Link: https://status.yandex.cloud/en/incidents/2136 | Score: 33 | Comments: 14 | By: defly",
+  "url" : "https://news.ycombinator.com/item?id=50040547",
+  "answers" : [ ]
+}, {
+  "title" : "Build your own decision model",
+  "description" : "Link: https://nishtahir.com/build-your-own-decision-model/ | Score: 264 | Comments: 61 | By: softwaredoug",
+  "url" : "https://news.ycombinator.com/item?id=50037949",
+  "answers" : [ ]
+}, {
+  "title" : "2D Vehicles",
+  "description" : "Link: https://patkerr.co.uk/2d-vehicles/ | Score: 447 | Comments: 96 | By: Michelangelo11",
+  "url" : "https://news.ycombinator.com/item?id=49991852",
+  "answers" : [ ]
+}, {
+  "title" : "Decade-old RAM is making a comeback",
+  "description" : "Link: https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback | Score: 44 | Comments: 25 | By: 1potato",
+  "url" : "https://news.ycombinator.com/item?id=50028647",
+  "answers" : [ ]
+}, {
+  "title" : "A city-building game in which the city would prefer you didn't",
+  "description" : "Link: https://housing.over.pizza/ | Score: 320 | Comments: 101 | By: JumpCrisscross",
+  "url" : "https://news.ycombinator.com/item?id=50036864",
+  "answers" : [ ]
+}, {
+  "title" : "How big is a Git commit?",
+  "description" : "Link: https://ratfactor.com/cards/git-commit-size | Score: 22 | Comments: 6 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=50017548",
+  "answers" : [ ]
+}, {
+  "title" : "PSPi 6 – Raspberry Pi in a PSP",
+  "description" : "Link: https://github.com/othermod/PSPi-Version-6 | Score: 74 | Comments: 7 | By: therepanic",
+  "url" : "https://news.ycombinator.com/item?id=50038623",
+  "answers" : [ ]
+}, {
+  "title" : "The Lightbulb Computer",
+  "description" : "Link: https://lightbulbcomputer.com/ | Score: 381 | Comments: 61 | By: oskarth",
+  "url" : "https://news.ycombinator.com/item?id=50029487",
+  "answers" : [ ]
+}, {
+  "title" : "Retrofitting language models to operate over bytes",
+  "description" : "Link: https://www.nature.com/articles/s41586-026-11111-4 | Score: 49 | Comments: 3 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=50001234",
+  "answers" : [ ]
+}, {
+  "title" : "Nix wrote half of my debugger",
+  "description" : "Link: https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger | Score: 187 | Comments: 43 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=50017247",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+  "description" : "Link: https://hangul.ink/blog/hangul-day | Score: 38 | Comments: 8 | By: jbaudanza",
+  "url" : "https://news.ycombinator.com/item?id=50015833",
+  "answers" : [ ]
+}, {
+  "title" : "Knuth reward check",
+  "description" : "Link: https://www.thomas-huehn.com/knuth-reward-check/ | Score: 188 | Comments: 69 | By: Curiositry",
+  "url" : "https://news.ycombinator.com/item?id=50034081",
+  "answers" : [ ]
+}, {
+  "title" : "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+  "description" : "Link: https://github.com/rociiu/talorys | Score: 285 | Comments: 131 | By: rociiu",
+  "url" : "https://news.ycombinator.com/item?id=50031614",
+  "answers" : [ ]
+}, {
+  "title" : "Mxc: Microsoft Execution Containers version 1.0.0",
+  "description" : "Link: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/ | Score: 184 | Comments: 44 | By: smokel",
+  "url" : "https://news.ycombinator.com/item?id=50016956",
+  "answers" : [ ]
+}, {
+  "title" : "Deterministic Simulation Testing in Celld",
+  "description" : "Link: https://celld.dev/docs/engineering/deterministic-simulation-testing/ | Score: 18 | Comments: 1 | By: handfuloflight",
+  "url" : "https://news.ycombinator.com/item?id=50024805",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+  "description" : "Link: https://github.com/moritzwilksch/diffle | Score: 36 | Comments: 3 | By: mwil1000",
+  "url" : "https://news.ycombinator.com/item?id=50006930",
+  "answers" : [ ]
+}, {
+  "title" : "GameBoy on E-Paper ESP32 at 30FPS [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=XiZmM6hwwAU | Score: 69 | Comments: 17 | By: pizzaiolo",
+  "url" : "https://news.ycombinator.com/item?id=50039536",
+  "answers" : [ ]
+}, {
+  "title" : "OpenSCAD the Programmers Solid 3D CAD Modeller",
+  "description" : "Link: https://openscad.org/ | Score: 139 | Comments: 105 | By: b-man",
+  "url" : "https://news.ycombinator.com/item?id=49984349",
+  "answers" : [ ]
+}, {
+  "title" : "Five months treating bugs like patients and coding agents like a medical team",
+  "description" : "Link: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/ | Score: 120 | Comments: 51 | By: rafiss",
+  "url" : "https://news.ycombinator.com/item?id=50021899",
+  "answers" : [ ]
+}, {
+  "title" : "Unikernels were hard. key word: were",
+  "description" : "Link: https://ghuntley.com/unikernels/ | Score: 149 | Comments: 65 | By: ghuntley",
+  "url" : "https://news.ycombinator.com/item?id=50033357",
+  "answers" : [ ]
+}, {
+  "title" : "Getting old Macromedia Director Games to run on modern Hardware",
+  "description" : "Link: https://werwolv.net/posts/macromedia_copy_protection/ | Score: 74 | Comments: 13 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=50020901",
+  "answers" : [ ]
+}, {
+  "title" : "Food processing influences metabolism and brain activity",
+  "description" : "Link: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html | Score: 143 | Comments: 114 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50029830",
+  "answers" : [ ]
+}, {
+  "title" : "Grieving the loss of details",
+  "description" : "Link: https://purplesyringa.moe/blog/grieving-the-loss-of-details/ | Score: 429 | Comments: 340 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=49980880",
+  "answers" : [ ]
+}, {
+  "title" : "C for Rust programmers",
+  "description" : "Link: https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/ | Score: 139 | Comments: 125 | By: xyproto",
+  "url" : "https://news.ycombinator.com/item?id=50005743",
+  "answers" : [ ]
+}, {
+  "title" : "Telegram Desktop vulnerability allowed any user's file to be stolen",
+  "description" : "Link: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ | Score: 447 | Comments: 283 | By: g-b-r",
+  "url" : "https://news.ycombinator.com/item?id=50029123",
+  "answers" : [ ]
+}, {
+  "title" : "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+  "description" : "Link: https://momo5502.com/posts/2026-10-09-game-decompilation/ | Score: 83 | Comments: 61 | By: davikr",
+  "url" : "https://news.ycombinator.com/item?id=50039092",
+  "answers" : [ ]
+}, {
+  "title" : "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+  "description" : "Link: https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html | Score: 153 | Comments: 66 | By: geox",
+  "url" : "https://news.ycombinator.com/item?id=49986919",
+  "answers" : [ ]
+}, {
+  "title" : "Rampart: Browser native on-device PII radaction",
+  "description" : "Link: https://ndstudio.gov/posts/say-hello-to-rampart | Score: 85 | Comments: 32 | By: nateb2022",
+  "url" : "https://news.ycombinator.com/item?id=50024242",
+  "answers" : [ ]
+}, {
+  "title" : "Cloudflare acquires Deno",
+  "description" : "Link: https://deno.com/blog/cloudflare | Score: 1348 | Comments: 702 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=50019911",
+  "answers" : [ ]
+}, {
+  "title" : "I would like the value of my home to rise, while my property taxes fall",
+  "description" : "Link: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ | Score: 247 | Comments: 559 | By: colinprince",
+  "url" : "https://news.ycombinator.com/item?id=50032758",
+  "answers" : [ ]
+} ]
