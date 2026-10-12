@@ -1,0 +1,151 @@
+[ {
+  "title" : "Postgres isn't slow, your storage is",
+  "description" : "Link: https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is | Score: 38 | Comments: 13 | By: saisrirampur",
+  "url" : "https://news.ycombinator.com/item?id=50052163",
+  "answers" : [ ]
+}, {
+  "title" : "Type-safe HTML templating in Zig",
+  "description" : "Link: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html | Score: 97 | Comments: 38 | By: lukaslalinsky",
+  "url" : "https://news.ycombinator.com/item?id=50051573",
+  "answers" : [ ]
+}, {
+  "title" : "Do not install Zod 4.6.6 – might be infected",
+  "description" : "Link: https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467 | Score: 34 | Comments: 4 | By: luggage_bazooka",
+  "url" : "https://news.ycombinator.com/item?id=50052814",
+  "answers" : [ ]
+}, {
+  "title" : "Fingerprints are the new cookies",
+  "description" : "Link: https://royfish.dev/fingerprints-are-the-new-cookies | Score: 343 | Comments: 160 | By: royfish",
+  "url" : "https://news.ycombinator.com/item?id=50048642",
+  "answers" : [ ]
+}, {
+  "title" : "Calculus with Julia",
+  "description" : "Link: https://jverzani.github.io/CalculusWithJuliaNotes.jl/ | Score: 112 | Comments: 8 | By: subset",
+  "url" : "https://news.ycombinator.com/item?id=50034206",
+  "answers" : [ ]
+}, {
+  "title" : "Total Annihilation, rebuilt for modern computers",
+  "description" : "Link: https://nanolathe.gg | Score: 487 | Comments: 194 | By: jttnr",
+  "url" : "https://news.ycombinator.com/item?id=50045984",
+  "answers" : [ ]
+}, {
+  "title" : "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+  "description" : "Link: https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/ | Score: 130 | Comments: 122 | By: amosbatto",
+  "url" : "https://news.ycombinator.com/item?id=50051530",
+  "answers" : [ ]
+}, {
+  "title" : "Whatever became of holography? (2011)",
+  "description" : "Link: https://www.americanscientist.org/article/whatever-became-of-holography | Score: 124 | Comments: 61 | By: cainxinth",
+  "url" : "https://news.ycombinator.com/item?id=50049411",
+  "answers" : [ ]
+}, {
+  "title" : "Running the unmodified Linux amdgpu driver on an iPad",
+  "description" : "Link: https://github.com/Geramy/LemonSeed-Studio | Score: 11 | Comments: 2 | By: joshcsimmons",
+  "url" : "https://news.ycombinator.com/item?id=50041573",
+  "answers" : [ ]
+}, {
+  "title" : "No portable way to detect string-to-float conversion errors in standard C",
+  "description" : "Link: https://sebsite.pw/w/20261009-strtod.html | Score: 41 | Comments: 37 | By: signa11",
+  "url" : "https://news.ycombinator.com/item?id=50034001",
+  "answers" : [ ]
+}, {
+  "title" : "Cartographers of North Korea (2019)",
+  "description" : "Link: https://cartographers-nk.wonyoung.so/ | Score: 249 | Comments: 46 | By: edent",
+  "url" : "https://news.ycombinator.com/item?id=50047091",
+  "answers" : [ ]
+}, {
+  "title" : "Doory – Open-Source Canva",
+  "description" : "Link: https://github.com/shaongitbd/doory | Score: 100 | Comments: 28 | By: acley",
+  "url" : "https://news.ycombinator.com/item?id=50049872",
+  "answers" : [ ]
+}, {
+  "title" : "Terence Tao: Math 2.0 [pdf]",
+  "description" : "Link: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf | Score: 383 | Comments: 419 | By: Anon84",
+  "url" : "https://news.ycombinator.com/item?id=50043026",
+  "answers" : [ ]
+}, {
+  "title" : "The gap in shared understanding of LLM capability is widening",
+  "description" : "Link: https://twitter.com/karpathy/status/2109361546505966046 | Score: 440 | Comments: 622 | By: albertzeyer",
+  "url" : "https://news.ycombinator.com/item?id=50047422",
+  "answers" : [ ]
+}, {
+  "title" : "Local Indexing to reduce tool calling and token usage",
+  "description" : "Link: https://tedhaley.ca/pensieve/ | Score: 72 | Comments: 17 | By: TedHaley",
+  "url" : "https://news.ycombinator.com/item?id=50049508",
+  "answers" : [ ]
+}, {
+  "title" : "Illustration Beyond Proof",
+  "description" : "Link: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ | Score: 64 | Comments: 0 | By: smilelamp",
+  "url" : "https://news.ycombinator.com/item?id=50049133",
+  "answers" : [ ]
+}, {
+  "title" : "Passkeys are a trap",
+  "description" : "Link: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them | Score: 578 | Comments: 329 | By: laurex",
+  "url" : "https://news.ycombinator.com/item?id=50048312",
+  "answers" : [ ]
+}, {
+  "title" : "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+  "description" : "Link: https://www.ways-of-seeing.com/ch1 | Score: 108 | Comments: 18 | By: rafael859",
+  "url" : "https://news.ycombinator.com/item?id=50046241",
+  "answers" : [ ]
+}, {
+  "title" : "Every US Electrical Outlet Explained [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=n_1wzYQwnts | Score: 22 | Comments: 23 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=50038088",
+  "answers" : [ ]
+}, {
+  "title" : "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+  "description" : "Link: https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5 | Score: 47 | Comments: 35 | By: Bluestein",
+  "url" : "https://news.ycombinator.com/item?id=50041252",
+  "answers" : [ ]
+}, {
+  "title" : "Crest – an Arc-inspired open-source browser for Mac",
+  "description" : "Link: https://crestbrowser.com/ | Score: 13 | Comments: 9 | By: cobychapple",
+  "url" : "https://news.ycombinator.com/item?id=50051097",
+  "answers" : [ ]
+}, {
+  "title" : "So, You’d Like To Sell Your Print Issues Of The Onion?",
+  "description" : "Link: https://theonion.com/archivehunt/ | Score: 313 | Comments: 48 | By: mooreds",
+  "url" : "https://news.ycombinator.com/item?id=50047055",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+  "description" : "Score: 49 | Comments: 53 | By: Ixander",
+  "url" : "https://news.ycombinator.com/item?id=50039291",
+  "answers" : [ "I sometimes run across comments where someone says they want an open-source router. I wonder if this is a viable idea for someone to start as a small company. What makes me hesitant is that, first, it looks like this already exists in several wireless and non-wireless routers (like the GL.iNet Flint or OpenWrt One), and second, I assume hackers would just make their own.<p>I have been flashing DD-WRT to my routers for many years. My current setup is an Archer C9 that connects via cable to an Archer C8, which then wirelessly bridges to an R7000. All of them run DD-WRT. If I had &quot;fun money,&quot; I would buy a low-power SFF PC with dual NICs, run OPNsense or OpenWrt, and use the wireless routers strictly as access points. Since I don&#x27;t have that much to spend, I look for older DD-WRT friendly routers, usually under $30, on Craigslist or Facebook Marketplace, and flash them myself.<p>I see that Ubiquiti and MikroTik make quality routers with proprietary OSes for around $65 new. Protectli and Netgate offer pfSense routers starting at $259.00. The GL.iNet Flint 2 is $169.00, and the OpenWrt One is $89.<p>According to ResellBot (because eBay now requires a login to see sold listings with prices), the sold &quot;DD-WRT Routers&quot; generally go for under $160. These include the WRT3200ACM, Netgear AC1750, Linksys EA9300, and Linksys R7350.<p>When I asked an AI how I would go about judging interest, building, raising funds, and manufacturing, it seems doable but expensive (said $125,000 minimum in total made up of $30,000 for regulatory approval, engineering and protoyping $10,000+) and time-consuming just to get to a &quot;golden prototype&quot; for demos.<p>So if I were a &quot;hacker&quot; and wanted an open-source router, depending on my funds, I would either:<p>1. Flash DD-WRT to an existing router (used or new).<p>2. Buy one with it already installed, like the OpenWrt One or a Protectli device.<p>3. Get an SFF PC and build my own.<p>I remember when some comments about DropBox said it was a waste because any hacker could make that. I also know DropBox was marketed to the average person and businesses. I don&#x27;t really see how a hacker friendly router could take off like that unless hackers are choosing the hardware and setting up the networks for average people. And I assume that most people setting up the networks want different qualities like brand name recognition, ease and speed of purchasing equipment (Walmart or BestBuy), and the ability to point a customer or family member to the number of solid reviews and articles saying it a good router to qualify their choices.<p>So, do you actually want a router that you can buy with DD-WRT pre-installed?" ]
+}, {
+  "title" : "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+  "description" : "Link: https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html | Score: 33 | Comments: 1 | By: m463",
+  "url" : "https://news.ycombinator.com/item?id=50051583",
+  "answers" : [ ]
+}, {
+  "title" : "NYC's \"Click to Cancel\" rule is now in effect",
+  "description" : "Link: https://www.nyc.gov/main/click-to-cancel | Score: 458 | Comments: 216 | By: gregsadetsky",
+  "url" : "https://news.ycombinator.com/item?id=50045946",
+  "answers" : [ ]
+}, {
+  "title" : "Vectorized CLZ and CTZ",
+  "description" : "Link: https://purplesyringa.moe/blog/vectorized-clz-and-ctz/ | Score: 43 | Comments: 5 | By: zX41ZdbW",
+  "url" : "https://news.ycombinator.com/item?id=50039608",
+  "answers" : [ ]
+}, {
+  "title" : "Recursive self-improvement through collective intelligence",
+  "description" : "Link: https://pub.sakana.ai/mass/ | Score: 111 | Comments: 60 | By: hardmaru",
+  "url" : "https://news.ycombinator.com/item?id=50048522",
+  "answers" : [ ]
+}, {
+  "title" : "I guess I'm using WebP now?",
+  "description" : "Link: https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now | Score: 104 | Comments: 113 | By: Brajeshwar",
+  "url" : "https://news.ycombinator.com/item?id=50021989",
+  "answers" : [ ]
+}, {
+  "title" : "Draw by Pinging IPv6 Addresses",
+  "description" : "Link: https://pings.utwente.io/ | Score: 7 | Comments: 5 | By: eraclide",
+  "url" : "https://news.ycombinator.com/item?id=50032748",
+  "answers" : [ ]
+}, {
+  "title" : "Google Data Centers around the world",
+  "description" : "Link: https://datacenters.google/locations/ | Score: 52 | Comments: 47 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=50048768",
+  "answers" : [ ]
+} ]
