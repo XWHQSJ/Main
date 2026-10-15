@@ -1,0 +1,151 @@
+[ {
+  "title" : "Things to know when you get cancer",
+  "description" : "Link: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ | Score: 1160 | Comments: 290 | By: jjmaxwell4",
+  "url" : "https://news.ycombinator.com/item?id=50093568",
+  "answers" : [ ]
+}, {
+  "title" : "OpenCode 2.0",
+  "description" : "Link: https://anoma.ly/notes/opencode-2-0/ | Score: 513 | Comments: 205 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50094994",
+  "answers" : [ ]
+}, {
+  "title" : "Tiny Little Office",
+  "description" : "Link: https://tinylittleoffice.com/ | Score: 321 | Comments: 45 | By: donohoe",
+  "url" : "https://news.ycombinator.com/item?id=50096142",
+  "answers" : [ ]
+}, {
+  "title" : "LFM2.5-24B-A2B: Built for fast on-device agents",
+  "description" : "Link: https://www.liquid.ai/blog/lfm2-5-24b-a2b | Score: 166 | Comments: 39 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50097369",
+  "answers" : [ ]
+}, {
+  "title" : "Do dentists know what they're doing?",
+  "description" : "Link: https://mapwriting.substack.com/p/dentists | Score: 604 | Comments: 425 | By: doitLP",
+  "url" : "https://news.ycombinator.com/item?id=50050553",
+  "answers" : [ ]
+}, {
+  "title" : "Donaldson Futuro House in Idyllwild, California, USA",
+  "description" : "Link: https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/ | Score: 36 | Comments: 7 | By: rmason",
+  "url" : "https://news.ycombinator.com/item?id=50077709",
+  "answers" : [ ]
+}, {
+  "title" : "Americans' social activity has steeply declined in the past 30 years",
+  "description" : "Link: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years | Score: 343 | Comments: 331 | By: hubraumhugo",
+  "url" : "https://news.ycombinator.com/item?id=50089921",
+  "answers" : [ ]
+}, {
+  "title" : "Catch a Bird – I made it for my own sanity",
+  "description" : "Link: https://catchabird.com | Score: 105 | Comments: 23 | By: eduardsik",
+  "url" : "https://news.ycombinator.com/item?id=50053384",
+  "answers" : [ ]
+}, {
+  "title" : "The Double Headed Stack Allocator",
+  "description" : "Link: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ | Score: 49 | Comments: 11 | By: g0xA52A2A",
+  "url" : "https://news.ycombinator.com/item?id=50098274",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
+  "description" : "Link: https://github.com/andunieee/flipflop | Score: 21 | Comments: 5 | By: andunie",
+  "url" : "https://news.ycombinator.com/item?id=50099136",
+  "answers" : [ "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on." ]
+}, {
+  "title" : "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+  "description" : "Link: https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/ | Score: 20 | Comments: 1 | By: austinallegro",
+  "url" : "https://news.ycombinator.com/item?id=50047576",
+  "answers" : [ ]
+}, {
+  "title" : "It took me nine years to hack my Xbox 360",
+  "description" : "Link: https://kennedn.com/blog/posts/glitching/ | Score: 58 | Comments: 5 | By: kennedn",
+  "url" : "https://news.ycombinator.com/item?id=50070661",
+  "answers" : [ ]
+}, {
+  "title" : "Better HTTP/1 connection reuse in Go 1.27",
+  "description" : "Link: https://go.dev/blog/http-connection-reuse | Score: 235 | Comments: 34 | By: allddd",
+  "url" : "https://news.ycombinator.com/item?id=50090369",
+  "answers" : [ ]
+}, {
+  "title" : "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+  "description" : "Link: https://typesafe.ai/blog/jev-1-14 | Score: 265 | Comments: 85 | By: emschwartz",
+  "url" : "https://news.ycombinator.com/item?id=50095353",
+  "answers" : [ ]
+}, {
+  "title" : "Containment and monitoring failures are to blame for AI hacking reports: experts",
+  "description" : "Link: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html | Score: 873 | Comments: 509 | By: latexr",
+  "url" : "https://news.ycombinator.com/item?id=50091788",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+  "description" : "Link: https://petal.live/ | Score: 154 | Comments: 37 | By: thedracle",
+  "url" : "https://news.ycombinator.com/item?id=50092470",
+  "answers" : [ "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p>Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017.<p>When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else’s screen, and start collaborating with zero friction.”<p>Datadog acquired us in 2022, and thus began the great adventure of adapting our real-time technology into Datadog products, while also continue developing CoScreen as a standalone tool from the Datadog ecosystem. Datadog invested in the product for years and we’re thankful for that. But CoScreen itself proved, like so many other screen sharing tool acquisitions, to be too tangential from the customer base and core mission. We instead built other communication features in Datadog, the integrations with other video platforms, and also its wildly successful MCP server.\nWe weren&#x27;t the only ones. Around was bought by Miro and shut down in March 2025. Multi (formerly Remotion) was acqui-hired by OpenAI in 2024 and shut down about a month later. It&#x27;s nearly always the same story: a small team builds something hard that people love, a platform buys it for the team or the feature, and the standalone product doesn&#x27;t survive the integration.\nSo we decided firmly to do things differently this time. Petal is completely free and open source and we aren&#x27;t monetizing it. If we lose interest or get hit by a bus, you can self-host it or fork it, and nobody can sunset it on you. Honestly it&#x27;s a love letter to everyone in this community that supported us, believed in us, and to liberate collaborative screen sharing from this vicious cycle.<p>We hope through this we can help foster a large and vibrant community around innovating in this product sector.\nWhat Petal does: shared windows show up as real windows on your desktop, movable and resizable, not tiles in a grid. Several people can share at once, everyone gets a labeled cursor, and you can click into any shared window to type and scroll. Rooms are persistent, so you click once to join &quot;eng-sync&quot; instead of passing links around.\nIt runs on macOS and Windows (Linux is next, this time for real and you can help us!), plus a web app. Media goes over LiveKit. You can use our hosted instance with zero config, or point the app at your own LiveKit server with one docker-compose if you want the traffic to stay on your network or even use an entirely different video backend if you want to.\nThe part that still feels strange to us: CoScreen took almost six years to build. The first version of Petal took under eight weeks, from scratch, with frontier models like Fable and Astra doing a lot of the work. Real-time video and window capture is some of the most unforgiving code we have ever written, so we didn&#x27;t expect that. We will do a proper writeup on what worked and what didn&#x27;t, and are happy to answer questions about it here.\nTill, Darren, Max and I will be in the thread." ]
+}, {
+  "title" : "Your C is not standard C",
+  "description" : "Link: https://sebsite.pw/w/20261012-notstdc.html | Score: 73 | Comments: 43 | By: dverlaeckt80",
+  "url" : "https://news.ycombinator.com/item?id=50071546",
+  "answers" : [ ]
+}, {
+  "title" : "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+  "description" : "Link: https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026 | Score: 8 | Comments: 1 | By: droidjj",
+  "url" : "https://news.ycombinator.com/item?id=50060923",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: CAD for wood working with LLM support?",
+  "description" : "Score: 62 | Comments: 52 | By: reacharavindh",
+  "url" : "https://news.ycombinator.com/item?id=50067325",
+  "answers" : [ "I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I build things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D model design using AI.. Anybody tried using AI to model wood projects? Any tools to recommend?" ]
+}, {
+  "title" : "Why is every rationalist blog post way too long?",
+  "description" : "Link: https://alexwennerberg.com/blog/2026-10-13-long.html | Score: 309 | Comments: 236 | By: epestr",
+  "url" : "https://news.ycombinator.com/item?id=50083028",
+  "answers" : [ ]
+}, {
+  "title" : "How Amazon pushes up prices all across the Internet",
+  "description" : "Link: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ | Score: 792 | Comments: 624 | By: sighborg",
+  "url" : "https://news.ycombinator.com/item?id=50084757",
+  "answers" : [ ]
+}, {
+  "title" : "Phloem: Git history grown like a slime mold",
+  "description" : "Link: https://phloem.stemdeck.app/ | Score: 105 | Comments: 21 | By: thclpr",
+  "url" : "https://news.ycombinator.com/item?id=50054465",
+  "answers" : [ ]
+}, {
+  "title" : "Fancy Curl Sites",
+  "description" : "Link: https://nytpu.com/gemlog/2026-03-18 | Score: 111 | Comments: 24 | By: adunk",
+  "url" : "https://news.ycombinator.com/item?id=50093612",
+  "answers" : [ ]
+}, {
+  "title" : "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+  "description" : "Link: https://oxide.computer/blog/voxel-labs | Score: 110 | Comments: 11 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=50092423",
+  "answers" : [ ]
+}, {
+  "title" : "Submarine cable resilience",
+  "description" : "Link: https://blog.apnic.net/2026/10/14/submarine-cable-resilience/ | Score: 147 | Comments: 57 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=50089229",
+  "answers" : [ ]
+}, {
+  "title" : "Has AI tells",
+  "description" : "Link: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 | Score: 110 | Comments: 97 | By: 7777777phil",
+  "url" : "https://news.ycombinator.com/item?id=50090799",
+  "answers" : [ ]
+}, {
+  "title" : "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+  "description" : "Link: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/ | Score: 347 | Comments: 229 | By: ilamont",
+  "url" : "https://news.ycombinator.com/item?id=50092730",
+  "answers" : [ ]
+}, {
+  "title" : "Passkeys are not a trap",
+  "description" : "Link: https://scotthelme.co.uk/passkeys-are-not-a-trap/ | Score: 571 | Comments: 725 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=50088935",
+  "answers" : [ ]
+}, {
+  "title" : "Anthropic's Scion is heavily inspired by Mononoke",
+  "description" : "Link: https://sunshowers.io/posts/anthropic-mononoke/ | Score: 347 | Comments: 128 | By: sunshowers",
+  "url" : "https://news.ycombinator.com/item?id=50094694",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: My Terminal Themes Web App",
+  "description" : "Score: 13 | Comments: 5 | By: bado",
+  "url" : "https://news.ycombinator.com/item?id=50098454",
+  "answers" : [ "Well, after 15 years of saying &quot;Someday I&#x27;ll turn this into a web app,&quot; I finally did it!<p>I&#x27;ve been maintaining a popular repo of terminal themes at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;mbadolato&#x2F;iTerm2-Color-Schemes\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mbadolato&#x2F;iTerm2-Color-Schemes</a>, and it was finally time to build the app with all the features I wanted!<p>So, the next-gen version is live at <a href=\"https:&#x2F;&#x2F;terminalthemes.com\" rel=\"nofollow\">https:&#x2F;&#x2F;terminalthemes.com</a>! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more)<p>It&#x27;s free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc.<p>I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like!<p>Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them.<p>I would love for you guys to check it out and provide feedback, feature suggestions, whatever!<p>And a huge thanks to the community of people that have contributed themes, ports to other terminals, and tools to provide conversions between formats over the years.<p>Oh! And if you&#x27;ve ever contributed themes to the GitHub repo, please register for an account, find your theme(s), and hit the Claim Authorship button!" ]
+} ]
