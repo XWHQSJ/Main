@@ -1,0 +1,151 @@
+[ {
+  "title" : "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "description" : "Link: https://sphinx-six-theta.vercel.app/ | Score: 68 | Comments: 19 | By: critiquebrowser",
+  "url" : "https://news.ycombinator.com/item?id=50137950",
+  "answers" : [ "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works." ]
+}, {
+  "title" : "Matthew Prince on why Cloudflare offers a free version and always will",
+  "description" : "Link: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685 | Score: 44 | Comments: 18 | By: thatslast",
+  "url" : "https://news.ycombinator.com/item?id=50138087",
+  "answers" : [ ]
+}, {
+  "title" : "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+  "description" : "Link: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything | Score: 70 | Comments: 55 | By: MaysonL",
+  "url" : "https://news.ycombinator.com/item?id=50137620",
+  "answers" : [ ]
+}, {
+  "title" : "Bleached corals thrive within days when touching healthy neighbour",
+  "description" : "Link: https://www.nature.com/articles/d41586-026-03266-x | Score: 413 | Comments: 92 | By: alkyon",
+  "url" : "https://news.ycombinator.com/item?id=50126253",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4</a>" ]
+}, {
+  "title" : "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+  "description" : "Link: https://tkgally.github.io/500-clocks/ | Score: 35 | Comments: 9 | By: tkgally",
+  "url" : "https://news.ycombinator.com/item?id=50137820",
+  "answers" : [ "Lately I&#x27;ve been testing frontier models by having them create self-contained web pages that display clocks--sort of my personal version of Simon Willison’s pelican-on-a-bicycle metric.<p>I have been particularly impressed by the variety, interest, and quality of the clocks created by Claude Opus 5.5. Over the course of several sessions in the Claude chat interface, I had it build a total of 500 clocks.<p>Claude’s summary of the prompting process and page design is here:<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;tkgally&#x2F;500-clocks&#x2F;tree&#x2F;main\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;tkgally&#x2F;500-clocks&#x2F;tree&#x2F;main</a>" ]
+}, {
+  "title" : "Lean now ships with verified kernels",
+  "description" : "Link: https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/ | Score: 95 | Comments: 28 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=50114758",
+  "answers" : [ ]
+}, {
+  "title" : "Fun Extending the C Preprocessor",
+  "description" : "Link: https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html | Score: 12 | Comments: 2 | By: david2ndaccount",
+  "url" : "https://news.ycombinator.com/item?id=50106792",
+  "answers" : [ ]
+}, {
+  "title" : "The game industry is broken – can we fix it?",
+  "description" : "Link: https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash | Score: 17 | Comments: 15 | By: mellosouls",
+  "url" : "https://news.ycombinator.com/item?id=50138156",
+  "answers" : [ ]
+}, {
+  "title" : "Dam removals are bringing fish back across the northeastern United States",
+  "description" : "Link: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ | Score: 253 | Comments: 61 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=50126312",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek-v4.1-Flash-1017",
+  "description" : "Link: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 | Score: 806 | Comments: 633 | By: theykk",
+  "url" : "https://news.ycombinator.com/item?id=50129045",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017\" rel=\"nofollow\">https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017</a>" ]
+}, {
+  "title" : "Pele – Mermaid diagrams as themeable SVG",
+  "description" : "Link: https://pele.run/ | Score: 374 | Comments: 31 | By: dchest",
+  "url" : "https://news.ycombinator.com/item?id=50132193",
+  "answers" : [ ]
+}, {
+  "title" : "Furifont, a Japanese font that shows furigana",
+  "description" : "Link: https://furifont.antfu.me/ | Score: 326 | Comments: 67 | By: plaguna",
+  "url" : "https://news.ycombinator.com/item?id=50100994",
+  "answers" : [ ]
+}, {
+  "title" : "A Mole Infiltrated the Highest Ranks of American Militias",
+  "description" : "Link: https://www.propublica.org/article/ap3-oath-keepers-militia-mole | Score: 57 | Comments: 6 | By: georgecmu",
+  "url" : "https://news.ycombinator.com/item?id=50138044",
+  "answers" : [ ]
+}, {
+  "title" : "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+  "description" : "Link: https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo | Score: 16 | Comments: 0 | By: jacquesm",
+  "url" : "https://news.ycombinator.com/item?id=50110081",
+  "answers" : [ ]
+}, {
+  "title" : "Interactive Linear Programming in the Browser",
+  "description" : "Link: https://lpviz.net/ | Score: 13 | Comments: 0 | By: klamike",
+  "url" : "https://news.ycombinator.com/item?id=50130379",
+  "answers" : [ ]
+}, {
+  "title" : "Making chicken transparent using Dorito dust",
+  "description" : "Link: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using | Score: 289 | Comments: 77 | By: crescit_eundo",
+  "url" : "https://news.ycombinator.com/item?id=50131213",
+  "answers" : [ ]
+}, {
+  "title" : "The Commodore 64 hardware simulator: break chips and pins, see the results",
+  "description" : "Link: https://github.com/antirez/c64-hw-simulator | Score: 175 | Comments: 25 | By: antirez",
+  "url" : "https://news.ycombinator.com/item?id=50100366",
+  "answers" : [ ]
+}, {
+  "title" : "NY announces game ownership bill requiring ownership rather than licensing",
+  "description" : "Link: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends | Score: 224 | Comments: 68 | By: guiambros",
+  "url" : "https://news.ycombinator.com/item?id=50136536",
+  "answers" : [ ]
+}, {
+  "title" : "Notes on the Complex Roots of Unity",
+  "description" : "Link: https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/ | Score: 6 | Comments: 0 | By: sks_15",
+  "url" : "https://news.ycombinator.com/item?id=50138002",
+  "answers" : [ ]
+}, {
+  "title" : "Custom server to revive neato bots",
+  "description" : "Link: https://github.com/vacuula/vacuula | Score: 31 | Comments: 1 | By: matttah",
+  "url" : "https://news.ycombinator.com/item?id=50097257",
+  "answers" : [ ]
+}, {
+  "title" : "You could have invented transformers from memory",
+  "description" : "Link: https://alexwang.ai/posts/associative-memory/ | Score: 541 | Comments: 126 | By: speckx",
+  "url" : "https://news.ycombinator.com/item?id=50122878",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932</a>" ]
+}, {
+  "title" : "Gold is now the top U.S. export",
+  "description" : "Link: https://www.numismaticnews.net/gold-now-top-u-s-export | Score: 305 | Comments: 157 | By: iamnothere",
+  "url" : "https://news.ycombinator.com/item?id=50132870",
+  "answers" : [ ]
+}, {
+  "title" : "Codex Desktop continuously generates Crashpad pending dumps",
+  "description" : "Link: https://github.com/openai/codex/issues/25921 | Score: 119 | Comments: 43 | By: AIorNot",
+  "url" : "https://news.ycombinator.com/item?id=50133231",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: High-quality duck audio synthesizer",
+  "description" : "Link: https://celphase.github.io/duck-pond/ | Score: 116 | Comments: 28 | By: celphase",
+  "url" : "https://news.ycombinator.com/item?id=50131006",
+  "answers" : [ ]
+}, {
+  "title" : "Superoptimizing an FPU Emulator",
+  "description" : "Link: https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/ | Score: 17 | Comments: 2 | By: dverlaeckt80",
+  "url" : "https://news.ycombinator.com/item?id=50117935",
+  "answers" : [ ]
+}, {
+  "title" : "Solar surpasses nuclear power globally for first time",
+  "description" : "Link: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ | Score: 564 | Comments: 344 | By: xbmcuser",
+  "url" : "https://news.ycombinator.com/item?id=50131256",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "description" : "Link: https://llmspeed.dev/ | Score: 273 | Comments: 80 | By: albinstman",
+  "url" : "https://news.ycombinator.com/item?id=50127979",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+  "description" : "Link: https://github.com/mikroverk/esp32sim | Score: 150 | Comments: 15 | By: joakimeriksson",
+  "url" : "https://news.ycombinator.com/item?id=50131189",
+  "answers" : [ "Hi HN,<p>I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.<p>The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator.<p>The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected.<p>Source:\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;mikroverk&#x2F;esp32sim\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mikroverk&#x2F;esp32sim</a><p>I made a short video showing it in action:\n<a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;waoWFilTWEc\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;waoWFilTWEc</a><p>I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI?" ]
+}, {
+  "title" : "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
+  "description" : "Link: https://courk.cc/rp2350-challenge-laser | Score: 58 | Comments: 16 | By: gregsadetsky",
+  "url" : "https://news.ycombinator.com/item?id=50101649",
+  "answers" : [ ]
+}, {
+  "title" : "A skeptic's first contact with Kubernetes (2024)",
+  "description" : "Link: https://blog.davidv.dev/posts/first-contact-with-k8s/ | Score: 109 | Comments: 62 | By: pmoriarty",
+  "url" : "https://news.ycombinator.com/item?id=50127572",
+  "answers" : [ ]
+} ]
