@@ -1,0 +1,151 @@
+[ {
+  "title" : "Rabbits were a medieval royal luxury in England until the Black Death",
+  "description" : "Link: https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html | Score: 40 | Comments: 20 | By: samizdis",
+  "url" : "https://news.ycombinator.com/item?id=50131315",
+  "answers" : [ ]
+}, {
+  "title" : "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "description" : "Link: https://arxiv.org/abs/2610.18861 | Score: 342 | Comments: 166 | By: allinonai",
+  "url" : "https://news.ycombinator.com/item?id=50145337",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridagent\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridag...</a><p>Evaluations: <a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2610.18861v1#S5\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2610.18861v1#S5</a>" ]
+}, {
+  "title" : "William Gibson and the trademarking of cyberspace",
+  "description" : "Link: https://colo.to/cyberspace.html | Score: 152 | Comments: 46 | By: Eric_Gullichsen",
+  "url" : "https://news.ycombinator.com/item?id=50146625",
+  "answers" : [ ]
+}, {
+  "title" : "There's never been a better time to go into math (by: 3blue1brown) [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=LKrwhjOI8Nc | Score: 311 | Comments: 371 | By: mdp2021",
+  "url" : "https://news.ycombinator.com/item?id=50136150",
+  "answers" : [ ]
+}, {
+  "title" : "Superlite: A Faster Alternatie to Superpowers",
+  "description" : "Link: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ | Score: 62 | Comments: 28 | By: iheatuchriswogu",
+  "url" : "https://news.ycombinator.com/item?id=50147492",
+  "answers" : [ ]
+}, {
+  "title" : "Someone behind the software",
+  "description" : "Link: https://karrisaarinen.com/posts/someone-behind-the-software/ | Score: 406 | Comments: 158 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=50142573",
+  "answers" : [ ]
+}, {
+  "title" : "Laptop Based on 6502 CPU",
+  "description" : "Link: https://www.maddox.pro/?p=448 | Score: 99 | Comments: 37 | By: nanochess",
+  "url" : "https://news.ycombinator.com/item?id=50111537",
+  "answers" : [ ]
+}, {
+  "title" : "If you don't run your own LLM proxy, how do you know whats going on?",
+  "description" : "Link: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ | Score: 118 | Comments: 80 | By: amrrs",
+  "url" : "https://news.ycombinator.com/item?id=50145507",
+  "answers" : [ ]
+}, {
+  "title" : "Verisign .com Domain Name Registry Consumer Class Action",
+  "description" : "Link: https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action | Score: 62 | Comments: 19 | By: greyface-",
+  "url" : "https://news.ycombinator.com/item?id=50148441",
+  "answers" : [ ]
+}, {
+  "title" : "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+  "description" : "Link: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky | Score: 197 | Comments: 123 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50136979",
+  "answers" : [ ]
+}, {
+  "title" : "RepRapMicron",
+  "description" : "Link: https://github.com/VikOlliver/RepRapMicron/wiki | Score: 376 | Comments: 58 | By: RobotToaster",
+  "url" : "https://news.ycombinator.com/item?id=50141076",
+  "answers" : [ ]
+}, {
+  "title" : "Free Pascal compiler now supports dynamic packages",
+  "description" : "Link: https://www.getlazarus.org/dynamic/ | Score: 150 | Comments: 36 | By: sysrpl",
+  "url" : "https://news.ycombinator.com/item?id=50144066",
+  "answers" : [ ]
+}, {
+  "title" : "The DNS Museum",
+  "description" : "Link: https://dns.museum | Score: 50 | Comments: 7 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=50125551",
+  "answers" : [ ]
+}, {
+  "title" : "How Postgres DELETE can actually scale",
+  "description" : "Link: https://www.dbos.dev/blog/scaling-deletions-in-postgres | Score: 6 | Comments: 0 | By: KraftyOne",
+  "url" : "https://news.ycombinator.com/item?id=50108297",
+  "answers" : [ ]
+}, {
+  "title" : "DeepSeek V4.1 Flash 1017 (Max)",
+  "description" : "Link: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017 | Score: 103 | Comments: 32 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=50148452",
+  "answers" : [ ]
+}, {
+  "title" : "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+  "description" : "Link: https://crystl.dev/guides/tmux-for-ai-agents/ | Score: 3 | Comments: 0 | By: ankitg12",
+  "url" : "https://news.ycombinator.com/item?id=50148855",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: WhatsApp MCP running free on Cloudflare",
+  "description" : "Link: https://github.com/finereli/whatsapp-mcp | Score: 86 | Comments: 46 | By: zoozla",
+  "url" : "https://news.ycombinator.com/item?id=50145715",
+  "answers" : [ "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn&#x27;t work properly.<p>This is a single user install because it&#x27;s both gray area and very private - so point your agent at the repo and let it set things up." ]
+}, {
+  "title" : "I built a programming language that LLMs can't use",
+  "description" : "Link: https://blog.picheta.me/post/killswitch-lang/ | Score: 155 | Comments: 111 | By: dom96",
+  "url" : "https://news.ycombinator.com/item?id=50135762",
+  "answers" : [ ]
+}, {
+  "title" : "PalmOS Lemmings",
+  "description" : "Link: https://github.com/ardiri/palmos-lemmings | Score: 118 | Comments: 26 | By: memalign",
+  "url" : "https://news.ycombinator.com/item?id=50143536",
+  "answers" : [ ]
+}, {
+  "title" : "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+  "description" : "Link: https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/ | Score: 71 | Comments: 15 | By: zoobab",
+  "url" : "https://news.ycombinator.com/item?id=50122058",
+  "answers" : [ ]
+}, {
+  "title" : "Java sealed classes and exhaustive pattern matching",
+  "description" : "Link: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ | Score: 161 | Comments: 113 | By: hnisjafx40",
+  "url" : "https://news.ycombinator.com/item?id=50141579",
+  "answers" : [ ]
+}, {
+  "title" : "A new way to think about borrow checking (in reverse)",
+  "description" : "Link: https://verdagon.dev/blog/reverse-borrow-checking | Score: 60 | Comments: 5 | By: verdagon",
+  "url" : "https://news.ycombinator.com/item?id=50140383",
+  "answers" : [ ]
+}, {
+  "title" : "Sanity's Edge – A voice BBS from 1994",
+  "description" : "Link: https://sanitys-edge.shouden.us | Score: 21 | Comments: 1 | By: indigodaddy",
+  "url" : "https://news.ycombinator.com/item?id=50146966",
+  "answers" : [ ]
+}, {
+  "title" : "Footage of the Flock search that a judge ruled was uncosntitutional",
+  "description" : "Link: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/ | Score: 87 | Comments: 31 | By: anigbrowl",
+  "url" : "https://news.ycombinator.com/item?id=50147455",
+  "answers" : [ ]
+}, {
+  "title" : "16-bit fully functional DIY magnetic core memory",
+  "description" : "Link: https://www.youtube.com/watch?v=OJ1WYyO2jdY | Score: 57 | Comments: 18 | By: oliculipolicula",
+  "url" : "https://news.ycombinator.com/item?id=50098148",
+  "answers" : [ ]
+}, {
+  "title" : "\"I'm on a war footing\": Terry Tao and the crisis in math",
+  "description" : "Link: https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html | Score: 154 | Comments: 282 | By: vinipolicena",
+  "url" : "https://news.ycombinator.com/item?id=50118165",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;bid95\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;bid95</a>" ]
+}, {
+  "title" : "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+  "description" : "Link: https://github.com/0x23/MicroManipulatorStepper | Score: 190 | Comments: 14 | By: _Microft",
+  "url" : "https://news.ycombinator.com/item?id=50140001",
+  "answers" : [ ]
+}, {
+  "title" : "Namecheap just seized and disabled all my domains",
+  "description" : "Link: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ | Score: 546 | Comments: 283 | By: sashk",
+  "url" : "https://news.ycombinator.com/item?id=50142866",
+  "answers" : [ ]
+}, {
+  "title" : "The Intel 8087 chip: floating-point addition and subtraction",
+  "description" : "Link: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html | Score: 101 | Comments: 33 | By: pwg",
+  "url" : "https://news.ycombinator.com/item?id=50142449",
+  "answers" : [ ]
+}, {
+  "title" : "\"Traditional, but Puzzling\"",
+  "description" : "Link: https://unsung.aresluna.org/traditional-but-puzzling/ | Score: 42 | Comments: 7 | By: colinprince",
+  "url" : "https://news.ycombinator.com/item?id=50123123",
+  "answers" : [ ]
+} ]
