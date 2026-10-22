@@ -1,0 +1,151 @@
+[ {
+  "title" : "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+  "description" : "Link: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf | Score: 145 | Comments: 84 | By: craigcitro",
+  "url" : "https://news.ycombinator.com/item?id=50190455",
+  "answers" : [ ]
+}, {
+  "title" : "There isn't an easy exploit for this PHP vulnerability",
+  "description" : "Link: https://eliastaylor.com/noexploit/ | Score: 445 | Comments: 222 | By: zkldi",
+  "url" : "https://news.ycombinator.com/item?id=50188948",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI CLI",
+  "description" : "Link: https://github.com/openai/openai-cli | Score: 30 | Comments: 10 | By: armcat",
+  "url" : "https://news.ycombinator.com/item?id=50191507",
+  "answers" : [ ]
+}, {
+  "title" : "WorldTUI: I trained a 360M model to pretend to be a terminal",
+  "description" : "Link: https://simedw.com/2026/10/21/world-model-terminal/ | Score: 71 | Comments: 34 | By: alphax314",
+  "url" : "https://news.ycombinator.com/item?id=50190363",
+  "answers" : [ ]
+}, {
+  "title" : "Security Disclosure",
+  "description" : "Link: https://blog.railway.com/p/security-disclosure-wednesday-october-21st | Score: 416 | Comments: 237 | By: passenger",
+  "url" : "https://news.ycombinator.com/item?id=50188228",
+  "answers" : [ ]
+}, {
+  "title" : "GitLab critical patch release",
+  "description" : "Link: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ | Score: 316 | Comments: 74 | By: artooro",
+  "url" : "https://news.ycombinator.com/item?id=50185869",
+  "answers" : [ ]
+}, {
+  "title" : "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+  "description" : "Link: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ | Score: 480 | Comments: 163 | By: abhisek",
+  "url" : "https://news.ycombinator.com/item?id=50181114",
+  "answers" : [ ]
+}, {
+  "title" : "Rust Style Guide",
+  "description" : "Link: https://google.github.io/styleguide/rustguide.html | Score: 275 | Comments: 158 | By: kaycebasques",
+  "url" : "https://news.ycombinator.com/item?id=50186010",
+  "answers" : [ ]
+}, {
+  "title" : "Using LLM for confidence scoring is a bad idea",
+  "description" : "Link: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html | Score: 52 | Comments: 31 | By: jimauthors",
+  "url" : "https://news.ycombinator.com/item?id=50176082",
+  "answers" : [ ]
+}, {
+  "title" : "No more icons in every menu by default",
+  "description" : "Link: https://blog.jim-nielsen.com/2026/icons-in-every-menu/ | Score: 268 | Comments: 168 | By: riffraff",
+  "url" : "https://news.ycombinator.com/item?id=50161346",
+  "answers" : [ ]
+}, {
+  "title" : "mitmproxy adds --emudhra option",
+  "description" : "Link: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b | Score: 401 | Comments: 104 | By: ahlCVA",
+  "url" : "https://news.ycombinator.com/item?id=50189232",
+  "answers" : [ ]
+}, {
+  "title" : "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+  "description" : "Link: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html | Score: 499 | Comments: 303 | By: cbg0",
+  "url" : "https://news.ycombinator.com/item?id=50184820",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of...</a>" ]
+}, {
+  "title" : "Chain of Thought for Humans",
+  "description" : "Link: https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/ | Score: 83 | Comments: 35 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50154100",
+  "answers" : [ ]
+}, {
+  "title" : "PingCap TiDB Leaks",
+  "description" : "Link: https://fulcrumsec.vg/pingcap/ | Score: 298 | Comments: 45 | By: swyx",
+  "url" : "https://news.ycombinator.com/item?id=50173716",
+  "answers" : [ ]
+}, {
+  "title" : "What Is the Karakoram Anomaly?",
+  "description" : "Link: https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real | Score: 16 | Comments: 4 | By: thunderbong",
+  "url" : "https://news.ycombinator.com/item?id=50160241",
+  "answers" : [ ]
+}, {
+  "title" : "Beyond the &",
+  "description" : "Link: https://lwn.net/Articles/1096028/ | Score: 45 | Comments: 3 | By: PaulHoule",
+  "url" : "https://news.ycombinator.com/item?id=50166590",
+  "answers" : [ ]
+}, {
+  "title" : "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+  "description" : "Link: https://www.bbc.com/news/articles/cp814l80pw2o | Score: 193 | Comments: 41 | By: bryanrasmussen",
+  "url" : "https://news.ycombinator.com/item?id=50162044",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+  "description" : "Link: https://github.com/omnara-ai/omnara | Score: 63 | Comments: 22 | By: kmansm27",
+  "url" : "https://news.ycombinator.com/item?id=50183892",
+  "answers" : [ "Hey all, Kartik from Omnara (<a href=\"https:&#x2F;&#x2F;omnara.com\">https:&#x2F;&#x2F;omnara.com</a>) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent&#x27;s state is stored in Postgres, so agents survive restarts and cost nothing while idle. You can message them and stream their events over the API.<p>You may remember us from our early days, when we made a remote-control phone app for Claude Code and Codex. Since the harness ran on a laptop back then, we had to build a relay to reach it, it stopped when the laptop closed, and moving it to a cloud sandbox meant syncing code and agent state between machines. We didn&#x27;t think remote-controlling a local agent was end-game for how people would run agents, so we built a new product where the agent runs in the cloud, any client can talk to it through an API, and it can still use your laptop as one of its machines.<p>Anthropic and OpenAI are building hosted versions of this, like Claude Managed Agents and the OpenAI Agents API. Omnara is an open-source version you can run on your own servers and use your own models. It&#x27;s basically a harness server like the opencode or codex servers, but durable, scalable, with the usual harness features like file and shell tools, subagents, compaction, permission prompts, MCP, skills, memory, yada yada yada.<p>Here&#x27;s some interesting architectural decisions we made while building this out:<p>Most harnesses, like Claude Code, Codex, OpenCode, Pi, Goose, etc, run the agent loop in one long-lived process that keeps its log in a JSONL or SQLite file. In Omnara, the log is an append-only event log in Postgres, with inputs, model outputs and tool calls stored as typed rows in their own tables. The loop runs on stateless workers in the control plane. A worker runs one iteration of the loop, either a model call or the tool calls it produced, then releases the agent and puts the next iteration on a queue in Postgres. Whichever worker is free picks it up, so each iteration of an agent&#x27;s loop can run in a different process on a different machine. Each iteration&#x27;s result commits in one transaction, so the model output, its tool calls, usage and the next wakeup are saved together or not at all. If a worker dies mid-iteration, nothing commits, its lease expires, and another worker retries it. Agents waiting on a user, a tool or a retry don&#x27;t hold a worker, so one worker can multiplex thousands of agents.<p>Also unlike other harnesses, the machines that the workers (our agent loop) run on aren&#x27;t where the agent runs its commands. Instead, any macOS or Linux machine with an internet connection, like your laptop or any cloud sandbox, can run a small daemon (omnarad) that connects out to Omnara, so it doesn&#x27;t need any open inbound ports. The agent then gets tools for that machine, like running a command or editing a file. An agent can have any number of machines connected to it. A fun thing I like to do is I have my laptop and a cloud sandbox connected to the same agent, so when my laptop is on, my agent codes there and I can interact with it, and I have it often push to Github. When I close my laptop, my agent sees the laptop went offline, pulls the latest changes to its cloud sandbox, and continues there.<p>The entire codebase is open source at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;omnara-ai&#x2F;omnara\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;omnara-ai&#x2F;omnara</a>, and it’s self hostable, even on a single machine with docker compose. You can also use the hosted version at <a href=\"https:&#x2F;&#x2F;omnara.com\">https:&#x2F;&#x2F;omnara.com</a>. Let me know what you think!" ]
+}, {
+  "title" : "OpenAI models are coming to Google Cloud",
+  "description" : "Link: https://openai.com/index/openai-models-google-cloud/ | Score: 277 | Comments: 116 | By: armcat",
+  "url" : "https://news.ycombinator.com/item?id=50180079",
+  "answers" : [ ]
+}, {
+  "title" : "Today's PHP security release, and how we're strengthening security",
+  "description" : "Link: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ | Score: 714 | Comments: 349 | By: ejohnso49",
+  "url" : "https://news.ycombinator.com/item?id=50182987",
+  "answers" : [ "Related ongoing thread: <i>PHP 8.2.35</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873</a><p>(links to more at <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935</a>)" ]
+}, {
+  "title" : "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+  "description" : "Link: https://duckdb.org/2026/10/21/announcing-duckdb-200 | Score: 397 | Comments: 52 | By: nnx",
+  "url" : "https://news.ycombinator.com/item?id=50181136",
+  "answers" : [ ]
+}, {
+  "title" : "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+  "description" : "Link: https://www.jhiblog.org/2026/10/19/clockwork-metaphors/ | Score: 10 | Comments: 2 | By: benbreen",
+  "url" : "https://news.ycombinator.com/item?id=50160988",
+  "answers" : [ ]
+}, {
+  "title" : "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+  "description" : "Link: https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ | Score: 251 | Comments: 168 | By: nr378",
+  "url" : "https://news.ycombinator.com/item?id=50181175",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;patchtheplanet.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;patchtheplanet.org&#x2F;</a>" ]
+}, {
+  "title" : "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+  "description" : "Link: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488 | Score: 184 | Comments: 91 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50182526",
+  "answers" : [ ]
+}, {
+  "title" : "Code is clay now",
+  "description" : "Link: https://www.albertodenia.com/writing/code-is-clay-now | Score: 155 | Comments: 92 | By: albertodenia",
+  "url" : "https://news.ycombinator.com/item?id=50153531",
+  "answers" : [ ]
+}, {
+  "title" : "Postgres recovery_prefetch can cause outages",
+  "description" : "Link: https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/ | Score: 17 | Comments: 0 | By: plaur782",
+  "url" : "https://news.ycombinator.com/item?id=50188614",
+  "answers" : [ ]
+}, {
+  "title" : "PHP 8.2.35",
+  "description" : "Link: https://github.com/php/php-src/releases/tag/php-8.2.35 | Score: 1003 | Comments: 537 | By: tuyuri",
+  "url" : "https://news.ycombinator.com/item?id=50180873",
+  "answers" : [ "Related ongoing thread: <i>Today&#x27;s PHP security release, and how we&#x27;re strengthening security</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987</a>" ]
+}, {
+  "title" : "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+  "description" : "Link: https://alterauth.com/ | Score: 59 | Comments: 25 | By: simfinii",
+  "url" : "https://news.ycombinator.com/item?id=50176908",
+  "answers" : [ "Hi HN! We’re Srikar and Kevan, founders of Alter – <a href=\"https:&#x2F;&#x2F;alterauth.com&#x2F;\">https:&#x2F;&#x2F;alterauth.com&#x2F;</a>. We’re building access control for agents that can take actions on behalf of multiple users.<p>If you’ve built an internal agent people use through Slack, you may have experienced this scenario: everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can do. User-level authentication in Slack does nothing to control what the agent can do in an external system like the CRM or billing system.<p>Here’s what Alter does:<p>-It acts as a proxy and manages downstream credentials for every API request that an agent takes;<p>-It takes identity into account for every action the agent does. Automatically take into account the end user identity of the person that the agent is taking actions on behalf of.<p>-It enforces fine grained runtime policies and records compliance grade audit logs.<p>Here’s a demo video: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=9ZqPU14ipGE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=9ZqPU14ipGE</a><p>We started this because we saw first hand how hard it is to build agents in regulated industries. To unlock the true benefits of agents we need to allow agents to take actions, sometimes actions on behalf of end users. I (Srikar) was working at Goldmans and I saw how prohibitively expensive it was for me as a developer to write my own custom auth to enable multi-tenancy in agents and to allow agents to have strict policy controls as they act on behalf of end users. My co-founder, Kevan, is a second time founder and was previously working on a database startup. He has experience building and selling deep tech into highly regulated environments. So this problem seemed like a natural fit for the both of us.<p>Building and maintaining custom auth for multi tenant agents was challenging. But so was ensuring that the solution we developed was secure, scalable and keeping track of security grade audit logs. As a result we realized there needs to be a separate product category for this that enables developers to easily build secure multi user agents that can actually take actions in an enterprise.\nSome of the real-world use cases we’ve seen include:<p>We have built a multi user open claw for our own team using Alter that saved us countless hours on our GTM effort.  Link here:<a href=\"https:&#x2F;&#x2F;github.com&#x2F;AlterAIDev&#x2F;openclaw-alter-plugin\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;AlterAIDev&#x2F;openclaw-alter-plugin</a><p>We have multiple startups who have used our platform to build their own secure internal agents for everything ranging from SRE agents to back office agents dealing with Quickbooks and payroll platforms like Rippling. It has saved developers countless hours both in terms of building and maintenance. We also have a defense contractor building air gapped agents for marine corp using Alter.<p>Under the hood, the value that we provide is that we do a lot of the plumbing that no one wants to do. We support hundreds of providers, all manually tested end to end. Reliability is our biggest priority. We have built this in a way to allow developers to custom build their agents however they see fit. Everything ranging from custom policies, agent delegation, user attribution, audit logs needed for compliance to a LLM gateway with guardrails (Coming soon)<p>Building a security product is hard. We have learnt that in order to build a truly secure product, security thinking has to pervade every part of the development process. We have embraced shift left security. Every PR that is pushed out is continuously checked for supply chain attacks, potentially dangerous code patterns etc.<p>Our business plan revolved around usage based pricing. There is a free tier up to 10k requests and then a pricing tier starting beyond that. We would love it if people configured their APIs and OAuth credentials, tried out the policies and actually built agents that can take actions with alter!<p>If you’ve built an agent that acts for multiple users, how are you handling permissions today? We’d especially like to hear what you’ve had to build yourself.<p><a href=\"https:&#x2F;&#x2F;alterauth.com&#x2F;\">https:&#x2F;&#x2F;alterauth.com&#x2F;</a>" ]
+}, {
+  "title" : "EA is shutting down BioWare",
+  "description" : "Link: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware | Score: 599 | Comments: 373 | By: aaronbrethorst",
+  "url" : "https://news.ycombinator.com/item?id=50184586",
+  "answers" : [ ]
+}, {
+  "title" : "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+  "description" : "Link: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ | Score: 875 | Comments: 417 | By: hkc",
+  "url" : "https://news.ycombinator.com/item?id=50177916",
+  "answers" : [ ]
+} ]
