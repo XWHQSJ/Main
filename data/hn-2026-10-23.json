@@ -1,0 +1,151 @@
+[ {
+  "title" : "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+  "description" : "Link: https://edjefferson.com/localwiki/ | Score: 68 | Comments: 14 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=50202285",
+  "answers" : [ ]
+}, {
+  "title" : "Docker is weird",
+  "description" : "Link: https://codeandcake.dev/posts/2026-10-22-docker-is-weird | Score: 360 | Comments: 179 | By: psxuaw",
+  "url" : "https://news.ycombinator.com/item?id=50202681",
+  "answers" : [ ]
+}, {
+  "title" : "LLMs are making formal software verification feasible at a much larger scale",
+  "description" : "Link: https://www.anthropic.com/research/formal-verification | Score: 282 | Comments: 155 | By: johnbender",
+  "url" : "https://news.ycombinator.com/item?id=50202217",
+  "answers" : [ ]
+}, {
+  "title" : "This I Believe (1952)",
+  "description" : "Link: https://www.awakin.org/v2/read/view.php?tid=468 | Score: 55 | Comments: 13 | By: ctoth",
+  "url" : "https://news.ycombinator.com/item?id=50203759",
+  "answers" : [ ]
+}, {
+  "title" : "The foolishness of \"natural language programming\" (1978)",
+  "description" : "Link: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html | Score: 113 | Comments: 70 | By: xiaoyu2006",
+  "url" : "https://news.ycombinator.com/item?id=50203161",
+  "answers" : [ ]
+}, {
+  "title" : "The alien space of science: Coherent but cognitively unavailable directions",
+  "description" : "Link: https://arxiv.org/abs/2603.01092 | Score: 18 | Comments: 2 | By: martincsweiss",
+  "url" : "https://news.ycombinator.com/item?id=50195002",
+  "answers" : [ ]
+}, {
+  "title" : "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "description" : "Link: https://github.com/NVIDIA/OpenShell | Score: 366 | Comments: 187 | By: niemandhier",
+  "url" : "https://news.ycombinator.com/item?id=50198675",
+  "answers" : [ ]
+}, {
+  "title" : "How does Fable 5.1 hide messages in images?",
+  "description" : "Link: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images | Score: 9 | Comments: 1 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50201445",
+  "answers" : [ ]
+}, {
+  "title" : "Every AI model has the same \"controversial\" take on humans",
+  "description" : "Link: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans | Score: 350 | Comments: 377 | By: rakannimer",
+  "url" : "https://news.ycombinator.com/item?id=50197313",
+  "answers" : [ ]
+}, {
+  "title" : "The HTML-in-Canvas API origin trial",
+  "description" : "Link: https://developer.chrome.com/blog/html-in-canvas-origin-trial | Score: 14 | Comments: 2 | By: andrewstuart",
+  "url" : "https://news.ycombinator.com/item?id=50200164",
+  "answers" : [ ]
+}, {
+  "title" : "We have traits at home",
+  "description" : "Link: https://www.axelmagn.com/blog/202610-zig-traits/ | Score: 9 | Comments: 0 | By: Ygg2",
+  "url" : "https://news.ycombinator.com/item?id=50202482",
+  "answers" : [ ]
+}, {
+  "title" : "Run full iOS 16.5 firmware on Android Devices",
+  "description" : "Link: https://github.com/oosexgang/hackios-xnu-kernel | Score: 393 | Comments: 137 | By: aghuang",
+  "url" : "https://news.ycombinator.com/item?id=50196718",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;hackios-web.vercel.app&#x2F;en\" rel=\"nofollow\">https:&#x2F;&#x2F;hackios-web.vercel.app&#x2F;en</a>" ]
+}, {
+  "title" : "Jank – The native Clojure dialect with seamless C++ interop",
+  "description" : "Link: https://jank-lang.org/ | Score: 70 | Comments: 4 | By: giancarlostoro",
+  "url" : "https://news.ycombinator.com/item?id=50202762",
+  "answers" : [ ]
+}, {
+  "title" : "Getting ready to operate GNU Taler in Germany",
+  "description" : "Link: https://www.taler.net/en/news/2026-13.html | Score: 258 | Comments: 104 | By: dewey",
+  "url" : "https://news.ycombinator.com/item?id=50197404",
+  "answers" : [ ]
+}, {
+  "title" : "Quad9 to exit France",
+  "description" : "Link: https://quad9.net/news/blog/au-revoir-france/ | Score: 1129 | Comments: 389 | By: farrokhi",
+  "url" : "https://news.ycombinator.com/item?id=50195959",
+  "answers" : [ ]
+}, {
+  "title" : "WorldTUI: I trained a 360M model to pretend to be a terminal",
+  "description" : "Link: https://simedw.com/2026/10/21/world-model-terminal/ | Score: 523 | Comments: 164 | By: alphax314",
+  "url" : "https://news.ycombinator.com/item?id=50190363",
+  "answers" : [ ]
+}, {
+  "title" : "Color Names",
+  "description" : "Link: https://names.color.pizza | Score: 51 | Comments: 6 | By: akkartik",
+  "url" : "https://news.ycombinator.com/item?id=50168850",
+  "answers" : [ ]
+}, {
+  "title" : "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+  "description" : "Score: 489 | Comments: 199 | By: petecooper",
+  "url" : "https://news.ycombinator.com/item?id=50193416",
+  "answers" : [ "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.<p>I am truly sorry. I take full responsibility for my actions.<p>It was not remotely my intention to cause any of the subsequent side effects.<p>At the time of posting, I didn&#x27;t know about any embargo. My contact had told me there was no embargo, and her contact had told her the same thing.<p>As someone who follows the 4-weekly PHP release cycle and compiles it from source, my intention was to alert others in a similar position to be aware of the importance&#x2F;urgency of the updates.<p>That clearly backfired in a pretty wild fashion. I have learned my lesson." ]
+}, {
+  "title" : "A lost Schrödinger manuscript reveals a twist in quantum physics",
+  "description" : "Link: https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics | Score: 22 | Comments: 5 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50192396",
+  "answers" : [ ]
+}, {
+  "title" : "Objects, attributes, maps, oh my",
+  "description" : "Link: https://bernsteinbear.com/blog/object-shapes/ | Score: 9 | Comments: 0 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50197692",
+  "answers" : [ ]
+}, {
+  "title" : "Postgres recovery_prefetch can cause outages",
+  "description" : "Link: https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/ | Score: 33 | Comments: 0 | By: plaur782",
+  "url" : "https://news.ycombinator.com/item?id=50188614",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+  "description" : "Link: https://github.com/dsmurrell/onkey | Score: 16 | Comments: 7 | By: dsmurrell",
+  "url" : "https://news.ycombinator.com/item?id=50195488",
+  "answers" : [ "Hi all<p>I was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve.<p>Lately however, the app I’ve been using has flooded their song list with songs that aren’t originals. I didn’t like this at all as for me, it’s easier to try to improve when you’re singing along to the original.<p>So, I asked an agent (Claude Code) if it could write some code to listen to Spotify and also listen to me and see if it could detect both pitches and score me. It impressed me by writing some Python and showing me my pitch in the terminal!<p>It couldn’t go all the way though and detect the singer’s pitch in real time.<p>So I found the next best setup and built OnKey, a Mac app that needs to listen to the song once (it doesn’t save it) and then when it’s learnt the song (takes a couple of minutes), you can sing along to the pitch track that it’s learnt. OnKey is free to use and open source under the MIT license.<p>It can listen to Spotify, Apple Music, and YouTube playing in your browser with the right permissions.<p>During the build I found that someone had done something similar in Nightingale, but this requires a library of songs exported to disk and who has this in 2026 (maybe some of you ;) - but we need to help the normies too).<p>You can check out a demo video on the site of me singing (warning given) here: <a href=\"https:&#x2F;&#x2F;singonkey.app\" rel=\"nofollow\">https:&#x2F;&#x2F;singonkey.app</a><p>The app sends out to find the song info (short Shazam fingerprint, and looks up song details), lyrics (from LRCLIB), and checks for updates.<p>The app never sends the music (it doesn’t save this to disk) and your voice. Everything you’d expect to stay private does.<p>It’s still weak in a few places:<p>- when the song’s backing is noisy it’s hard to pick the pitch track out<p>- sometimes it gets a note an octave off<p>- it’s limited to Apple Silicon Macs, M1 or later, and only macOS 14.2 up because extra drivers aren’t required past this point<p>- the scoring is built for beginners like me so it’s fairly easy on you<p>Would love for people to try it out and let me know what works and what doesn’t for them!" ]
+}, {
+  "title" : "Why my Asus laptop kept rebooting after sleep and how to fix it",
+  "description" : "Link: https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep | Score: 35 | Comments: 28 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50166272",
+  "answers" : [ ]
+}, {
+  "title" : "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+  "description" : "Link: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/ | Score: 278 | Comments: 241 | By: entryleveljobsc",
+  "url" : "https://news.ycombinator.com/item?id=50194009",
+  "answers" : [ ]
+}, {
+  "title" : "eMudhra to exit global SSL/TLS certificate business",
+  "description" : "Link: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business | Score: 1008 | Comments: 668 | By: bo0tzz",
+  "url" : "https://news.ycombinator.com/item?id=50195110",
+  "answers" : [ ]
+}, {
+  "title" : "How to Design Flowers",
+  "description" : "Link: https://www.asimov.press/p/flowers | Score: 38 | Comments: 2 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50166604",
+  "answers" : [ ]
+}, {
+  "title" : "Hedra is a 3D open world game I wrote from scratch while in highschool",
+  "description" : "Link: https://github.com/maxilevi/project-hedra/tree/pre-ai | Score: 177 | Comments: 31 | By: maxilevi",
+  "url" : "https://news.ycombinator.com/item?id=50199389",
+  "answers" : [ ]
+}, {
+  "title" : "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+  "description" : "Link: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472 | Score: 92 | Comments: 55 | By: gumby",
+  "url" : "https://news.ycombinator.com/item?id=50173516",
+  "answers" : [ ]
+}, {
+  "title" : "Railpass",
+  "description" : "Link: https://train.samismith.com/ | Score: 88 | Comments: 23 | By: CharlesW",
+  "url" : "https://news.ycombinator.com/item?id=50201414",
+  "answers" : [ ]
+}, {
+  "title" : "Rule 30: one black cell",
+  "description" : "Link: https://www.wolframcollatzmahler.com/rule30/index.html | Score: 5 | Comments: 0 | By: amichail",
+  "url" : "https://news.ycombinator.com/item?id=50201842",
+  "answers" : [ ]
+} ]
