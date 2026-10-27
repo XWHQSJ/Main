@@ -1,0 +1,151 @@
+[ {
+  "title" : "Three new discoveries in mathematics, computer science, and physics",
+  "description" : "Link: https://openai.com/index/building-scientific-understanding-with-academic-communities/ | Score: 773 | Comments: 345 | By: jonluca",
+  "url" : "https://news.ycombinator.com/item?id=50251344",
+  "answers" : [ "Related:<p><i>The Exponential Time Hypothesis Is False [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661</a>" ]
+}, {
+  "title" : "The Exponential Time Hypothesis Is False [pdf]",
+  "description" : "Link: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf | Score: 541 | Comments: 196 | By: vok",
+  "url" : "https://news.ycombinator.com/item?id=50251661",
+  "answers" : [ "See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344</a>" ]
+}, {
+  "title" : "Sebastian Raschka's from-scratch video course on building reasoning models",
+  "description" : "Link: https://magazine.sebastianraschka.com/p/building-reasoning-models | Score: 665 | Comments: 93 | By: sgiannopoulos",
+  "url" : "https://news.ycombinator.com/item?id=50245138",
+  "answers" : [ ]
+}, {
+  "title" : "Oldest GUI application that still runs on Windows 11",
+  "description" : "Link: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ | Score: 378 | Comments: 218 | By: enlyth",
+  "url" : "https://news.ycombinator.com/item?id=50248055",
+  "answers" : [ ]
+}, {
+  "title" : "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+  "description" : "Link: https://github.com/otya128/winevdm | Score: 74 | Comments: 6 | By: doener",
+  "url" : "https://news.ycombinator.com/item?id=50253529",
+  "answers" : [ ]
+}, {
+  "title" : "I still teach OpenGL ES 3.0",
+  "description" : "Link: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html | Score: 37 | Comments: 16 | By: majorchord",
+  "url" : "https://news.ycombinator.com/item?id=50253939",
+  "answers" : [ ]
+}, {
+  "title" : "Type Server Protocol",
+  "description" : "Link: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md | Score: 229 | Comments: 150 | By: adamnemecek",
+  "url" : "https://news.ycombinator.com/item?id=50248371",
+  "answers" : [ ]
+}, {
+  "title" : "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+  "description" : "Link: https://blog.cloudflare.com/kv-cache-exposure-remediation/ | Score: 121 | Comments: 39 | By: wondersky",
+  "url" : "https://news.ycombinator.com/item?id=50252159",
+  "answers" : [ ]
+}, {
+  "title" : "CSS-Tricks has a new owner",
+  "description" : "Link: https://css-tricks.com/css-tricks-has-a-new-owner/ | Score: 435 | Comments: 96 | By: edent",
+  "url" : "https://news.ycombinator.com/item?id=50245831",
+  "answers" : [ ]
+}, {
+  "title" : "The Mythical Man-Month in the Age of AI",
+  "description" : "Link: https://j11g.com/the-mythical-man-month-in-the-age-of-ai | Score: 4 | Comments: 1 | By: ilreb",
+  "url" : "https://news.ycombinator.com/item?id=50255298",
+  "answers" : [ ]
+}, {
+  "title" : "Solar power is becoming bigger than nuclear",
+  "description" : "Link: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear | Score: 246 | Comments: 382 | By: geox",
+  "url" : "https://news.ycombinator.com/item?id=50245385",
+  "answers" : [ ]
+}, {
+  "title" : "APC says let there be light, with standards to speed up photonics manufacturing",
+  "description" : "Link: https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950 | Score: 30 | Comments: 4 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=50234707",
+  "answers" : [ ]
+}, {
+  "title" : "A Printer Printing onto Paper",
+  "description" : "Link: https://twitter.com/macrofying/status/2112904628509528219 | Score: 103 | Comments: 25 | By: MrBuddyCasino",
+  "url" : "https://news.ycombinator.com/item?id=50204697",
+  "answers" : [ ]
+}, {
+  "title" : "Writing about pratt parsing so I remember it",
+  "description" : "Link: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html | Score: 8 | Comments: 0 | By: dverlaeckt80",
+  "url" : "https://news.ycombinator.com/item?id=50255177",
+  "answers" : [ ]
+}, {
+  "title" : "Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)",
+  "description" : "Link: https://johnhendersontravel.com/txoko/ | Score: 10 | Comments: 2 | By: jxub",
+  "url" : "https://news.ycombinator.com/item?id=50212625",
+  "answers" : [ ]
+}, {
+  "title" : "Nietzschian Debugger",
+  "description" : "Link: https://github.com/DilawarShafiq/nietzschian-debugger | Score: 164 | Comments: 51 | By: dilawargopang",
+  "url" : "https://news.ycombinator.com/item?id=50247493",
+  "answers" : [ ]
+}, {
+  "title" : "How to grow a cacao tree at home (2024)",
+  "description" : "Link: https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/ | Score: 52 | Comments: 15 | By: felipevb",
+  "url" : "https://news.ycombinator.com/item?id=50240465",
+  "answers" : [ ]
+}, {
+  "title" : "New iPad mini",
+  "description" : "Link: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/ | Score: 188 | Comments: 475 | By: soheilpro",
+  "url" : "https://news.ycombinator.com/item?id=50243061",
+  "answers" : [ ]
+}, {
+  "title" : "A Man from the Future: Why Johnny Can't Stop Abstracting",
+  "description" : "Link: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html | Score: 159 | Comments: 76 | By: aray07",
+  "url" : "https://news.ycombinator.com/item?id=50247928",
+  "answers" : [ ]
+}, {
+  "title" : "Virtual and Real World Combine at LAN Party (1998)",
+  "description" : "Link: https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html | Score: 43 | Comments: 6 | By: npunt",
+  "url" : "https://news.ycombinator.com/item?id=50226808",
+  "answers" : [ ]
+}, {
+  "title" : "Anthropic S-1",
+  "description" : "Link: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm | Score: 1575 | Comments: 1510 | By: SiNTEx",
+  "url" : "https://news.ycombinator.com/item?id=50242939",
+  "answers" : [ ]
+}, {
+  "title" : "LISPy things you can do in 64K bytes of core (2019)",
+  "description" : "Link: https://t3x.org/lisp64k/index.html | Score: 52 | Comments: 9 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=50231041",
+  "answers" : [ ]
+}, {
+  "title" : "Blaise Pascal invented fixed route public transport (2024)",
+  "description" : "Link: https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html | Score: 280 | Comments: 145 | By: skadamat",
+  "url" : "https://news.ycombinator.com/item?id=50200152",
+  "answers" : [ ]
+}, {
+  "title" : "Websites Should Be Printable",
+  "description" : "Link: https://brennenputh.me/blog/printable-websites/ | Score: 314 | Comments: 187 | By: bagatelle",
+  "url" : "https://news.ycombinator.com/item?id=50241664",
+  "answers" : [ ]
+}, {
+  "title" : "GPT-6.1 Terra",
+  "description" : "Link: https://openai.com/index/introducing-gpt-6-1-terra/ | Score: 574 | Comments: 356 | By: meetpateltech",
+  "url" : "https://news.ycombinator.com/item?id=50248124",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;models&#x2F;gpt-6.1-terra\" rel=\"nofollow\">https:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;models&#x2F;gpt-6.1-terra</a>" ]
+}, {
+  "title" : "Chemists, Chemical Engineers, and Plant Managers",
+  "description" : "Link: https://www.seeingthesystem.com/p/chemists-chemical-engineers-and-plant | Score: 3 | Comments: 0 | By: TinyBig",
+  "url" : "https://news.ycombinator.com/item?id=50196839",
+  "answers" : [ ]
+}, {
+  "title" : "SIMD-accelerated computer vision on a $2 microcontroller",
+  "description" : "Link: https://shraiwi.com/blog/simd-fast-esp32s3/ | Score: 196 | Comments: 58 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=50236681",
+  "answers" : [ ]
+}, {
+  "title" : "UK to charge universities $1,200 per international student",
+  "description" : "Link: https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe | Score: 32 | Comments: 10 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=50254935",
+  "answers" : [ ]
+}, {
+  "title" : "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+  "description" : "Link: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ | Score: 893 | Comments: 837 | By: doctorzook",
+  "url" : "https://news.ycombinator.com/item?id=50245524",
+  "answers" : [ ]
+}, {
+  "title" : "Pharo 14",
+  "description" : "Link: https://pharo.org/news/2026-10-26-Pharo14Release.html | Score: 254 | Comments: 68 | By: xkriva11",
+  "url" : "https://news.ycombinator.com/item?id=50241925",
+  "answers" : [ ]
+} ]
