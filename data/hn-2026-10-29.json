@@ -1,0 +1,151 @@
+[ {
+  "title" : "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+  "description" : "Link: https://divagr.com/blog/qwenputer | Score: 358 | Comments: 80 | By: csmantle",
+  "url" : "https://news.ycombinator.com/item?id=50282838",
+  "answers" : [ ]
+}, {
+  "title" : "Why is this fingerprinting script creating bioweapons?",
+  "description" : "Link: https://nullpt.rs/fingerprinting-bioweapons | Score: 1105 | Comments: 220 | By: hazebooth",
+  "url" : "https://news.ycombinator.com/item?id=50276998",
+  "answers" : [ ]
+}, {
+  "title" : "We Won't \"Just Hang Out\"",
+  "description" : "Link: https://borretti.me/article/we-wont-just-hang-out | Score: 20 | Comments: 19 | By: barry-cotter",
+  "url" : "https://news.ycombinator.com/item?id=50285154",
+  "answers" : [ ]
+}, {
+  "title" : "A new faster algorithm to compute 64-bit signed floor division",
+  "description" : "Link: https://www.benjoffe.com/fast-floordiv | Score: 41 | Comments: 3 | By: benjoffe",
+  "url" : "https://news.ycombinator.com/item?id=50256409",
+  "answers" : [ ]
+}, {
+  "title" : "A Health Update",
+  "description" : "Link: https://furbo.org/2026/10/28/a-health-update/ | Score: 221 | Comments: 35 | By: frizlab",
+  "url" : "https://news.ycombinator.com/item?id=50280974",
+  "answers" : [ ]
+}, {
+  "title" : "StackOverflow now gets fewer than 1000 questions a month",
+  "description" : "Link: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 | Score: 352 | Comments: 297 | By: babelfish",
+  "url" : "https://news.ycombinator.com/item?id=50282454",
+  "answers" : [ ]
+}, {
+  "title" : "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+  "description" : "Link: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html | Score: 162 | Comments: 69 | By: sashk",
+  "url" : "https://news.ycombinator.com/item?id=50282544",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Code regularly sends each background agent’s transcript to its model",
+  "description" : "Link: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce | Score: 304 | Comments: 92 | By: NikZaal",
+  "url" : "https://news.ycombinator.com/item?id=50284255",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI's agents talked to each other through the CPU Cache",
+  "description" : "Link: https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/ | Score: 83 | Comments: 26 | By: limbicsystem",
+  "url" : "https://news.ycombinator.com/item?id=50251200",
+  "answers" : [ ]
+}, {
+  "title" : "CNC Stone Carving",
+  "description" : "Link: https://carmelitegothic.com/cnc-stone-carving/ | Score: 457 | Comments: 127 | By: bschne",
+  "url" : "https://news.ycombinator.com/item?id=50274409",
+  "answers" : [ ]
+}, {
+  "title" : "TLP Is Not a Suggestion",
+  "description" : "Link: https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion | Score: 12 | Comments: 3 | By: sneela",
+  "url" : "https://news.ycombinator.com/item?id=50271756",
+  "answers" : [ ]
+}, {
+  "title" : "Getting debug access on a Brother printer over Telnet",
+  "description" : "Link: https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/ | Score: 4 | Comments: 0 | By: inventor7777",
+  "url" : "https://news.ycombinator.com/item?id=50243757",
+  "answers" : [ ]
+}, {
+  "title" : "Gemini 4 Carbon",
+  "description" : "Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ | Score: 901 | Comments: 737 | By: acossta",
+  "url" : "https://news.ycombinator.com/item?id=50276792",
+  "answers" : [ ]
+}, {
+  "title" : "Formlabs Studio 1 $699 Resin Printer",
+  "description" : "Link: https://formlabs.com/products/form-studio-1-basic-founders-edition/ | Score: 171 | Comments: 108 | By: mhb",
+  "url" : "https://news.ycombinator.com/item?id=50281044",
+  "answers" : [ ]
+}, {
+  "title" : "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+  "description" : "Link: https://www.circuithub.com/post/unveiling-the-grid | Score: 492 | Comments: 219 | By: seddona",
+  "url" : "https://news.ycombinator.com/item?id=50243060",
+  "answers" : [ ]
+}, {
+  "title" : "Human-enhanced tsunami hazard in large lakes",
+  "description" : "Link: https://www.nature.com/articles/s41467-026-78272-8 | Score: 30 | Comments: 2 | By: gumby",
+  "url" : "https://news.ycombinator.com/item?id=50242873",
+  "answers" : [ ]
+}, {
+  "title" : "Treap (Cartesian Tree)",
+  "description" : "Link: https://cp-algorithms.com/data_structures/treap.html | Score: 15 | Comments: 2 | By: vismit2000",
+  "url" : "https://news.ycombinator.com/item?id=50241949",
+  "answers" : [ ]
+}, {
+  "title" : "Why birds can fly over Mount Everest (2020)",
+  "description" : "Link: https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864 | Score: 139 | Comments: 26 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=50220975",
+  "answers" : [ ]
+}, {
+  "title" : "MacBook Pro with PROLED XDR Display and Touch",
+  "description" : "Link: https://www.apple.com/macbook-pro/proled-xdr-display/ | Score: 562 | Comments: 951 | By: etothet",
+  "url" : "https://news.ycombinator.com/item?id=50276940",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.apple.com&#x2F;newsroom&#x2F;2026&#x2F;10&#x2F;apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apple.com&#x2F;newsroom&#x2F;2026&#x2F;10&#x2F;apple-unveils-groundb...</a>" ]
+}, {
+  "title" : "Nixpkgs for the Front End Impaired",
+  "description" : "Link: https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired | Score: 51 | Comments: 11 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50244929",
+  "answers" : [ ]
+}, {
+  "title" : "The 'else' keyword is probably a literal translation from German (2020)",
+  "description" : "Link: https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md | Score: 98 | Comments: 92 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=50233059",
+  "answers" : [ ]
+}, {
+  "title" : "AlpineBSD",
+  "description" : "Link: https://wiki.alpinebsd.org | Score: 206 | Comments: 191 | By: bradley_taunt",
+  "url" : "https://news.ycombinator.com/item?id=50274251",
+  "answers" : [ ]
+}, {
+  "title" : "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+  "description" : "Link: https://nango.dev/careers | Score: 1 | Comments: 0 | By: bastienbeurier",
+  "url" : "https://news.ycombinator.com/item?id=50280824",
+  "answers" : [ ]
+}, {
+  "title" : "Apple's git still trusts the compromised eMudhra certificates",
+  "description" : "Link: https://emudhra.we-have-a-problem.com/apple.html | Score: 1110 | Comments: 392 | By: galadran",
+  "url" : "https://news.ycombinator.com/item?id=50271640",
+  "answers" : [ ]
+}, {
+  "title" : "Zillow to pay $212.5M to settle class action for real estate venture",
+  "description" : "Link: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/ | Score: 35 | Comments: 9 | By: WaitWaitWha",
+  "url" : "https://news.ycombinator.com/item?id=50284342",
+  "answers" : [ ]
+}, {
+  "title" : "The case of the 9 bit AES key",
+  "description" : "Link: https://v12.sh/blog/the-case-of-the-9bit-aes-key | Score: 108 | Comments: 54 | By: ledoge",
+  "url" : "https://news.ycombinator.com/item?id=50280722",
+  "answers" : [ ]
+}, {
+  "title" : "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+  "description" : "Link: https://surgehq.ai/blog/dayjob-tax | Score: 226 | Comments: 147 | By: landonxi",
+  "url" : "https://news.ycombinator.com/item?id=50275626",
+  "answers" : [ ]
+}, {
+  "title" : "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+  "description" : "Link: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/ | Score: 60 | Comments: 6 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50277755",
+  "answers" : [ ]
+}, {
+  "title" : "Scaling Hierarchical Networks",
+  "description" : "Link: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1 | Score: 61 | Comments: 2 | By: guybedo",
+  "url" : "https://news.ycombinator.com/item?id=50278253",
+  "answers" : [ ]
+}, {
+  "title" : "The Agent SDK",
+  "description" : "Link: https://cursor.com/blog/agent-sdk | Score: 122 | Comments: 118 | By: torutofu",
+  "url" : "https://news.ycombinator.com/item?id=50273731",
+  "answers" : [ ]
+} ]
