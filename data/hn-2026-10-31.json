@@ -1,0 +1,151 @@
+[ {
+  "title" : "My favourite PowerMac is a Nintendo Wii",
+  "description" : "Link: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ | Score: 297 | Comments: 81 | By: DHowett",
+  "url" : "https://news.ycombinator.com/item?id=50307190",
+  "answers" : [ ]
+}, {
+  "title" : "Tell HN: Scribd Breached",
+  "description" : "Score: 168 | Comments: 67 | By: x______________",
+  "url" : "https://news.ycombinator.com/item?id=50312756",
+  "answers" : [ "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:<p>Subject: Notice of Security Incident<p>This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.<p>Hello,<p>We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.<p>We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details).<p>We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information.<p>Watch for phishing<p>We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable.<p>Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that:<p><pre><code>    Don&#x27;t click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.\n    Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time.\n    Report it through Scribd, Inc.&#x27;s Help Center.\n</code></pre>\nFor more information<p>We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time.<p>The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here.<p>What Scribd, Inc. is doing<p><pre><code>    We have secured the affected system and ended the unauthorized access.\n    We have notified law enforcement as well as the relevant data protection authorities.\n    We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring.\n</code></pre>\nWe value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc." ]
+}, {
+  "title" : "Cloudflare Turnstile solver library (no headless browser required)",
+  "description" : "Link: https://github.com/chris124567/cfsolve | Score: 176 | Comments: 51 | By: costco",
+  "url" : "https://news.ycombinator.com/item?id=50277379",
+  "answers" : [ ]
+}, {
+  "title" : "The $6.3B Binance hack was pulled off in just 20 minutes",
+  "description" : "Link: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ | Score: 424 | Comments: 286 | By: domhudson",
+  "url" : "https://news.ycombinator.com/item?id=50303172",
+  "answers" : [ ]
+}, {
+  "title" : "Northflank Breached",
+  "description" : "Link: https://status.northflank.com | Score: 420 | Comments: 310 | By: js4ever",
+  "url" : "https://news.ycombinator.com/item?id=50305025",
+  "answers" : [ ]
+}, {
+  "title" : "Breaking the open web won't stop the bad bots",
+  "description" : "Link: https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/ | Score: 250 | Comments: 106 | By: raybb",
+  "url" : "https://news.ycombinator.com/item?id=50263837",
+  "answers" : [ ]
+}, {
+  "title" : "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+  "description" : "Link: https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397 | Score: 25 | Comments: 11 | By: brandonb",
+  "url" : "https://news.ycombinator.com/item?id=50274885",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Samosa – Linter for Math Derivations",
+  "description" : "Link: https://samosa-math.vercel.app | Score: 9 | Comments: 0 | By: Hussain04",
+  "url" : "https://news.ycombinator.com/item?id=50258605",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: A working Nintendo in ~1GB of Qwen weights",
+  "description" : "Link: https://github.com/dbreunig/nesformer | Score: 239 | Comments: 119 | By: dbreunig",
+  "url" : "https://news.ycombinator.com/item?id=50306442",
+  "answers" : [ ]
+}, {
+  "title" : "The oldest ice disappears and the Stone Age emerges from it",
+  "description" : "Link: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 | Score: 136 | Comments: 56 | By: dxs",
+  "url" : "https://news.ycombinator.com/item?id=50309266",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+  "description" : "Link: https://tng.episodle.com/ | Score: 181 | Comments: 49 | By: francisofascii",
+  "url" : "https://news.ycombinator.com/item?id=50311686",
+  "answers" : [ ]
+}, {
+  "title" : "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+  "description" : "Link: https://www.firezone.dev/blog/introducing-sanstun | Score: 120 | Comments: 20 | By: wh33zle",
+  "url" : "https://news.ycombinator.com/item?id=50310398",
+  "answers" : [ ]
+}, {
+  "title" : "Infinite Mac: BeOS",
+  "description" : "Link: https://blog.persistent.info/2026/10/infinite-mac-beos.html | Score: 146 | Comments: 58 | By: ecliptik",
+  "url" : "https://news.ycombinator.com/item?id=50309029",
+  "answers" : [ ]
+}, {
+  "title" : "Configure a UPS on Linux with NUT",
+  "description" : "Link: https://linuxjunkies.org/guides/configure-a-ups-with-nut | Score: 13 | Comments: 0 | By: eustoria",
+  "url" : "https://news.ycombinator.com/item?id=50289991",
+  "answers" : [ ]
+}, {
+  "title" : "Florilegium: Procedural Flowers in LaTeX",
+  "description" : "Link: https://github.com/kevinraymond/florilegium | Score: 255 | Comments: 45 | By: nanna",
+  "url" : "https://news.ycombinator.com/item?id=50305637",
+  "answers" : [ ]
+}, {
+  "title" : "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "description" : "Link: https://phorion.io/blog/offical-claude-code-vsx-compromise/ | Score: 875 | Comments: 514 | By: _chall",
+  "url" : "https://news.ycombinator.com/item?id=50300683",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notice\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...</a>" ]
+}, {
+  "title" : "The federated code forge",
+  "description" : "Link: https://tangled.org/blog/forge/ | Score: 274 | Comments: 84 | By: zlliang",
+  "url" : "https://news.ycombinator.com/item?id=50305573",
+  "answers" : [ ]
+}, {
+  "title" : "Jules Verne's Lost Novel",
+  "description" : "Link: https://blue-continuum.com/verne-paris | Score: 101 | Comments: 23 | By: dnetesn",
+  "url" : "https://news.ycombinator.com/item?id=50309314",
+  "answers" : [ ]
+}, {
+  "title" : "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+  "description" : "Link: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ | Score: 171 | Comments: 203 | By: taubek",
+  "url" : "https://news.ycombinator.com/item?id=50304122",
+  "answers" : [ ]
+}, {
+  "title" : "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+  "description" : "Link: https://www.binarysecurity.no/posts/2026/10/one-root-case | Score: 303 | Comments: 58 | By: swq115",
+  "url" : "https://news.ycombinator.com/item?id=50301854",
+  "answers" : [ ]
+}, {
+  "title" : "Brief History of PDP Computers",
+  "description" : "Link: https://entropicthoughts.com/history-of-pdp-computers | Score: 16 | Comments: 5 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50289081",
+  "answers" : [ ]
+}, {
+  "title" : "Double Buffering with Cloudflare Queues",
+  "description" : "Link: https://bellone.com/technical/double-buffering-with-cloudflare-queues | Score: 26 | Comments: 3 | By: b_llc",
+  "url" : "https://news.ycombinator.com/item?id=50276613",
+  "answers" : [ ]
+}, {
+  "title" : "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+  "description" : "Link: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ | Score: 292 | Comments: 165 | By: apress",
+  "url" : "https://news.ycombinator.com/item?id=50309647",
+  "answers" : [ ]
+}, {
+  "title" : "Trapped in the Technologist Factory",
+  "description" : "Link: https://ideolalia.com/essays/trapped-in-the-technologist-factory.html | Score: 30 | Comments: 10 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=50276355",
+  "answers" : [ ]
+}, {
+  "title" : "Building an AI-native engineering org",
+  "description" : "Link: https://twitter.com/sgondala2/status/2115832070274723875 | Score: 146 | Comments: 177 | By: sgondala_ycapp",
+  "url" : "https://news.ycombinator.com/item?id=50296730",
+  "answers" : [ ]
+}, {
+  "title" : "Turning a solar power system into its own backup",
+  "description" : "Link: https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/ | Score: 45 | Comments: 15 | By: PaulHoule",
+  "url" : "https://news.ycombinator.com/item?id=50293437",
+  "answers" : [ ]
+}, {
+  "title" : "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+  "description" : "Link: https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/ | Score: 217 | Comments: 24 | By: acossta",
+  "url" : "https://news.ycombinator.com/item?id=50272479",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.03979\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.03979</a>" ]
+}, {
+  "title" : "Tree-mounted machines connect to web app to let users knock on wood remotely",
+  "description" : "Link: https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/ | Score: 84 | Comments: 35 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50258496",
+  "answers" : [ ]
+}, {
+  "title" : "How do you take a picture of a black hole?",
+  "description" : "Link: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ | Score: 95 | Comments: 69 | By: dverlaeckt80",
+  "url" : "https://news.ycombinator.com/item?id=50301717",
+  "answers" : [ ]
+}, {
+  "title" : "AI isn't replacing SREs, it's deskilling them",
+  "description" : "Link: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling | Score: 572 | Comments: 421 | By: dorianniemiec",
+  "url" : "https://news.ycombinator.com/item?id=50305693",
+  "answers" : [ ]
+} ]
