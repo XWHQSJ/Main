@@ -1,0 +1,151 @@
+[ {
+  "title" : "HackerTube: YouTube built from videos recommended by HN",
+  "description" : "Link: https://karpathy.bearblog.dev/hacker-tube/ | Score: 1205 | Comments: 347 | By: karpathy",
+  "url" : "https://news.ycombinator.com/item?id=50319510",
+  "answers" : [ "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href=\"https:&#x2F;&#x2F;hackertube.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;hackertube.org&#x2F;</a>" ]
+}, {
+  "title" : "An Italian farmer found some unknown seeds in his attic and planted them",
+  "description" : "Link: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ | Score: 370 | Comments: 107 | By: ecares",
+  "url" : "https://news.ycombinator.com/item?id=50320963",
+  "answers" : [ ]
+}, {
+  "title" : "Running a bootstrapped SaaS for 20 years with my brother",
+  "description" : "Link: https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/ | Score: 59 | Comments: 16 | By: whyleyc",
+  "url" : "https://news.ycombinator.com/item?id=50303984",
+  "answers" : [ ]
+}, {
+  "title" : "The AI cost of JavaScript frameworks",
+  "description" : "Link: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ | Score: 29 | Comments: 10 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=50323088",
+  "answers" : [ ]
+}, {
+  "title" : "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+  "description" : "Link: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/ | Score: 100 | Comments: 39 | By: doodlesdev",
+  "url" : "https://news.ycombinator.com/item?id=50322173",
+  "answers" : [ ]
+}, {
+  "title" : "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+  "description" : "Link: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf | Score: 487 | Comments: 221 | By: oger",
+  "url" : "https://news.ycombinator.com/item?id=50319143",
+  "answers" : [ ]
+}, {
+  "title" : "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+  "description" : "Link: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve | Score: 212 | Comments: 102 | By: guregodevo",
+  "url" : "https://news.ycombinator.com/item?id=50320995",
+  "answers" : [ ]
+}, {
+  "title" : "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+  "description" : "Link: https://arxiv.org/abs/2409.02292 | Score: 75 | Comments: 32 | By: hapax_legomena",
+  "url" : "https://news.ycombinator.com/item?id=50322022",
+  "answers" : [ ]
+}, {
+  "title" : "Altoids Project",
+  "description" : "Link: https://uvdn7.github.io/altoids-project/ | Score: 102 | Comments: 4 | By: uvdn7",
+  "url" : "https://news.ycombinator.com/item?id=50321048",
+  "answers" : [ ]
+}, {
+  "title" : "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+  "description" : "Link: https://maketecheasier.com/arecibo-zinc-creep-collapse/ | Score: 94 | Comments: 24 | By: ohjeez",
+  "url" : "https://news.ycombinator.com/item?id=50311045",
+  "answers" : [ ]
+}, {
+  "title" : "It's the memory latency, stupid",
+  "description" : "Link: https://pivotlake.io/blog/its-the-memory-latency-stupid/ | Score: 187 | Comments: 54 | By: ntur1337",
+  "url" : "https://news.ycombinator.com/item?id=50318720",
+  "answers" : [ ]
+}, {
+  "title" : "ChatGPT and Codex usage limits merging",
+  "description" : "Link: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits | Score: 100 | Comments: 42 | By: Zariel",
+  "url" : "https://news.ycombinator.com/item?id=50320588",
+  "answers" : [ ]
+}, {
+  "title" : "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+  "description" : "Link: http://thales.mit.edu/bush/index.php/4801-2/ | Score: 29 | Comments: 2 | By: peter_d_sherman",
+  "url" : "https://news.ycombinator.com/item?id=50309279",
+  "answers" : [ ]
+}, {
+  "title" : "Pac-Man's Siren Call",
+  "description" : "Link: https://unsung.aresluna.org/pac-mans-siren-call/ | Score: 7 | Comments: 3 | By: tobr",
+  "url" : "https://news.ycombinator.com/item?id=50323187",
+  "answers" : [ ]
+}, {
+  "title" : "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+  "description" : "Link: https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/ | Score: 34 | Comments: 2 | By: the-mitr",
+  "url" : "https://news.ycombinator.com/item?id=50304718",
+  "answers" : [ ]
+}, {
+  "title" : "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+  "description" : "Link: https://dl.acm.org/doi/10.1145/857076.857077 | Score: 23 | Comments: 0 | By: gjvc",
+  "url" : "https://news.ycombinator.com/item?id=50289711",
+  "answers" : [ ]
+}, {
+  "title" : "Understanding Email Encryption",
+  "description" : "Link: https://www.fastmail.com/blog/email-encryption/ | Score: 4 | Comments: 0 | By: nmjenkins",
+  "url" : "https://news.ycombinator.com/item?id=50310038",
+  "answers" : [ ]
+}, {
+  "title" : "Surviving \"The Graduate\"",
+  "description" : "Link: https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate | Score: 114 | Comments: 34 | By: samizdis",
+  "url" : "https://news.ycombinator.com/item?id=50319563",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;Eqn1F\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;Eqn1F</a>" ]
+}, {
+  "title" : "Jepsen: ParticleDB 1.1.4",
+  "description" : "Link: https://jepsen.io/analyses/particledb-1.1.4 | Score: 255 | Comments: 143 | By: aphyr",
+  "url" : "https://news.ycombinator.com/item?id=50316100",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb</a>" ]
+}, {
+  "title" : "Electrification Could Cut Global Energy Use in Half",
+  "description" : "Link: https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/ | Score: 92 | Comments: 39 | By: toomuchtodo",
+  "url" : "https://news.ycombinator.com/item?id=50319110",
+  "answers" : [ ]
+}, {
+  "title" : "OTape",
+  "description" : "Link: https://www.otape.org/ | Score: 25 | Comments: 12 | By: dotmanish",
+  "url" : "https://news.ycombinator.com/item?id=50322169",
+  "answers" : [ ]
+}, {
+  "title" : "Edgar Allan Poe, Quintessential American Writer",
+  "description" : "Link: https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html | Score: 30 | Comments: 1 | By: samclemens",
+  "url" : "https://news.ycombinator.com/item?id=50284789",
+  "answers" : [ ]
+}, {
+  "title" : "Do the math: How we took over ChatGPT accounts",
+  "description" : "Link: https://www.parameter.ai/labs/we-found-a-gap-at-openai | Score: 324 | Comments: 162 | By: armcat",
+  "url" : "https://news.ycombinator.com/item?id=50314699",
+  "answers" : [ ]
+}, {
+  "title" : "Simple circuits can create complex behaviors",
+  "description" : "Link: https://aatishb.com/myriad/lets-build-a-brain/ | Score: 243 | Comments: 77 | By: aatish",
+  "url" : "https://news.ycombinator.com/item?id=50261253",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+  "description" : "Link: https://epoyraz.github.io/nes-contra-us/ | Score: 83 | Comments: 56 | By: tevlon",
+  "url" : "https://news.ycombinator.com/item?id=50319169",
+  "answers" : [ "Based on vermiceli&#x27;s annotated disassembly of Contra: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;vermiceli&#x2F;nes-contra-us\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;vermiceli&#x2F;nes-contra-us</a>. Thanks for the great work.<p>I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser.<p>The cherry on top: online multiplayer, so two players can play co-op over the internet.<p>Source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;epoyraz&#x2F;nes-contra-us\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;epoyraz&#x2F;nes-contra-us</a>" ]
+}, {
+  "title" : "The Duty of a Scholar",
+  "description" : "Link: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html | Score: 114 | Comments: 32 | By: gslin",
+  "url" : "https://news.ycombinator.com/item?id=50319061",
+  "answers" : [ ]
+}, {
+  "title" : "Anthropic blocks users for anything touching training larger models",
+  "description" : "Link: https://twitter.com/jiahaoshao1/status/2116475922190922088 | Score: 330 | Comments: 189 | By: pretext",
+  "url" : "https://news.ycombinator.com/item?id=50319358",
+  "answers" : [ ]
+}, {
+  "title" : "Decode kernel panic from QR Code photo",
+  "description" : "Link: https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546 | Score: 27 | Comments: 9 | By: modinfo",
+  "url" : "https://news.ycombinator.com/item?id=50302686",
+  "answers" : [ ]
+}, {
+  "title" : "Reading and writing are less symmetric than you (probably) think",
+  "description" : "Link: https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/ | Score: 109 | Comments: 26 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=50271052",
+  "answers" : [ ]
+}, {
+  "title" : "AI text watermarking and quality loss",
+  "description" : "Link: https://blog.keyvan.net/p/ai-text-watermarking-and-quality | Score: 52 | Comments: 8 | By: danielfoster",
+  "url" : "https://news.ycombinator.com/item?id=50320599",
+  "answers" : [ ]
+} ]
