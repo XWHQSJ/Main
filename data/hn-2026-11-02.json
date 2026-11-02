@@ -1,0 +1,151 @@
+[ {
+  "title" : "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+  "description" : "Link: https://wikihack.netlify.app | Score: 112 | Comments: 27 | By: aizk",
+  "url" : "https://news.ycombinator.com/item?id=50333339",
+  "answers" : [ "After seeing Karpathy&#x27;s Hackertube and Hackerbooks, I just had to make Wikihack.<p>I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest &#x2F; interact with. You can see where people submitted the articles and where people mentioned it in comments.<p>The top shows the most frequently linked articles.<p>Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually).<p>Rising is ranked towards the past 12 months.<p>The entire site is served only through the frontend -- I&#x27;ll add more features if people enjoy this!" ]
+}, {
+  "title" : "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+  "description" : "Link: https://hackerbooks.org | Score: 1331 | Comments: 223 | By: roansh",
+  "url" : "https://news.ycombinator.com/item?id=50326821",
+  "answers" : [ "Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).<p>It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.<p>To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.<p>It counts mentions, so it&#x27;s not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me." ]
+}, {
+  "title" : "Postgres 19 is late because so many more bugs are being found now",
+  "description" : "Link: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html | Score: 373 | Comments: 238 | By: soheilpro",
+  "url" : "https://news.ycombinator.com/item?id=50312408",
+  "answers" : [ ]
+}, {
+  "title" : "HackerTube: YouTube built from videos recommended by HN",
+  "description" : "Link: https://karpathy.bearblog.dev/hacker-tube/ | Score: 2529 | Comments: 560 | By: karpathy",
+  "url" : "https://news.ycombinator.com/item?id=50319510",
+  "answers" : [ "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href=\"https:&#x2F;&#x2F;hackertube.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;hackertube.org&#x2F;</a>" ]
+}, {
+  "title" : "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+  "description" : "Link: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/ | Score: 105 | Comments: 11 | By: joonehur",
+  "url" : "https://news.ycombinator.com/item?id=50332163",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Which TV do you recommend for privacy?",
+  "description" : "Score: 337 | Comments: 483 | By: LecroJS",
+  "url" : "https://news.ycombinator.com/item?id=50328896",
+  "answers" : [ "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had." ]
+}, {
+  "title" : "Bones may release proteins that slow aging and extend life span",
+  "description" : "Link: https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span | Score: 59 | Comments: 6 | By: EA-3167",
+  "url" : "https://news.ycombinator.com/item?id=50331957",
+  "answers" : [ ]
+}, {
+  "title" : "Mystery of 60-Second Fluctuations in Power Grids Solved",
+  "description" : "Link: https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved | Score: 105 | Comments: 43 | By: _Microft",
+  "url" : "https://news.ycombinator.com/item?id=50315217",
+  "answers" : [ ]
+}, {
+  "title" : "Trigger.dev customer environment variables exposed",
+  "description" : "Link: https://trigger.dev/blog/security-incident-nov-2026 | Score: 76 | Comments: 29 | By: anurag",
+  "url" : "https://news.ycombinator.com/item?id=50331784",
+  "answers" : [ ]
+}, {
+  "title" : "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+  "description" : "Link: https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/ | Score: 8 | Comments: 0 | By: mertbio",
+  "url" : "https://news.ycombinator.com/item?id=50333774",
+  "answers" : [ ]
+}, {
+  "title" : "Nibnib: Image compression with extreme decompression speed",
+  "description" : "Link: https://github.com/raphlinus/nibnib | Score: 136 | Comments: 23 | By: raphlinus",
+  "url" : "https://news.ycombinator.com/item?id=50299811",
+  "answers" : [ ]
+}, {
+  "title" : "Tips for more effective fuzz testing with AFL++",
+  "description" : "Link: https://nullprogram.com/blog/2025/02/05/ | Score: 114 | Comments: 18 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=50271106",
+  "answers" : [ ]
+}, {
+  "title" : "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+  "description" : "Link: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ | Score: 14 | Comments: 8 | By: jonnybgood",
+  "url" : "https://news.ycombinator.com/item?id=50334038",
+  "answers" : [ ]
+}, {
+  "title" : "Copper – A minimal low-level programming language with OOP and generics",
+  "description" : "Link: https://tibleiz.net/copper/ | Score: 161 | Comments: 91 | By: bogdanoff_2",
+  "url" : "https://news.ycombinator.com/item?id=50308754",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+  "description" : "Link: https://github.com/ivankovic/omnidiff | Score: 228 | Comments: 61 | By: FabCH",
+  "url" : "https://news.ycombinator.com/item?id=50325253",
+  "answers" : [ "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.<p>OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts...<p>It&#x27;s fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s.<p>It&#x27;s open source. AGPLv3.<p>It&#x27;s based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a good understanding of what is needed, before putting together the diff pipelines for each content type. Incidentally, this also forms the basis of the CI pipeline, so the robustness of the codebase is quite high.<p>I&#x27;m still developing it. It&#x27;s v0.3.0 at this time. But I have been using it daily as my git difftool for months now, and it works well.<p>AI Disclosure: Yes, I do use AI. No, I do not vibecode." ]
+}, {
+  "title" : "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+  "description" : "Link: https://www.sciencedaily.com/releases/2026/10/261025073051.htm | Score: 77 | Comments: 35 | By: stevenalowe",
+  "url" : "https://news.ycombinator.com/item?id=50299427",
+  "answers" : [ ]
+}, {
+  "title" : "The AI cost of JavaScript frameworks",
+  "description" : "Link: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ | Score: 360 | Comments: 281 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=50323088",
+  "answers" : [ ]
+}, {
+  "title" : "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+  "description" : "Link: https://arxiv.org/abs/2610.39302 | Score: 137 | Comments: 69 | By: Anon84",
+  "url" : "https://news.ycombinator.com/item?id=50325454",
+  "answers" : [ ]
+}, {
+  "title" : "OccupySaaS",
+  "description" : "Link: https://occupysaas.com/ | Score: 238 | Comments: 148 | By: misswaterfairy",
+  "url" : "https://news.ycombinator.com/item?id=50331402",
+  "answers" : [ ]
+}, {
+  "title" : "Mathematics has changed. Let's act like it",
+  "description" : "Link: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ | Score: 299 | Comments: 322 | By: smilelamp",
+  "url" : "https://news.ycombinator.com/item?id=50328251",
+  "answers" : [ ]
+}, {
+  "title" : "One-minute frequency disturbances from synchronization in power systems",
+  "description" : "Link: https://www.nature.com/articles/s41560-026-02144-0 | Score: 152 | Comments: 50 | By: croes",
+  "url" : "https://news.ycombinator.com/item?id=50314617",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Point your camera at a landscape to learn about its geology",
+  "description" : "Link: https://outcrop.rocks/ | Score: 195 | Comments: 44 | By: headsupernova",
+  "url" : "https://news.ycombinator.com/item?id=50290533",
+  "answers" : [ "I&#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. It spun out of some augmented reality work I was doing on my other side project app - Flyover Country, which tells you about the view from the airplane window.<p>I&#x27;m in Minnesota, so i haven&#x27;t had a chance to test it on a huge amount of terrain (the best I&#x27;ve found is the Mississippi River gorge in the twin cities... I need  a trip up north), so anyone that&#x27;s somewhere with some more bumps: please help!).<p>It&#x27;s stuck in the Apple review queue, but it&#x27;s up on testflight for anyone interested. Google approved it quickly and it&#x27;s fully out on android (links to both on the marketing site).<p>edit: got a report that testflight was asking for an install code. Seems like a testflight app issue, but dismissing it and installing as normal seems to work!" ]
+}, {
+  "title" : "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+  "description" : "Link: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ | Score: 475 | Comments: 158 | By: entryleveljobsc",
+  "url" : "https://news.ycombinator.com/item?id=50326099",
+  "answers" : [ ]
+}, {
+  "title" : "Radiation Map of the World",
+  "description" : "Link: https://radiaverse.com/ | Score: 167 | Comments: 47 | By: slater",
+  "url" : "https://news.ycombinator.com/item?id=50280131",
+  "answers" : [ ]
+}, {
+  "title" : "Bidirectional charging during grid outages",
+  "description" : "Link: https://www.jefftk.com/p/bidirectional-charging-during-grid-outages | Score: 100 | Comments: 147 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=50319749",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+  "description" : "Link: https://kevs3d.co.uk/phoria2/ | Score: 88 | Comments: 17 | By: kevs3d",
+  "url" : "https://news.ycombinator.com/item?id=50314508",
+  "answers" : [ ]
+}, {
+  "title" : "Keeping Up Appearances – The women taking over the funeral industry",
+  "description" : "Link: https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/ | Score: 45 | Comments: 27 | By: TMWNN",
+  "url" : "https://news.ycombinator.com/item?id=50303088",
+  "answers" : [ ]
+}, {
+  "title" : "Domain hacks with unusual Unicode characters (2018)",
+  "description" : "Link: https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/ | Score: 77 | Comments: 55 | By: n_plus_1_acc",
+  "url" : "https://news.ycombinator.com/item?id=50324371",
+  "answers" : [ ]
+}, {
+  "title" : "Seoul Viosys begins production of rare-earth-free white light emitter",
+  "description" : "Link: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml | Score: 173 | Comments: 50 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50327058",
+  "answers" : [ ]
+}, {
+  "title" : "An Italian farmer found some unknown seeds in his attic and planted them",
+  "description" : "Link: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ | Score: 803 | Comments: 205 | By: ecares",
+  "url" : "https://news.ycombinator.com/item?id=50320963",
+  "answers" : [ ]
+} ]
