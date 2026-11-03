@@ -1,0 +1,151 @@
+[ {
+  "title" : "Astra can read and write weights to improve Qwen",
+  "description" : "Link: https://rikiyat.github.io/blog/weight-space-programming/ | Score: 2528 | Comments: 782 | By: dbreunig",
+  "url" : "https://news.ycombinator.com/item?id=50341174",
+  "answers" : [ ]
+}, {
+  "title" : "Nvidia – open-source auto-ontology",
+  "description" : "Link: https://github.com/NVIDIA/auto-ontology | Score: 31 | Comments: 3 | By: campervans",
+  "url" : "https://news.ycombinator.com/item?id=50348962",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+  "description" : "Link: https://hackertimes.ca/ | Score: 231 | Comments: 73 | By: polpenn",
+  "url" : "https://news.ycombinator.com/item?id=50346981",
+  "answers" : [ "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy!" ]
+}, {
+  "title" : "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+  "description" : "Link: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio | Score: 179 | Comments: 44 | By: bpierre",
+  "url" : "https://news.ycombinator.com/item?id=50346849",
+  "answers" : [ ]
+}, {
+  "title" : "European RISC-V Industrial Computing Initiative",
+  "description" : "Link: https://erici.eu | Score: 88 | Comments: 39 | By: ymz5",
+  "url" : "https://news.ycombinator.com/item?id=50334523",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Subvocal – Talk to your computer without making noise",
+  "description" : "Score: 677 | Comments: 336 | By: aarushyadav",
+  "url" : "https://news.ycombinator.com/item?id=50340088",
+  "answers" : [ "Hi HN, we&#x27;re Aarush and Arnav from The Subvocal Company (YC F26) (<a href=\"https:&#x2F;&#x2F;subvocal.company&#x2F;\">https:&#x2F;&#x2F;subvocal.company&#x2F;</a>). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech.<p>Here&#x27;s a video of Dave from YC trying it out: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=9QdX1eObVYI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=9QdX1eObVYI</a><p>(Edit: you don&#x27;t actually have to move your lips or even open your mouth for this to work! Since the RF can see inside your mouth the system can be fine tuned on &quot;internal speech&quot;. This isn&#x27;t the automatic tongue movements that occur when &quot;thinking&quot; words to yourself, but more like mouthing with your lips closed. It&#x27;s a bit weird to do, but with practice, we have been able to get it down pretty well.)<p>Arnav and I were studying CS at Georgia Tech at the beginning of the year, with no experience in silent speech or sensing. We were both AI-native builders and power users of Wispr Flow. What bugged us was not being able to use these tools in the library (or an office) or in public. At Stanford’s TreeHacks in February, we decided to build the most technically ridiculous thing we could think of. We’d read about AlterEgo, a silent speech system out of MIT’s Media Lab, and wanted to recreate it in 36 hours. We built a crude prototype, sticking EMG electrodes onto my face:<p><a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1mwhv5HZMz3UTevdrgwS5O7g2jWV0K9r2&#x2F;view?usp=sharing\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1mwhv5HZMz3UTevdrgwS5O7g2jWV...</a><p>We got it to kind of work at a letter level in a very janky way. It wasn’t good enough to win the hackathon, but convinced us to go all in. The first time I typed a sentence without anyone noticing, I felt the magic of the technology.<p>We quickly realized EMG (reading muscle electrical signals) wouldn’t work:<p>- Signal changes due to sweat<p>- Electrical interference<p>- Placement variability<p>- Most importantly, no one wants to stick electrodes onto their face!!<p>So we switched to RF and built the glasses you see now. They emit radio waves, similar to Bluetooth, that pass through your face. As they cross the tongue, lips and soft palate, they’re modulated by silent mouthing. We train foundation models on this data to decode these perturbations to text.<p>Despite prior academic research, getting this to work was a huge engineering challenge. First we built an extremely low noise RF sensing stack. Then we had to place antennas so their fields overlapped maximally with the articulators. Our first attempt on glasses failed completely, so we reverted to old habits and taped antennas on our face:<p><a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1ks0dS0eZiTV9EqSFsyB_w5BBjpcBAfX-&#x2F;view?usp=sharing\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1ks0dS0eZiTV9EqSFsyB_w5BBjpc...</a><p>Since taping antennas consistently in the same spot and angle was hard, we created this weird but effective head rig to hold them in place:<p><a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1rhzNFpdDzr7oHk0isFY70dkoV4CAF1pT&#x2F;view?usp=sharing\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1rhzNFpdDzr7oHk0isFY70dkoV4C...</a><p>This worked, but obviously wasn’t a product yet. So we worked deep in simulations to design glasses that could hold the antennas.<p>That evolved into our design now, with antennas embedded within the frames. Once we established there was a signal, the next hurdle was cross-user generalization. Everyone’s facial anatomy, and hence RF signal patterns, are vastly different. We tried algorithmic workarounds but realized the only lever was to massively scale pretraining data.<p>So that’s what we did. We set up booths in our office and paid people to read prompts wearing our glasses, to pretrain our models on. This produced a beautiful scaling curve, with errors falling quickly as we scaled our dataset and cross-user performance becoming genuinely compelling (as you see in the video above; Dave only had a short 20-sentence calibration).<p>We always heard about building things from first principles but never understood it before this. We tried tackling it top down but completely failed. Only when we broke each component (the antenna, electronics, ML) down to its fundamentals to understand and optimize it did we get it to work really well.<p>Over the next few months we’re continuing R&amp;D to turn our prototype glasses into the slick product on our website and ship in Q1 2027. We’re also scaling up our dataset to improve performance on edge cases.<p>For anyone who loves voice dictation but hates using it around people, we’ve opened preorders for our first batch of 500 units, with a $200 discount off the final price. Allocation is running out quickly, so get yours at <a href=\"https:&#x2F;&#x2F;subvocal.co&#x2F;preorder\" rel=\"nofollow\">https:&#x2F;&#x2F;subvocal.co&#x2F;preorder</a>!" ]
+}, {
+  "title" : "Resisting Cognitive Surrender",
+  "description" : "Link: https://knlb.dev/essays/surrender | Score: 145 | Comments: 60 | By: knlb",
+  "url" : "https://news.ycombinator.com/item?id=50323123",
+  "answers" : [ ]
+}, {
+  "title" : "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+  "description" : "Link: https://www.argmin.net/p/galactus-the-devourer | Score: 32 | Comments: 12 | By: sebg",
+  "url" : "https://news.ycombinator.com/item?id=50320904",
+  "answers" : [ ]
+}, {
+  "title" : "Toit v2.0.0",
+  "description" : "Link: https://toit.io/blog/toit-v2-0-0/ | Score: 36 | Comments: 12 | By: floitsch",
+  "url" : "https://news.ycombinator.com/item?id=50321605",
+  "answers" : [ ]
+}, {
+  "title" : "US boy names that became girl names and vice versa",
+  "description" : "Link: https://namedaisy.com/blog/boy-names-that-became-girl-names | Score: 391 | Comments: 369 | By: xoobdev",
+  "url" : "https://news.ycombinator.com/item?id=50339397",
+  "answers" : [ ]
+}, {
+  "title" : "If you love a website, back it up",
+  "description" : "Link: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/ | Score: 528 | Comments: 115 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=50336518",
+  "answers" : [ ]
+}, {
+  "title" : "Scaling Git at OpenAI",
+  "description" : "Link: https://openai.com/index/scaling-git-at-openai/ | Score: 208 | Comments: 117 | By: makeramen",
+  "url" : "https://news.ycombinator.com/item?id=50345924",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: ReBirth 338 in Browser",
+  "description" : "Link: https://margeux.com/rb338.html | Score: 17 | Comments: 8 | By: vegnus",
+  "url" : "https://news.ycombinator.com/item?id=50348740",
+  "answers" : [ ]
+}, {
+  "title" : "uBlock Origin filter to block autoplay videos in TechCrunch",
+  "description" : "Link: https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html | Score: 52 | Comments: 12 | By: cornfieldlabs",
+  "url" : "https://news.ycombinator.com/item?id=50349155",
+  "answers" : [ ]
+}, {
+  "title" : "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+  "description" : "Link: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you | Score: 212 | Comments: 55 | By: tomrod",
+  "url" : "https://news.ycombinator.com/item?id=50340619",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+  "description" : "Link: https://momentic.ai/ | Score: 143 | Comments: 95 | By: wuweiweiwu",
+  "url" : "https://news.ycombinator.com/item?id=50339913",
+  "answers" : [ "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs.<p>Here’s a demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;BFsM-Se1Fh8\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;BFsM-Se1Fh8</a><p>We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always a pain in the ass (esp Playwright and Selenium), so we built agents to do it for us.<p>Modern day software has a ton of bugs and the change failure rate is only growing faster as coding agent adoption scales. LLMs are really good at generating code, but reinforce their own assumptions, write a ton of useless tests, and are bad at visual understanding. On DeepSWE v1.1, Sonnet 5.5 hit 66.2% pass rate when banned from writing tests, versus 65.3% when allowed.<p>OSS end-to-end testing frameworks like Playwright, Selenium, or Maestro force you to hardcode implementation details like XPath, text, or aria-* attributes in your tests. Even with agents, these take a nontrivial amount of time and tokens to build and maintain.<p>In 2023, we saw Nat Friedman drive a browser with GPT-3 via natbot. We were inspired to use this technology to automate the most painful and tedious parts of software engineering: testing. We started with using LLMs to generate and maintain Playwright, but quickly realized that those primitives were fundamentally misaligned with the agentic SDLC. We think the future of QA is agents testing themselves, not writing scripts.<p>Mo is a custom agent harness for catching bugs that builds on the past 3 years of Momentic and millions of test traces from complex, real-world applications. Mo is built for recall: it finds the most real bugs, though Codex is a bit more precise at 86% vs 84%. The tradeoff is cost: Mo costs $2.67 per bug vs $0.80 for Codex, less than Claude Code and Devin.<p>- Self-organizing agent graph. Mo builds a directed acyclic graph (DAG) as it explores. Large product areas automatically fork into parallel sub-agents, each with their own browser or device for concurrent execution.<p>- Specialized agents for domain specific tasks. Planner agents reason over screenshots and video while dedicated locator agents inspect page structure to resolve plain-English interaction targets. Others include image analysis, video understanding, audio generation, and more.<p>- Parallel agents coordinate through cooperative resource leases. Agents can announce that they’re “using” or “modifying” overlapping resources or fixtures. Multiple “using” claims can coexist, but only a single “modifying” claim can be active on any particular one.<p>- Scaled infrastructure. Mo ships with a tunnel that lets users expose private sites and local apps to our hosted agents and infra. A single bug bash can spin up 100s of concurrent browsers and devices.<p>We benchmarked Mo against coding agents on 4 popular open-source apps: Gitea (58.8k stars), Metabase, Twenty (YC), and Saleor, with 1,396 human-labeled bugs. Each agent got the same brief, a fresh E2B sandbox, and no access to source code. Codex and Claude Code used hosted Browserbase browsers, while Devin used its built-in browser. For evaluators, we implemented LLM as a judge (GPT-6.1 Sol) with a human reviewer.<p>Results from a time-boxed 60-minute run:<p>- Mo: 269 bugs, 19.3% recall, 84% precision, $2.67 per bug<p>- Codex (GPT-6.1 Sol + Playwright MCP): 86 bugs, 6.2% recall, 86% precision, $0.80 per bug<p>- Claude Code (Opus 5.5 + Playwright MCP): 59 bugs, 4.2% recall, 80% precision, $4.09 per bug<p>- Devin: 27 bugs, 1.9% recall, 84% precision, $3.89 per bug<p>Mo finds more bugs the more time it has. From 30 to 60 minutes, it went from 177 to 269 bugs (+52%), while Codex gained only 16%.<p>Results: <a href=\"https:&#x2F;&#x2F;momentic.ai&#x2F;qa-bench\">https:&#x2F;&#x2F;momentic.ai&#x2F;qa-bench</a><p>Write-up: <a href=\"https:&#x2F;&#x2F;momentic.ai&#x2F;blog&#x2F;qa-bench\">https:&#x2F;&#x2F;momentic.ai&#x2F;blog&#x2F;qa-bench</a><p>Dataset: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;datasets&#x2F;momentic&#x2F;qa-bench\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;datasets&#x2F;momentic&#x2F;qa-bench</a><p>Harness: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;momentic-ai&#x2F;qa-bench\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;momentic-ai&#x2F;qa-bench</a><p>We just shipped PR testing for Vercel and Cloudflare deploy previews and we’re giving every new signup $250 in Mo spend. Paid plans have higher infra capacity and included usage along with options to top up.<p>We’d love for you to try it out and give us feedback. Feel free to comment here, we’ll be around all day!" ]
+}, {
+  "title" : "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+  "description" : "Link: https://arxiv.org/abs/2608.25820 | Score: 24 | Comments: 1 | By: teleforce",
+  "url" : "https://news.ycombinator.com/item?id=50347464",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+  "description" : "Link: https://p.migdal.pl/warsaw-vibe-voxel/ | Score: 265 | Comments: 42 | By: stared",
+  "url" : "https://news.ycombinator.com/item?id=50339221",
+  "answers" : [ "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. \nYou can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper).<p>Works best on desktop, but I tried to make it usable on mobile too. The initial load can take a while. It&#x27;s based on several open datasets, including:<p>- OpenStreetMap (<a href=\"https:&#x2F;&#x2F;www.openstreetmap.org&#x2F;#map=6&#x2F;52.02&#x2F;19.14\" rel=\"nofollow\">https:&#x2F;&#x2F;www.openstreetmap.org&#x2F;#map=6&#x2F;52.02&#x2F;19.14</a>) - buildings, streets, sidewalks, tram tracks, etc<p>- GUGiK &#x2F; Geoportal (<a href=\"https:&#x2F;&#x2F;www.geoportal.gov.pl&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.geoportal.gov.pl&#x2F;</a>) - LiDAR for building heights and trees, aerial imagery for colours<p>- Warsaw&#x27;s city tree database (<a href=\"https:&#x2F;&#x2F;mapa.um.warszawa.pl&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mapa.um.warszawa.pl&#x2F;</a>) - individual tree species, used for seasonal foliage<p>Open-source (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;stared&#x2F;warsaw-vibe-voxel\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;stared&#x2F;warsaw-vibe-voxel</a>), so feel invited to (re)use it as you wish!" ]
+}, {
+  "title" : "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+  "description" : "Link: https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum | Score: 59 | Comments: 6 | By: birdculture",
+  "url" : "https://news.ycombinator.com/item?id=50326246",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Who is hiring? (November 2026)",
+  "description" : "Score: 215 | Comments: 171 | By: whoishiring",
+  "url" : "https://news.ycombinator.com/item?id=50338728",
+  "answers" : [ "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about\nsomething. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https:&#x2F;&#x2F;gethnjobs.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;gethnjobs.com&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;hnwork.app\" rel=\"nofollow\">https:&#x2F;&#x2F;hnwork.app</a>, \n<a href=\"https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;</a>, <a href=\"http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>,\n<a href=\"https:&#x2F;&#x2F;hnjobs.emilburzo.com\" rel=\"nofollow\">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>.<p>Don&#x27;t miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50338726\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50338726</a>" ]
+}, {
+  "title" : "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+  "description" : "Link: https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform | Score: 3 | Comments: 0 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50331988",
+  "answers" : [ ]
+}, {
+  "title" : "Egoless Mathematics in the AI Era",
+  "description" : "Link: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ | Score: 157 | Comments: 113 | By: smilelamp",
+  "url" : "https://news.ycombinator.com/item?id=50341736",
+  "answers" : [ ]
+}, {
+  "title" : "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+  "description" : "Link: https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase | Score: 72 | Comments: 8 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50344224",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I built a little browser game to practice Vim commands",
+  "description" : "Link: https://hjkl.duy.run | Score: 26 | Comments: 21 | By: dh1011",
+  "url" : "https://news.ycombinator.com/item?id=50347552",
+  "answers" : [ "I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.<p>There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :)" ]
+}, {
+  "title" : "The SEC Should Block Anthropic's IPO to Protect the Public",
+  "description" : "Link: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ | Score: 334 | Comments: 248 | By: cdrnsf",
+  "url" : "https://news.ycombinator.com/item?id=50344919",
+  "answers" : [ ]
+}, {
+  "title" : "Cloudflare experiencing multiple active incidents",
+  "description" : "Link: https://www.cloudflarestatus.com/ | Score: 44 | Comments: 4 | By: jp1016",
+  "url" : "https://news.ycombinator.com/item?id=50348260",
+  "answers" : [ ]
+}, {
+  "title" : "Polyend releases the Tracker firmware source code",
+  "description" : "Link: https://polyend.com/whats-up/tracker-the-biggest-update-yet/ | Score: 127 | Comments: 39 | By: austinallegro",
+  "url" : "https://news.ycombinator.com/item?id=50340159",
+  "answers" : [ ]
+}, {
+  "title" : "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+  "description" : "Link: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 | Score: 472 | Comments: 135 | By: majorchord",
+  "url" : "https://news.ycombinator.com/item?id=50341462",
+  "answers" : [ ]
+}, {
+  "title" : "WTF Ubuntu?",
+  "description" : "Link: https://chalmovsky.com/posts/wtf-ubuntu | Score: 1494 | Comments: 626 | By: chalmovsky",
+  "url" : "https://news.ycombinator.com/item?id=50337608",
+  "answers" : [ ]
+}, {
+  "title" : "V100 SXM2 pinout and NVLink reference",
+  "description" : "Link: https://github.com/pigeon-labs-stack/v100-sxm2-reference | Score: 36 | Comments: 6 | By: airhangerf15",
+  "url" : "https://news.ycombinator.com/item?id=50344912",
+  "answers" : [ ]
+} ]
