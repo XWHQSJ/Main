@@ -1,0 +1,151 @@
+[ {
+  "title" : "Jelly Sheet",
+  "description" : "Link: https://mrdoob.github.io/codevember-2026/01/ | Score: 191 | Comments: 42 | By: memalign",
+  "url" : "https://news.ycombinator.com/item?id=50361268",
+  "answers" : [ ]
+}, {
+  "title" : "C++26 Disapproved",
+  "description" : "Link: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ | Score: 265 | Comments: 155 | By: thatxliner",
+  "url" : "https://news.ycombinator.com/item?id=50360164",
+  "answers" : [ ]
+}, {
+  "title" : "The lost malloc()",
+  "description" : "Link: https://napcakes.nekoweb.org/posts/malloc/ | Score: 10 | Comments: 1 | By: matt_d",
+  "url" : "https://news.ycombinator.com/item?id=50362466",
+  "answers" : [ ]
+}, {
+  "title" : "Jailbreaking my car's navigation system just so I can change the time",
+  "description" : "Link: https://blog.nns.ee/2026/11/02/renault-hack/ | Score: 773 | Comments: 308 | By: xx_ns",
+  "url" : "https://news.ycombinator.com/item?id=50339288",
+  "answers" : [ ]
+}, {
+  "title" : "Stringman, an $800 open-source room scale gripper robot",
+  "description" : "Link: https://neufangled.com/ | Score: 557 | Comments: 192 | By: nharada",
+  "url" : "https://news.ycombinator.com/item?id=50354358",
+  "answers" : [ ]
+}, {
+  "title" : "The Internals of PostgreSQL",
+  "description" : "Link: https://www.interdb.jp/pg/index.html | Score: 256 | Comments: 16 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50358702",
+  "answers" : [ ]
+}, {
+  "title" : "Distinct cellular and genetic differences in colorectal cancer in young patients",
+  "description" : "Link: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients | Score: 65 | Comments: 7 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50361154",
+  "answers" : [ ]
+}, {
+  "title" : "Giant canyon on Mars is still tectonically active",
+  "description" : "Link: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today | Score: 77 | Comments: 7 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50360573",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+  "description" : "Link: https://uncracked.city | Score: 42 | Comments: 14 | By: passkey1510",
+  "url" : "https://news.ycombinator.com/item?id=50358352",
+  "answers" : [ "To give you some context on the project. I&#x27;m a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live.<p>As of today: it&#x27;s free on Android, the iOS version is still waiting to be reviewed by Apple. It&#x27;s available in six popular languages, but adding more languages is just a matter of time and demand.My long term vision if it takes off: weekly cases, private parties like a team-building escape game, an MCP so a game master can build their own scenario from ChatGPT or Claude, and maybe tourism offices since players travel the world." ]
+}, {
+  "title" : "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+  "description" : "Link: https://hackertv.org | Score: 310 | Comments: 64 | By: dsalzman",
+  "url" : "https://news.ycombinator.com/item?id=50346755",
+  "answers" : [ "I saw HackerTube (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50319510\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50319510</a>) a few days ago, the YouTube videos HN keeps\nrecommending, pulled from 19 years of comments. It made me want to flip\nthrough them instead of picking, so I built a TV for it. I have Algo fatigue.<p>Each topic area is a channel (DEVTV, SOLDER, RETRO, ORBIT, ...), plus HN Prime\n(the top 400), a music channel, and Late Night on ch 99, which only broadcasts\n11pm-5am your local time and shows color bars otherwise.<p>Similar to HackerTube it was built with Claude Code in a few hours.<p>All credit for the data goes to HackerTube. Happy to hear channel ideas." ]
+}, {
+  "title" : "Arrows to arrows, categories to queries (2025)",
+  "description" : "Link: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ | Score: 41 | Comments: 2 | By: firstbase",
+  "url" : "https://news.ycombinator.com/item?id=50361107",
+  "answers" : [ ]
+}, {
+  "title" : "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+  "description" : "Link: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ | Score: 461 | Comments: 192 | By: bookofjoe",
+  "url" : "https://news.ycombinator.com/item?id=50336918",
+  "answers" : [ ]
+}, {
+  "title" : "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+  "description" : "Link: https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/ | Score: 182 | Comments: 32 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=50333131",
+  "answers" : [ ]
+}, {
+  "title" : "Qwen 3.8 27B on my laptop can interpret model weights, too",
+  "description" : "Link: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ | Score: 597 | Comments: 177 | By: theanonymousone",
+  "url" : "https://news.ycombinator.com/item?id=50355251",
+  "answers" : [ ]
+}, {
+  "title" : "Safari introduces Adaptive Dark Mode in 27.3",
+  "description" : "Link: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ | Score: 415 | Comments: 220 | By: paddingtone",
+  "url" : "https://news.ycombinator.com/item?id=50358562",
+  "answers" : [ ]
+}, {
+  "title" : "We're training a Figma-fluent editing model",
+  "description" : "Link: https://www.figma.com/blog/training-a-figma-fluent-editing-model/ | Score: 115 | Comments: 49 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50322603",
+  "answers" : [ ]
+}, {
+  "title" : "Postman silently auto-installs AI plugins and attempts to share all API data",
+  "description" : "Link: https://github.com/postmanlabs/postman-app-support/issues/14370 | Score: 1228 | Comments: 400 | By: sidgarimella",
+  "url" : "https://news.ycombinator.com/item?id=50354960",
+  "answers" : [ ]
+}, {
+  "title" : "How I use AI (Oct 2026)",
+  "description" : "Link: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ | Score: 159 | Comments: 140 | By: citelao",
+  "url" : "https://news.ycombinator.com/item?id=50355767",
+  "answers" : [ ]
+}, {
+  "title" : "There is no posttraining data commons",
+  "description" : "Link: https://openathena.ai/blog/there-is-no-posttraining-data-commons/ | Score: 65 | Comments: 21 | By: lukasschwab",
+  "url" : "https://news.ycombinator.com/item?id=50352641",
+  "answers" : [ ]
+}, {
+  "title" : "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+  "description" : "Link: https://arxiv.org/abs/2605.29713 | Score: 330 | Comments: 51 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50358582",
+  "answers" : [ ]
+}, {
+  "title" : "Why Clip Art Was Everywhere Until It Wasn't [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=XfLlpxE6AYM | Score: 34 | Comments: 10 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50351298",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+  "description" : "Link: https://github.com/finic-ai/kairos | Score: 88 | Comments: 22 | By: ayanb9440",
+  "url" : "https://news.ycombinator.com/item?id=50358314",
+  "answers" : [ "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics.<p>1. Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do not have. We address this by using “System One” decision models in additional to traditional models such as XGBoost and logistic regression. This allows you to incorporate plain language questions such as “Is this a throwaway email” into your decisioning, bypassing the need for large amounts of labeled data. This also allows you to capture aspects of fraud that are more unstructured, which is something that XGBoost models struggle with.<p>2. Fraud teams are facing off with live players that are constantly changing their behavior to bypass the detection logic they have in place. You can train a detection model or define a ruleset once, but it will become obsolete in a matter of weeks as fraudsters figure out what your detection logic is. This means that you need a team regularly training models and updating rules based on new fraud patterns. Typically this takes a large data science&#x2F;ML team. Kairos addresses this by introducing an MCP server, so that your agent (Claude Code, Cursor, Codex, etc.) can define a decision workflow, train models on your data, and pick the variant that performs best.<p>You can self-host Kairos with Docker or use the hosted version at <a href=\"https:&#x2F;&#x2F;kairos.finic.ai\">https:&#x2F;&#x2F;kairos.finic.ai</a>" ]
+}, {
+  "title" : "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+  "description" : "Link: https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/ | Score: 70 | Comments: 165 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=50351463",
+  "answers" : [ ]
+}, {
+  "title" : "Curiosity Traps",
+  "description" : "Link: https://www.autodidacts.io/curiosity-traps/ | Score: 74 | Comments: 8 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50338334",
+  "answers" : [ ]
+}, {
+  "title" : "The 'Astra can read and write weights to improve Qwen' post is misleading",
+  "description" : "Link: https://honnibal.dev/blog/astra-read-write-misleading | Score: 966 | Comments: 201 | By: syllogism",
+  "url" : "https://news.ycombinator.com/item?id=50351111",
+  "answers" : [ ]
+}, {
+  "title" : "Mac at any scale",
+  "description" : "Link: https://namespace.so/blog/mac-at-any-scale | Score: 375 | Comments: 210 | By: anner_",
+  "url" : "https://news.ycombinator.com/item?id=50352758",
+  "answers" : [ ]
+}, {
+  "title" : "Introduction to Programming in ATS",
+  "description" : "Link: https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html | Score: 72 | Comments: 9 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50356913",
+  "answers" : [ ]
+}, {
+  "title" : "Union Types and Option Types (2025)",
+  "description" : "Link: https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html | Score: 42 | Comments: 18 | By: g0xA52A2A",
+  "url" : "https://news.ycombinator.com/item?id=50342931",
+  "answers" : [ ]
+}, {
+  "title" : "Writing seen in PHerc. 306B, for the first time in 2000 years",
+  "description" : "Link: https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the | Score: 128 | Comments: 18 | By: benbreen",
+  "url" : "https://news.ycombinator.com/item?id=50342119",
+  "answers" : [ ]
+}, {
+  "title" : "AI stocks slide as Texas governor result raises data center risks",
+  "description" : "Link: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html | Score: 10 | Comments: 1 | By: 1659447091",
+  "url" : "https://news.ycombinator.com/item?id=50362274",
+  "answers" : [ ]
+} ]
