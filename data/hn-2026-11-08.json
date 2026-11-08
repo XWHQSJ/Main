@@ -1,0 +1,151 @@
+[ {
+  "title" : "Goodbye Claude, Hello Pi",
+  "description" : "Link: https://caleb.software/posts/claude-to-pi.html | Score: 221 | Comments: 132 | By: karagenit",
+  "url" : "https://news.ycombinator.com/item?id=50410107",
+  "answers" : [ ]
+}, {
+  "title" : "What I run on my $10 USD OpenStick homelab",
+  "description" : "Link: https://blog.bosscher.ch/posts/openstick/ | Score: 539 | Comments: 104 | By: LaurensBER",
+  "url" : "https://news.ycombinator.com/item?id=50406670",
+  "answers" : [ ]
+}, {
+  "title" : "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+  "description" : "Link: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again | Score: 362 | Comments: 247 | By: shmulc",
+  "url" : "https://news.ycombinator.com/item?id=50407882",
+  "answers" : [ ]
+}, {
+  "title" : "Kirlian Photography: Building Your Own Equipment",
+  "description" : "Link: https://imagesco.com/articles/kirlian/kirlian-photography.html | Score: 32 | Comments: 4 | By: joebig",
+  "url" : "https://news.ycombinator.com/item?id=50410359",
+  "answers" : [ ]
+}, {
+  "title" : "Making any integer with four 2s (2025)",
+  "description" : "Link: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ | Score: 126 | Comments: 29 | By: germanrabbit",
+  "url" : "https://news.ycombinator.com/item?id=50408713",
+  "answers" : [ ]
+}, {
+  "title" : "Clj.rs – a Clojure dialect implemented in Rust",
+  "description" : "Link: https://clj.rs/ | Score: 12 | Comments: 0 | By: simonpure",
+  "url" : "https://news.ycombinator.com/item?id=50366902",
+  "answers" : [ ]
+}, {
+  "title" : "Need for Speed Underground 2 online in the browser",
+  "description" : "Link: https://nfsu2.xyz/ | Score: 955 | Comments: 247 | By: fluxusars",
+  "url" : "https://news.ycombinator.com/item?id=50403052",
+  "answers" : [ ]
+}, {
+  "title" : "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+  "description" : "Link: https://maxxbench.unlap.ai/research/why-maxxbench/ | Score: 291 | Comments: 78 | By: antiuniverse",
+  "url" : "https://news.ycombinator.com/item?id=50406222",
+  "answers" : [ ]
+}, {
+  "title" : "Uranium cubes reveal why the German nuclear project failed",
+  "description" : "Link: https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/ | Score: 121 | Comments: 78 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=50377661",
+  "answers" : [ ]
+}, {
+  "title" : "GitHub New pull request overview page in public preview",
+  "description" : "Link: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ | Score: 125 | Comments: 84 | By: xiaoyu2006",
+  "url" : "https://news.ycombinator.com/item?id=50408931",
+  "answers" : [ ]
+}, {
+  "title" : "Every Mac comes with an (undocumented) family member classifier",
+  "description" : "Link: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph | Score: 701 | Comments: 373 | By: infwhispers",
+  "url" : "https://news.ycombinator.com/item?id=50403097",
+  "answers" : [ ]
+}, {
+  "title" : "Consumer brain wave headsets threaten privacy",
+  "description" : "Link: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F | Score: 31 | Comments: 10 | By: maxall4",
+  "url" : "https://news.ycombinator.com/item?id=50409856",
+  "answers" : [ ]
+}, {
+  "title" : "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+  "description" : "Link: https://github.com/dmunozv04/isponsorblocktv | Score: 24 | Comments: 1 | By: xnx",
+  "url" : "https://news.ycombinator.com/item?id=50410249",
+  "answers" : [ ]
+}, {
+  "title" : "Every Windows 11 app should kill Electron, and Discord just showed why",
+  "description" : "Link: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ | Score: 307 | Comments: 268 | By: thunderbong",
+  "url" : "https://news.ycombinator.com/item?id=50403507",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+  "description" : "Link: https://github.com/hedgerow-dev/coldframe | Score: 228 | Comments: 53 | By: hedgerow-dev",
+  "url" : "https://news.ycombinator.com/item?id=50406292",
+  "answers" : [ "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser&#x2F;danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers.<p>Things that were fun to get right:<p>- Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes.<p>- Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities.<p>- Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real.<p>Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io.<p>Feedback welcome, especially from anyone who has seen these devices in the field!" ]
+}, {
+  "title" : "Amsterdam School",
+  "description" : "Link: https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html | Score: 29 | Comments: 6 | By: bondarchuk",
+  "url" : "https://news.ycombinator.com/item?id=50351954",
+  "answers" : [ ]
+}, {
+  "title" : "The end of Microsoft Research's AI Frontiers group",
+  "description" : "Link: https://hunch.net/?p=13764006 | Score: 447 | Comments: 269 | By: srean",
+  "url" : "https://news.ycombinator.com/item?id=50406563",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;AaY5O\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;AaY5O</a><p><a href=\"https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft...</a>" ]
+}, {
+  "title" : "Commodore PET – The Worlds First Personal Computer",
+  "description" : "Link: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ | Score: 50 | Comments: 17 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=50408961",
+  "answers" : [ ]
+}, {
+  "title" : "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+  "description" : "Link: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you | Score: 451 | Comments: 284 | By: user_7832",
+  "url" : "https://news.ycombinator.com/item?id=50406111",
+  "answers" : [ ]
+}, {
+  "title" : "The $8 Linux Computer (2022)",
+  "description" : "Link: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html | Score: 227 | Comments: 87 | By: zenincognito",
+  "url" : "https://news.ycombinator.com/item?id=50404599",
+  "answers" : [ ]
+}, {
+  "title" : "Turning every radio into a radar",
+  "description" : "Link: https://tiaminetworks.com/turning-every-radio-into-a-radar/ | Score: 60 | Comments: 13 | By: hasley",
+  "url" : "https://news.ycombinator.com/item?id=50358337",
+  "answers" : [ ]
+}, {
+  "title" : "ZapFast: A fast, native WhatsApp client in Rust and egui",
+  "description" : "Link: https://github.com/crmne/zapfast | Score: 64 | Comments: 44 | By: handfuloflight",
+  "url" : "https://news.ycombinator.com/item?id=50409855",
+  "answers" : [ ]
+}, {
+  "title" : "Every processor die anyone has photographed and given away",
+  "description" : "Link: https://sheets.works/data-viz/cpu-dies | Score: 119 | Comments: 21 | By: user_7832",
+  "url" : "https://news.ycombinator.com/item?id=50405782",
+  "answers" : [ ]
+}, {
+  "title" : "Asahi Linux Progress Linux 7.3",
+  "description" : "Link: https://asahilinux.org/2026/11/progress-report-7-3/ | Score: 368 | Comments: 316 | By: ackyshake",
+  "url" : "https://news.ycombinator.com/item?id=50401867",
+  "answers" : [ ]
+}, {
+  "title" : "Five memorable books about programming (2008)",
+  "description" : "Link: https://prog21.dadgum.com/19.html | Score: 112 | Comments: 71 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=50406319",
+  "answers" : [ ]
+}, {
+  "title" : "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+  "description" : "Link: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor | Score: 58 | Comments: 20 | By: andsoitis",
+  "url" : "https://news.ycombinator.com/item?id=50406502",
+  "answers" : [ ]
+}, {
+  "title" : "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+  "description" : "Link: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals | Score: 232 | Comments: 205 | By: benbreen",
+  "url" : "https://news.ycombinator.com/item?id=50401740",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+  "description" : "Link: https://github.com/AmSach/maple | Score: 7 | Comments: 2 | By: AmSach",
+  "url" : "https://news.ycombinator.com/item?id=50410253",
+  "answers" : [ ]
+}, {
+  "title" : "Running a law firm on Free software",
+  "description" : "Link: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ | Score: 265 | Comments: 126 | By: DeepLogin",
+  "url" : "https://news.ycombinator.com/item?id=50403066",
+  "answers" : [ ]
+}, {
+  "title" : "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+  "description" : "Link: https://www.retrosongbird.com/ | Score: 69 | Comments: 16 | By: hentrep",
+  "url" : "https://news.ycombinator.com/item?id=50405172",
+  "answers" : [ ]
+} ]
