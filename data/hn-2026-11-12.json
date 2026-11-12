@@ -1,0 +1,151 @@
+[ {
+  "title" : "Humble Bundle just killed most of their security through vibecoding",
+  "description" : "Link: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ | Score: 226 | Comments: 117 | By: rdmuser",
+  "url" : "https://news.ycombinator.com/item?id=50463899",
+  "answers" : [ ]
+}, {
+  "title" : "Jane Street: Socratic Tutor",
+  "description" : "Link: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md | Score: 117 | Comments: 29 | By: tosh",
+  "url" : "https://news.ycombinator.com/item?id=50438261",
+  "answers" : [ ]
+}, {
+  "title" : "93% of paint splatters are valid Perl programs (2019)",
+  "description" : "Link: https://www.mcmillen.dev/sigbovik/ | Score: 409 | Comments: 54 | By: zenincognito",
+  "url" : "https://news.ycombinator.com/item?id=50459745",
+  "answers" : [ ]
+}, {
+  "title" : "Tim Peters has died",
+  "description" : "Link: https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028 | Score: 1160 | Comments: 129 | By: ayhanfuat",
+  "url" : "https://news.ycombinator.com/item?id=50450488",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw</a>" ]
+}, {
+  "title" : "Critical RCE Vulnerability in Apache HTTP Server",
+  "description" : "Link: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability | Score: 180 | Comments: 76 | By: soheilpro",
+  "url" : "https://news.ycombinator.com/item?id=50462177",
+  "answers" : [ ]
+}, {
+  "title" : "AWS emulator",
+  "description" : "Link: https://github.com/aws/aws-emulator | Score: 833 | Comments: 233 | By: super_linear",
+  "url" : "https://news.ycombinator.com/item?id=50456631",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agents-built-aws-emulator\" rel=\"nofollow\">https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agent...</a><p><a href=\"https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-and-the-engineers-job-when-agents-write-the-code.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-an...</a>" ]
+}, {
+  "title" : "I gave an agent a lakehouse and control of my garden",
+  "description" : "Link: https://jatorre.github.io/garden/ | Score: 56 | Comments: 22 | By: jatorre",
+  "url" : "https://news.ycombinator.com/item?id=50415162",
+  "answers" : [ ]
+}, {
+  "title" : "Nvidia is preparing to oust Jensen Huang",
+  "description" : "Link: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad | Score: 982 | Comments: 1320 | By: jbredeche",
+  "url" : "https://news.ycombinator.com/item?id=50459703",
+  "answers" : [ ]
+}, {
+  "title" : "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+  "description" : "Link: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ | Score: 485 | Comments: 236 | By: mbac32768",
+  "url" : "https://news.ycombinator.com/item?id=50455394",
+  "answers" : [ ]
+}, {
+  "title" : "Gemini Decisions API",
+  "description" : "Link: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ | Score: 419 | Comments: 125 | By: iamdelirium",
+  "url" : "https://news.ycombinator.com/item?id=50456791",
+  "answers" : [ ]
+}, {
+  "title" : "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "description" : "Link: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ | Score: 543 | Comments: 533 | By: herpderperator",
+  "url" : "https://news.ycombinator.com/item?id=50458900",
+  "answers" : [ ]
+}, {
+  "title" : "Lock Your GitHub Actions",
+  "description" : "Link: https://hugovk.dev/blog/2026/lock-github-actions/ | Score: 247 | Comments: 47 | By: gslin",
+  "url" : "https://news.ycombinator.com/item?id=50459485",
+  "answers" : [ ]
+}, {
+  "title" : "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+  "description" : "Link: https://www.getlazarus.org/forums/topic/17/ | Score: 33 | Comments: 7 | By: sysrpl",
+  "url" : "https://news.ycombinator.com/item?id=50463540",
+  "answers" : [ ]
+}, {
+  "title" : "Bad ideas that aren't bad anymore",
+  "description" : "Link: https://devonestes.com/bad-ideas-that-arent-bad-anymore | Score: 49 | Comments: 25 | By: sevenseacat",
+  "url" : "https://news.ycombinator.com/item?id=50462613",
+  "answers" : [ ]
+}, {
+  "title" : "A live tree of systemd jobs on the boot console",
+  "description" : "Link: https://codeberg.org/wvhulle/bootvine | Score: 13 | Comments: 1 | By: orhunp_",
+  "url" : "https://news.ycombinator.com/item?id=50425017",
+  "answers" : [ ]
+}, {
+  "title" : "Darling Development Update – Q4 2026",
+  "description" : "Link: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/ | Score: 25 | Comments: 4 | By: tech234a",
+  "url" : "https://news.ycombinator.com/item?id=50463103",
+  "answers" : [ ]
+}, {
+  "title" : "Emacs in the Age of Magic",
+  "description" : "Link: https://commandlinesystems.com/magic.txt | Score: 221 | Comments: 98 | By: ggcr",
+  "url" : "https://news.ycombinator.com/item?id=50458208",
+  "answers" : [ ]
+}, {
+  "title" : "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
+  "description" : "Link: https://publicdomainreview.org/collection/marian-wawrzeniecki/ | Score: 25 | Comments: 6 | By: lermontov",
+  "url" : "https://news.ycombinator.com/item?id=50420905",
+  "answers" : [ ]
+}, {
+  "title" : "The Utah Teapot",
+  "description" : "Link: https://graphics.cs.utah.edu/teapot/ | Score: 128 | Comments: 32 | By: cobbal",
+  "url" : "https://news.ycombinator.com/item?id=50457618",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=k-23LgrFcvs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=k-23LgrFcvs</a>" ]
+}, {
+  "title" : "A general purpose Apple Silicon layer for x86-64 PCs",
+  "description" : "Link: https://github.com/tylertms/Stela | Score: 102 | Comments: 41 | By: iceboundrock",
+  "url" : "https://news.ycombinator.com/item?id=50460154",
+  "answers" : [ ]
+}, {
+  "title" : "The Lost World of Aquaterra",
+  "description" : "Link: https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/ | Score: 7 | Comments: 0 | By: ag8",
+  "url" : "https://news.ycombinator.com/item?id=50456279",
+  "answers" : [ ]
+}, {
+  "title" : "Did Life Begin in an RNA World?",
+  "description" : "Link: https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/ | Score: 58 | Comments: 24 | By: acossta",
+  "url" : "https://news.ycombinator.com/item?id=50428619",
+  "answers" : [ ]
+}, {
+  "title" : "My AI agents found an unmapped Maya site?",
+  "description" : "Link: https://pietromiotti.com/latest/maya-site | Score: 985 | Comments: 358 | By: eyvindn",
+  "url" : "https://news.ycombinator.com/item?id=50452455",
+  "answers" : [ ]
+}, {
+  "title" : "Hyper-Realistic Sand with WebGL2",
+  "description" : "Link: https://av.github.io/safe-sand/ | Score: 372 | Comments: 69 | By: everlier",
+  "url" : "https://news.ycombinator.com/item?id=50453288",
+  "answers" : [ ]
+}, {
+  "title" : "Lean Grimoire",
+  "description" : "Link: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ | Score: 33 | Comments: 5 | By: smilelamp",
+  "url" : "https://news.ycombinator.com/item?id=50462375",
+  "answers" : [ ]
+}, {
+  "title" : "Faster Retrieval for Better, More Efficient RAG",
+  "description" : "Link: https://machinelearning.apple.com/research/faster-retrieval | Score: 205 | Comments: 38 | By: zerop",
+  "url" : "https://news.ycombinator.com/item?id=50455633",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+  "description" : "Link: https://github.com/FrigadeHQ/yogurt | Score: 235 | Comments: 94 | By: brownrout",
+  "url" : "https://news.ycombinator.com/item?id=50454625",
+  "answers" : [ "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings.<p>Here&#x27;s a quick demo video: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BFfbXAwRq98\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BFfbXAwRq98</a><p>Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries never leave your computer.<p>As small OSS models have gotten faster and more powerful, Yogurt seemed like a pretty obvious win for privacy and cost conscious folks. You do not need a frontier model to summarize meeting notes or answer questions about them. And if you want to make your notes available to a frontier model, you can just share it with Anthropic, OpenAI, etc. directly via Yogurt’s local MCP server. There’s no need to use a paid cloud service as a middleman.<p>I tried some of the most popular OSS note taking tools, and most were missing features like calendar integration, MCP server, etc. or required you to connect or create an account. And more than that, they didn’t feel polished enough for it to be something I actually wanted to use daily, and so I built Yogurt to scratch that itch. I spent a lot of time fine-tuning every UI interaction&#x2F;animation and optimizing the model calls to get the most out of your hardware + make it snappy.<p>To support Windows&#x2F;Mac&#x2F;Linux, I decided to go with Electron. I use whisper.cpp for transcription and Apple’s on-device SpeechAnalyzer if your system supports it. For call summaries and questions, I use a local open weight LLM that automatically gets downloaded and set up based on what your hardware can handle without your cooling fans firing off like crazy (this part uses llama.cpp).<p>I’ve spent a lot of time working on details like echo detection&#x2F;reduction, global&#x2F;folder&#x2F;local level search respectively, and auto-end recordings. Hope this is useful for any of you who have held out on using AI note tools for privacy or cost reasons, or for folks using cloud tools who want to switch to something free and open source that still feels great to use.<p>Would love to hear what you think about the onboarding and note taking experience :)" ]
+}, {
+  "title" : "Huawei releases MACaQ, its internal quantizer for local inference",
+  "description" : "Link: https://github.com/huawei-csl/MACaQ | Score: 99 | Comments: 24 | By: thefox96",
+  "url" : "https://news.ycombinator.com/item?id=50458166",
+  "answers" : [ ]
+}, {
+  "title" : "Using voltage glitching to unleash the A100 in my mining card",
+  "description" : "Link: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ | Score: 297 | Comments: 115 | By: lae",
+  "url" : "https://news.ycombinator.com/item?id=50451903",
+  "answers" : [ ]
+}, {
+  "title" : "Can a Linear Program Do Weight-Space Programming?",
+  "description" : "Link: https://nathan.rs/posts/weight-space-lp/ | Score: 275 | Comments: 38 | By: emschwartz",
+  "url" : "https://news.ycombinator.com/item?id=50452655",
+  "answers" : [ ]
+} ]
