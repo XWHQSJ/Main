@@ -1,0 +1,151 @@
+[ {
+  "title" : "Carnegie Mellon is putting computer science courses on YouTube for free",
+  "description" : "Link: https://www.cs.cmu.edu/learn/ | Score: 1509 | Comments: 207 | By: pcompeau",
+  "url" : "https://news.ycombinator.com/item?id=50522980",
+  "answers" : [ ]
+}, {
+  "title" : "BugMeNot has closed",
+  "description" : "Link: https://www.bugmenot.com/ | Score: 543 | Comments: 240 | By: lode",
+  "url" : "https://news.ycombinator.com/item?id=50523601",
+  "answers" : [ ]
+}, {
+  "title" : "Optimizely compromised, served malware on Zoom, GitLab",
+  "description" : "Link: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ | Score: 343 | Comments: 149 | By: kristjansson",
+  "url" : "https://news.ycombinator.com/item?id=50524767",
+  "answers" : [ ]
+}, {
+  "title" : "Nimony: A New Compiler for Nim",
+  "description" : "Link: https://nimony.org/ | Score: 52 | Comments: 19 | By: Fervicus",
+  "url" : "https://news.ycombinator.com/item?id=50512779",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+  "description" : "Link: https://github.com/ZigaoWang/zigzag | Score: 58 | Comments: 34 | By: ZigaoWang",
+  "url" : "https://news.ycombinator.com/item?id=50496787",
+  "answers" : [ "Hello HN! I am Zigao, a high school student from Shanghai. I am new to HN so hello to y’all!<p>I used Arc everyday, and I never had any issues with it. So when The Browser Company announced that they will shut down Arc on Dec 22 I was devastated. I don’t want to switch back to boring tabs along the top. Everything else i’ve tried is either a Chromium fork or an AI integrated browser that I don’t want. Therefore, I’ve been building my own browser for the last three weeks. Its name is Zigzag, a free and open source Mac browser that works just like Arc, written in Swift and based on WebKit. It is lightweight and fast.<p>Zigzag has:<p>- The stuff you missed from Arc (obviously, that’s the point)...<p>- Import from Arc (or any other browser) brings everything (your spaces, pins, history, passwords, cookies, etc)<p>- Chrome extension support! Even though its based on WebKit, you can install them from the Chrome Web Store. Extensions such as 1Password, Bitwarden, dark reader, Return Youtube Dislike, Tampermonkey all work)<p>And most importantly:<p>- Privacy: no account, no telemetry, no analytics<p>- Free and open source: no one can shut it down, anyone can contribute and fork their own copy!<p>- It’s tiny and fast! Around 18 MB installed (Arc is over 800 MB), no Chromium, no Electron (eww)<p>Some minor features that are nice-to-haves:<p>- Built in ad blocker using uBlock origin’s and Easylist’s filter lists<p>- Cookie popups turned down for you automatically, never accepted<p>- Split view up to four pages, drag pages intuitively<p>- Install any website as apps (still polishing it)<p>- Developer mode for web devs<p>- Little Arc (called Zigzag Mini)<p>- AI apps can use your browser if you want (MCP, off by default), stop button built in<p>- AppleScript and Shortcuts support, written in the conventional way<p>Why WebKit?<p>- I once tried to fork Helium and build on that. But the source was around 100 GB and builds took 3 to 4 hours on my Mac. Shipping Chromium is nearly impossible for me as a solo dev<p>- Battery and RAM: WebKit is built for Mac by Apple, its generally easier on battery and memory than Chromium<p>- Native: Swift + WebKit = behaves like a real Mac app, explained later (e.g. Zen)<p>- Chrome extensions already works on Zigzag, so the point of using Chromium is mostly gone<p>Why not Zen or Orion?<p>I tried both before building this, because I was looking for alternatives. They are good browsers, just not what I wanted.<p>Zen is based on Firefox. It is basically an Arc replica but it’s a Firefox under the hood, so you get Firefox extensions instead of Chrome extensions, and it doesn’t really feel like a native Mac app, which was kinda backwards. If you love Firefox it’s great, but it didn’t feel like Arc to me.<p>Orion is the closest to what I wanted in terms of speed, lightweightness and nativeness (are these even words?). It is WebKit and runs Chrome extensions. But it is closed sourced, and it is nowhere like Arc. It has vertical tabs but no real spaces, pins or favorites like Arc. It feels like a Safari clone instead of an Arc clone, so I turned it down. I love how it supports Chrome extensions, so that’s why I’ve done the same in Zigzag.<p>So how do Chrome extensions work on WebKit?<p>This is probably the part people ask about the most, so here you go.<p>In macOS 15.4, Apple added web extension support to WebKit itself. Safari only takes extensions that come wrapped in an app from the App store, but the engine underneath can load a normal Chrome extension folder. So when you click “Add to Zigzag” on the Chrome Web Store, Zigzag downloads the extension straight from Google. It checks its signatures, unpacks it, and hands it to WebKit.<p>That’s the easy part, and frankly most WebKit browsers can do that easily. However, WebKit doesn’t have every Chrome API. Stuffy like history, bookmarks, downloads, side panels, notifications and a few others just aren’t there. So Zigzag fills those in itself. When an extension calls one, Zigzag answers it, but only if that extension asked for that permission. 1Password and Bitwarden works, because they talk to their Mac apps the same way they do in Chrome.<p>The hardest one was Tampermonkey. WebKit has no userScripts API at all, so I had to build my own on top of WebKit’s content scripts, with each extension’s scripts kept separate from the extension itself like in Chrome.<p>What doesn’t work yet:<p>- the debugger API (so things that control the browser like Claude for Chrome cant control the pages, but there’s MCP that you can turn on if you want)<p>- Chrome’s own Google sign in for extensions (chrome.identity)<p>- Some old way of blocking requests that some extensions still use (webRequest from manifest V2) (e.g. uBlock origin full doesn’t work, but lite version works)<p>Most popular extensions are fine though. If any extension doesn’t work, leave a comment below or open an issue and I will look into it.<p>How I build it<p>Honest up front: I built Zigzag with the help from Claude Code. But it is not another piece of AI slop app. I decide what it does and how it should feel, and every change goes through my own daily browsing before it ships. It is my daily browser now for three weeks, and I am just like any of you, I don’t want trash apps! Claude writes most of the code, but I am the one reviewing the quality, the functions and the UI&#x2F;UX decisions. Try it out yourself or open a PR if you can do better!<p>What’s missing<p>It is still a beta. No sync between Macs yet (passwords sync through iCloud keychain though). No boosts or easels. Needs macOS 15.4 or newer.<p>Try it<p><a href=\"https:&#x2F;&#x2F;zigzagbrowser.com\" rel=\"nofollow\">https:&#x2F;&#x2F;zigzagbrowser.com</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;ZigaoWang&#x2F;zigzag\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ZigaoWang&#x2F;zigzag</a><p>If you try it I’d love to know what didn’t went so well (or what did went well!), which extensions you need, and any sites that break. I read every issue on GitHub and every comment below! Thank you for your time!" ]
+}, {
+  "title" : "If an App Asks for Full Disk Access or System and App Protection Override",
+  "description" : "Link: https://support.apple.com/en-us/149699 | Score: 125 | Comments: 66 | By: jshier",
+  "url" : "https://news.ycombinator.com/item?id=50526560",
+  "answers" : [ ]
+}, {
+  "title" : "Japan's Hometown Tax (2018)",
+  "description" : "Link: https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/ | Score: 19 | Comments: 2 | By: waximabbax",
+  "url" : "https://news.ycombinator.com/item?id=50508845",
+  "answers" : [ ]
+}, {
+  "title" : "Why 3dfx 1 cards had such a washed out color output?",
+  "description" : "Link: https://twitter.com/id_aa_carmack/status/2122478083319992513 | Score: 135 | Comments: 38 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=50525575",
+  "answers" : [ ]
+}, {
+  "title" : "OpenCode Browse",
+  "description" : "Link: https://opencode.ai/product/browse | Score: 251 | Comments: 141 | By: mfiguiere",
+  "url" : "https://news.ycombinator.com/item?id=50523459",
+  "answers" : [ ]
+}, {
+  "title" : "Chemistry is Actually Geometry",
+  "description" : "Link: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry | Score: 228 | Comments: 111 | By: sebg",
+  "url" : "https://news.ycombinator.com/item?id=50522643",
+  "answers" : [ ]
+}, {
+  "title" : "Frame – 31.5\" color ePaper display",
+  "description" : "Link: https://trmnl.com/blog/introducing-frame | Score: 416 | Comments: 290 | By: geerlingguy",
+  "url" : "https://news.ycombinator.com/item?id=50519354",
+  "answers" : [ ]
+}, {
+  "title" : "Jiff 1.0: A datetime library for Rust",
+  "description" : "Link: https://burntsushi.net/jiff/ | Score: 380 | Comments: 87 | By: burntsushi",
+  "url" : "https://news.ycombinator.com/item?id=50519744",
+  "answers" : [ ]
+}, {
+  "title" : "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+  "description" : "Link: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ | Score: 145 | Comments: 117 | By: jaredwiener",
+  "url" : "https://news.ycombinator.com/item?id=50523025",
+  "answers" : [ ]
+}, {
+  "title" : "Test/verification technique effectiveness with Astra",
+  "description" : "Link: https://danluu.com/astra-testing/ | Score: 44 | Comments: 6 | By: luu",
+  "url" : "https://news.ycombinator.com/item?id=50515035",
+  "answers" : [ ]
+}, {
+  "title" : "Windows 11 is collecting data on which coding agents and developer tools you use",
+  "description" : "Link: https://xusheng.dev/posts/windows-coding-agent-telemetry/ | Score: 603 | Comments: 446 | By: cwaffles",
+  "url" : "https://news.ycombinator.com/item?id=50524736",
+  "answers" : [ ]
+}, {
+  "title" : "What is w2rt6byl5nf1opmc-a.com?",
+  "description" : "Link: https://jack.cab/blog/siterate | Score: 346 | Comments: 151 | By: dverlaeckt80",
+  "url" : "https://news.ycombinator.com/item?id=50517602",
+  "answers" : [ ]
+}, {
+  "title" : "The Fossils That Haunted Lovecraft",
+  "description" : "Link: https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/ | Score: 31 | Comments: 5 | By: BigTTYGothGF",
+  "url" : "https://news.ycombinator.com/item?id=50512576",
+  "answers" : [ ]
+}, {
+  "title" : "Grazing sheep in fields with solar arrays",
+  "description" : "Link: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains | Score: 272 | Comments: 264 | By: PaulHoule",
+  "url" : "https://news.ycombinator.com/item?id=50520182",
+  "answers" : [ ]
+}, {
+  "title" : "Why did modems have speakers? (2019)",
+  "description" : "Link: https://retrocomputing.stackexchange.com/questions/11765 | Score: 61 | Comments: 33 | By: Skyfall106",
+  "url" : "https://news.ycombinator.com/item?id=50510969",
+  "answers" : [ ]
+}, {
+  "title" : "Formal Verification Is Not Verifiable",
+  "description" : "Link: https://alperenkeles.com/posts/formal-verification-is-not-verifiable/ | Score: 119 | Comments: 41 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=50497621",
+  "answers" : [ ]
+}, {
+  "title" : "Stop Filming in Log?",
+  "description" : "Link: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/ | Score: 76 | Comments: 77 | By: dabinat",
+  "url" : "https://news.ycombinator.com/item?id=50514093",
+  "answers" : [ ]
+}, {
+  "title" : "Microsoft blames monster email outage on software defect introduced in July fix",
+  "description" : "Link: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 | Score: 323 | Comments: 235 | By: Bender",
+  "url" : "https://news.ycombinator.com/item?id=50517321",
+  "answers" : [ ]
+}, {
+  "title" : "Mem Is Shutting Down",
+  "description" : "Link: https://get.mem.ai/blog/mem-is-shutting-down | Score: 59 | Comments: 86 | By: qainsights",
+  "url" : "https://news.ycombinator.com/item?id=50526537",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+  "description" : "Score: 45 | Comments: 21 | By: arshpatankar",
+  "url" : "https://news.ycombinator.com/item?id=50522776",
+  "answers" : [ "Hi HN! We’re Arsh and Max, founders of Axonnic (<a href=\"https:&#x2F;&#x2F;axonnic.com\">https:&#x2F;&#x2F;axonnic.com</a>). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.<p>Here’s a demo video: <a href=\"https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;xBrocTc9cfA\" rel=\"nofollow\">https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;xBrocTc9cfA</a><p>We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.<p>The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.<p>When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: <a href=\"https:&#x2F;&#x2F;axonnic.com&#x2F;benchmarks\">https:&#x2F;&#x2F;axonnic.com&#x2F;benchmarks</a>.<p>We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.<p>Axonnic grew out of Max&#x27;s EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.<p>Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.<p>So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.<p>If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!<p><a href=\"https:&#x2F;&#x2F;axonnic.com\">https:&#x2F;&#x2F;axonnic.com</a>" ]
+}, {
+  "title" : "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+  "description" : "Link: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda | Score: 775 | Comments: 647 | By: samk3nny",
+  "url" : "https://news.ycombinator.com/item?id=50521045",
+  "answers" : [ ]
+}, {
+  "title" : "Squircles",
+  "description" : "Link: https://linebender.org/wiki/curves/squircle/ | Score: 192 | Comments: 49 | By: raphlinus",
+  "url" : "https://news.ycombinator.com/item?id=50515151",
+  "answers" : [ ]
+}, {
+  "title" : "Spamhaus new email sender requirements in November",
+  "description" : "Link: https://www.spamhaus.org/sender-guidelines/ | Score: 110 | Comments: 104 | By: computer23",
+  "url" : "https://news.ycombinator.com/item?id=50523784",
+  "answers" : [ ]
+}, {
+  "title" : "Do Repeat Yourself",
+  "description" : "Link: https://arcentry.com/blog/do-repeat-yourself/ | Score: 90 | Comments: 31 | By: max_sendfeld",
+  "url" : "https://news.ycombinator.com/item?id=50516689",
+  "answers" : [ ]
+}, {
+  "title" : "Run your FreeBSD services from one console",
+  "description" : "Link: https://jailops.net/ | Score: 3 | Comments: 0 | By: root420",
+  "url" : "https://news.ycombinator.com/item?id=50528785",
+  "answers" : [ ]
+}, {
+  "title" : "How to Break into Security, Ptacek Edition (2012)",
+  "description" : "Link: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ | Score: 110 | Comments: 27 | By: ronfriedhaber",
+  "url" : "https://news.ycombinator.com/item?id=50524225",
+  "answers" : [ ]
+} ]
