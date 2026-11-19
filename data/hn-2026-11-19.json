@@ -1,0 +1,151 @@
+[ {
+  "title" : "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+  "description" : "Link: https://verialabs.com/ruby2shell/ | Score: 85 | Comments: 26 | By: jdns",
+  "url" : "https://news.ycombinator.com/item?id=50556287",
+  "answers" : [ ]
+}, {
+  "title" : "Gemini 4 Neon",
+  "description" : "Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ | Score: 815 | Comments: 662 | By: yigitdemirag",
+  "url" : "https://news.ycombinator.com/item?id=50552424",
+  "answers" : [ ]
+}, {
+  "title" : "SSD prices will start going down the second half of next year",
+  "description" : "Link: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html | Score: 30 | Comments: 15 | By: illidan1000",
+  "url" : "https://news.ycombinator.com/item?id=50557716",
+  "answers" : [ ]
+}, {
+  "title" : "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+  "description" : "Link: https://kapteko.com/15-million-webservers/ | Score: 126 | Comments: 14 | By: fessguid",
+  "url" : "https://news.ycombinator.com/item?id=50556533",
+  "answers" : [ ]
+}, {
+  "title" : "Unauthenticated remote code execution in Nginx",
+  "description" : "Link: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities | Score: 1365 | Comments: 594 | By: speedping",
+  "url" : "https://news.ycombinator.com/item?id=50547374",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123633\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123633</a><p><a href=\"https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123007\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123007</a>" ]
+}, {
+  "title" : "What's New in PHP 8.6",
+  "description" : "Link: https://www.php.net/releases/8.6/en.php | Score: 9 | Comments: 1 | By: netol",
+  "url" : "https://news.ycombinator.com/item?id=50557870",
+  "answers" : [ ]
+}, {
+  "title" : "Distributed, high-performance blob storage on SQLite",
+  "description" : "Link: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ | Score: 19 | Comments: 1 | By: ghostfoxgod",
+  "url" : "https://news.ycombinator.com/item?id=50557537",
+  "answers" : [ ]
+}, {
+  "title" : "The first ping from Tonga (1997)",
+  "description" : "Link: https://colo.to/firstping.html | Score: 25 | Comments: 1 | By: Eric_Gullichsen",
+  "url" : "https://news.ycombinator.com/item?id=50512280",
+  "answers" : [ ]
+}, {
+  "title" : "Multiple vulnerabilities in Regexp and String case conversion",
+  "description" : "Link: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ | Score: 256 | Comments: 88 | By: runesoerensen",
+  "url" : "https://news.ycombinator.com/item?id=50554038",
+  "answers" : [ ]
+}, {
+  "title" : "Anthropic prices initial public offering",
+  "description" : "Link: https://www.anthropic.com/news/anthropic-prices-initial-public-offering | Score: 216 | Comments: 329 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50553843",
+  "answers" : [ ]
+}, {
+  "title" : "Seven new models at scalable price-performance",
+  "description" : "Link: https://microsoft.ai/news/microsoft-ignite-2026/ | Score: 540 | Comments: 353 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50548021",
+  "answers" : [ ]
+}, {
+  "title" : "Inside Deutsche Bank",
+  "description" : "Link: https://www.inside-db.com/ | Score: 687 | Comments: 234 | By: gyre007",
+  "url" : "https://news.ycombinator.com/item?id=50547620",
+  "answers" : [ ]
+}, {
+  "title" : "LLM assisted reverse engineering",
+  "description" : "Link: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering | Score: 206 | Comments: 50 | By: ioma8",
+  "url" : "https://news.ycombinator.com/item?id=50553225",
+  "answers" : [ ]
+}, {
+  "title" : "DaisyRose-27B",
+  "description" : "Link: https://www.radixark.com/blog/daisyrose-27b | Score: 212 | Comments: 73 | By: de_sty",
+  "url" : "https://news.ycombinator.com/item?id=50551046",
+  "answers" : [ ]
+}, {
+  "title" : "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+  "description" : "Link: https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/ | Score: 32 | Comments: 2 | By: muxamilian",
+  "url" : "https://news.ycombinator.com/item?id=50518303",
+  "answers" : [ ]
+}, {
+  "title" : "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+  "description" : "Link: https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/ | Score: 128 | Comments: 40 | By: kusha",
+  "url" : "https://news.ycombinator.com/item?id=50525260",
+  "answers" : [ ]
+}, {
+  "title" : "Genie 4 is now available",
+  "description" : "Link: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ | Score: 253 | Comments: 165 | By: leumon",
+  "url" : "https://news.ycombinator.com/item?id=50550415",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: An API for word timestamps from speech, 75% within 20ms",
+  "description" : "Link: https://quebec.yarn.so | Score: 23 | Comments: 3 | By: jasperstory",
+  "url" : "https://news.ycombinator.com/item?id=50532515",
+  "answers" : [ "Hey HN, we&#x27;re Yarn (W24) and we make a video editing app for startups, and we built Quebec (<a href=\"https:&#x2F;&#x2F;quebec.yarn.so\">https:&#x2F;&#x2F;quebec.yarn.so</a>), an API that gives you accurate word timestamps from speech. We needed it because cutting a word even 50ms off from its true timing can ruin talking head footage (examples in the write up).<p>Accurate word timestamps usually come from a forced aligner, which takes the speech audio and a transcript and works out exactly when each word starts and ends. We weren&#x27;t satisfied with the accuracy of Montreal Forced Aligner (MFA) or new models like ElevenLabs Cue (<a href=\"https:&#x2F;&#x2F;elevenlabs.io&#x2F;blog&#x2F;cue-aligner\" rel=\"nofollow\">https:&#x2F;&#x2F;elevenlabs.io&#x2F;blog&#x2F;cue-aligner</a>). Giving LLMs access to a waveform&#x2F;spectrogram didn&#x27;t help much either.<p>So we built our own. There are two particularly interesting parts:\n- We wrote our own decoder around MFA&#x27;s acoustic model that only lets each word land within 200ms of the rough timings. That made search small enough to solve exactly, so we don&#x27;t need to use MFA&#x27;s beam search.\n- We added a small CNN, built on the first two layers of Whisper Tiny, that nudges each word boundary by up to 50ms. We couldn&#x27;t find enough hand-labelled speech that allowed for commercial use, so we had Gemini label our own (17k word boundaries). It took a couple of hours and cost under $200. A net trained on Gemini&#x27;s labels scored the same as one trained on human labels (73.9% vs. 74%).<p>One way to measure accuracy is % of word boundaries within 20ms of hand labels. Here are the results on Buckeye (hand-labelled American speech that we didn&#x27;t train on):<p>- Quebec 75%<p>- MFA 61%<p>- ElevenLabs Cue 30%<p>If you want to try it, it&#x27;s free until tomorrow night. \nYou can point your agent at our docs at <a href=\"https:&#x2F;&#x2F;quebec.yarn.so\">https:&#x2F;&#x2F;quebec.yarn.so</a>, and send audio on its own or with your own transcript. After that, it costs $0.32 per hour with no signup (minimum $10 top-up). We serve it at cost. Caveats: only tested in English and slower than ElevenLabs.<p>Let us know if Quebec works well for you, and send us any samples that work badly (you can email support at yarn dot so). Also let us know if you&#x27;ve built or found a better aligner. In theory we would just switch to a better aligner, although we would probably just push a bit harder to make ours better.<p>Thanks!<p>Jasper" ]
+}, {
+  "title" : "Logitech Harmony IR code online database archive",
+  "description" : "Link: https://github.com/pickysysadmin/logitech-harmony-ir-archive | Score: 21 | Comments: 3 | By: cf100clunk",
+  "url" : "https://news.ycombinator.com/item?id=50519778",
+  "answers" : [ ]
+}, {
+  "title" : "Mosquitoes are Ladakh's latest tourists",
+  "description" : "Link: https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists | Score: 49 | Comments: 7 | By: akbarnama",
+  "url" : "https://news.ycombinator.com/item?id=50542441",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+  "description" : "Score: 93 | Comments: 33 | By: codekarate",
+  "url" : "https://news.ycombinator.com/item?id=50548660",
+  "answers" : [ "Hi HN, we&#x27;re Shane, Sam, and Abhi.<p>Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43103073\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43103073</a>. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.<p>Today we&#x27;re sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself.<p>At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, alongside 630 merged PRs from humans.<p>There&#x27;s a lot of debate about what a software factory is. For us Factory is a configurable agentic kanban board that&#x27;s @-taggable in Slack.<p>Under the hood, it uses Mastra’s durable agents for long-running sessions, our conversational memory system, a markdown based wiki with source citations to incorporate company knowledge, signals that subscribe to PR comments wired up into sessions, and a customizable cloud sandbox with our coding harness (working on supporting Claude Code, Codex etc).<p>When we started out, we modeled Factory around our existing workflow-oriented process (triage, plan, build, review, shipped). Three months later, we find ourselves mostly driving it through Slack vs a web UI.<p>We’ve seen more senior engineers kick off sessions in parallel (“triage the 20 oldest issues and let’s evaluate…”). We’re using bug and vuln scanners now, and we’ve closed our repo to outside contributors, asking folks to write detailed issue repros instead.<p>You can get started with `npm create factory`.<p>It’s fully open-source, so you can run it entirely on your infra (we also offer a hosted version). Comment here, we would love to know what you think!<p><a href=\"https:&#x2F;&#x2F;factory.mastra.ai\">https:&#x2F;&#x2F;factory.mastra.ai</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;mastra-ai&#x2F;template-factory\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mastra-ai&#x2F;template-factory</a>" ]
+}, {
+  "title" : "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+  "description" : "Link: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 | Score: 280 | Comments: 207 | By: DeepLogin",
+  "url" : "https://news.ycombinator.com/item?id=50546914",
+  "answers" : [ ]
+}, {
+  "title" : "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+  "description" : "Link: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open | Score: 61 | Comments: 17 | By: alpb",
+  "url" : "https://news.ycombinator.com/item?id=50554009",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+  "description" : "Link: https://exitpath-ruddy.vercel.app/ | Score: 213 | Comments: 69 | By: zerocool0101",
+  "url" : "https://news.ycombinator.com/item?id=50547980",
+  "answers" : [ ]
+}, {
+  "title" : "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+  "description" : "Link: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view | Score: 179 | Comments: 113 | By: birdboat00",
+  "url" : "https://news.ycombinator.com/item?id=50547583",
+  "answers" : [ ]
+}, {
+  "title" : "We need smart people who give a shit",
+  "description" : "Link: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ | Score: 574 | Comments: 290 | By: ExMachina73",
+  "url" : "https://news.ycombinator.com/item?id=50554045",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Take Voyager 1 apart, down to a single memory chip",
+  "description" : "Link: https://rshekhar.com/voyager/ | Score: 196 | Comments: 49 | By: raj-shekhar",
+  "url" : "https://news.ycombinator.com/item?id=50548161",
+  "answers" : [ "Voyager 1 reached one light-day from Earth today.<p>On the site you can:<p>- see where both Voyagers are right now<p>- open a nuclear battery to its 24 plutonium spheres<p>- go into the data computer, down to a single memory chip<p>- see how the Golden Record&#x27;s cover explains how to play it<p>- watch how Voyager 1 was fixed by radio<p>- see which dish on Earth is listening to them, live<p>I also made a 4-minute film from it: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=kpzsRo-c1_A\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=kpzsRo-c1_A</a>" ]
+}, {
+  "title" : "Show HN: Open-source, real-time object tracking for live video feeds",
+  "description" : "Link: https://github.com/aryamandarda/tamserve | Score: 94 | Comments: 8 | By: aryaman_darda",
+  "url" : "https://news.ycombinator.com/item?id=50523377",
+  "answers" : [ "I type &quot;forklift&quot; on a live warehouse camera, and tamserve finds and tracks both forklifts, including the one driving in. Then I add &quot;person&quot; without stopping it.<p>tamserve runs Meta&#x27;s SAM 3 on live camera feeds. SAM 3&#x27;s own tracker handles one recorded video at a time, runs at about 8 fps, and runs out of memory on long videos. tamserve uses SAM 3 to find objects every few frames and a lightweight tracker (EdgeTAM) to follow them in between, with one copy of each model shared across all your cameras.<p>*On one RTX 4090:*<p>* *Any object you name:* 4x faster than SAM 3&#x27;s tracker, at 92% of its accuracy\n* *People:* 16 cameras at once, 14x less GPU per frame, and slightly more accurate than SAM 3 (89.6 vs 87.8 HOTA)\n* *Memory:* flat at 3.5 GB on a 3,000 frame video, where SAM 3 runs out at frame 423<p>*Worth a look if you&#x27;re building:*<p>* Warehouse or factory safety (forklifts, pallets, hard hats)\n* Security or retail camera analytics\n* Home or elder care monitoring\n* Robotics, wildlife or lab monitoring\n* Annotation tools for long videos<p>`pip install &quot;tamserve[sam3]&quot;`<p>Please give me any and all feedback or edit tamserve to meet your needs, and a star helps if you find it useful!" ]
+}, {
+  "title" : "Unreal Tournament 2004 in the Browser",
+  "description" : "Link: https://ut2004.dev/ | Score: 157 | Comments: 74 | By: TheAceOfHearts",
+  "url" : "https://news.ycombinator.com/item?id=50554935",
+  "answers" : [ ]
+}, {
+  "title" : "Advancing chip design with OpenAI models",
+  "description" : "Link: https://openai.com/index/advancing-chip-design-with-our-models/ | Score: 211 | Comments: 139 | By: vighneshiyer",
+  "url" : "https://news.ycombinator.com/item?id=50549493",
+  "answers" : [ ]
+} ]
