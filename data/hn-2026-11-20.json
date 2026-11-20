@@ -1,0 +1,151 @@
+[ {
+  "title" : "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+  "description" : "Link: https://github.com/openssl/openssl/pull/33652 | Score: 227 | Comments: 170 | By: JacobHenner",
+  "url" : "https://news.ycombinator.com/item?id=50569226",
+  "answers" : [ ]
+}, {
+  "title" : "Jujutsu Primer",
+  "description" : "Link: https://ethanlowman.com/posts/jj-primer/ | Score: 108 | Comments: 67 | By: renehsz",
+  "url" : "https://news.ycombinator.com/item?id=50570628",
+  "answers" : [ ]
+}, {
+  "title" : "The Strongest Sokoban Solver",
+  "description" : "Link: https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver | Score: 36 | Comments: 7 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50523241",
+  "answers" : [ ]
+}, {
+  "title" : "FFmpeg 9.1 'Gauss'",
+  "description" : "Link: https://ffmpeg.org/download.html#release_9.1 | Score: 119 | Comments: 23 | By: gyan",
+  "url" : "https://news.ycombinator.com/item?id=50569998",
+  "answers" : [ ]
+}, {
+  "title" : "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+  "description" : "Link: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ | Score: 90 | Comments: 9 | By: craigkerstiens",
+  "url" : "https://news.ycombinator.com/item?id=50569516",
+  "answers" : [ ]
+}, {
+  "title" : "\"I can tell you wrote this yourself\"",
+  "description" : "Link: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ | Score: 108 | Comments: 114 | By: BrunoBernardino",
+  "url" : "https://news.ycombinator.com/item?id=50571189",
+  "answers" : [ ]
+}, {
+  "title" : "PostgreSQL 19",
+  "description" : "Link: https://www.postgresql.org/docs/release/19.0/ | Score: 168 | Comments: 7 | By: linzhangrun",
+  "url" : "https://news.ycombinator.com/item?id=50569890",
+  "answers" : [ ]
+}, {
+  "title" : "Claude solves two open problems in the physics of black holes",
+  "description" : "Link: https://www.anthropic.com/research/claude-black-hole-physics | Score: 494 | Comments: 229 | By: cybermango",
+  "url" : "https://news.ycombinator.com/item?id=50563148",
+  "answers" : [ ]
+}, {
+  "title" : "µ-Wire – USB on an ATtiny 10",
+  "description" : "Link: https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/ | Score: 11 | Comments: 1 | By: mofosyne",
+  "url" : "https://news.ycombinator.com/item?id=50545818",
+  "answers" : [ ]
+}, {
+  "title" : "Garage Door Spam",
+  "description" : "Link: https://blog.harrison.page/garage-door-spam/ | Score: 857 | Comments: 357 | By: harrisonpage",
+  "url" : "https://news.ycombinator.com/item?id=50519231",
+  "answers" : [ ]
+}, {
+  "title" : "Vint Cerf on why TCP/IP was never patented",
+  "description" : "Link: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never | Score: 102 | Comments: 45 | By: emot",
+  "url" : "https://news.ycombinator.com/item?id=50568861",
+  "answers" : [ ]
+}, {
+  "title" : "Bit Shifting in Basic",
+  "description" : "Link: https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/ | Score: 38 | Comments: 2 | By: efren6",
+  "url" : "https://news.ycombinator.com/item?id=50521512",
+  "answers" : [ ]
+}, {
+  "title" : "How to CAD Almost Anything",
+  "description" : "Link: https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/ | Score: 257 | Comments: 86 | By: o4c",
+  "url" : "https://news.ycombinator.com/item?id=50528119",
+  "answers" : [ ]
+}, {
+  "title" : "Synology Security Advisory",
+  "description" : "Link: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 | Score: 145 | Comments: 114 | By: choult",
+  "url" : "https://news.ycombinator.com/item?id=50567209",
+  "answers" : [ ]
+}, {
+  "title" : "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+  "description" : "Link: https://www.frankensteinpbc.com/ | Score: 24 | Comments: 7 | By: ano-ther",
+  "url" : "https://news.ycombinator.com/item?id=50522471",
+  "answers" : [ ]
+}, {
+  "title" : "What Comes After AGI?",
+  "description" : "Link: https://institute.deepmind.com/essays/what-comes-after-agi/ | Score: 46 | Comments: 86 | By: jdkee",
+  "url" : "https://news.ycombinator.com/item?id=50569519",
+  "answers" : [ ]
+}, {
+  "title" : "Weight-Space Programming builds neural networks like a 1990s researcher",
+  "description" : "Link: https://notesbylex.com/weight-space-programming-1990s | Score: 83 | Comments: 5 | By: lexandstuff",
+  "url" : "https://news.ycombinator.com/item?id=50538977",
+  "answers" : [ ]
+}, {
+  "title" : "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+  "description" : "Link: https://thedataexchange.media/pete-warden-moonshine/ | Score: 239 | Comments: 217 | By: datascientist",
+  "url" : "https://news.ycombinator.com/item?id=50561508",
+  "answers" : [ ]
+}, {
+  "title" : "Anthropic’s Nasdaq debut",
+  "description" : "Link: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ | Score: 1076 | Comments: 2124 | By: wslh",
+  "url" : "https://news.ycombinator.com/item?id=50562754",
+  "answers" : [ ]
+}, {
+  "title" : "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+  "description" : "Link: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine | Score: 281 | Comments: 146 | By: dev1one1",
+  "url" : "https://news.ycombinator.com/item?id=50564159",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+  "description" : "Link: https://github.com/onlook-dev/onlook/ | Score: 118 | Comments: 82 | By: D_R_Farrell",
+  "url" : "https://news.ycombinator.com/item?id=50562320",
+  "answers" : [ "Hey HN, I&#x27;m Daniel, founder of Onlook (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook</a> and onlook.com).<p>Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it&#x27;s been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community.<p>Here’s a demo video: (<a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;BogcYWf4siM\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;BogcYWf4siM</a>)<p>If you&#x27;re an engineer, traditional engineering tools are largely built for convergence, whereas designers tend to explore and diverge on ideas. Onlook gives designers a familiar canvas while managing all of the dev processes that get between them and making mind-blowing designs in code. Designers can work on a multiple simultaneous worktrees that run on the real app locally, and every change lands as a PR you can review or throw away, so there aren’t mockups to rebuild.<p>We built Onlook because we believe there needs to be a developer tool that works the way designers do.<p>More and more, designers are expected to work in code. Designers think by seeing, drafting, arranging variations, using references, and remixing ideas. That’s why the canvas has been the signature feature of design tools because it genuinely is useful for how messy the creative process is. Most of the challenge of using engineering tools for design work is that the first half of starting a project often takes mental bandwidth in of itself (What branch am I on? What page was that last exploration on?) and the second half is constrained by configuring your coded design to present itself (prompting design tools on top of what you’ve built or making temporary navigation for that specific state).<p>Some of you may remember our earlier Show HNs (July 2024: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=40904862\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=40904862</a>, August 2024: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=41390449\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=41390449</a>, May 2025: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44127653\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44127653</a>). Since then, we built a web version (too early), then a Storybook-native build (a mistake). We noticed that our desktop product from July 2024 was still getting hundreds of downloads a month despite zero promotion, so we decided to rebuild it for the new era of designers working in code.<p>How it works…<p>Onlook shines at exploring tons of ideas at once. Ask it to lay out every flow in your product, show every state of a component, or riff on ten versions of one screen. Your designs all show up side by side on an infinite canvas, with each frame as a real webview running your actual app with real data. Not as a mockup, but the real deal.<p>When we built this editor, we had an epiphany that it could be a new kind of IDE for design. Design tools used to be limited to a proprietary setup or closed schema, but now you can push and pull the medium of code to get whatever result you want, so why not give agents an infinite canvas of browsers and see what they do? It turns out, the agents can figure out how to better present coded work by adjusting the urls of browser frames and arranging and resizing them on the canvas.<p>The concept is simple, but it requires a lot of product thinking. For example, because all of the frames on the canvas share a single browser session, and Chromium only allows six connections per host per session, ten frames of the same app end up fighting over limited connections. So, we had to plan around that, and there are still tons of things we need to do to make the canvas ultra performant.<p>Onlook is an Electron app where you can import a repo from GitHub or upload a local folder. Then, Onlook creates a git worktree, starts your dev server, and has the agent sort out missing dependencies or other requirements. You never open a terminal and everything the agent does is a normal git diff that can go to GitHub as a PR. We inject a small script into each frame that draws selection outlines and reads the page, so that way you can click an element, say &quot;make this a card layout,&quot; and the agent knows exactly what &quot;this&quot; is.<p>This time we didn&#x27;t build our own agent. Onlook runs Claude Code or Codex on your own subscription, and we turn whatever the agent emits into one typed event log and draw the UI from that in our own chat interface. On top of that we give the agent a bespoke set of design-specific tools, from arranging frames on the canvas, to making suggestions, to generating multiple iterations of a selection – which is especially useful because the agent decides how to get the app into a state that you need based on your prompt.<p>We also have our own Artifacts which are quick HTML sketches that live in the editor, but outside your repo. They’re almost like components in other design tools in that they can be carried and edited across every project but are detached from the project with no network access. As an example, you can ask the agent to turn your interface into an Artifact, and use it as a reference for another exploration, or download it as HTML and send it to a coworker as an interactive export of something you have in progress. I frequently go back to the artifacts I’ve made as visual snippets when I need new ideas or need to borrow something that’s already been built.<p>The desktop editor is free (you can download it from our website at onlook.com) and open source under Apache-2.0, and we&#x27;ll eventually offer a paid cloud product for teams.<p>We&#x27;d love to hear which repos work and which don&#x27;t, what you try to do on the canvas, and what&#x27;s missing. We’re so excited for this to be a new way for designers to work in code!<p>The Onlook team (Joel - thebrubaker and Kris - krisodd), and I will be here all day!" ]
+}, {
+  "title" : "Someone reported java4shell bug in September 2026",
+  "description" : "Link: https://github.com/openjdk/jdk/pull/32781 | Score: 425 | Comments: 115 | By: notmine1337",
+  "url" : "https://news.ycombinator.com/item?id=50558906",
+  "answers" : [ ]
+}, {
+  "title" : "ChatGPT for SNES",
+  "description" : "Link: https://www.bxfoundry.com/chatgpt_snes/ | Score: 81 | Comments: 22 | By: evan_",
+  "url" : "https://news.ycombinator.com/item?id=50568548",
+  "answers" : [ ]
+}, {
+  "title" : "Pancreatic cancer halted by virus injection in three patients",
+  "description" : "Link: https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/ | Score: 770 | Comments: 131 | By: cybermango",
+  "url" : "https://news.ycombinator.com/item?id=50563066",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;2Et0x\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;2Et0x</a><p><a href=\"https:&#x2F;&#x2F;clinicaltrials.gov&#x2F;study&#x2F;NCT06693986\" rel=\"nofollow\">https:&#x2F;&#x2F;clinicaltrials.gov&#x2F;study&#x2F;NCT06693986</a>" ]
+}, {
+  "title" : "Automatic Checking of Compiler Correctness with E-Graphs",
+  "description" : "Link: https://stng.substack.com/p/automatic-checking-of-compiler-correctness | Score: 28 | Comments: 0 | By: g0xA52A2A",
+  "url" : "https://news.ycombinator.com/item?id=50537492",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+  "description" : "Link: https://cornholenews.news | Score: 222 | Comments: 102 | By: cornholemedia",
+  "url" : "https://news.ycombinator.com/item?id=50561515",
+  "answers" : [ ]
+}, {
+  "title" : "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=lwfewYL7X0o | Score: 103 | Comments: 211 | By: sandslash",
+  "url" : "https://news.ycombinator.com/item?id=50564366",
+  "answers" : [ ]
+}, {
+  "title" : "Making 8-page foldable zines from a single A4 sheet in the browser",
+  "description" : "Link: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ | Score: 299 | Comments: 61 | By: krthr",
+  "url" : "https://news.ycombinator.com/item?id=50559719",
+  "answers" : [ ]
+}, {
+  "title" : "UK government forced to admit it issued Apple a secret encryption order",
+  "description" : "Link: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ | Score: 643 | Comments: 289 | By: Terretta",
+  "url" : "https://news.ycombinator.com/item?id=50562113",
+  "answers" : [ ]
+}, {
+  "title" : "Nintendo takes Picofly firmware down from GitHub [video]",
+  "description" : "Link: https://www.youtube.com/watch?v=-TLCGUpoD6c | Score: 289 | Comments: 115 | By: cowlevel",
+  "url" : "https://news.ycombinator.com/item?id=50547048",
+  "answers" : [ ]
+} ]
