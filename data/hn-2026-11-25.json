@@ -1,0 +1,151 @@
+[ {
+  "title" : "Matrix Multiplication is Θ(n^2.25) [pdf]",
+  "description" : "Link: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf | Score: 656 | Comments: 352 | By: E-Reverance",
+  "url" : "https://news.ycombinator.com/item?id=50637220",
+  "answers" : [ ]
+}, {
+  "title" : "Button Sounds – collection of professionally-recorded button clicks and presses",
+  "description" : "Link: https://buttons.joshwcomeau.com/ | Score: 397 | Comments: 55 | By: gaurang_tandon",
+  "url" : "https://news.ycombinator.com/item?id=50638032",
+  "answers" : [ ]
+}, {
+  "title" : "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+  "description" : "Link: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being | Score: 242 | Comments: 98 | By: gmays",
+  "url" : "https://news.ycombinator.com/item?id=50637686",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+  "description" : "Link: https://gpu-demo-gallery.pages.dev/ | Score: 139 | Comments: 32 | By: arkits",
+  "url" : "https://news.ycombinator.com/item?id=50638503",
+  "answers" : [ ]
+}, {
+  "title" : "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+  "description" : "Link: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit | Score: 209 | Comments: 76 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=50637890",
+  "answers" : [ ]
+}, {
+  "title" : "Ternary Bonsai 2.5 27B",
+  "description" : "Link: https://prismml.com/news/bonsai-2-5-27b | Score: 455 | Comments: 141 | By: b0m",
+  "url" : "https://news.ycombinator.com/item?id=50633922",
+  "answers" : [ ]
+}, {
+  "title" : "Getting old Java phones online again",
+  "description" : "Link: https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html | Score: 38 | Comments: 8 | By: waximabbax",
+  "url" : "https://news.ycombinator.com/item?id=50627726",
+  "answers" : [ ]
+}, {
+  "title" : "PenGPT: A Generative Transformer for Handwriting and Sketches",
+  "description" : "Link: https://greydanus.github.io/2026/11/12/pengpt/ | Score: 260 | Comments: 45 | By: smusamashah",
+  "url" : "https://news.ycombinator.com/item?id=50637056",
+  "answers" : [ ]
+}, {
+  "title" : "Taking over US Treasury subdomains for $3 each",
+  "description" : "Link: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each | Score: 93 | Comments: 18 | By: negura",
+  "url" : "https://news.ycombinator.com/item?id=50638478",
+  "answers" : [ ]
+}, {
+  "title" : "The algebra of dependent types (2025)",
+  "description" : "Link: https://dotat.at/@/2025-05-28-types.html | Score: 35 | Comments: 2 | By: todsacerdoti",
+  "url" : "https://news.ycombinator.com/item?id=50623866",
+  "answers" : [ ]
+}, {
+  "title" : "Marginalia Search, Money, C++, Rust, AI, Stuff",
+  "description" : "Link: https://www.marginalia.nu/log/a_141_marginalia_update/ | Score: 127 | Comments: 53 | By: Curiositry",
+  "url" : "https://news.ycombinator.com/item?id=50638220",
+  "answers" : [ ]
+}, {
+  "title" : "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "description" : "Link: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ | Score: 269 | Comments: 84 | By: acossta",
+  "url" : "https://news.ycombinator.com/item?id=50634658",
+  "answers" : [ ]
+}, {
+  "title" : "The Shapes of Rivers",
+  "description" : "Link: https://dominicroye.github.io/shapes-of-rivers/ | Score: 70 | Comments: 15 | By: joexov",
+  "url" : "https://news.ycombinator.com/item?id=50627079",
+  "answers" : [ ]
+}, {
+  "title" : "The Spray Bottle",
+  "description" : "Link: https://mechanical-pencil.com/products/spray-bottle | Score: 491 | Comments: 110 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=50598555",
+  "answers" : [ ]
+}, {
+  "title" : "Launch HN: Versine (YC F26) – MCP to send and receive money",
+  "description" : "Score: 87 | Comments: 73 | By: harshithl1777",
+  "url" : "https://news.ycombinator.com/item?id=50634426",
+  "answers" : [ "Hey HN, we’re Harshith, Param, and Vishnu and we&#x27;re building Versine (<a href=\"https:&#x2F;&#x2F;versine.com\">https:&#x2F;&#x2F;versine.com</a>). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.<p>Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like:<p>- Send money to someone with your approval (via passkey in our app)<p>- Send and request money to&#x2F;from up to 100 people at once<p>- Send money to people without a Versine account (they cash out to their bank in 2 mins)<p>- Pay people without your explicit approval to trusted contacts (you can set this)<p>Here’s a demo: <a href=\"https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;Q9X7zioEqi0\" rel=\"nofollow\">https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;Q9X7zioEqi0</a><p>We started working on this because assistants are frustratingly hands-off when it comes to finance and money movement. You can have your assistant go through a receipt and map out all the amounts owed taking care of splitting the subtotal, taxes, tips, but at the end of it the assistant hands back work to you when you have to go out and make the Venmo transfer.<p>Our current solution is oriented towards power users: those who want to automate everything through their agent use us to split dinners, group trips, or settle poker ledgers. We see ourselves unlocking more value for the general consumer as<p>1. More people turn into power users of agents, and\n2. We expand to a more complete banking solution: deposits, transfers, wires, everything you can (and more) do with your bank offered as an MCP.<p>Behind the scenes, each user has a self-custodial stablecoin wallet storing USDC on Base. With self-custodial wallets, users own their keys, meaning money can’t be sent without their approval.<p>Interestingly, we were almost forced into this solution because we had around 4 weeks to build this product (after a pivot), and traditional fiat with a partner bank would have caused far too many regulatory and compliance slowdowns.<p>Because of that, the only fast option that remained was using stablecoin wallets. It also ensures we aren&#x27;t a Money Services Business (MSB) since we don’t hold control or access to the user’s funds.<p>Each call to the wallet creates what we call one-time or recurring standing permissions. For a one-time payment, your agent makes an MCP call, and you receive a notification in our mobile app. Once you swipe up in the app and approve with a passkey (or your device’s biometric method), we create a one-time permission that instructs your wallet to send $X to your recipient’s address.<p>Trusted contacts let your agent send money to people that you’ve previously authorized without explicit passkey approval. Generally, these are people that you’d trust to send your money back even if your agent made a mistake.<p>We’re also able to support sending money to someone off Versine using claim forwarding, where the user authorizes us to forward a specific amount to a future address (which we create once we verify a recipient&#x27;s OTP).<p>Param worked on scaling vector search at Databricks and harness evals at Glean. Harshith worked on core Stripe Connect fee-processing infrastructure and built an AWS Fargate autoscaler at Amazon. Vishnu worked on intent-based agent testing infrastructure at Amazon. None of us were experienced in stablecoin or crypto infra before working on Versine but our distributed systems experience has helped us a lot.<p>We&#x27;d love for you guys to try it! It&#x27;s available on iOS and Android and as an MCP on ChatGPT and Claude. We also support a public MCP and REST API for other agents.<p>Please let us know how you find it and if it works as you&#x27;d hoped!<p><a href=\"https:&#x2F;&#x2F;versine.com\">https:&#x2F;&#x2F;versine.com</a>" ]
+}, {
+  "title" : "When in Doubt, Flail About",
+  "description" : "Link: https://www.seangoedecke.com/when-in-doubt-flail-about/ | Score: 39 | Comments: 14 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=50613769",
+  "answers" : [ ]
+}, {
+  "title" : "Top open problems in mathematics ranked by LLM-assessed importance",
+  "description" : "Link: https://www.proofatlas.ai/open-problems/ | Score: 55 | Comments: 25 | By: ijidak",
+  "url" : "https://news.ycombinator.com/item?id=50637871",
+  "answers" : [ ]
+}, {
+  "title" : "Turning raw air traffic control recordings into lo-fi beats",
+  "description" : "Link: https://finalapproach.fm/field-notes/how-a-track-is-made/ | Score: 11 | Comments: 9 | By: kkoppenhaver",
+  "url" : "https://news.ycombinator.com/item?id=50629442",
+  "answers" : [ ]
+}, {
+  "title" : "Macrohistory in Six Facts",
+  "description" : "Link: https://basilhalperin.com/essays/macrohistory.html | Score: 81 | Comments: 38 | By: tptacek",
+  "url" : "https://news.ycombinator.com/item?id=50637891",
+  "answers" : [ ]
+}, {
+  "title" : "Why Airlines Accept A321XLR's Heavier Takeoff Weight on Flights Shorter < 1 Hour",
+  "description" : "Link: https://simpleflying.com/airlines-accept-airbus-a321xlr-heavier-101-tonne-maximum-takeoff-weight-flights-shorter-hour/ | Score: 3 | Comments: 1 | By: edward",
+  "url" : "https://news.ycombinator.com/item?id=50608973",
+  "answers" : [ ]
+}, {
+  "title" : "Active intrusion campaign against Check Point security management servers",
+  "description" : "Link: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign | Score: 284 | Comments: 141 | By: louiereederson",
+  "url" : "https://news.ycombinator.com/item?id=50630594",
+  "answers" : [ ]
+}, {
+  "title" : "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+  "description" : "Link: https://noahbuilt.it/writing/qwen-on-5600-lambdas | Score: 76 | Comments: 11 | By: octember",
+  "url" : "https://news.ycombinator.com/item?id=50638070",
+  "answers" : [ ]
+}, {
+  "title" : "Lua for data representation (2025)",
+  "description" : "Link: https://citrons.xyz/journal/2025-07-23 | Score: 62 | Comments: 20 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=50637888",
+  "answers" : [ ]
+}, {
+  "title" : "A faster algorithm for extracting hexadecimal digits of π",
+  "description" : "Link: https://www.stylewarning.com/posts/faster-digit-extraction/ | Score: 42 | Comments: 2 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=50638075",
+  "answers" : [ ]
+}, {
+  "title" : "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+  "description" : "Score: 299 | Comments: 233 | By: weli",
+  "url" : "https://news.ycombinator.com/item?id=50630809",
+  "answers" : [ "Basically the title.<p>Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.<p>Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy?<p>Now I&#x27;ve got 24h to prove we didn&#x27;t.<p>Has anyone dealt with this too? How can you prove that you are not distilling Anthropic models without breaking your user&#x27;s privacy?" ]
+}, {
+  "title" : "An Italian folding bicycle design that fits into a suitcase",
+  "description" : "Link: https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase | Score: 185 | Comments: 121 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50610820",
+  "answers" : [ ]
+}, {
+  "title" : "GTA 6 Running on Windows",
+  "description" : "Link: https://twitter.com/raul_bs3/status/2125213756238291075 | Score: 406 | Comments: 483 | By: andrem",
+  "url" : "https://news.ycombinator.com/item?id=50627783",
+  "answers" : [ ]
+}, {
+  "title" : "Gödel Enigma",
+  "description" : "Link: https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description | Score: 128 | Comments: 45 | By: benbreen",
+  "url" : "https://news.ycombinator.com/item?id=50625265",
+  "answers" : [ ]
+}, {
+  "title" : "I've been drinking wine in my kitchen",
+  "description" : "Link: https://scottaaronson.blog/?p=10362 | Score: 208 | Comments: 181 | By: nill0",
+  "url" : "https://news.ycombinator.com/item?id=50637874",
+  "answers" : [ ]
+}, {
+  "title" : "New rewritable antimony selenide display shows an image for months without power",
+  "description" : "Link: https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/ | Score: 38 | Comments: 22 | By: giuliomagnifico",
+  "url" : "https://news.ycombinator.com/item?id=50626430",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;advanced.onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;adpr.70305\" rel=\"nofollow\">https:&#x2F;&#x2F;advanced.onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;adpr.70...</a>" ]
+} ]
