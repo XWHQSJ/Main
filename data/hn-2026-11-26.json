@@ -1,0 +1,151 @@
+[ {
+  "title" : "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+  "description" : "Link: https://scottaaronson.blog/?p=10379 | Score: 1559 | Comments: 1365 | By: Kotlopou",
+  "url" : "https://news.ycombinator.com/item?id=50646108",
+  "answers" : [ "See also <i>The matrix multiplication exponent is nine fourths [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220</a>" ]
+}, {
+  "title" : "1Password Security Incident",
+  "description" : "Link: https://1password.com/blog/update-on-nov-2026-security-incident | Score: 1438 | Comments: 613 | By: lxhrstn",
+  "url" : "https://news.ycombinator.com/item?id=50644817",
+  "answers" : [ ]
+}, {
+  "title" : "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+  "description" : "Link: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/ | Score: 104 | Comments: 16 | By: joonehur",
+  "url" : "https://news.ycombinator.com/item?id=50651719",
+  "answers" : [ ]
+}, {
+  "title" : "Moat: Your OpenRouter Replacement",
+  "description" : "Link: https://commandcode.ai/moat | Score: 66 | Comments: 48 | By: amanverasia",
+  "url" : "https://news.ycombinator.com/item?id=50652184",
+  "answers" : [ ]
+}, {
+  "title" : "Much shorter version of GRH Lean verification from Anthropic",
+  "description" : "Link: https://github.com/lsernau/grh-lean | Score: 458 | Comments: 237 | By: nb-t",
+  "url" : "https://news.ycombinator.com/item?id=50648050",
+  "answers" : [ ]
+}, {
+  "title" : "The New York Times warns photographers not to update Photoshop over AI features",
+  "description" : "Link: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features | Score: 393 | Comments: 328 | By: rmason",
+  "url" : "https://news.ycombinator.com/item?id=50647673",
+  "answers" : [ "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy</a>" ]
+}, {
+  "title" : "Minipg: PostgreSQL as a Single Executable",
+  "description" : "Link: https://progrium.github.io/minipg/ | Score: 131 | Comments: 21 | By: rguiscard",
+  "url" : "https://news.ycombinator.com/item?id=50650892",
+  "answers" : [ ]
+}, {
+  "title" : "Collection of preserved UI style guides",
+  "description" : "Link: https://aresluna.org/ui-style-guides/ | Score: 185 | Comments: 22 | By: sohkamyung",
+  "url" : "https://news.ycombinator.com/item?id=50649834",
+  "answers" : [ ]
+}, {
+  "title" : "Tell HN: Lots of Ask HNs again",
+  "description" : "Score: 269 | Comments: 99 | By: dang",
+  "url" : "https://news.ycombinator.com/item?id=50649864",
+  "answers" : [ "There have been questions about why the &#x2F;ask page (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;ask\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;ask</a>) was running dry of Ask HNs - e.g.:<p><i>Ask HN: Why is Ask HN only showing me 14 posts?</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49984484\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49984484</a> - Oct 2026 (47 comments)<p><i>Ask HN: Why is pagination gone on &quot;Ask HN&quot;, and showing only 19 items?</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50280719\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50280719</a> - Oct 2026 (3 comments)<p>I believe I found the problem. The pool of stories for <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;ask\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;ask</a> has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs.<p>p.s. &quot;Ask HN&quot; is the conventional name but it means text posts. The title can also start with &quot;Tell HN&quot; or nothing in particular. They&#x27;re just posts which were submitted without a URL." ]
+}, {
+  "title" : "Show HN: Synth Patch Hero",
+  "description" : "Link: https://swarkentin.github.io/synth-patch-hero/ | Score: 49 | Comments: 10 | By: kaidon",
+  "url" : "https://news.ycombinator.com/item?id=50623232",
+  "answers" : [ "I wanted to be more deliberate and systematic in how I approach working on synth patches. With the help of our friend Claude, I put together a game that runs through exercises that builds that muscle in a fun and approachable way where you learn as you build patches on a modular rack.<p>I do not have a Eurorack, nor a strong desire to own one (yet); but I do have a bit of other physical gear. I wanted to see if the lessons would translate to boxes, where sound is also better than the browser. So I have started adding groove box specific enhanced lessons (so far just a couple for the Digitone II, but they worked so far).<p>Also:\n- You can set up MIDI in settings and play your patch in the browser with a MIDI keyboard (Chrome worked, but Safari didn&#x27;t when I tried).\n- The Help in the exercises can unblock you when you get stuck and teach you as it helps.\n- You can pick a groove box in settings under &#x27;my gear&#x27; to get some device-specific lessons." ]
+}, {
+  "title" : "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+  "description" : "Link: https://bjin.github.io/go-codegolf-benchmark/#leaderboard | Score: 378 | Comments: 108 | By: bjin",
+  "url" : "https://news.ycombinator.com/item?id=50601280",
+  "answers" : [ "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how hard you tried, there always seemed to be another Googler who found a shorter solution. And once a problem entered the challenge phase and every solution became public, it was always astonishing to read how brilliant other people&#x27;s solutions were.<p>11 years later, LLMs are evolving fast. A recent OpenAI post (&quot;Perplexity and Intelligence&quot;, <a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;perplexity-and-intelligence&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;perplexity-and-intelligence&#x2F;</a>) described researchers watching a model solve open math problems one after another in a Slack thread. I started to wonder: how would frontier models compete with the records that a small group of brilliant minds created with hours of effort each week?<p>So I built this benchmark. Frontier models do find a lot of new approaches (and very brilliant ones) to solve these problems. For example, in two problems (&quot;Surviving Queens&quot; and &quot;The Rolling Dice&quot;), frontier models use complex numbers to solve them in Python and Ruby (both languages have built-in complex number support). And for the &quot;(-5)-Smooth Numbers&quot; problem, where you have to write code to list the first n positive integers of the form (-2)^x⋅(-3)^y⋅(-5)^z, most solutions build them with nested loops or by growing a set, then sort. GPT-6.2 Astra gets them all from powers of 4, and earns a sole best with this brilliant solution:<p><pre><code>    g=lambda n:sorted(4**i%(2**999-5)%(2**49-3)for i in range(7000))[:n]\n</code></pre>\nThere is a dedicated section for this: <a href=\"https:&#x2F;&#x2F;bjin.github.io&#x2F;go-codegolf-benchmark&#x2F;#why&#x2F;finding-a-different-approach\" rel=\"nofollow\">https:&#x2F;&#x2F;bjin.github.io&#x2F;go-codegolf-benchmark&#x2F;#why&#x2F;finding-a-...</a><p>It&#x27;s nice to see GPT-6.2 Astra become the first frontier model to beat the human records in code golfing. Along with other frontier models, it finds a lot of interesting solutions that Googlers back in 2015 didn&#x27;t. On the other hand, I also believe code golfing can be a good benchmark (not a comprehensive one, of course) for frontier models.<p>Code golfing rewards thinking differently, because a shorter solution usually comes from looking at the problem from a different angle. It also rewards running experiments, not just thinking: writing a search program to find a shorter expression, or exploring lesser-known features and functions in the target compiler, interpreter, or library. Human code golfers do this a lot, and no public training data tells a frontier model how to do so." ]
+}, {
+  "title" : "Slow Ubuntu security response times",
+  "description" : "Link: https://www.openwall.com/lists/oss-security/2026/11/25/9 | Score: 294 | Comments: 136 | By: gslin",
+  "url" : "https://news.ycombinator.com/item?id=50647181",
+  "answers" : [ ]
+}, {
+  "title" : "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+  "description" : "Link: https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf | Score: 92 | Comments: 29 | By: Michelangelo11",
+  "url" : "https://news.ycombinator.com/item?id=50598636",
+  "answers" : [ ]
+}, {
+  "title" : "What VP ≠ VNP Means (In 3 Minutes)",
+  "description" : "Link: https://www.friedgil.com/vpvnp | Score: 132 | Comments: 41 | By: vinhnx",
+  "url" : "https://news.ycombinator.com/item?id=50626466",
+  "answers" : [ ]
+}, {
+  "title" : "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+  "description" : "Link: https://twitter.com/thsottiaux/status/2125784147889393806 | Score: 257 | Comments: 132 | By: Herrera",
+  "url" : "https://news.ycombinator.com/item?id=50651117",
+  "answers" : [ ]
+}, {
+  "title" : "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+  "description" : "Link: https://opensec.in/blog/nfs2root-cve-2026-99362 | Score: 148 | Comments: 62 | By: dm",
+  "url" : "https://news.ycombinator.com/item?id=50647161",
+  "answers" : [ ]
+}, {
+  "title" : "Bare Metal Qwen",
+  "description" : "Link: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os | Score: 153 | Comments: 39 | By: miohtama",
+  "url" : "https://news.ycombinator.com/item?id=50648365",
+  "answers" : [ ]
+}, {
+  "title" : "The history of civilization is the history of wheat",
+  "description" : "Link: https://asteriskmag.com/issues/16/marginal-grains | Score: 36 | Comments: 13 | By: NaOH",
+  "url" : "https://news.ycombinator.com/item?id=50634381",
+  "answers" : [ ]
+}, {
+  "title" : "Qualcomm's Oryon 3 Reaches the Top",
+  "description" : "Link: https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top | Score: 49 | Comments: 22 | By: wmf",
+  "url" : "https://news.ycombinator.com/item?id=50651158",
+  "answers" : [ ]
+}, {
+  "title" : "How did pinwheel calculators work?",
+  "description" : "Link: https://blog.coredump.cx/p/how-did-pinwheel-calculators-work | Score: 74 | Comments: 6 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50637448",
+  "answers" : [ ]
+}, {
+  "title" : "Unconditional Integer Factorization in Subexponential Time",
+  "description" : "Link: https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization | Score: 42 | Comments: 4 | By: _alternator_",
+  "url" : "https://news.ycombinator.com/item?id=50651627",
+  "answers" : [ ]
+}, {
+  "title" : "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+  "description" : "Link: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/ | Score: 100 | Comments: 12 | By: qzervaas",
+  "url" : "https://news.ycombinator.com/item?id=50648323",
+  "answers" : [ ]
+}, {
+  "title" : "SSH is a GUI framework",
+  "description" : "Link: https://zydra.sh/articles/ssh-is-a-gui-framework/ | Score: 194 | Comments: 99 | By: teledream",
+  "url" : "https://news.ycombinator.com/item?id=50589784",
+  "answers" : [ ]
+}, {
+  "title" : "Training on Documents About Monitoring Leads to Cot Obfuscation",
+  "description" : "Link: https://arxiv.org/abs/2605.15257 | Score: 4 | Comments: 0 | By: sonabinu",
+  "url" : "https://news.ycombinator.com/item?id=50621638",
+  "answers" : [ ]
+}, {
+  "title" : "Who is in charge of Britain's web addresses?",
+  "description" : "Link: https://medium.com/@jharbourne/who-is-in-charge-of-britains-web-addresses-6efc797bc133 | Score: 17 | Comments: 5 | By: jharbourne",
+  "url" : "https://news.ycombinator.com/item?id=50615059",
+  "answers" : [ ]
+}, {
+  "title" : "'Castles' Review",
+  "description" : "Link: https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink | Score: 19 | Comments: 4 | By: mr_tyzik",
+  "url" : "https://news.ycombinator.com/item?id=50629555",
+  "answers" : [ ]
+}, {
+  "title" : "The polynomial Hirsch conjecture is false [pdf]",
+  "description" : "Link: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf | Score: 157 | Comments: 44 | By: acossta",
+  "url" : "https://news.ycombinator.com/item?id=50644980",
+  "answers" : [ ]
+}, {
+  "title" : "XKCD and Fourier",
+  "description" : "Link: https://leancrew.com/all-this/2026/10/xkcd-and-fourier/ | Score: 66 | Comments: 22 | By: surprisetalk",
+  "url" : "https://news.ycombinator.com/item?id=50627532",
+  "answers" : [ ]
+}, {
+  "title" : "Deriving Black-Scholes",
+  "description" : "Link: https://david.alvarezrosa.com/posts/deriving-black-scholes/ | Score: 76 | Comments: 48 | By: meysamazad",
+  "url" : "https://news.ycombinator.com/item?id=50644814",
+  "answers" : [ ]
+}, {
+  "title" : "Can a TV be too large? An investigation",
+  "description" : "Link: https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/ | Score: 67 | Comments: 96 | By: jomon003",
+  "url" : "https://news.ycombinator.com/item?id=50608175",
+  "answers" : [ ]
+} ]
