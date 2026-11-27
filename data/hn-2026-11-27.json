@@ -1,0 +1,151 @@
+[ {
+  "title" : "The group chat where your AI talks behind your back",
+  "description" : "Link: https://construct22.com/ | Score: 258 | Comments: 107 | By: utiiiD",
+  "url" : "https://news.ycombinator.com/item?id=50663595",
+  "answers" : [ ]
+}, {
+  "title" : "AI made self-hosting fun again",
+  "description" : "Link: https://janlukas.blog/posts/ai-self-hosting | Score: 713 | Comments: 352 | By: jlelse",
+  "url" : "https://news.ycombinator.com/item?id=50660180",
+  "answers" : [ ]
+}, {
+  "title" : "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+  "description" : "Link: https://github.com/antonpictures/youtube-punisher | Score: 406 | Comments: 471 | By: iantongeorge",
+  "url" : "https://news.ycombinator.com/item?id=50657530",
+  "answers" : [ ]
+}, {
+  "title" : "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+  "description" : "Link: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ | Score: 373 | Comments: 90 | By: dverlaeckt80",
+  "url" : "https://news.ycombinator.com/item?id=50659841",
+  "answers" : [ ]
+}, {
+  "title" : "Hard Drive pricing has gotten bad",
+  "description" : "Link: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ | Score: 361 | Comments: 266 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=50661646",
+  "answers" : [ ]
+}, {
+  "title" : "AMD-specific fork of llama.cpp",
+  "description" : "Link: https://devnull.land/amd-specific-llama-cpp | Score: 362 | Comments: 87 | By: julianlam",
+  "url" : "https://news.ycombinator.com/item?id=50657265",
+  "answers" : [ ]
+}, {
+  "title" : "CTO of 'RansomwareHelp' indicted for wire fraud",
+  "description" : "Link: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ | Score: 271 | Comments: 135 | By: Bender",
+  "url" : "https://news.ycombinator.com/item?id=50657645",
+  "answers" : [ ]
+}, {
+  "title" : "The need for a formally verifiable mainstream programming language",
+  "description" : "Link: https://blainehansen.me/post/mainstream-verifiable-language/ | Score: 157 | Comments: 134 | By: todsacerdoti",
+  "url" : "https://news.ycombinator.com/item?id=50663089",
+  "answers" : [ ]
+}, {
+  "title" : "Company Culture = Slack Emoji ÷ √Headcount",
+  "description" : "Link: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ | Score: 363 | Comments: 173 | By: liamg",
+  "url" : "https://news.ycombinator.com/item?id=50659640",
+  "answers" : [ ]
+}, {
+  "title" : "Intel One Mono font (2023)",
+  "description" : "Link: https://github.com/intel/intel-one-mono | Score: 527 | Comments: 254 | By: saikatsg",
+  "url" : "https://news.ycombinator.com/item?id=50653667",
+  "answers" : [ ]
+}, {
+  "title" : "Buy Nothing Day – Friday November 27th 2026",
+  "description" : "Link: https://www.buynothingday.co.uk/ | Score: 92 | Comments: 16 | By: f_allwein",
+  "url" : "https://news.ycombinator.com/item?id=50663261",
+  "answers" : [ ]
+}, {
+  "title" : "An introduction to uncertainty in machine learning",
+  "description" : "Link: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ | Score: 84 | Comments: 2 | By: chrhenning",
+  "url" : "https://news.ycombinator.com/item?id=50658498",
+  "answers" : [ ]
+}, {
+  "title" : "European Commission Declares Browser Competition a Digital Markets Act Priority",
+  "description" : "Link: https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/ | Score: 34 | Comments: 12 | By: anilgulecha",
+  "url" : "https://news.ycombinator.com/item?id=50664191",
+  "answers" : [ ]
+}, {
+  "title" : "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "description" : "Link: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ | Score: 332 | Comments: 300 | By: ritzaco",
+  "url" : "https://news.ycombinator.com/item?id=50653477",
+  "answers" : [ ]
+}, {
+  "title" : "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+  "description" : "Link: https://kendell.dev/blog/arkwrapper/ | Score: 103 | Comments: 15 | By: leafingensemble",
+  "url" : "https://news.ycombinator.com/item?id=50660273",
+  "answers" : [ ]
+}, {
+  "title" : "Rvoip: VoIP stack in Rust",
+  "description" : "Link: https://github.com/eisenzopf/rvoip | Score: 134 | Comments: 27 | By: zerosegfaults",
+  "url" : "https://news.ycombinator.com/item?id=50658632",
+  "answers" : [ ]
+}, {
+  "title" : "Claude sabotaging SOTA ML research tasks",
+  "description" : "Link: https://twitter.com/RealAstropulse/status/2126119408997466389 | Score: 86 | Comments: 55 | By: baobabKoodaa",
+  "url" : "https://news.ycombinator.com/item?id=50664325",
+  "answers" : [ ]
+}, {
+  "title" : "The Cutthroat Business of Shipwrecks",
+  "description" : "Link: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ | Score: 27 | Comments: 5 | By: herbertl",
+  "url" : "https://news.ycombinator.com/item?id=50661705",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: I wrote an entire Vim manual over 4 years",
+  "description" : "Link: http://themouseless.dev/vim/ | Score: 175 | Comments: 54 | By: thanato0s",
+  "url" : "https://news.ycombinator.com/item?id=50655868",
+  "answers" : [ "I&#x27;m glad to announce that I&#x27;m releasing my new book, Learning to Play Vim.<p>When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn&#x27;t like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn&#x27;t get the treatment they deserved.<p>So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done!<p>The result:<p>- 21 chapters showing the most important Vim features step by step.<p>- 170 exercises with solutions.<p>- Many real-life examples to show how Vim can be used and configured for your own needs.<p>- The related Vim&#x27;s help pages to dig further into each feature.<p>Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don&#x27;t expect anything about Neovim-specific features (like treesitter or LSP for example).<p>- The landing page: <a href=\"https:&#x2F;&#x2F;themouseless.dev&#x2F;vim&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;themouseless.dev&#x2F;vim&#x2F;</a><p>- A sample of the book with the entire table of contents and the first three chapters covering most of the basics: <a href=\"https:&#x2F;&#x2F;themouseless.dev&#x2F;content&#x2F;learning_to_play_vim_sample.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;themouseless.dev&#x2F;content&#x2F;learning_to_play_vim_sample...</a>.<p>I wrote this with my bare hands, no LLM involved to spoil the fun." ]
+}, {
+  "title" : "An algebraic quantization of gravity from the null cone",
+  "description" : "Link: https://arxiv.org/abs/2611.34924 | Score: 241 | Comments: 96 | By: hecmmm",
+  "url" : "https://news.ycombinator.com/item?id=50651863",
+  "answers" : [ ]
+}, {
+  "title" : "Largest 2D Chart library in the world using BUI: BlenderUI",
+  "description" : "Link: https://bui.preetham.top/charts/ | Score: 110 | Comments: 33 | By: ppmpreetham",
+  "url" : "https://news.ycombinator.com/item?id=50658193",
+  "answers" : [ ]
+}, {
+  "title" : "Indie web browser Ladybird enters alpha testing",
+  "description" : "Link: https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914 | Score: 14 | Comments: 1 | By: 01-_-",
+  "url" : "https://news.ycombinator.com/item?id=50664104",
+  "answers" : [ ]
+}, {
+  "title" : "The USAID Files",
+  "description" : "Link: https://reclaimthenet.org/usaid-files | Score: 257 | Comments: 326 | By: MassPikeMike",
+  "url" : "https://news.ycombinator.com/item?id=50649040",
+  "answers" : [ ]
+}, {
+  "title" : "Curiosity Is No Solo Act",
+  "description" : "Link: https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/ | Score: 155 | Comments: 39 | By: Petiver",
+  "url" : "https://news.ycombinator.com/item?id=50636931",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Olumino, a Markdown notes and spaced repetition app",
+  "description" : "Link: https://olumino.app | Score: 109 | Comments: 47 | By: Wiyseful",
+  "url" : "https://news.ycombinator.com/item?id=50651099",
+  "answers" : [ "I was inspired by Mochi and Anki, but wanted to make something that’s a mix of the two. Anki is very confusing and has an outdated interface while Mochi is very simple and has a more minimalist interface. Olumino is the combination of both.<p>I also added Japanese flashcard support, including kana readings, for anyone learning the language.<p>I’m a CS student building this in my free time, so I’d love to hear what people think!" ]
+}, {
+  "title" : "George Whitesides, 1939-2026",
+  "description" : "Link: https://www.science.org/content/blog-post/george-whitesides-1939-2026 | Score: 76 | Comments: 7 | By: dverlaeckt80",
+  "url" : "https://news.ycombinator.com/item?id=50657936",
+  "answers" : [ ]
+}, {
+  "title" : "Moat: OpenRouter replacement",
+  "description" : "Link: https://commandcode.ai/moat | Score: 286 | Comments: 155 | By: amanverasia",
+  "url" : "https://news.ycombinator.com/item?id=50652184",
+  "answers" : [ ]
+}, {
+  "title" : "1Password Security Incident",
+  "description" : "Link: https://1password.com/blog/update-on-nov-2026-security-incident | Score: 1667 | Comments: 715 | By: lxhrstn",
+  "url" : "https://news.ycombinator.com/item?id=50644817",
+  "answers" : [ ]
+}, {
+  "title" : "'Cyber incident' forces UK Gov to take some services offline",
+  "description" : "Link: https://www.bbc.co.uk/news/live/c6rrg94lgjrjt | Score: 5 | Comments: 2 | By: thorin",
+  "url" : "https://news.ycombinator.com/item?id=50664885",
+  "answers" : [ ]
+}, {
+  "title" : "NormalScript: A perfectly normal scripting language",
+  "description" : "Link: https://psychoscript.com/ | Score: 108 | Comments: 26 | By: hn-aarvin",
+  "url" : "https://news.ycombinator.com/item?id=50651430",
+  "answers" : [ ]
+} ]
