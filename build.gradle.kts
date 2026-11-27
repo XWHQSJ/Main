@@ -31,7 +31,7 @@ dependencies {
     implementation("com.fasterxml.jackson.core:jackson-databind:2.17.0")
 
     // CSV output
-    implementation("com.opencsv:opencsv:5.9")
+    implementation("com.opencsv:opencsv:5.12.0")
 
     // Logging
     implementation("org.slf4j:slf4j-api:2.0.12")
