@@ -1,0 +1,151 @@
+[ {
+  "title" : "Unkernel: Real Linux kernel, compiled to WebAssembly",
+  "description" : "Link: https://unkernel.dev | Score: 278 | Comments: 68 | By: nreece",
+  "url" : "https://news.ycombinator.com/item?id=50674218",
+  "answers" : [ ]
+}, {
+  "title" : "Loom seamlessly combines weaving, knitting and braiding",
+  "description" : "Link: https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding | Score: 111 | Comments: 10 | By: PaulHoule",
+  "url" : "https://news.ycombinator.com/item?id=50632052",
+  "answers" : [ ]
+}, {
+  "title" : "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+  "description" : "Link: https://research.google/blog/supercharging-transformer-residual-connections/ | Score: 386 | Comments: 149 | By: ComputedCamp995",
+  "url" : "https://news.ycombinator.com/item?id=50672565",
+  "answers" : [ ]
+}, {
+  "title" : "The Balatro Timeline",
+  "description" : "Link: https://localthunk.com/blog/balatro-timeline-3aarh | Score: 357 | Comments: 75 | By: sheepscreek",
+  "url" : "https://news.ycombinator.com/item?id=50657346",
+  "answers" : [ ]
+}, {
+  "title" : "GPT 6.2 Astra Solves a Historical Mystery",
+  "description" : "Link: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical | Score: 440 | Comments: 279 | By: dr_red_dog",
+  "url" : "https://news.ycombinator.com/item?id=50643158",
+  "answers" : [ ]
+}, {
+  "title" : "Knuth: Moratorium on Error Reports",
+  "description" : "Link: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html | Score: 75 | Comments: 35 | By: ultraficial",
+  "url" : "https://news.ycombinator.com/item?id=50674452",
+  "answers" : [ ]
+}, {
+  "title" : "Paolo Soleri built a utopian eco-city in the Arizona desert",
+  "description" : "Link: https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona | Score: 60 | Comments: 9 | By: robtherobber",
+  "url" : "https://news.ycombinator.com/item?id=50666724",
+  "answers" : [ ]
+}, {
+  "title" : "Credit card skimming scripts using WebRTC found on popular shopping sites",
+  "description" : "Link: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer | Score: 522 | Comments: 271 | By: scanr",
+  "url" : "https://news.ycombinator.com/item?id=50668145",
+  "answers" : [ ]
+}, {
+  "title" : "Sydney Fire Ant Infestation",
+  "description" : "Link: https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812 | Score: 59 | Comments: 33 | By: altilunium",
+  "url" : "https://news.ycombinator.com/item?id=50650253",
+  "answers" : [ ]
+}, {
+  "title" : "Convex skills send the user's app idea to a remote server without telling them",
+  "description" : "Link: https://github.com/convex/convex-backend-skill/issues/64 | Score: 301 | Comments: 95 | By: MickyTheMouse",
+  "url" : "https://news.ycombinator.com/item?id=50669765",
+  "answers" : [ ]
+}, {
+  "title" : "What Is the Metabolism-First Theory for the Origin of Life?",
+  "description" : "Link: https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/ | Score: 19 | Comments: 5 | By: ibobev",
+  "url" : "https://news.ycombinator.com/item?id=50644341",
+  "answers" : [ ]
+}, {
+  "title" : "Citroën Hydraulic System",
+  "description" : "Link: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html | Score: 200 | Comments: 60 | By: o4c",
+  "url" : "https://news.ycombinator.com/item?id=50662313",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+  "description" : "Link: https://bouncemarket.minhanhday.com/ | Score: 373 | Comments: 126 | By: mday404",
+  "url" : "https://news.ycombinator.com/item?id=50667726",
+  "answers" : [ "a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.<p>There&#x27;s some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they&#x27;re not too hard to beat -- it&#x27;s when the market is full of real people that it gets tricky.<p>Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not." ]
+}, {
+  "title" : "9/UX: a Macintosh-inspired desktop for 9front",
+  "description" : "Link: https://progrium.github.io/9ux/ | Score: 128 | Comments: 32 | By: rbanffy",
+  "url" : "https://news.ycombinator.com/item?id=50672008",
+  "answers" : [ ]
+}, {
+  "title" : "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+  "description" : "Link: https://tabernet.es/ | Score: 122 | Comments: 40 | By: mmcclure",
+  "url" : "https://news.ycombinator.com/item?id=50672521",
+  "answers" : [ ]
+}, {
+  "title" : "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+  "description" : "Link: https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit | Score: 91 | Comments: 20 | By: gregsadetsky",
+  "url" : "https://news.ycombinator.com/item?id=50631823",
+  "answers" : [ ]
+}, {
+  "title" : "Michael Nielsen took down his book on neural nets",
+  "description" : "Link: https://neuralnetworksanddeeplearning.com/ | Score: 532 | Comments: 328 | By: brandonb",
+  "url" : "https://news.ycombinator.com/item?id=50670757",
+  "answers" : [ ]
+}, {
+  "title" : "First images of the impact of DART asteroid deflection experiment",
+  "description" : "Link: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/ | Score: 212 | Comments: 67 | By: Bender",
+  "url" : "https://news.ycombinator.com/item?id=50657392",
+  "answers" : [ ]
+}, {
+  "title" : "FastLanes: Next-gen File Format [pdf]",
+  "description" : "Link: https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf | Score: 9 | Comments: 1 | By: todsacerdoti",
+  "url" : "https://news.ycombinator.com/item?id=50675195",
+  "answers" : [ ]
+}, {
+  "title" : "The Quantum Omelette Problem",
+  "description" : "Link: https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/ | Score: 3 | Comments: 0 | By: wawayanda",
+  "url" : "https://news.ycombinator.com/item?id=50642758",
+  "answers" : [ ]
+}, {
+  "title" : "Rayshader 1.0: Exit the Matrix",
+  "description" : "Link: https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html | Score: 128 | Comments: 17 | By: tylermw",
+  "url" : "https://news.ycombinator.com/item?id=50667371",
+  "answers" : [ ]
+}, {
+  "title" : "Cyberpunk Television Shows",
+  "description" : "Link: https://shellzine.net/cyberpunk-television/ | Score: 105 | Comments: 90 | By: zdw",
+  "url" : "https://news.ycombinator.com/item?id=50644213",
+  "answers" : [ ]
+}, {
+  "title" : "Prospero: Bloat-free, native AI coding harness with ImGui",
+  "description" : "Link: https://github.com/skeeto/prospero | Score: 70 | Comments: 23 | By: ingve",
+  "url" : "https://news.ycombinator.com/item?id=50671275",
+  "answers" : [ ]
+}, {
+  "title" : "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "description" : "Link: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform | Score: 381 | Comments: 230 | By: DeepLogin",
+  "url" : "https://news.ycombinator.com/item?id=50670855",
+  "answers" : [ ]
+}, {
+  "title" : "Atari Homebrew Awards Cancelled",
+  "description" : "Link: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ | Score: 203 | Comments: 191 | By: bpierre",
+  "url" : "https://news.ycombinator.com/item?id=50673688",
+  "answers" : [ ]
+}, {
+  "title" : "How WinHelp Files Work",
+  "description" : "Link: https://quin.fyi/posts/how-winhelp-files-work.html | Score: 37 | Comments: 24 | By: frostbyte7",
+  "url" : "https://news.ycombinator.com/item?id=50654773",
+  "answers" : [ ]
+}, {
+  "title" : "Show HN: Analysis of Hacker News predictions since 2008",
+  "description" : "Link: https://hnpredictions.com/ | Score: 93 | Comments: 71 | By: mv4",
+  "url" : "https://news.ycombinator.com/item?id=50633531",
+  "answers" : [ "I&#x27;ve always been curious about market and technology predictions so I made HN Predictions.<p>I made it (prompted) in Antigravity using Gemini 4 Neon (High) orchestrator, and it took about 4 to 6 hours. Everything is hosted on Google Cloud and uses Vertex API and various Gemini models (still experimenting and comparing costs vs effectiveness) to analyze and summarize texts. I primarily have it look at dedicated &quot;prediction&quot; threads where people discuss what they think will happen next year or over the next decade. Then the app checks if they came true by using Google Search (sited public records). To make things interesting I also make it check for major current events daily, and try to find any related comments (that wouldn&#x27;t otherwise be found via the dedicated prediction threads). Next, I am going to do a deeper analysis to see if there are interesting patterns - and please let me know if you spot any anomalies.<p>Since multiple people can make the same prediction, I  cluster them before processing - and rank for Impact, Boldness, and Specificity.<p>How it works: <a href=\"https:&#x2F;&#x2F;hnpredictions.com&#x2F;about\" rel=\"nofollow\">https:&#x2F;&#x2F;hnpredictions.com&#x2F;about</a><p>Methodology: <a href=\"https:&#x2F;&#x2F;hnpredictions.com&#x2F;methodology\" rel=\"nofollow\">https:&#x2F;&#x2F;hnpredictions.com&#x2F;methodology</a><p>... if you search for your HN name you will find your predictions.<p>Questions or suggestions are welcome!" ]
+}, {
+  "title" : "Show HN: DragDropMath – Learn math by feel",
+  "description" : "Link: https://dragdropmath.com/ | Score: 138 | Comments: 39 | By: ziofill",
+  "url" : "https://news.ycombinator.com/item?id=50669673",
+  "answers" : [ "Hi HN!<p>I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own &#x27;physics&#x27;, which makes the wrong moves impossible and the right ones obvious.<p>So I created DragDropMath, where you can learn how to simplify mathematical expressions and how to solve equations by dragging symbols around, and only correct moves are allowed, so you get to feel what&#x27;s right without experiencing (and so learning) wrong moves.<p>I always wanted to make this, but life got in the way. Then a few weeks ago I saw declarative dragging (<a href=\"https:&#x2F;&#x2F;declarative-dragging.github.io&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;declarative-dragging.github.io&#x2F;</a>) on the front page of HN and the spark came back!<p>It took quite a few rounds to get the feel right, but I think it&#x27;s close to what happens in my mind when I mentally manipulate these expressions.<p>A few more points:\n- There are no ads, no trackers, no accounts (it&#x27;s a static website and progress is saved in the browser cache).\n- Teachers can create their own problem sets, encoded in the link.\n- I plan to add more chapters (trigonometry, complex numbers, some calculus) but I first need to figure out the &#x27;right&#x27; mode of interaction.\n- I just started working on the experience from mobile, so there may still be some rough edges there<p>I&#x27;m curious to know what you think, if you have suggestions for content, if you spot anything that I should fix, if you have feature requests! Thank you in advance" ]
+}, {
+  "title" : "False computer-checked proofs",
+  "description" : "Link: https://cr.yp.to/proofs/falseccp.html | Score: 228 | Comments: 88 | By: _tk_",
+  "url" : "https://news.ycombinator.com/item?id=50667989",
+  "answers" : [ ]
+}, {
+  "title" : "Same Streets, Different Empires: The Hidden Narrative of Map Copyright",
+  "description" : "Link: https://blogs.loc.gov/maps/2026/11/same-streets-different-empires/ | Score: 5 | Comments: 0 | By: pavel_lishin",
+  "url" : "https://news.ycombinator.com/item?id=50647120",
+  "answers" : [ ]
+} ]
